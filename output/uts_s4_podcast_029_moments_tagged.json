@@ -1,0 +1,997 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Demi Jenkins",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:01",
+    "timestamp_end": "00:02:41",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "Coming from a background of dance, there's a very well-known history there that can be rooted in a lot of mental health issues, especially in the era that I went through the system of professional dance training, just a lot of body image issues. There wasn't a lot of care taken around our mental health states. It was all about the physicality and everything we were training there. So I came through that system and really had to learn for myself. How to operate in this world positively and how to empower myself into the woman I am now. And it's been a very long process of that. And I suppose my inspiration within that is that I hope that I can inspire women to find that sooner or, you know, not have to take that long to figure that out and inspire women to find the, the joy in celebrating their womanhood the way I do as well.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate (A2) because it contains clear barrier signals (education_gap, training_gap) related to a lack of mental health support within a specific system (professional dance training).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker reflects on her entire journey, making 'cross_life_stage' the most appropriate tag. The 'system of professional dance training' is categorized as 'education_system'."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Demi Jenkins",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:03",
+    "timestamp_end": "00:04:27",
+    "paragraph_ids": [
+      "p8",
+      "p9",
+      "p10",
+      "p11"
+    ],
+    "moment_text": "Absolutely. I started roller, no, sorry, roller skating. I started dancing when I was seven because my next door neighbor was going to dance classes and invited me along and I asked mom and I said, can I go to dance class? My next door neighbor Lauren? And she said, yeah, okay. And since that day I have, I remember that first class so clearly. I remember just being wide-eyed, fascinated by it, and so invested. And I can't even say that. That energy has dropped one day since I've just been, the passion was very quick to grab me and I've been absolutely invested in dance and everything it brings to my life ever since. And it's always been been a very one track mind of I'm gonna, whatever I'm gonna do in life, it's gonna be involving dance. And somehow, and that definitely presented itself in a very, I was a very dedicated dancer, very. Not, not just disciplined, but just very committed. I wanted to be a part of every dance troupe I could be in. I wanted to do every musical, I wanted to do as many dance styles as I could, as much as I possibly could, and definitely was that kid that had way too many extracurricular activities. But I wouldn't be, I, I, I couldn't miss a class. I was sometimes. Arriving at class sick because I was just, I couldn't miss it. It was, there was nothing that was gonna stop me from being there. And the highlights of my year were my end of year dance concerts and any competitions I had in throughout the year. And a, a big part of the, that journey with that dance school, actually, I was very nurtured in that school. It's not a very typical. Dance mom school that you would say, I had a really beautiful school to be nurtured in. It was all about the love of dance and not so much about competitive dance, and I think that was a really key factor into the nurturing, like the, the ability for me to move into a career in dance because I didn't lose my love for it in that process.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "belonging",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate (A2) as it contains agency signals and a system interaction (education_system), highlighting a protective factor (a nurturing environment) that contrasts with later negative experiences.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment serves as an important positive baseline experience, showing the power of a nurturing educational environment as a protective factor."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Demi Jenkins",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:29",
+    "timestamp_end": "00:05:06",
+    "paragraph_ids": [
+      "p12",
+      "p13"
+    ],
+    "moment_text": "Big part of that was a focus on the choreographic elements of dance. When I was younger, I was doing a lot of dance competitions, but they were rooted in choreography and creating dance rather than just the performance element. So most of my competitions when I was young was based around me creating my own pieces and putting them on stage. So I've actually been doing that. Since I was about nine years old. So it's been a very long practice that I've, um, come to this point now, and it's a full circle moment that I just make up these little bedroom, my, my little dances in my bedroom and go out and film somewhere because it's basically what I love to do as a kid.",
+    "moment_type": "realization",
+    "life_stage": "adolescence",
+    "health_domain": "Creative Expression",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "empowerment",
+      "clarity",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate (A2) because it has agency signals and emotional signals within a system interaction (education_system), demonstrating the protective factor of fostering creativity and autonomy from a young age.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is reflecting on her adolescence. The 'full circle moment' is a key realization."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Demi Jenkins",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:08",
+    "timestamp_end": "00:07:10",
+    "paragraph_ids": [
+      "p16",
+      "p17",
+      "p18"
+    ],
+    "moment_text": "And I, um, moved myself down to Melbourne. I was, I'm from Brisbane and I moved to Melbourne at the age of 17. 'cause I was just one track mind following that dream. And it was, it was an incredible year of learning, but also a very shaping year in a lot of different ways. It was a very different energy to what I grew up with in the sense that I came from a very nurturing environment and this then became very competitive and a lot of image-based criticisms and things like that. And I can definitely account a lot of what I had to unlearn from those formative years, unfortunately. And. At the time, it just wasn't a practice to teach women about proper nutrition and things like that, and, and also to look after their, their mental state when it comes to rejection, because unfortunately, the life of a dancer, you are walking straight into a pathway of constant rejection where we are gonna, even if you are an incredible dancer, you're gonna encounter. A rejection at some point, and learning how to deal with that was something I had to do on the job basically, rather than being prepared for that beforehand.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "anxiety",
+      "overwhelm",
+      "frustration"
+    ],
+    "agency_signals": [
+      "enduring",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment strongly passes the evidence gate (A2) by detailing multiple barrier signals (education_gap, training_gap) within a specific system (professional dance academy), which constitutes a clear systemic pattern.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment provides a stark contrast to her earlier nurturing environment, highlighting systemic failures in professional arts training. The age of 17 marks the beginning of her reproductive years."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Demi Jenkins",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:10",
+    "timestamp_end": "00:08:10",
+    "paragraph_ids": [
+      "p19",
+      "p20"
+    ],
+    "moment_text": "So yeah, that was definitely like kind of heading into my early twenties and basically coming out of college. I did two different years. I did two different years at two different schools actually, and there were both very different, which was interesting. The first one was super strict and disciplined and quite constrictive. But I got a lot of discipline from that area. And then I went to a dance school that had a lot of freedom and a little bit more creative involvement. I had a lot of freedom to be my own style and own person, but there wasn't as much strict discipline involved. But I could take kind of the framework of what I'd had and apply it. So I kind of. The best of both worlds in a way, and got to apply myself really well to the second course that I did, and that's where I sort of got to flourish and learn a whole bunch of different styles. That company ended up taking me on as a teacher, and I went into like a full-time teaching role then. So I learned a lot about dance through teaching that to a lot of young people, young adults. I, I taught other professionals, I taught kids, I taught various ages and styles and levels of ability, and actually in that process I found myself. Owning a dance school in um, north Queensland for about six months.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Career Development",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "confidence",
+      "clarity",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "self_advocacy"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate (A2) as it contains strong agency signals (making_decisions, self_advocacy) within a system interaction (education_system), demonstrating a behavioral pattern of navigating and integrating different educational philosophies for growth.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment shows the speaker's resilience and ability to synthesize different, and even conflicting, educational experiences into a path for success."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:31.500",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "I ran my own business, so that was like my early twenties kind of journey of dance. It was me stumbling, figuring it out, doing auditions, never finding quite success. I wasn't a super successful dancer early on 'cause I kind of just thought I got out of college and I just step into a job. That's just what happens. But I didn't. And it didn't happen. And I, I was a little bit left of center of the cookie cutter mold of a dancer. I wasn't specifically fitting into the framework that typically booked something. And yeah, it was a, a, a confusing few years of my mid twenties of me figuring out maybe I, this is not for me or what am I doing?",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Career Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "frustration",
+      "isolation",
+      "confusion",
+      "self_doubt"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with barrier signals (lack_of_validation) and emotional signals (confusion, self_doubt) within a workplace system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:31.500",
+    "timestamp_end": "0:01:20.500",
+    "paragraph_ids": [
+      "p3",
+      "p4",
+      "p5"
+    ],
+    "moment_text": "But at the end of the day, it, it, it always, like, I, it always kept coming back to that place of like, no, I love this. This is what I do and I'm gonna figure out how to do it. The chapter change that happened for me that I feel like was a, a shift, gear shifted gear, sorry. Um, it was when I turned 27 and I basically had just come off the back of a trip. I actually took a little hiatus from dance because I was burning myself out trying, and I just felt my, my love just, just like. Getting tested for a moment and I thought, I'm gonna take a little hiatus. And I went traveling around Australia, living in a van. I, uh, had my little hippie moment and, uh, my days turned in. No, turned from dance classes and performing here, performing their auditions and dishes to sitting on the road, uh, like sitting on, um, on a beach somewhere, journaling every day, deciding what I was gonna cook for dinner and practicing arts and crafts. And learning some hula hooping is what I was interested in at the time, and I just took it down to the bare basics.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "overwhelm",
+      "hope",
+      "calm"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong agency signals (setting_boundaries) and emotional signals (overwhelm, hope) that illustrate a protective action against burnout.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:20.500",
+    "timestamp_end": "0:02:10.000",
+    "paragraph_ids": [
+      "p6",
+      "p7",
+      "p8"
+    ],
+    "moment_text": "And throughout that nine months of traveling in a van, my passion and and spark for dance just bumbled and grew. And it was just this sparking energy that I was like, oh, okay. We are still there. We just needed to refuel and I came back into the industry feeling like I was a rubber band, pulled tight, ready to just go, and I really used that energy and thrust myself back into the industry again at 27, which I. Same seemed old to me. I was like, oh, this for a dancer that is an older age to be, I was definitely in auditions with 18 year olds and I was up against all these, these kids, but what I was doing was looking around and realizing. What I'd learned by this stage and what my value was because I had gone through all these things. I'd learned a lot about the world at this point, and I'd come into my own as a woman, and I was able to see how I could apply my maturity now to my movement and how valuable that was. As a mover and I feel really, uh, accredit my, um, my maturity and my movement to as, as to why that started to work for me.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Career Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "hope",
+      "anxiety",
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with a barrier signal (stigma related to age) and strong emotional signals (confidence, empowerment) within a workplace system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:02:10.000",
+    "timestamp_end": "0:03:18.000",
+    "paragraph_ids": [
+      "p9",
+      "p10",
+      "p11"
+    ],
+    "moment_text": "And eventually a few puzzle pieces kind of aligned up and I started booking a much more work as a dancer. I started working on that. And then, uh, the lovely COVID hit like two years later. And so that kind of was like the end of my twenties basically. And. Luckily for me, I was in a place in a city that didn't get hit too hard and we actually had a fair bit of work still trickling through the system at the time. And, um, that basically is when I started roller skating just before COVID. I don't know what happened. I just saw pair of skates on Facebook one day and I went. That looks like fun, and I always buy myself a birthday present. I always try to really, like, intentionally get myself something that's just fun and enjoyable or, or I buy myself, I don't know, an experience to go do something because I feel like, you know, I know myself the best, so I've gotta give myself the best birthday present I possibly can. I, I started roller skating and it was a very quickly found interest. I, I just loved it. I felt like I described it to people once I started. Flowing with roller skating, it felt like an extension of my dance. I felt like, okay, suddenly I've got this extra format. It's like a new dimension added to my dancing. It feels like dancing in four D because not only can I move, but I can roll while I move, or I can, instead of spinning, you know, two rotations, I can do 10 rotations on my roller skates, and it's the most freeing feeling. So I just fell in love with that feeling entirely.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "relief"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with emotional signals (relief) and agency signals (making_decisions) that point to a protective factor (joyful movement).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:03:22.000",
+    "timestamp_end": "0:04:45.000",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "It accidentally birthed itself, if that makes any sense. I started the challenge that you. Mentioned the 365 days of skate, and that was on January 1st, 2021. And I intended to just be practicing skills. That's all I was kind of intending to do. It wasn't really a big deal. It was just something me and my friends were doing, and we were like, great. We're all gonna make our own little Instagram account that's separate because we didn't wanna fill up our. Previous ones we picked, we all picked cute little skate names because that was what you did. Like you had your own skate title. And I actually picked the name Peaches and Scream 'cause I was trying to go for something a bit edgy and it wasn't available on Instagram. And then I kind of stumbled upon Peachy and I was like, oh yeah, peachy skater. I suppose that'll do. Like I didn't really think about it too much. I didn't pick it. I didn't like think from a branding point of view, what. However, it's become something that I accidentally grew into basically. I feel like I picked that name and then I became the person for that title, and it started off with me posting these videos daily and it became a daily ritual. I had this daily ritual where I would go out and skate and film something, and I slowly started to fall in love with that process because I then went. What am I gonna wear for this? Maybe I should think about what I'm gonna wear. And I started to celebrate my own creativity, not just in, you know, the performative sense, because previously my creativity had been driven in performance. And success is driven from what were you booking and where were you? And this had no pressure. There was absolutely zero pressure, no expectation of me. I was just doing this for complete enjoyment and. Fun. There was no, I wasn't expecting to get anything out of this. Therefore the freedom I had within it was so just beautifully wholesome, I would say.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "relief",
+      "calm"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with emotional signals (relief) and agency signals (sharing_story) within a peer community system interaction, highlighting the protective factor of creating without pressure.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:04:45.000",
+    "timestamp_end": "0:06:25.000",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "And I remember, I remember one day just sitting at my bed deciding what outfit I was gonna wear and I was like, this is really fun. I'm having so much fun with this. And then I started involving people like, 'cause I had a couple followers and I thought, ah. Maybe you can pick my outfit for the day. And I started just engaging with people and getting them to help me out and coming on that journey with me. And then what ended up happening, because I was at home a lot that year because it was kind of still coming out of COVID, was I was rollerskating at a park close by to me. And I started getting more and more confident to wear a little bit more eccentric items, where previously I'd felt like I very much sat in that, oh, I don't wanna be too dressed up because oh, like that's a bit scary. And then. Fast forward to today. If I'm not the most dressed up person in the room, I'm like, oh, I didn't try hard enough. I didn't work hard enough for that. I absolutely enjoy that energy. I'm very much an extrovert, so it, it's very much in my personality, but I love dressing up in expressing myself now and seeing the reaction I get from other people, because they're usually quite. You know, taken back or inspired themselves to maybe do something similar. So in this moment, when I was learning, uh, I was going out every day to this park and there was people walking past me every day, and I had. S repeat walkers. Basically, I had people walking past who learnt who I was. I started to become known in the neighborhood as peachy, and people would walk past and they started to follow me and they were like, peachy. Hi. We saw your videos, like keep going. You're doing really well. And I had this beautiful little like community that I started to realize physically the impact that like me being my most colorful self. Had on other people and it really encouraged me to lean in, especially in a city that doesn't, it isn't very fashion based. My city is not a very fashion driven city. Therefore, I do stand out on the street. I am like, I don't stand out in New York. You know, I go to New York and I'm like. Yes. Hello world. I'm here. And everyone's like, cool. Yeah. I mean it's still fun and people love it, but it's, you know, it's a world where you see a lot more eccentricity. But in my city in particular, it's quite, you know, we are very relaxed. Everyone, it's not unusual to see someone barefoot down at the shops. People don't really care about fashion. It's, it definitely was a very bold, rebellious move for me to start dressing the way I was dressing.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "fear",
+      "confidence",
+      "connection",
+      "validation",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with barrier signals (fear_of_judgment), agency signals (sharing_story), and strong emotional signals (validation, empowerment) within a community system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:06:25.000",
+    "timestamp_end": "0:06:46.000",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "And I just slowly grew more and more confident in myself, and especially not. You know, initially maybe I rode the back of the energy of what the clothes were giving me and what my skill was giving me and my flare. But then after a while, I started to supersede that with my confidence. My confidence was far beyond what I was wearing. It was just my wi. My, my door into the room, I suppose was somebody coming over and saying, wow, I love your outfit.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong emotional signals (confidence, empowerment) related to a community system interaction, marking a key internal shift from external validation to internal confidence.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "And then that was an access point for me to be able to practice my own confidence, expressing myself in a room where I felt seen and I felt like I could be myself. I like to say my full saturated self, that's what I felt like I've, I've turned into is my full saturated self.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "confidence",
+      "validation",
+      "belonging"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains emotional signals (confidence, validation) and describes an interaction with a peer community, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "I've, it's interesting, I've been teaching my whole life and it's very interesting to jump into a roller skating community because suddenly I'm teaching people that may have never danced in their life, and they're learning these brand new skills. They're, they're on the journey that I was on five or six years ago, and I'm, I'm, I'm watching them fall in love with something and it's beautiful to be a part of that. Uh, but also. Watching them navigate things that I'm navigated as an 18-year-old in the dance industry. The, the, the mental journey it takes to put yourself out there to be bad at something before you're good at something or to be in a class and worrying about what people think of you or how you look or how you appear.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "anxiety",
+      "self_doubt",
+      "connection"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains barrier signals (fear_of_judgment), agency signals (enduring), and emotional signals (anxiety, self_doubt) within a peer community context, making it eligible for insight promotion.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p8",
+      "p9",
+      "p10"
+    ],
+    "moment_text": "And I, I basically said to them, I said. Like I was talking to one girl in particular, just closely for starters, and I said like, how are you feeling? Are you feeling like you're just feeling a bit worried about what people are thinking of you? Is that what you feel? And she's like, absolutely. I'm so in my head right now about what like I look like because I feel like I look silly. And I was like. I was like, that's really interesting because I guarantee if you ask every single person in this room where their head's at, they're probably the same place and no one is probably looking at you whatsoever. And it's amazing how freeing that is when you realize that we're all just living in our own bubble.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "anxiety",
+      "self_doubt",
+      "embarrassment",
+      "relief"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains strong barrier signals (fear_of_judgment), agency signals (speaking_up), and emotional signals (anxiety, relief) within a peer community interaction, making it highly eligible for insight promotion.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "And it's the same thing when it comes to fashion. You know, like when you wanna be confident in fashion, it it, the most likely the thought that somebody's gonna have rather than how dare she wear that is wow. That's so cool that she has the, the confidence to wear that, and that makes me feel like I could be a bit more daring. That's. Most likely what yoga, what impression you're giving people. Especially if you think about who you see in public, you know, looking, looking their most self. I think that's the right way to put it. It doesn't have to be the, this fashionist or you can be in any way, but it's like as long as you're looking your most saturated self that sits, that's, that's what's beautiful about it.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains barrier signals (fear_of_judgment) and emotional signals (confidence, empowerment) within a community interaction context, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p14"
+    ],
+    "moment_text": "Yeah, it was just a beautiful moment where everyone was like, they, they, they were saying, oh, I started this class being really worried and nervous about what I was doing because I knew what you were presenting was difficult, and I was worried. But I've walked out of this class not only feeling great about what I did, knowing how much I've got to work on, but feeling confident to give it a try and, and that I've got. The ability to show up in this space, and I deserve to be here, and that I'm already doing everything I can to push myself and, and learn things.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "anxiety",
+      "confidence",
+      "empowerment",
+      "validation",
+      "belonging"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains strong emotional signals (anxiety, confidence, empowerment) and agency signals (speaking_up) within a peer community interaction, making it eligible for insight promotion.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "And that was a really beautiful circle moment of feeling. Oh, okay, great. I, I, this is a, you know, like, it's a very, um, finite slice of people that I'm working with, but it's very. I think impactful in that sense as well, especially because these, these, these mostly women, but there are some men in the classes that these people are, um, following me online and then coming to a class. So they're getting to know the online version of me and then getting to learn from me, which is really interesting to follow up with. Um, because the feedback I do get, which I'm really proud of. In a way is that I am the same as I am online because I'm not trying to be anything else.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "confidence",
+      "validation"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains emotional signals (confidence) and agency signals (sharing_story) related to a media interaction, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "Oh, well you're, well, first of all, I applaud you. I just wanna applaud you as a teacher because just like sort of opening your. Students up. And even if it's a finite, if you touch one person and give them the confidence to try something new, try something hard and just recognize, and I love the fact, like I'm just imagining myself, I always struggled to be in these classroom environments moving my bodies because if they went left, I'd go right. I just didn't, I, it didn't all work for me. It wasn't easy for me. And if I had had a teacher who said, Hey, everybody's feeling the same way, you just sort of broke the ice right in that. Sim simple, um, commentary, but really making as a teacher, making people feel confident in their self-expression or helping them feel confident in their self-expression is such a gift.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "validation",
+      "confidence",
+      "relief"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains emotional signals (validation, confidence) and a barrier signal (social_isolation) within the context of the education system, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p19"
+    ],
+    "moment_text": "Yeah, I, I, it's been a very natural progression. I le I very much get people saying to me all the time that I, they love my branding and I, it's, I, I laugh at that sentence because I'm like, none of this is branding. It's actually just me living out my, my, my truest colors. And it's, uh, very much. It's, yeah, the brand is just me is basically, and I've, I've very much grown into the brand as such. I, I've, I, I wouldn't say that I was my most confident self when I first started, but it's some, it's given me a pathway and a platform to grow into that, which has been really beautiful.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains emotional signals (confidence) and agency signals (sharing_story) related to a media interaction, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p21"
+    ],
+    "moment_text": "What a lot of what I have done in my process of this is I initially niched myself. I initially went, I'm peachy skater. This is who I am. And that was very specific niche. And I've basically spent the last, especially the last two years, one to two years really kind of unleashing because I am not a niche like the ni, well, if there is a niche, it's just me. It's, it's who I am and it's what I'm doing. There's a lot of talk around, oh, for social media, you need to be a niche. You need to make sure you've got your strong niche. And I understand that that works for the algorithm and everything like that. But because my platform is so based in me, I, I'm not an algorithm.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains agency signals (making_decisions, setting_boundaries) and emotional signals (confidence) in the context of a media system interaction, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Demi",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:08",
+    "timestamp_end": "00:00:30",
+    "paragraph_ids": [
+      "p2"
+    ],
+    "moment_text": "You are going on the journey with me as to what I'm discovering. It's not about, I'm not curating this journey for book, for what I think you need to see. You are witnessing a messy artist discover whatever she needs to discover, and sometimes it's gonna be lows, sometimes it's gonna be highs, and that.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Creative Expression & Identity",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains agency signals (sharing_story, setting_boundaries) and describes an interaction with a system (media/audience).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is a creative professional, tagged as 'patient' to represent the lived experience perspective in the context of this podcast's focus."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Demi",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:58",
+    "timestamp_end": "00:01:14",
+    "paragraph_ids": [
+      "p5"
+    ],
+    "moment_text": "It's like, oh, I could never do what you do. You know, I can never do that. And I'm like, actually, you could. There is create, we are creative beings. After all, I feel that we all have creativity in us, and it's all very varying spectrums. It's, it's in different places, different inspirations, um, different levels, and it's actually just about tapping in and listening to where that inspiration's coming from and not being afraid to.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Creative Expression & Identity",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "hope",
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains a barrier signal (stigma around creativity) and agency signals, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Demi",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:26",
+    "timestamp_end": "00:01:40",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "Those ideas that flip through your mind if you are saying to yourself, oh, I can't do that, or I don't think it's possible. That's your limiting beliefs. You've got, you've, you've got the capability of making things happen, but it's about following those instincts to just take a step forward in a direction that may feel scar at the start, taking people on your journey.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment",
+      "self_doubt"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "self_advocacy"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains strong agency signals (making_decisions, self_advocacy) related to overcoming internal barriers.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier here is 'limiting beliefs', which is an internal barrier. While not in the closed vocabulary, it's the core of the moment's agency."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "00:01:52",
+    "timestamp_end": "00:01:58",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "I'm a human. I'm not an algorithm, and this is me showing up. I am the niche. You are the niche. You are the. The, the person, the human behind this, I mean, I could talk to you forever about this.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Creative Expression & Identity",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "validation",
+      "recognition",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains emotional signals (validation, recognition) and references a system interaction (media/algorithms).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Demi",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:36",
+    "timestamp_end": "00:02:58",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "I actually don't feel responsibility surrounding it anymore. I feel nothing but privilege. I feel privileged to be in this space and be able to represent creative people and showcasing a creative lifestyle lived out loud. Really. It's so cliche to say, but it is. Legitimately what I feel like I'm doing, and it's a privilege that I get to teach people. It's not my duty. I don't have to. And if I ever feel like I don't want to or it's not resonating with me, I won't because I only want people to learn from me if I'm in the space to learn, like to teach them.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Creative Expression & Identity",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "relief"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains strong agency signals (setting_boundaries) and emotional signals within a system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Demi",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:13",
+    "timestamp_end": "00:03:24",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "Get up and create like you do, like you have the audacity to just go and make the thing. And I'm like, yeah, like, because I've learned to have that audacity. It's um, it's the audacity to be bold and to make my imagination come to life. And that's a huge part of my message is like, have the audacity to bring your dreams to reality.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Creative Expression & Identity",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains a barrier signal (fear_of_judgment), agency signals, and emotional signals, making it highly eligible.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier 'fear of judgment' is implied as what 'audacity' is needed to overcome."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_029.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_029.docx",
+    "speaker_id": "Demi",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:00",
+    "timestamp_end": "00:04:12",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "I think allow yourself to have the freedom to be bold. I think not tying yourself down to the restricted feeling of feeling like you don't have space to be who you need to be, but allowing yourself to be open to it is the best advice I could give. It's following those little tiny voices that tell you to do something or tell you to be a little extra in a moment.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains a barrier signal (silence, implied by not following 'tiny voices') and strong agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

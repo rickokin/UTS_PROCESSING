@@ -1,21 +1,32 @@
 {
-  "name": "temp-app",
+  "name": "lived-experience-insights-engine",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "NODE_OPTIONS='--dns-result-order=ipv4first' next dev",
+    "build": "NODE_OPTIONS='--dns-result-order=ipv4first' next build",
+    "start": "NODE_OPTIONS='--dns-result-order=ipv4first' next start",
     "lint": "eslint"
   },
   "dependencies": {
+    "@google/genai": "^1.46.0",
+    "docx": "^9.6.1",
+    "js-yaml": "^4.1.1",
+    "lucide-react": "^0.577.0",
+    "mammoth": "^1.12.0",
     "next": "16.2.1",
+    "pdf-parse": "^2.4.5",
+    "puppeteer": "^24.40.0",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "zod": "^4.3.6",
+    "zod-to-json-schema": "^3.25.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/js-yaml": "^4.0.9",
     "@types/node": "^20",
+    "@types/pdf-parse": "^1.1.5",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",

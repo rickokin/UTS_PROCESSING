@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "cluster.schema.v1.json",
+  "title": "UTS Insight Candidate Cluster Schema (v1.0)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "locks_version",
+    "cluster_id",
+    "member_moment_ids",
+    "episode_coverage",
+    "dominant_barriers",
+    "dominant_agency",
+    "dominant_system_interaction",
+    "life_stage_coverage",
+    "dominant_emotions",
+    "cluster_coherence_score"
+  ],
+  "properties": {
+    "locks_version": {
+      "type": "string",
+      "const": "v1.0"
+    },
+    "cluster_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "member_moment_ids": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "episode_coverage": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "dominant_barriers": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "dominant_agency": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "dominant_system_interaction": {
+      "type": "string",
+      "minLength": 1
+    },
+    "life_stage_coverage": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "adolescence",
+          "reproductive_years",
+          "pregnancy",
+          "postpartum",
+          "menopause_transition",
+          "post_menopause",
+          "midlife",
+          "aging",
+          "cross_life_stage"
+        ]
+      }
+    },
+    "dominant_emotions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "cluster_coherence_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  }
+}

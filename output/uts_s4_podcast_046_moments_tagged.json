@@ -1,0 +1,1479 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandy Thompson",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:01",
+    "timestamp_end": "00:02:48",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "Yeah. My inflection point was after returning and going through a really difficult time in my life, I faced a divorce with children and just really never being prepared for the fact that your family unit would not succeed. Right? Not mentally. I think I'd been going through a lot of the motions in family life and work life, and I was faced with all of that crumbling. And it took some time for me to really face the mental challenges of that, the depression, the shame, all of those things to get me into the real nuggets of therapy and mental health and digging out of that. I would do some things like be really sad, be in the closet, be in the shower. I was a mom. I wasn't wanting to let people see me. I wasn't talking to people about the battles. And that was really the inflection point for me. And that was. 2000, you know, eight to 2011. I'd been going through the motions in 2011, it hit me really hard.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "mental_health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness",
+      "shame",
+      "isolation",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "withdrawing",
+      "silence",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "shame_culture",
+      "social_isolation",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the A2 evidence gate with clear barrier signals (shame_culture, social_isolation) and agency signals (withdrawing, silence) tied to a significant life event and family system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandy Thompson",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:03",
+    "timestamp_end": "00:03:40",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "I sought therapy. Step one. I admitted, I. That I actually was having mental health challenges. And I think that's the first step. Keeping the brave face in trying to be the mom and the daughter and the sister and the executive, and not letting anyone see me, um, not holding space for vulnerability. Um, that was something that I was really. Guilty of for, uh, a long time. So it, it was baby steps of sharing and reaching out for help or hope, or actually having a real conversation with the human across from me, whether that was at work, whether that was at home, whether that was with family. That was the pivotal change of me not wearing a mask every day.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "shame",
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "seeking_support",
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the A2 evidence gate by demonstrating clear agency signals like 'seeking_care' and 'speaking_up' as a direct response to overcoming internal and external barriers.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandy Thompson",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:42",
+    "timestamp_end": "00:04:18",
+    "paragraph_ids": [
+      "p10"
+    ],
+    "moment_text": "That was the change in the mental health journey for me is because we cannot heal from what we don't acknowledge. And I had been not sharing at work that I was divorced. I had not corrected people when they said, your poor husband. I had been hiding in every instance that I could lean into the healing or the hurt or the pain, and I think until. I started to seek therapy and started to talk to someone and give myself a voice. I didn't have the power to stretch that muscle when it became in new vulnerable situations, so I had to do some looking in and also had to hit almost a rock bottom of I don't wanna show up as this mask. I want to be who I am.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "shame",
+      "hopelessness",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "silence",
+      "avoidance",
+      "seeking_care",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the A2 evidence gate by explicitly connecting barrier signals (stigma, silence) within a workplace context to the realization of needing agency signals like 'seeking_care' and 'speaking_up'.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandy Thompson",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:18",
+    "timestamp_end": "00:05:00",
+    "paragraph_ids": [
+      "p10"
+    ],
+    "moment_text": "I'm hurting. I didn't want my marriage to end. I dunno how to recover from this. I don't know how to be whole. I feel like I've lost an arm, right? So things that I had to put, words to put, feelings to put conversations to began to surface in 2011. And I began to rip off the shame of what people think about me or. The, uh, societal, keeping up with others, and my family can look different than someone else's family, and we can still be happy and loving. Just all of those things is just, was really, 2011 was the moment that I thought, this is who I am now, and I have to own who I am and I have to own this part of my story, and I have to be able to recover from this part of my story and grow beyond it.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "mental_health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "grief",
+      "sadness",
+      "shame",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "shame_culture",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the A2 evidence gate with a powerful combination of emotional signals (grief, shame), barrier signals (shame_culture), and agency signals (speaking_up, sharing_story) within a family and community context.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandy Thompson",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:21",
+    "timestamp_end": "00:06:11",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "Oh, I think women overwhelmingly. Try to be everything to everyone and to admit that something, maybe we consider it failure, it didn't work out. That doesn't mean it's, doesn't mean we failed, but we internalized that as if we weren't enough, as if we did something wrong, as if we could have controlled the outcome or as if we deserved to stay in the situation, even if it was poor. And so I think what, what is that about women that we. We want to present perfection and we have to meet all. I, I like to think of this in business. We have to meet all of the bullets on the job description before we'll put ourselves forth as a candidate. Um, I think there's so many nuances about women in this vulnerability and actually showing that we struggle or that we have a hard time, and that it's not always cupcakes and rainbows or not always sunshine.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "self_doubt",
+      "shame"
+    ],
+    "agency_signals": [
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the A2 evidence gate as a system observation with clear barrier signals (stigma, shame_culture) and agency signals (self_blame) that are broadly applicable.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandy Thompson",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:18",
+    "timestamp_end": "00:07:04",
+    "paragraph_ids": [
+      "p14"
+    ],
+    "moment_text": "Yeah, I mean, I think it, it ebbed and flowed throughout time periods. Not everyone we interact with is safe. To share our story, and I had some instances where I shared my story and it wasn't safe, and so then I retreated again back to wearing the mask of what people don't want to know about you. And then it, it, it had to continue to be stretched and I had to stop putting myself in rooms that weren't going to celebrate me. And so that became a evolution of self-esteem. That took some blows. It took some blows and it took some continuing to be consistent. And I like to say I just faced each next day, and sometimes when you know it was a weeble wobble toy, that was the old seventies, I would feel I would put myself, like every time I would get knocked down, I would just bounce back up and love the webo wobble analogy.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "fear",
+      "isolation",
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "withdrawing",
+      "setting_boundaries",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the A2 evidence gate by detailing a relational pattern involving a barrier (lack_of_support) and the development of a crucial agency signal (setting_boundaries) in response.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandy Thompson",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:06",
+    "timestamp_end": "00:07:52",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "Every time that would happen. I would build a little more strength and confidence in my ability to recover from someone, trying to knock me down, trying to put me down. Or when I demonstrated that vulnerability or shared my story, then, then using that as a way to harm me, then I, I would just learn that that wasn't my audience. It doesn't change. You know, it doesn't change who I am. And so I think from a career perspective, it's what's led me to be the leader of Benefit Bay is because I stopped putting myself in the same CFO seat at the same lifestyle company because it was comfortable. And I stopped wearing those mask necessary for those jobs, right? So keep quiet, don't ruffle feathers. You know, don't, don't speak up, that the problem is X, Y, Z, when it's obvious, because that person can't handle the information. And so it became an evolution when I built the strength in who I am. In sharing my story, I built the strength to become. Who I am now, 14 years later.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "career_development",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up",
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the A2 evidence gate by clearly linking the overcoming of a barrier (fear_of_judgment) to the development of agency signals (speaking_up, making_decisions) within a workplace context, showing a clear behavioral pattern.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandy Thompson",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:52",
+    "timestamp_end": "00:08:41",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "But had I stayed in that sheltered version of me, um, that protected me from hurt of sharing vulnerability, I would never be where I am today. And the empathetic leader I am to lead other humans on their journey as well, or to see the person across from me. I have this one impact day where I was going reverting of not sharing what I was going through. I was an executive at Visit KC and I'd gone through some really hard things that night with a teenage daughter that was really struggling, and I just went to work with a face on and pretended like nothing was going on in my family. And my family was having a moment and I was ashamed of the moment and I was ashamed of not having a good handle on the moment. And this was even five years past the 2011 instance. So I just wanna share with the sisters out there that sometimes we can be doing good and we can relapse. And I had a colleague at two o'clock that day. Now I'd been internally struggling for the whole day, pushing through that day. And I walked by her office and she saw me.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "shame",
+      "anxiety",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "silence",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the A2 evidence gate by detailing a relapse, a significant emotional pattern, with clear barrier signals (stigma, shame_culture) and agency signals (silence, enduring) interacting across family and workplace systems.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "UTS_S4_PODCAST_046_Guest_Brandy",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "I mean, she really saw me. Can you come here? Can you shut the door? And she said, what is wrong? And it all came out right, but. That's an instance of that. One was a safe colleague who had seen me show up and since the energy I was bringing to the office, but two, my ability to actually admit that I wasn't okay in a professional setting with another executive who asked me was a big stretch growth for me because I just always tried to just put the next foot in front of the other right and just keep going.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "validation",
+      "relief",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier_signals (stigma) and agency_signals (speaking_up) in a workplace context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "UTS_S4_PODCAST_046_Host_Jessica",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p2"
+    ],
+    "moment_text": "But we are not robots. We have to feel. We have to lean in to those uncomfortable moments. And so that was another pivotal moment for me. Like in the backslide, right? Mm-hmm. Back and forth. You are really, what you're saying is really res. I'm sitting here in goosebumps. I'm like, wow. It's really resonating with me just putting the mask on, smiling in the face of adversity, even though you are in so much pain.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "validation",
+      "connection",
+      "sadness"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier_signals (stigma) and agency_signals (enduring) in a workplace context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The first few sentences are from the guest, Brandy, but the majority of the paragraph is the host, Jessica, validating the experience. The moment captures the validation."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "UTS_S4_PODCAST_046_Host_Jessica",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "'cause something's going on at home and you have to be present in your job. And it's really interesting. I'm working on a lot of prevention activity, if you will, from my organization. And it's interesting that you say that for workforces, creating psychological safety back in 2015, psychological safety wasn't a thing.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier_signals (lack_of_support, education_gap) within a clear system_interaction (workplace).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "UTS_S4_PODCAST_046_Host_Jessica",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p4",
+      "p5",
+      "p6"
+    ],
+    "moment_text": "And I think that so many dynamics going on in the workplace today, uh, chaos and turmoil. If that's the only thing we can create psychological safety so people can show up. Because guess what? The world is forever changing and things aren't, uh, back to this, the ups and downs, that's life, right? Yeah. Ups and downs and all arounds, and it's coming at us from all avenues. Right now, you know, in a pivotal 2025, we've got a lot of volatility and changes and people are having to show up to work and they, they may be in fear that their child is at school. They, they may have. A challenge showing up to work because of the color of their skin. I mean, people are dealing with a lot. They, you know, in the healthcare industry, they may be dealing with, they may go uninsured because premiums are increasing. So can we see people do? Are we really trying to see people and in order to see other people, we have to see ourselves first.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "overwhelm",
+      "fear",
+      "anxiety"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_validation",
+      "access_barrier",
+      "cost_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier_signals (lack_of_validation, access_barrier) and emotional_signals (fear) within a workplace context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "UTS_S4_PODCAST_046_Guest_Brandy",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "Yeah. I mean, I think that that also has had some weeble wobble and a little bit of the imposter syndrome sneaks up. Hmm, I don't deserve this. I'm not qualified for this. Who do I think I am to be the leader of these or steward these humans? Well, I think. Maybe that's also true, a bit of of ladies, you know, we tend to be really hard on ourselves and we wanna be perfect.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "self_doubt",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional_signals (self_doubt) and agency_signals (self_blame) in a workplace context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "UTS_S4_PODCAST_046_Guest_Brandy",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "So if we can't do everything astronomically well, we sometimes won't try any of it. But I think that in the professional realm for me and getting, it's been being forced, and I wish that wasn't the case, but I had to be pushed off of each ledge. I was successful on, and I think it's because I'm not innately a risk taker, and so I wouldn't have put myself in this situation or done that and, and a lot about my career and how it's, it's, it's sort of had to push me there a bit or give me the nudge there before I would've landed.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "career_development",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "resignation",
+      "fear"
+    ],
+    "agency_signals": [
+      "avoidance",
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency_signals (avoidance) and emotional_signals (fear) in a workplace context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "UTS_S4_PODCAST_046_Guest_Brandy",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p12",
+      "p13"
+    ],
+    "moment_text": "And usually it's a combination of what's going on in personal life and in various things. And I landed. Had the job right before this because I was in, I had gone through a divorce and my kids were, that family integration part was really starting to be a stretch for me and showing up at my job and getting to where I wanted to be for them to support them. And so I was feeling like work and life were way out of balance, or weren't integrating well. And I took a leap into a remote job in San Francisco at a software company a hundred percent because I wanted to be there for my girls. So there was another driver. Would I have done and left CFO comfort to be a senior HRBP and a software company, if it weren't for it was gonna give me other flexibilities to be a better mom.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "family_life",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "overwhelm",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency_signals (making_decisions) and barrier_signals (lack_of_support) across family and workplace systems.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": "Risk flag 'grief_loss' added due to mention of divorce as a primary driver for life changes."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "UTS_S4_PODCAST_046_Guest_Brandy",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p14",
+      "p15"
+    ],
+    "moment_text": "And so there were things I weighed out on what was important to me on my importantness skill and, and I think I heard a lot from a lot of people that tried to hold me back there as well, who said, don't leave finance leadership for HR leadership. They won't. Treat you with the same respect, your career will be harmed. Well think heavens, that there was enough of those outside factors to push me in that direction because that's been the arrow to launch me into this organization. It's my first time in software. I think sometimes to set of circumstances that. Led me. It wasn't that I sat down on my vision board and said, I wanna be a CEO of this company. That didn't happen. It was more, I wanna be more present for my family. I want to do, you know, be able to control my work life integration and show up in ways that mean more to me right now. And that's what. Yielded here.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "career_development",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "relief"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "stigma",
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong agency_signals (making_decisions) and barrier_signals (lack_of_support, stigma) in a workplace context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "UTS_S4_PODCAST_046_Host_Jessica",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p16",
+      "p17"
+    ],
+    "moment_text": "The thing that, you know what's interesting, Brandi? The thing that I have found. Is that we all women make all these decisions for their family. Typically, yeah, they wanna grow, but like most of us, we have our kids. I have my first child at 30, but I didn't have this career plan. I just did my work really well and felt this enormous responsibility to give my children a good life. And so I just kept working hard and the harder we work, women just. Excel. And so we excel and we grow and we grow and we grow. And the thing is, is I think that it's really hard because we don't typically taking those risks and stuff. When you are weighing what's right for your family, what's right for your, it's like it's really hard. So I think sitting here and really like just saying, wow, I mean you did it and, and living in the unknown space. You know, it's a really kind of cool space because that's where you get to be creative and to do things you haven't done before. And back to your word, the stretch word. Yeah. That's where you really stretch in so many ways.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "career_development",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "validation",
+      "recognition"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate by identifying a pattern of agency_signals (making_decisions, enduring) and barrier_signals (lack_of_support) within family and workplace systems.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "UTS_S4_PODCAST_046_Guest_Brandy",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p18",
+      "p19"
+    ],
+    "moment_text": "We have daughters, right? We have to show up and we role model for our daughters. Yeah. We have to let them be, you know, let them see that we failed too. So I think that that's something that'll allow them to not take as long to get to their journey of not wearing a mask if they've seen, we rebounded and made it to the second mountain. They'll feel more inclined to fail and not be so hard on themselves or sit, sit in such a, a low love that that happens.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "parenting",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency_signals (sharing_story) intended to address barrier_signals (stigma, shame_culture) within the family system.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "UTS_S4_PODCAST_046_Guest_Brandy",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p20"
+    ],
+    "moment_text": "So I think that that's the one thing I'm the most proud about showing my girls is that I had to come from the very bottom and go back up and that you can, and in between on that write up, there were a few more doc Knockdowns. And, and you still got to your ultimate, so the straight line or the squiggly line, or you know, whichever leadership process you're following, or life journey you're following, it's not a straight line.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "mental_health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency_signals (sharing_story, enduring) and emotional_signals (confidence) in a family context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M012",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "UTS_S4_PODCAST_046_Host_Jessica",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p21",
+      "p22"
+    ],
+    "moment_text": "Not, it's not linear for sure. Well, I love, I think what you've, what you've role modeled is like true real resilience. And it's funny because I think women don't even realize how much they, they have a deep well of resilience. You know, we breed life in ourselves. We birth shown humanity, um, into the world. And to even go through that physical experience requires like guttural. Levels of wells of resilience, if you know what I mean, and then to evolve into who you're, who you are post having breathing life. And you know, that's a whole transformation for women out here in our various stages we go through as well. I know you have the menopause series, but that is a whole nother journey in itself.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "women's_health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment",
+      "recognition"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency_signals (enduring).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M013",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "UTS_S4_PODCAST_046_Host_Jessica",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p23",
+      "p24"
+    ],
+    "moment_text": "Yeah, no, exactly. I, I think it's just really interesting. I think that it's such a. A fascinating message here. Here you are, CEO of Benefit Bay. You, you actually, you know, you went from being in the financial into hr, like that's a huge shift. Yeah. And you know what Brandy is interesting. What I love about it is that you did it. And in fact, like one is not more reputable than the next. They're both necessary. They're just different. And the fact that you didn't let that determine which direction you were gonna go in. Yeah. I think we have to, sure, we have to have safe places where we go and we bounce ideas off of.",
+    "moment_type": "validation",
+    "life_stage": "midlife",
+    "health_domain": "career_development",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "recognition",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency_signals (making_decisions), emotional_signals (validation), and barrier_signals (stigma) in a peer_community context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "But we have to also remember, we know core where we're meant to go and what our drivers are, and so we can seek that. But I think it's really important with, with women that we don't put too much weight in other people's voices. And that we're honoring what self wants to do because I do think that that is a trap, you know, for the sisters out there that we may not see.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "confidence",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency signals (making_decisions) and system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p2"
+    ],
+    "moment_text": "Because if we take in too much input and too many voices in that vulnerability, then we may not land where we wanna go because then it gets really noisy because it is a journey. Society has put us in so many boxes and labeled us with so many labels and you know, forgetting who we are. And it's really interesting.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "overwhelm",
+      "confusion"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier signals (stigma) and system interaction (community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "Brandi, I've interviewed. Over 200 women thus far, and what I will say to you is. A majority of them talked about their gut instinct, trusting their gut instinct. If they could do one thing, if they were gonna leave a message, what? What would it be? It wasn't that everyone said throughout conversations is, I wish if I didn't trust my instincts, I wish I had, like I wish I had trusted, and now my message would be to trust your gut because your gut is probably right.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "confidence",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency signals (making_decisions) and system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "Yeah, I think that's one of my big passions is, uh, as CFO leader, I found myself getting really frustrated by hu the humanity of employee benefits, right? So as an organization we put a lot of money into employee benefits any company does, right? We really care about our humans. We wanna make sure they have great health insurance, but also how those individuals. Health outcomes turn into something that can cause harm to other individuals or can cause harm to company.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Healthcare System",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "cost_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with a barrier signal (cost_constraint) and a clear system interaction (workplace).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "Speaker role is advocate as she is advocating for a new system, but she is also speaking from her experience as a patient/employee and a business leader."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "And it's not that that is bad, that there is a health outcome on the plan, but I found myself starting to lose that empathy in thinking more about the financial fiduciary. Of the company than the human who was having the healthcare risk because I thought about the other humans and how they'd be affected and then the company, right?",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Healthcare System",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "resignation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "cost_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with a barrier signal (cost_constraint) and a clear system interaction (workplace).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "And so that really started to resonate my passion about benefits and control over that item in addition to how frustrated individual families would be because the employer would pick. A plan and the decision makers would be making the plan would usually be highly compensated. They would be bringing those biases to the table, and then you'd put somebody in a high deductible healthcare plan. Who's making $40,000 a year who basically can't seek care and didn't have salary to defer. And so some of these things just felt so broken.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Healthcare Access",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "frustration",
+      "hopelessness"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "cost_constraint",
+      "access_barrier",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with multiple barrier signals (cost_constraint, access_barrier) and a clear system interaction (workplace).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "And at Benefit Bay, what we do is put that to put those dollars back and the employees just. Decision hands so that they can choose what's best for their family and maybe they never leave their county and they wanna choose the medical system next to them and they're gonna save a lot of dollars, but maybe they own homes in four places and they wanna have a different product.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Healthcare System",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "empowerment",
+      "relief"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency signals (making_decisions) and system interaction (workplace).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p10",
+      "p11"
+    ],
+    "moment_text": "I don't think employers should be armed in the same way that I think everyone should have mental health access and we should be safe spaces at employers. I would say there's a majority of employers that are not safe spaces for them to know your healthcare outcomes. And if those leaders know you're seeking, you're currently accessing care for cancer. Maybe you're not up for promotion. If they know you're currently accessing in vitro services, they know you're planning for a baby. If they know, you know, your spouse is, is on an unfortunate medication that's very expensive for the healthcare program, maybe you're on the next RIF list, right? Because it's causing a problem for the self-insurance.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Patient Privacy",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "fear",
+      "anxiety"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fear_of_judgment",
+      "stigma",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with multiple barrier signals (fear_of_judgment, stigma) and a clear system interaction (workplace).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "I am very passionate about us getting our health. Data back to our own stewardship and ownership, and empowering ourselves to own our accountability of our health outcomes and the services that we seek, and having access to make those decisions.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Patient Advocacy",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong agency signals (self_advocacy, making_decisions) and a system interaction (workplace).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "So if my employer changes a carrier every year and I have to change physicians, it's really hard for me to seek the right type of mental health care, the right type of physic. Physical care, maybe I've just gotten all my menopause on track and now I've gotta switch physicians. And now they're telling me I can't take this progesterone medicine because they have a different philosophy. I mean, all of that is so impactful for our ultimate mental health, for our physical health.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "menopause_transition",
+    "health_domain": "Continuity of Care",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "anxiety",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "system_navigation_difficulty",
+      "access_barrier"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with multiple barrier signals (fragmented_care) and a clear system interaction (healthcare_provider).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p16",
+      "p17"
+    ],
+    "moment_text": "We've landed on educators and HR educators and RNs as those who help our clients. And really, if you think about those two personas, they. As an employee or those two profiles, they have to juggle so many audiences and make high decisions under stress and you know, remain calm and be that trusting presence. So that's worked really well for us. So it's all sort of came full circle.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Workplace Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "trust",
+      "calm"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional signals and a system interaction (workplace).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M012",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p18"
+    ],
+    "moment_text": "And I think what's also interesting, Brandy, not with just the work you do, but as you talk, discuss health outcomes. What's interesting is employers don't realize as they get all crazy to control these things, that if they go in to prevention and really support. Support their employees to be healthy and well, and let them choose their things. They're gonna show up and they're gonna have more presenteeism, less absenteeism, they're gonna be better performers, they're gonna be happier on the job. So they'll be able to show up as their best self.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Workplace Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with a barrier signal (lack_of_support) and a clear system interaction (workplace).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M013",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p19"
+    ],
+    "moment_text": "They're like totally leaving money on the table, not just from physical health, but from mental health and really attrition. Like what type of culture does a company wanna create, right? What type of culture do you wanna work for? Do you wanna be in a company of fear? Or do you wanna be in a company that creates and builds and you know, whatever it is you're doing, you know? Right.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Workplace Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "fear"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with a barrier signal (fear_of_judgment) and a clear system interaction (workplace).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M014",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p23",
+      "p24"
+    ],
+    "moment_text": "Well, we're marching for mental wellness in a couple of ways. We support a foundation that is educating our early youth because a pivotal point is before frontal lobe development, right? You're, you're converting from being a high school teenager to being in college, or you're going straight into the trades or straight into the working world, and that's just a pivotal point of mental wellness. So we support that foundation. It's Colton Foster My Story as an over yet foundation and they give back to community schools and education and different foundations and in different ways. And so we're supporting that annually. The additional way is we support domestic violence awareness organization in Kansas City that provides shelter and is launching 120 beds now. They have 64 beds now and the children and. Individuals affected by domestic violence and the mental challenges and also future on in their life to overcome are fairly significant. And I think that that's really important in the organization.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with an agency signal (seeking_support) and a system interaction (community).",
+    "risk_flags": [
+      "violence_abuse",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M015",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p25",
+      "p26"
+    ],
+    "moment_text": "In the organization. We have mental health, uh, virtual care available to our team members as an, as an add-on option to their. Medical plan that they may not have chosen. We are doing, um, we of course have sick days, right? If you need to take a personal day and there's no reason we do three weeks. PTO, I think work life integration and giving people some space when times are heavy. Is a mental health investment in your team. Safe space. Safe space to communicate. No retaliation. If you're having a rough time, you're not gonna have consequences inside this organization. If you share that you're struggling, you know, with mental or risk or family or, or whatever that looks like, we're gonna show up for you. And we've done that in multiple ways, whether it's, someone's recently joined the team and they lost a family member and just. Covering the time and, you know, uh, we do maternity and paternity. So many companies don't do that. So you add to the mental health pressures of being a new parent by not getting compensated.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Workplace Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "trust",
+      "validation",
+      "calm"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency and barrier signals within a clear system interaction (workplace).",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": "The barrier signal 'lack_of_support' is present as a contrast to what her company provides ('So many companies don't do that')."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandy Thompson",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "Right. And so I think there, there's a lot of ways that we're marching for mental wellness, really just talking about it being a safe space. Talking about how heavy life. Currently with all the volatility, the administration currently created some volatility in our organization. They extended a deadline to 11 one and then open enrollment launched 11 one. So we were dealing with a little bit of stress. Hmm. Barriers didn't show up well with the 11 1, 11 1 all in the same day. And so, you know, our team is experiencing volatility. They're have anxiety. It's like owning that, talking about it, discussing it, showing up in a way that feels safe for them to talk about it.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "anxiety",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with agency signals (speaking_up) and a defined system interaction (workplace), making it eligible for pattern analysis around workplace mental health support.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M012",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandy Thompson",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p4",
+      "p5",
+      "p6"
+    ],
+    "moment_text": "Marching every day as the people that I see. Right? So back to that story of someone who saw me. I try to see other people. I try to, if my gut or my intuition tells me to say something to a stranger, I try to honor it. If I try to, you know, notice things, there was somebody returning a bag of chips and some water to the grocery store, right? And if you're returning. 24 pack of water and a bag of chips to the grocery store, you need gas money or something is happening, right? So not for the notice or the approval of others, but for seeing that human on the other end. So that's how I march for it every day. Just being vulnerable enough to reach across the aisle when you see it, or trying to be present and aware for others. But I'm also starting to admit when it's too much and I'm sharing with people around me. Mm-hmm. That I'm having a day, and maybe I'll say I'm having a day, maybe I'll say it's just been a lot lately, but I need to communicate with the people who love me that I maybe need to go and shut the door and lock myself in the bathtub, or I need, I need a minute to recharge. I'm introverted by nature, so starting to use my voice so that I'm in marching to keep myself healthy. Obviously exercise the other things too. Eating better, you know, but trying to just acknowledge those who I see or be a safe space for people to come to me, but also giving myself a voice before I hit that. Harder points so that I don't leave a wobble as much. Maybe just bend a little and get back up.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "speaking_up",
+      "sharing_story",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with strong agency signals (setting_boundaries, speaking_up) and clear system interactions (community, family), making it eligible for pattern analysis on self-advocacy and personal support systems.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M013",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandy Thompson",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "Yeah. And so many people are just going through life so frustrated and not getting to a place of peace or center. And I think that's, it's unfortunately it's tough 'cause not a lot of people are getting to the growth place to get there. And so they're just out there triggered at all times. Right. And so we can see that out in the world and to be the other is what we need more of. So encouraging the sisters out there to do the work in themselves so that they can show up for others out there on their journey.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with emotional signals (frustration), barrier signals (social_isolation) and a system interaction (community), making it eligible for pattern analysis on societal mental health and the role of peer support.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M014",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandy Thompson",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "Uh, I wanna leave them with just give yourself grace. Do the work. Find out where the inner healing needs to occur, and it's, it's okay to take that journey as slow or as fast as you can handle, but do the work. Um, be vulnerable. Keep showing up even when it's hard. 'cause when it's hard is the worst part of the healing. When you wanna quit and go back, um, you gotta, you gotta re get yourself back under control. So that's what, that's what I would leave everyone with. And it's okay to give yourself a pity party once in a while, but you gotta get back out of that. Um, and just give yourself some grace and just stay consistent, right? One foot in front of the other on this journey.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "enduring",
+      "making_decisions",
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with strong agency signals (enduring, making_decisions), making it eligible for pattern analysis on personal healing strategies and resilience.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M015",
+    "episode_id": "UTS_S4_PODCAST_046.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_046.docx",
+    "speaker_id": "Brandy Thompson",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p14"
+    ],
+    "moment_text": "Yeah, it is. And it also allows you to stretch and find those safe spaces, right? So a Bne Brown is like, not everyone's, you know, capable of hearing your story and, and, and handling that. And so just so that you don't take that personal because you stretched the muscle and you did and it wasn't safe, don't give up on sharing that. 'cause you're going to find your tribe, you're going to find your audience that allows you to help another person and allows you to continue to grow.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "empowerment",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with clear barrier signals (lack_of_validation), agency signals (sharing_story), and a system interaction (peer_community), making it eligible for pattern analysis on the importance and challenges of finding a supportive community.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "locks_version": "v1.0",
+  "report_id": "REPORT_S4_SAMPLE",
+  "report_title": "Sample Insight Report",
+  "insight_ids_included": [
+    "INSIGHT_S4_001",
+    "INSIGHT_S4_002",
+    "INSIGHT_S4_003",
+    "INSIGHT_S4_004",
+    "INSIGHT_S4_005"
+  ],
+  "excluded_insights": [],
+  "life_stage_coverage": [
+    "reproductive_years",
+    "menopause_transition"
+  ],
+  "confidence_distribution": {
+    "high": 3,
+    "medium": 2,
+    "emerging": 0
+  },
+  "assembly_notes": "Fixture output contract."
+}

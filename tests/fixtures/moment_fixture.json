@@ -1,0 +1,29 @@
+{
+  "locks_version": "v1.0",
+  "moment_id": "001_M001",
+  "episode_id": "UTS_S4_PODCAST_001",
+  "season": "S4",
+  "source_file": "UTS_S4_PODCAST_001.docx",
+  "speaker_id": "S1",
+  "speaker_role": "host",
+  "timestamp_start": "00:00:10",
+  "timestamp_end": "00:00:22",
+  "paragraph_ids": [
+    "P0001",
+    "P0002"
+  ],
+  "moment_text": "Welcome to season four of Under the Sisterhood Women's March for Mental Wellness.",
+  "moment_type": "system_observation",
+  "life_stage": "cross_life_stage",
+  "health_domain": "mental_health",
+  "system_interaction": "media",
+  "emotional_signals": [],
+  "agency_signals": [],
+  "barrier_signals": [],
+  "insight_eligible": false,
+  "eligibility_rationale": "Intro framing; not a standalone lived-experience or system interaction with signals.",
+  "risk_flags": [
+    "none"
+  ],
+  "notes_for_reviewer": ""
+}

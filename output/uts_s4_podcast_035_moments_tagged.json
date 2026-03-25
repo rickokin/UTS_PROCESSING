@@ -1,0 +1,1504 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa Mills",
+    "speaker_role": "educator",
+    "timestamp_start": "00:03:38",
+    "timestamp_end": "00:04:15",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "I, I don't think it was just one thing. I think it was an accumulation of several things all happening in a domino effect where I saw behavior in athletes and behavior in the schools tanking. And I was raised to be, you know, respectful of my coaches. Listen to my coaches, give my best, work hard, play hard, have fun, have social skills. We were outside seven hours a day, right? So where I think it started was actually back in 2000, maybe 1999, where I started to see things change in the schools. And I was working in the schools with behavioral and kids with behavioral issues. 'cause we typically deal a hundred percent of our time with 10% of a population.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it describes the initial observation of a systemic pattern (decline in student behavior) and involves a system interaction (education system), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa Mills",
+    "speaker_role": "educator",
+    "timestamp_start": "00:04:22",
+    "timestamp_end": "00:05:05",
+    "paragraph_ids": [
+      "p10",
+      "p11"
+    ],
+    "moment_text": "So I started to see this happening in schools. Then in 2000, I started to see the Nokia phones come in and I started to see what, whoa, what the heck are these little things doing in my classroom? Like I was teaching history at a high school here. And I hadn't started the Mental Game Academy yet, right? But I noticed, I'm like, they were all on their phones in my class, and this was the first time I'd ever seen this. So I went out the next day and I bought a basket, said, if you're in my class, you want attendance? Put your phone in the basket. This was 25 years ago, right? My classes behaved well. They achieved very high percentages, no distractions, right? Because we know that there's a link between. Long-term memory and using paper to pen more. My kids had to, I, I marked a lot. I worked a lot, but the kids learned more, right?",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "frustration",
+      "confidence"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it details a specific barrier encounter (technology distraction) within a system (education) and the speaker's direct agency response (setting boundaries), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa Mills",
+    "speaker_role": "educator",
+    "timestamp_start": "00:05:06",
+    "timestamp_end": "00:05:36",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "So I started to see that happen. Then as I was coaching, I started to see them coming into the gym. They wouldn't exactly say hello to me in the staff, and I was like, they were back on their phones. So, basket. Here we go. Put the phones in the basket. Nope. There are no phones in, uh, my gym at all. This is a safety hazard. It's also a bullying issue, and there are also kids starting to be left out and now this cumulative effect. Here we are today with the highest depression. Highest anxiety rates, highest behavioral issues, highest amount of teachers quitting, highest amount of coaches quitting, and and the most overweight population of children. I've seen what was going on, so I just, it grew from there.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "frustration",
+      "overwhelm",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it links a specific barrier (social isolation via phones) to broader systemic issues and expresses strong emotional signals (frustration, overwhelm), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The system interaction could also be education_system as coaching is often tied to it, but the primary context here is a gym, which feels more like community."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa Mills",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:05:36",
+    "timestamp_end": "00:06:20",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "Honestly, Elizabeth, somehow I started to track and develop a program that would help our athletes that were in trouble or students. Because if you work with the 10% of the population that's struggling in secure, lacking mental skills, confidence, or parents are divorcing, whatever it might be, well, why don't you just work with them then? Then they can catch up with the rest of those kids in schools. So that's where I think I had my first, the first point of, I wanna say collection data, anecdotal, observational, and then I started to say, okay to the boards, you can't have these phones in here. You can't, you couldn't have fidget spinners, so why are you allowing phones? Fidget spinners didn't even give you dopamine, but you took those out. But you're giving them the most dangerous tool out there with no boundaries. So I said, if, if you're gonna let them in, I'm out. 'cause you can't, I can't compete with dopamine. No teacher can.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "frustration",
+      "confidence"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "setting_boundaries",
+      "tracking_symptoms"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it demonstrates clear agency signals (speaking up, setting boundaries) in response to a perceived barrier (lack of administrative support) within the education system, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa Mills",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:06:20",
+    "timestamp_end": "00:07:00",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "And so I've been working on that, but I hadn't actually. Worked in Mental Game Academy for, I think it's been eight years now. And I think it just naturally came up as I owned a Pilates studio 'cause I left teaching, so I started to help women and I started to talk with women and we all just need to feel valued and heard and belonged. It's not much like it's free. It's free women and, and to help other women like. I help other women build their businesses. That has nothing to do with me. I support them. I help athletes. I don't ask for money if I, you know what I mean? Like just do it because you want to help and now everyone's out for the cash grab and what's in it for me? And that's not the way we should treat each other.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "belonging",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it identifies a core need (validation, belonging) as a protective factor and a barrier (transactional culture) within a peer community context, supported by emotional signals, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa Mills",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:07:46",
+    "timestamp_end": "00:08:26",
+    "paragraph_ids": [
+      "p21",
+      "p22"
+    ],
+    "moment_text": "Basically I said, what the fuck? In my head, like every minute I was, why are you doing this? Why are you allowing and lowering the bar of behavior? Because 30 years ago we didn't have, as you know, a problem with coaches, a problem with parents. Parents sided with coaches. Yeah. My kid was hitting another kid. He probably shouldn't do that. Right. Okay, coach you discipline the way you want now. No, my kid wouldn't do that. My, I fully allow a coach to discipline my kid. We're warranted. Absolutely, because it takes a village to raise kids. It does. It takes a coach, a teacher, and a parent, because that's how they all have to fit into society. We're trying to make productive humans here that are happy right now. We're not even equipping them.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "frustration",
+      "anger"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible due to its strong emotional signals (frustration, anger) and clear identification of a systemic barrier (breakdown of parent-coach support), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker uses profanity ('what the fuck') which might need consideration for some use cases, but it is not a risk flag per the schema."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa Mills",
+    "speaker_role": "educator",
+    "timestamp_start": "00:08:42",
+    "timestamp_end": "00:09:12",
+    "paragraph_ids": [
+      "p26"
+    ],
+    "moment_text": "Okay. Let's, let's not make my, I sound old. So back in 19, I think it was 1999, I started to track and noticed some changes in behavior of those kids who had the early the brick phones. Like the big salt, like they could knock someone out with those. Then I noticed in 2000 in the classroom and in there and then with my own athletes, and then the stats medically started to go up. Behavior violence, detentions, not going to school is one of the saddest attendance records I've ever seen. It was in one of our Canadian boards, I think it was the, um, the, the Catholic system.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "sadness"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "tracking_symptoms"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it describes a clear agency signal (tracking symptoms/behavior) in response to an observed problem within the education system, supported by an emotional signal (sadness), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "guest_dr_fader",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:20.550",
+    "paragraph_ids": [
+      "p_1",
+      "p_2",
+      "p_3"
+    ],
+    "moment_text": "Uh, I think they have risen to the highest point of school attendance they've ever seen where kids are not showing up for school. So my concern is if you don't show up, you shouldn't get the grade. And in England. They have adapted a beautiful program, a remediation program where if your child is behind in grammar, mathematics, um, English, then your child has to attend a remediation two weeks to stay with their grade. So if your child doesn't wanna do that over again, right? There are consequences and. And we, in a society to today, we, consequences is actually a great word. It's a, it's a needed function for kids and we shouldn't be afraid of giving them the C word or the D word, which is discipline. Throughout time, all parents have been able to discipline their kids and teachers. When we were able to do this behavior, stayed in check. That just means from this perspective psychology, that children's brains are like, yeah, I can't hit Johnny. No, I can't bully. No, I can't push her or pull her hair. No, you can't do those things, right? You can't leave people out. And we didn't have this problem 25 years ago with leaving people out.",
+    "moment_type": "system_observation",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "This moment is a general system observation about societal changes in discipline and education without specific, actionable barrier, agency, or emotional signals from a lived experience perspective.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "multiple_speakers",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:20.550",
+    "timestamp_end": "0:00:46.180",
+    "paragraph_ids": [
+      "p_4",
+      "p_5",
+      "p_6",
+      "p_7"
+    ],
+    "moment_text": "Like every girl I tested last week at a hockey camp, every girl put down on the forum. I feel left out all the time. That's horrible. Right. It's interesting that you say that 'cause you horrible mentioned very early, as we were just starting, you said that, you know, that sense of belonging and I think there is such a, but I think that it's tricky and I think back to all of the work you've done on the phone usage and social media, that's where the disparity happens and, and I would say, you know what? Larissa, I would say bullying happened. I was badly bullied. So, bullying It did, but not to this extent. Yes, I think this extent because they're using multim modalities for it. Correct. Right. It's all day. You can't escape it, you know? So, so, so to the, so I'd like to hear, actually, I'd love to go on a little bit of that journey with the hockey team.",
+    "moment_type": "system_observation",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "loneliness",
+      "sadness"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment meets the evidence gate by containing strong emotional signals (isolation, loneliness) and a clear barrier (social isolation) linked to a specific system interaction (peer community), making it eligible for pattern analysis.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The primary speaker is the educator, with the host validating and expanding on the point."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "guest_dr_fader",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:46.180",
+    "timestamp_end": "0:01:26.800",
+    "paragraph_ids": [
+      "p_8",
+      "p_9",
+      "p_10",
+      "p_11"
+    ],
+    "moment_text": "You started asking these questions, huh? Oh, well, and, and every team I do and I have worked with, we do a mental skills assessment, so I learn a little bit about how their brains work. So. Do they have the steps of resilience? Do they have coping mechanisms? Do they have confidence boosting techniques? Do they have control mechanisms? So we find out where they're, then we ask the magic million dollar question, how much phone time are you on every day? We know with studies and Dr. Twenge and all the four pediatrics, uh, societies, we work with American, British, Australian and Canadian, that if kids are on phones for more than two hours a day, they will talk more negatively. Their identity is, I wanna say ambi. It's, it's filled with ambiguity. They have low self-esteem. They don't know who they are because they're not figuring it out naturally. They're being told who they should be from social media to a girl today. I wouldn't wanna be a girl today growing up, I wouldn. I far preferred myself growing up, learning who I was through experiences and different social, um, events over my lifetime and family memories than walking into something on Instagram and going, yeah, you suck. Your dress isn't nice. This is how we're raising the kids virtually and in person. 'cause if you're not checking it online as a parent to make sure this behavior is not condone. Then you're letting them do it. You're part of the problem, right?",
+    "moment_type": "education",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "self_doubt",
+      "confusion"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment meets the evidence gate by identifying a clear barrier (social media's negative impact on identity) and emotional signals (self_doubt, confusion) linked to a system interaction (media), making it eligible for promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "guest_dr_fader",
+    "speaker_role": "educator",
+    "timestamp_start": "0:01:26.800",
+    "timestamp_end": "0:02:18.190",
+    "paragraph_ids": [
+      "p_12",
+      "p_13",
+      "p_14",
+      "p_15",
+      "p_16"
+    ],
+    "moment_text": "So, so let's go back to the, to the assessment. So almost 87% of girls talk negatively to themselves today between the ages of 12 and 22. This is heartbreaking, right? Like heartbreaking. That means they're stuck in a cycle of, of addiction, usually because four hours a day or more, don't expect more. Four, two or less. We can be our best. Right. That's our little saying. So we know that kids, when we test them, if they're on their phones less than two hours a day, they're probably not exposed to the level of immature content bullying that they see because it's there every day and they're isolated and cut in and outta groups since they were eight years old now. Right. That's, that's nuts. And they're becoming more violent girls as well. The fighting. Punching the, the, the violence I'm seeing is, is outrageous and we have to do something right And it's a big link. Actually, no, and that's a horrible word. There is a direct link between increased phone usage, social media, and phone doom scrolling. So short video watching to how isolated we feel, right? We really need to be great people for ourselves, but for others. And you gotta find that vibe amongst your tribe, right? That's what I say, find your people. You only feel as good as the, the, the moats, the Debbie Downer in your group, right? So this whole social media, they're finding all these false influencers who don't care about them. They care about the money. They're, they're going to make off these people. There's the big thing and they think they can all be an influencer. Well, you have to be a good person actually, and smart, and have education to be an influencer, a good one, right? That has sticking power. And many of the girls today just try to be someone they're not or older than someone they're not.",
+    "moment_type": "system_observation",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "sadness",
+      "isolation",
+      "self_doubt"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it provides data-backed evidence of a barrier (social isolation) and emotional signals (sadness, isolation) linked to a system interaction (media), which is a strong basis for a systemic pattern insight.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "multiple_speakers",
+    "speaker_role": "educator",
+    "timestamp_start": "0:02:18.190",
+    "timestamp_end": "0:03:00.800",
+    "paragraph_ids": [
+      "p_17",
+      "p_18",
+      "p_19",
+      "p_20",
+      "p_21"
+    ],
+    "moment_text": "So they're really not maturing and growing and developing their concrete thinking, critical thinking, problem solving skills the way they should. They've missed this gap because. Kids have been on phones 29,000 hours by 16. That is three years of their lives. That's crazy. This, right? So we're, we're dealing, everyone says people are getting soft. I'm like, no, they're not getting soft. They just have no mental skills. If you had coping skills, you could cope with what someone's saying, right? But we're harsher to each other. Yeah, but if you had more mental skills, you could cope with that or block it out? Well, it's like just hearing this Larissa, it's like, which came first? The chicken or the egg, which, and what I mean by that is, you know, you have the phone, you have the social media, but also like, because they're spending so much time there, they're not time out in the real world experiencing life. They're not, so they're not having real world interactions that give them Right. The coping skills, the resilience, all of the things that come just from living life. It's tricky as well because it is a societal thing. And then the families, I mean, I think that we're all working, we're online all the time and that's how we do our work. And so it's very natural to us. So I think probably a lot of us don't think about that. I mean, just hearing you say and speak about these statistics, my daughters are older, same, and I'm just so grateful because they did have the bullying and all of that. They had it more in. School then on, right. On devices. Now it's 24 7, you know? So your nervous system just congs out and the suicide rate is asked, Expedit is going up exponentially.",
+    "moment_type": "reflection",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "overwhelm",
+      "anxiety"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "education_gap",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it connects a clear barrier (education gap in coping skills) to a system interaction (media) and is reinforced by strong emotional signals (overwhelm, anxiety) from the host's reflection.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The mention of suicide rates warrants the mental_health_sensitivity flag."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "guest_dr_fader",
+    "speaker_role": "educator",
+    "timestamp_start": "0:03:00.800",
+    "timestamp_end": "0:03:30.890",
+    "paragraph_ids": [
+      "p_22",
+      "p_23",
+      "p_24",
+      "p_25"
+    ],
+    "moment_text": "Yeah. When we look at each country And then you're looking at constantly being in a state of fight or flight, which means you're not able to take in and really process information, right? Correct. So, so we can't, we can't process if we're in yellow or red on a traffic light. We can only process and be a happy human being if we're in green and beast mode on our traffic light. Like right, we try and get our athletes, okay, you, you said something negative to yourself. Squash it. Make it go away. Tell yourself something awesome. I am strong. I am powerful. I am confident. Squash the thought and they have all these different loci techniques and mental techniques to use, but your brain is really cool. If you are telling yourself amazing things about yourself and using mantras or self-talk, it's just like the Jedi bubble. Darth Vader can't get his bad words in there, right? So that's how we train. The girls that go through our program have never felt that confident before.",
+    "moment_type": "education",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "confidence",
+      "empowerment",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it describes a clear agency signal (positive self-talk) that acts as a protective factor, leading to positive emotional outcomes (confidence, empowerment), which is a strong candidate for an insight.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The agency signal 'speaking_up' here refers to positive self-talk."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "multiple_speakers",
+    "speaker_role": "educator",
+    "timestamp_start": "0:03:30.890",
+    "timestamp_end": "0:04:00.180",
+    "paragraph_ids": [
+      "p_26",
+      "p_27",
+      "p_28",
+      "p_29"
+    ],
+    "moment_text": "That's awesome. They just said, all I needed was these tools. And it's not that parents don't know how to teach them. It's, quite frankly, it's about the time because if they're on their phones five to 10 hours a day and the kids are on their phones six to 12 hours a day, no one's hanging out with anybody anymore. There's no connection. There's less communication and there's probably just yelling. Yeah. Right. Yeah. So it's, it's pretty sad when the kids tell me, yeah, I don't wanna be in the car, uh, after my game with my parents. Like, well, I don't know if I told you Larissa, but I have three, um, competitive athletes in my family. Yeah, you My ELs was a professional one and when she lost the drive home was torture. I know. It was torture. You probably were supportive. I would support. She was probably upset. No. Yeah. But, but her father was not, you know, like, yeah, yeah.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Family Dynamics",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "isolation",
+      "sadness",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "withdrawing"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it combines a system observation with a corroborating lived experience from the host, highlighting a clear barrier (lack of support) and strong emotional signals (anxiety, isolation) within the family system.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "multiple_speakers",
+    "speaker_role": "host",
+    "timestamp_start": "0:04:00.180",
+    "timestamp_end": "0:04:28.930",
+    "paragraph_ids": [
+      "p_30",
+      "p_31"
+    ],
+    "moment_text": "You know, and so what I will say to you is it's brutal in that competitive environment, but I love the fact that you have this Mental Game Academy, that you're empowering these young women and. Young men to really understand, to take hold and feel that sense of strength and power. Because like for, for us, like we were always about having our kids do sports to stay healthy and well and keep them outta trouble, but they ended up getting really good at, good at the sports and it was good because that's a very empowering experience when you get good at something, right? And it what, what, you just hit the nail of the head. So whoever's listening. One of the biggest statistics I just heard and after me going through breast cancer, I heard something very interesting. Kids need to be mentally fit and physically fit and find a sport by 10 years old. 'cause if they don't, they won't.",
+    "moment_type": "reflection",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it identifies a clear protective factor (sports participation) and its associated positive emotional outcome (empowerment), making it a strong candidate for an insight.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:01:13",
+    "timestamp_end": "00:01:53",
+    "paragraph_ids": [
+      "p3",
+      "p4"
+    ],
+    "moment_text": "And what type of cancers? I don't know. I'm, I don't wanna speak to that. That's not my medical experience. But far as I know, when I was with a geneticist and our s my surgeon, they were saying my one saving grace was that I didn't have my period till I was 17. I had a great fitness level and my body was, I was extremely fit, rower, horseback riding, volleyball, basketball, track football, like I did everything, like I can't even list. So by that point, girls have already had nine more years of estrogen to me. Your chances of estrogen positive breast cancer goes up very high.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "Oncology",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "relief"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains barrier signals (education_gap on estrogen exposure) and agency signals (seeking_care from a geneticist and surgeon), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker connects her lived experience in adolescence (high fitness, late menarche) directly to a long-term health outcome (reduced breast cancer risk) as explained by her clinicians."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:02:26",
+    "timestamp_end": "00:03:11",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "Uh, I enjoyed Pilates 'cause I had had back pain after baby number one or something and then I just started, athletes just started coming in the door and then they're like. Well, I just came to talk to you because you helped me in my game. And I'm like, huh. I had a brain and a light bulb go off, and I had a brain, my brain was braining and I'm like, huh, maybe I should do a class maybe. And they're like, yeah, I'd come just for the class. And, uh, it started to evolve where I used my curriculum writing skills, uh, which I wrote several forms of curriculum and history and English, and I just adopted my psychology and my cognitive science. And a little bit of the neuroscience and used, adopted the phone techniques and stats and went, okay, if I want kids to reduce their phone time, but I can't tell them to get off a phone. I've got to let them experience what their body's gonna feel when their phone's down. 'cause I can't say, put down your phone.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Performance",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "clarity",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains emotional signals (clarity) and agency signals (making_decisions) within a system interaction (peer_community), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment captures the origin story and core methodology of the speaker's program, highlighting a key realization about experiential learning versus direct instruction."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:03:15",
+    "timestamp_end": "00:03:45",
+    "paragraph_ids": [
+      "p12",
+      "p13",
+      "p14"
+    ],
+    "moment_text": "So we teach few little basic mental skills while they're reducing their phone time in one week. They're skating faster, they're hitting harder, and their hockey IQ goes up one week. Yeah, we've even seen kids in 48 hours. Text me, go, Larissa. I was on fire today in my hockey development. I'm like, yeah, right. And so the kids will phone the kids that phone you with a win. That's hard not to cry when the parents call you and they're like, thank you, like you've done done this. Like, thank you. I just didn't know what to do. Hug. It's, it's amazing. I have the best job in the world.",
+    "moment_type": "validation",
+    "life_stage": "midlife",
+    "health_domain": "Mental Performance",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "validation",
+      "connection",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains emotional signals (validation, connection) and agency signals (sharing_story) within a system interaction (family), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment highlights the positive impact and emotional reward of the speaker's work, serving as a strong validation of her methods."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:03:45",
+    "timestamp_end": "00:04:15",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "It's interesting that you say that I'm sitting here in Goosebumps just 'cause my family. All the coaching and all the stuff that we've done is it, it really resonates when you find a coach. So like when my middle daughter was going off to college, my father said to me, and she played D one sport, but she was, you know, more intellectual than she was athlete type of thing. But she's good enough to, to certainly contribute well to the team. And he said, you know, look for a life coach. It's not like she's gonna go and become a professional athlete. But what was interesting about that, I thought about that. So she graduated in 2016, played for four years. He was a phenomenal, her coach was a phenomenal life coach. He was there for her. He taught her so many things.",
+    "moment_type": "validation",
+    "life_stage": "midlife",
+    "health_domain": "Mental Performance",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "validation",
+      "recognition",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains emotional signals (validation, recognition) within a system interaction (education_system), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The host validates the speaker's work by sharing a personal story that draws a direct parallel, reinforcing the concept of a coach as a 'life coach'."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:04:23",
+    "timestamp_end": "00:04:55",
+    "paragraph_ids": [
+      "p18",
+      "p19",
+      "p20"
+    ],
+    "moment_text": "'cause if you label them, yeah, we kind of go at it through like a brain lab. I'm gonna give you tools. You're gonna come back to the brain lab. You're gonna tell me, did this tool work or not to go test drive? I love that. So boys don't wanna talk about feelings. Girls really don't wanna talk about feelings. But those are the things in, in sports we don't wanna talk about are the F words. Fun, failure and fear, right? So if we can talk about them in a way in which the kids don't feel awkward and old, like I deal with professional male athletes. So I, I, we work with the brain lab, it's the same way as me talking about feelings. But we're just calling it the brain lab, so that's smart.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Performance",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "clarity"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_language",
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains multiple barrier signals (stigma, lack_of_language) and agency signals (speaking_up), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment clearly articulates a strategy for overcoming the stigma and lack of language around mental and emotional skills in sports by reframing the conversation as a 'brain lab'."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:05:06",
+    "timestamp_end": "00:05:45",
+    "paragraph_ids": [
+      "p22",
+      "p23"
+    ],
+    "moment_text": "When they leave than when they came in with, right. That's the goal. Because if they, if we can do this, then education gets better. Right? If we can do this, sports ecosystems are doing it. I've got hockey associations, soccer clubs, football clubs, all adopting, we call it the sport ecosystem refresh, where we go in and we give these tools to parents. We give these tools to coaches and athletes. 'cause now. You've armed and weaponized all of your arms of that ecosystem. So now re behavior goes down, and now you're all developing properly. There's no arguing. We've, we've raised the bar of behavior. So now if you misbehave and you've been given three warnings from this club, uh, parents actually get consequences as well, which is important, right? So we have to treat this more like a customer service. Athletes are coming here to get well equipped mentally, holistically, not just reps.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Performance",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains barrier signals (fragmented_care, lack_of_support) and agency signals (making_decisions), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker advocates for a systemic, holistic approach ('ecosystem refresh') to youth sports development, moving beyond siloed coaching to include parents and athletes in a shared behavioral framework."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:06:06",
+    "timestamp_end": "00:07:05",
+    "paragraph_ids": [
+      "p26",
+      "p27",
+      "p28"
+    ],
+    "moment_text": "Uh, what I see is a downfall in education in Canada. Uh, the learning is, is they're doing probably 30% less than what we did years ago because the kids are so far and so slow, the expectations of children have lowered to the point where they're allowed to do whatever they want, like hand in assignments late, be late for class, while those are not setting them up for college or life or work. So where are we gonna start this? We started it before and the kids were doing okay. Right. We're just talking about refreshing it, upping that standard of behavior. Because if we don't, I'm, if we don't make these changes, I'm very concerned about, we are seeing a drop in boys GPAs in the us. Significantly. Significantly. And in the U. In the us. In the us Wow. And Canada. I'm seeing the averages and the teachers, what the teachers are sharing and the data. I can get my hands on. Is all, we're all, they're all lower averages. Kids are failing. The absenteeism has a direct correlation in Marks kids online learning. No kid should be learning online. No kid.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Education",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains a barrier signal (education_gap) and is a direct critique of a system (education_system), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a strong critique of the current state of the public education system in North America, citing lowered expectations, declining performance, and the ineffectiveness of online learning."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:02",
+    "timestamp_end": "00:00:16",
+    "paragraph_ids": [
+      "p2",
+      "p3"
+    ],
+    "moment_text": "I think I'm just trying to make sure that I equip myself daily with a balance, uh, working out. I need to meditate. Meditation is new for me and hard for me to do 'cause I'm wired to go, go, go, and I'm trying to eat well because sleeping, being on my phone less, I'm trying to do those things and instill them in my children, right? So my first goal is right to me to make sure I'm able to help my children, um, and our family.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "calm"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains agency signals (setting boundaries, making decisions) and emotional signals within a family system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:18",
+    "timestamp_end": "00:00:38",
+    "paragraph_ids": [
+      "p4",
+      "p5"
+    ],
+    "moment_text": "So I'm trying to make sure that I follow routines. I do my best. Right. I I don't tend to, I'm not a Waller, I guess is what you're like, I look, I'd rather, okay, here's a problem. Okay. I can give you a solution. Don't bring me, don't bring me a problem. Bring me, I'll, I'll just give you a solution. And, and, and I know I kind of jump at that, but I do wait and I am patient. But if it's a, a problem that my children can fix, I guide them through that. But if it's someone saying, oh, this coach, like write daily in work, I try to say, well, this is this problem. You have to go here and guide. So I'm pretty good at managing my stress because the amount of sad things that I see during the day is quite high and the things that I hear about in all sports at all levels is pretty sad.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "sadness",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains agency signals (making decisions) and emotional signals (sadness, overwhelm) within a workplace system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:39",
+    "timestamp_end": "00:00:52",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "Um, but I do see that the work we're doing is changing this, so that makes me passion driven, not work driven. Right. I love that. I love that passion. Like, don't get me, don't get me wrong. Taxes and finances, that's work to me. Teaching, writing, creating, talking, being a master coach, whatever you wanna call it.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains emotional signals (hope, empowerment) and describes a workplace system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:53",
+    "timestamp_end": "00:01:04",
+    "paragraph_ids": [
+      "p8",
+      "p9",
+      "p10",
+      "p11",
+      "p12"
+    ],
+    "moment_text": "Uh, or an executive coach or a professional coach to athletes. I don't care what you call it. It's, it's the love of teaching. Mm-hmm. I love that. Yeah. So just, yeah. The only part of my job that I don't like is the finances and the tax. I like that, but nobody likes that. I have to admit it. No, but some people thrive off numbers. Yeah. But when numbers are good, they're great. Don't thrive off of helping people do better. That's what I thrive off of.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains emotional signals (confidence, empowerment) and describes a workplace system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "caregiver",
+    "timestamp_start": "00:01:20",
+    "timestamp_end": "00:01:36",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "So 21, 18, and 14. Okay. And we didn't give the kids phones until they were in grade nine or older. 'cause I didn't know this. Awesome. I didn't know we raised the first one. She never had a phone. It was an iPad. And I started to see the behavior changing in her. She became more introverted, so out. Out with the iPad, you know, uh, she was swimming. I'm like, you're not in your room on your, she started to change. I'm like, Nope. And my dad came around. He was like, those are gonna be the death of kids. Those things. That's what my dad said.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "fear",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains agency signals (making decisions, setting boundaries) and emotional signals within a family system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "caregiver",
+    "timestamp_start": "00:01:36",
+    "timestamp_end": "00:01:51",
+    "paragraph_ids": [
+      "p17",
+      "p18",
+      "p19"
+    ],
+    "moment_text": "And uh, I went, I know I have, I, it was just a bad feeling I got, so I had a Blackberry. Remember those? Yeah. I had the Blackberry too. Yeah. I, I, I lost 20 pounds. I, I started to work more and I was pregnant. With the studio, and I didn't realize I was missing my daughter's appointment, so I became addicted to my Blackberry thinking I was building this great business. I was very competitive, right? So I'm gonna build, build, build, but what I was doing is missing things because I couldn't track everything.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "overwhelm",
+      "anxiety",
+      "self_doubt"
+    ],
+    "agency_signals": [
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains barrier signals (time constraint), agency signals (self blame), and emotional signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:01:52",
+    "timestamp_end": "00:02:10",
+    "paragraph_ids": [
+      "p20"
+    ],
+    "moment_text": "So that was one of the reasons why I switched to a phone that I put controls on, and I, I don't really. Scroll that much. Unless it's something where I have to go on and answer a message, I try not to even go on. I use Canva and our social media uses Canva to post, so I feel better when I don't scroll from, for, from a nervous system point of view. I mentally don't wanna see Botox lips and fake photos, and I go on to see if my athletes are, how they're doing. You know, like if they post something like right tho, those are wins for me. So I designed my social media to make me feel good instead of watching social media to make me feel bad.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "calm",
+      "confidence",
+      "relief"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains agency signals (setting boundaries) and emotional signals (calm, confidence) within a media system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:02:12",
+    "timestamp_end": "00:02:22",
+    "paragraph_ids": [
+      "p22"
+    ],
+    "moment_text": "But just, and don't do it for 10 hours. You can do it for 10 minutes, three times a day. Just, just lowering your dopamine. Keeping your dopamine lower is better for you and your weight. Cortisol will bump that right our weight up. So the more you scroll, the more you check your phone, the more you're going to be overweight or battle with weight interest.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "General Health",
+    "system_interaction": "media",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains a barrier signal (lack of information) that the speaker is addressing.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is filling a knowledge gap, which is why lack_of_information is tagged as the barrier she is addressing."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:02:25",
+    "timestamp_end": "00:02:41",
+    "paragraph_ids": [
+      "p24"
+    ],
+    "moment_text": "The love it challenges my, I have athletes that have gone from 10 hours of phony, sedated two who have made the NHLI have. Yeah. I've got, I've got some girls who are in the PWHL. We've got track athletes and NCAA who have made their P personal best. And are in the top three all the time. We have athletes who are trying to draft, who are about to quit their sport, learned how social media made you negatively think, change these things. I love the changes I'm seeing in all of our athletes. I get, I, I can't, they're all winning. I not one of them is losing here.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "confidence",
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains emotional signals (confidence, empowerment) and describes a peer community system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:02:42",
+    "timestamp_end": "00:02:58",
+    "paragraph_ids": [
+      "p25",
+      "p26"
+    ],
+    "moment_text": "So I like to see all of them. They're all winning in all the ways they want and that's what matters to me and the coaches that we work with. The ones that wanna grow and learn to deal with this new, less equipped kid. Watching and, and learning from these coaches about what they're seeing. We're only giving them more tools to work with that. Yeah. So I love those wins. We're winning with the coaches. We're winning with sports, we're winning with the kids, not going to psychotherapists, needing to be on medication. They don't need to be on medications. They need to be outside socializing and off phones. And I'm seeing that's what we.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains barrier signals (education gap), agency signals (seeking information), and emotional signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:02:58",
+    "timestamp_end": "00:03:07",
+    "paragraph_ids": [
+      "p27"
+    ],
+    "moment_text": "Uh, there are, there are, like Australia's way ahead of us, they've banned YouTube, banned social media. Kids are actually signing up for sports. Now. There's a huge link between that. Sorry, I hate those words. I shouldn't say that. But there's a link, direct link between when you ban phones, ban social media, and see an increase in sports signup.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails evidence gate A2: This moment is a system observation about another country without explicit barrier, agency, or emotional signals from the speaker's personal experience.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M012",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:03:12",
+    "timestamp_end": "00:03:19",
+    "paragraph_ids": [
+      "p29"
+    ],
+    "moment_text": "Exactly. When you see exactly the impact is everywhere in the news, the violence, the, the suspensions, the attendance, the behavior. The, A coach got shot by a parent last week, and it happened again last month, 20 years ago, this wouldn't have happened.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "fear",
+      "sadness"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains emotional signals (fear, sadness) and describes a community system interaction.",
+    "risk_flags": [
+      "violence_abuse"
+    ],
+    "notes_for_reviewer": "The mention of a coach being shot warrants the violence_abuse risk flag."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M013",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:03:20",
+    "timestamp_end": "00:03:38",
+    "paragraph_ids": [
+      "p30",
+      "p31"
+    ],
+    "moment_text": "Yeah, I'm kind of, so we have to look about what was working then versus what do we have to do to move forward. Well, the thing is, is it's tricky as well. It's not like you're gonna take away the phones, like, you know, devices. I think eventually this will be like cigarettes for kids. I don't think kids, oh, it'll be like he, with the surgeon general warning, well, I don't think they're gonna be medicine. Just can't cope with this much mental health. And, and I, let's not even say it. It's not even mental health. This is behavioral epidemic. You only have mental health if you're mentally fit. So we need, we have no, no mental health really. So we need to focus on solutions equipping. And once we do that, the kids are good. They can go do whatever they want. They could go like, I could be present. Yeah, you can. I can. Like they can feel like they can do anything. And that's our job is to make them feel like they can do anything.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains barrier signals (lack of language), agency signals (speaking up), and emotional signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker reframes 'mental health' as a 'behavioral epidemic', which constitutes a 'lack_of_language' barrier she is trying to overcome."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M014",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:03:46",
+    "timestamp_end": "00:04:02",
+    "paragraph_ids": [
+      "p34"
+    ],
+    "moment_text": "I do have a plan. We do have a plan and, and I do see a movement that the educational system, the sports system and healthcare cannot sustain this, not with the population. Um, so something needs to change and kids cannot be on the amount of anti-anxiety antidepressants at such a young age when they don't need to be. When they're being drowned by dopamine and, and social media negativity. So I think there's going to be a major change with phones or we're gonna hit a tipping point that we won't know how to recover. And then there'll be a complete ban. That's where I think it might, it'll get to, they're really curious, are too young and two.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "fear"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains barrier signals (fragmented care, as systems cannot sustain the issue) and emotional signals (anxiety, fear).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The mention of 'anti-anxiety antidepressants' for kids warrants the mental_health_sensitivity flag."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M015",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "00:04:03",
+    "timestamp_end": "00:04:11",
+    "paragraph_ids": [
+      "p35"
+    ],
+    "moment_text": "Uncontrolled because their frontal lobe's not developed. So if you put a phone in front of them, a 2-year-old I saw was on a phone the other day in front of his mom at a game, took the phone away from the 2-year-old, screamed because the child loved the dopamine. May this feeling makes you feel good.",
+    "moment_type": "system_observation",
+    "life_stage": "adolescence",
+    "health_domain": "Child Development",
+    "system_interaction": "family",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails evidence gate A2: This moment is an anecdote observing another person's behavior and does not contain the speaker's own emotional, agency, or barrier signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a third-party observation used as an example, lacking the speaker's own lived experience signals."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M040",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "0:28:00.000",
+    "timestamp_end": "0:28:20.000",
+    "paragraph_ids": [
+      "p41",
+      "p42"
+    ],
+    "moment_text": "They can do this. They should, it could be curriculum. In the systems, it could be curriculum. Like I wrote a program for how to, the mental gain for breast cancer, right? How to battle that, right? So we have steps, 10 steps to mentally survive cancer. And, and, and there's really no one in between appointments helping you. You gotta do it all by yourself, right? So we've done educational, sport, and medical.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health & Oncology",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "isolation"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains barrier signals (lack_of_support, fragmented_care) and agency signals (seeking_support) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M041",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "0:29:05.000",
+    "timestamp_end": "0:29:30.000",
+    "paragraph_ids": [
+      "p48"
+    ],
+    "moment_text": "I saw changes in a 10-year-old in, the parents told me the whole day, the next day, and all we did was give him the brain. How do I, what do I do when I mess up on the ice? Okay, what do I do when I mess up at school? Same tool. Okay, so now you gotta do what? He goes, well, I use cross examine my critic. That's a technique. It's best friend on your shoulder tell you you're your best friend, you're your best coach in your head.",
+    "moment_type": "education",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health & Resilience",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "self_advocacy"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (self_advocacy) and emotional signals (empowerment) within an education_system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M042",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "0:29:30.000",
+    "timestamp_end": "0:29:45.000",
+    "paragraph_ids": [
+      "p48"
+    ],
+    "moment_text": "And we tell the kids parents aren't gonna be on the ice with you. Coaches aren't gonna be on the ice with you. They're not gonna be in your exams with you. You have to have your best self-talk voice coach in your head for life. You're your own best friend for life. Right. So we need that to be equipped the best it can be and, and getting the little kids, it's easy.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health & Resilience",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (self_advocacy) and barrier signals (lack_of_support) within a family system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M043",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "educator",
+    "timestamp_start": "0:29:45.000",
+    "timestamp_end": "0:30:10.000",
+    "paragraph_ids": [
+      "p49"
+    ],
+    "moment_text": "Older kids have worse addictive phone habits, so it is harder, it's not not doable because it is, I see it happen every day. They drop their phone time because they know they're seeing the results. They, they feel like they feel faster, more powerful and stronger. 'cause dopamine makes us dopey soon as we go off dopamine, even though they're harder to affect change. And so imagine getting even older. But I think once you feel the results, you feel so good.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health & Digital Wellness",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (making_decisions) and barrier signals (lack_of_information) within a media system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier 'addiction' is not in the vocabulary, so I've used 'lack_of_information' regarding the effects of dopamine as a proxy."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M044",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:30:40.000",
+    "timestamp_end": "0:31:15.000",
+    "paragraph_ids": [
+      "p52"
+    ],
+    "moment_text": "You will never feel better when you go on your phone. You are not gonna feel happier, you are not gonna feel valued. You are not gonna feel important by scrolling. So if you can help younger women by getting off your phone, or your daughters, or your girls or your teams. Help them to learn that phones don't make us more powerful. They actually make us feel like we can't do as much, and this is such an important point in their lives when confidence and self-esteem, esteem for all women is. So tender at this point with social media. Don't let social media control you. You must control it.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health & Self-Esteem",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "self_doubt",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong agency signals (setting_boundaries) and barrier signals (lack_of_validation) related to a media system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M045",
+    "episode_id": "UTS_S4_PODCAST_035.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_035.docx",
+    "speaker_id": "Larissa",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:31:20.000",
+    "timestamp_end": "0:31:40.000",
+    "paragraph_ids": [
+      "p53",
+      "p54"
+    ],
+    "moment_text": "So educating young women about phones and what phones can do to their self-esteem, their confidence, and their resilience. That's probably the most powerful message here today, that phones just will never make us feel better. They'll, they're tools. But they're not gonna make, they're not gonna replace a human friendship. They're not gonna replace our value. They're not gonna right. So, but you can't get anything to help you feel better on a phone.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health & Social Connection",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "loneliness"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional signals (isolation) and barrier signals (social_isolation) within a peer_community system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

@@ -1,0 +1,1220 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Dr. Shalina Ramnarine",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:01",
+    "timestamp_end": "00:02:41",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "Oh my goodness. I first started in therapy, uh, like 15 years ago. Uh, when I was in graduate school, I had just moved from Georgia to St. Louis. I got my PhD at Wash U in St. Louis and I was actually dating a guy and then we broke up and I was like, how do I function? Like what do I do now? I realize I was so used. To kind of relying on him and talking to him about everything. And so I decided to go to therapy for the first time to kind of deal with how I felt about a lot of my childhood and figure out how do I like think for myself now that I was out of this relationship, that looking back on, I was probably very codependent.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confusion",
+      "self_doubt"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: has agency signals and emotional signals with a system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Dr. Shalina Ramnarine",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:23",
+    "timestamp_end": "00:04:00",
+    "paragraph_ids": [
+      "p10"
+    ],
+    "moment_text": "But most recently I went through kind of like an intense therapeutic journey. In the last year, because I found myself in this role that had so many elements of my dream job, but the environment and the space really was stifling me. It was really, it felt like such a weight on my spirit and really just didn't mirror and match who I knew myself to be. The voices that I was hearing, the feedback I was getting about myself didn't match at all. And it created this like cognitive dissonance. Where it was like, who I know myself to be is not matching what I'm hearing, what's happening.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "overwhelm",
+      "confusion",
+      "self_doubt"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: has emotional signals and a system interaction (workplace).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Dr. Shalina Ramnarine",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:00",
+    "timestamp_end": "00:04:42",
+    "paragraph_ids": [
+      "p10",
+      "p11"
+    ],
+    "moment_text": "So I actually went into this 10 week, 10 hour per week dialectic behavioral therapy program, and I was so angry at the time because it was the summer and I wanted to just enjoy the summer and hang out with my friends rather than being an intensive therapy program. But it was one of the best things that could have happened to me. I mean, dialectic behavioral therapy is not a form of therapy that I think a lot of people are familiar. With, but for me, I feel like so many elements of it should be taught to everyone. You know, there are four key parts of DBT. It's about emotional regulation.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anger",
+      "relief"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: has agency, barrier, and emotional signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Dr. Shalina Ramnarine",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:42",
+    "timestamp_end": "00:05:28",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "Oh my gosh, have I learned so much about emotional regulation? In the last year and just the challenges people have on like naming their feelings, like I literally had to get a feeling wheel so I could figure out what is it exactly that I'm feeling and how to name my feelings. Another part of it is stress is tolerance. So what do you do when you're too stimulated, when you're too regulated, when you can't have a conversation about how you're feeling. Another part is mindfulness, which is awareness without judgment. And I have to tell you, Elizabeth, I did not realize how much I judged myself like that. Just learning how to notice something without judging it. That was like a form of, of therapy and maybe like a spirituality on its own. And then the last part of DBT was about interpersonal effectiveness, which is about how to communicate for what you want.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "clarity",
+      "self_doubt"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_language",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: has agency, barrier, and emotional signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Dr. Shalina Ramnarine",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:28",
+    "timestamp_end": "00:05:50",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "So that DBT program totally rewired me. I learned so much about my nervous system. I learned so much about when I'm under stress fight, flight, freeze, or fawn. How that shows up for me. How to understand when I'm outside of my window of tolerance, which is kind of like the zone that you can manage, that you can handle. How do I get myself back into a window of tolerance? How do I deal with big feelings? I mean, it just, it taught me so much.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "clarity",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: has agency and emotional signals with a system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Dr. Shalina Ramnarine",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:28",
+    "timestamp_end": "00:07:28",
+    "paragraph_ids": [
+      "p16",
+      "p17"
+    ],
+    "moment_text": "I had to kind of like make a list of what are the things that have happened in my life that have created negative core beliefs inside of me? Because DBT is kind of like the surface, like how do you manage the behaviors and the feelings, but the trauma therapy was like, what are the unwritten stories you're telling yourself that are going on in the background that are then leading to these feelings? So it was like a double click, taking a step back. That was kind of the most confronting thing I ever did in my life. Spending four months mapping all of my negative core beliefs and where they come from and deconstructing those thoughts. And in from that process, then I went to somatic therapy. Which taught me a lot about how to feel my feelings. So all of these different forms of therapy that I had never even heard about before I started this journey last year, I, I've just been so life changing and I'm so grateful to have the opportunity today to share with you because I think many people aren't aware of these, and I feel like, man, I just want everyone to know so that we can all get the healing that we need, you know?",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "relief",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "seeking_information",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: has agency, barrier, and emotional signals.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Dr. Shalina Ramnarine",
+    "speaker_role": "patient",
+    "timestamp_start": "00:08:38",
+    "timestamp_end": "00:09:16",
+    "paragraph_ids": [
+      "p21"
+    ],
+    "moment_text": "Yeah, I mean, I kind of had no choice, like life was, life was a little like whether or not you wanna go on this journey. I'm putting it in front of you. Right? So I remember the day that I decided to go on leave from j and j and I just kept asking myself, did I fail? Because I'm an immigrant. I came to America when I was 10. I didn't know anything about college and I ended up double majoring in statistics and Biology. Then went to get my PhD, one of the best schools in the country, and like that was so hard. I literally told myself, nothing will break me. Like graduate school broke me.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "hopelessness",
+      "self_doubt",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: has agency, barrier, and emotional signals.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Shalina",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4"
+    ],
+    "moment_text": "I had had six roles at j and j in eight years. You know, I had moved up pretty quickly and moved through roles. I was in departments that, you know, most people don't get to be in. So I had this kind of like, favor, you know, the, the year before I went on leave, I was named a rising star in JJ and I was the first black woman to get that award in eight years. So I had kind of like, in my mind, felt like I could do things, I could change things, you know, during the pandemic I made these videos talking about microaggressions. So that way people wouldn't have to share their stories if they don't want to. 'cause that could be traumatizing. You know, I was the head of the women's group. I was over like the African American group creating function. That started a conversation. So I had a lot of my identity build into this change maker. I gave a TED talk. Focused on activism. When I didn't even have a job at jj, I was a postdoc, so there had been a lot of ways that I had pushed the boundaries and been successful in that. Um, and so to see myself come to this place where going on leave for me meant I can no longer be in this environment, and that was really, that, that ate at my pride to say that I can't handle it. Like that felt like a failure. I was like, how did I grow up not having indoor plumbing, not having hot water for a part of my childhood and I can't handle this environment?",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "mental_wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "shame",
+      "self_doubt",
+      "frustration"
+    ],
+    "agency_signals": [
+      "self_blame",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains agency signals (self_blame) and emotional signals (shame) related to a workplace system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker's identity is deeply tied to her professional success and role as a 'change maker', making the inability to 'handle' the environment a profound personal failure."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Shalina",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "And you know, I think many of my friends felt like. Why is this hitting you so hard? Why is the feedback that you're receiving in this environment bothering you so hard when you have been through so, so many worse things? And that also made me feel a little insecure. Like why is what people are saying to me so hard for me? And I realized that I have put so much value on strength, on doing, on pushing through, and my mind and body was saying, I can't push through this. You are not valuing how much pain I'm feeling by what people are saying to me. You're not valuing what that's triggering in you from your childhood, from things you've heard throughout your life and you're wanting me to push through this. And I refused.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "mental_wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "self_doubt",
+      "isolation",
+      "frustration"
+    ],
+    "agency_signals": [
+      "enduring",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (lack_of_validation) and agency signals (setting_boundaries) within a peer community interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment highlights the invalidation that can come from peers who don't understand the nature of psychological or workplace stress, comparing it unfavorably to past physical hardships."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Shalina",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p7",
+      "p8"
+    ],
+    "moment_text": "So all of my coping mechanisms, they weren't, they weren't working. I was not coping. And it was really like ego death. To admit that like the me that I had built, that I was so proud of, she could no longer survive. She could no longer keep it together, and I had to let her go. I had to let go of the version of me that I knew that I was so proud of and sit in the who am I? How do I function? How do I navigate life now when what I knew of myself is gone?",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "mental_wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "grief",
+      "hopelessness",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "withdrawing"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong agency signals (making_decisions) and emotional signals (grief, hopelessness).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The term 'ego death' is a powerful descriptor for the loss of identity tied to career and the persona of 'strength'."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Shalina",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "And that Crystals phase, you know that butterfly imagery when everything melts, everything, you knew that your way of being no longer works is so painful. And it was so hard for so many months. I often would think like, am I ever gonna get back to me? And then I had to let go of that me, because I was never gonna get back to her. She didn't work. And so I've just had to be really patient as I've built the new me, and I should shouldn't even say I've built it. I've allowed the new me to come to me to be revealed to me to pay attention enough, to listen to her, to see her, to notice her in the moments.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "mental_wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "sadness",
+      "grief",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains agency signals (making_decisions) and emotional signals (grief, hope).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p12",
+      "p13"
+    ],
+    "moment_text": "I can relate to that. Being at the top, doing all these things and having an ego death, I call an ego sedation, you know, just sort of changing. But the reason why I say that Selena is most women. I don't know if it's probably 95% of women. I don't know the exact stat because this is a very, it's both tangible and intangible. Don't take the time to go on this journey. Put the ego aside and see and find out who you are and you know, who am I? You know what, what's life all about, Alfie? I mean, and so I think that you. It's not even giving yourself grace. It's like applauding yourself. It's hugging yourself and saying, I did this and I've taken the time.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional signals (validation) and a barrier signal (time_constraint) within a peer community interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The host validates the speaker's experience and broadens it to a systemic observation about women not taking the time for this inner journey."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Shalina",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p14",
+      "p15"
+    ],
+    "moment_text": "Things that I have put the most energy into my life were my career and my relationships. And my friendships changed, so in so many ways. At the same time, my career completely did. So no one wants to look at themselves and say, the two things that I've invested in the most have completely shattered. No one wants to completely lose their sense of self and see their world as they know it completely changed. You know, it is incredibly painful. And so I understand why many people don't wanna go on the journey, why they avoid it. But I knew that like this was the time to deal with these things because the me that was gonna be on the other side was the me that I needed to get to.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "mental_wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "grief",
+      "sadness",
+      "hope"
+    ],
+    "agency_signals": [
+      "avoidance",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (social_isolation) and agency signals (making_decisions) related to workplace and peer interactions.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Shalina",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p16",
+      "p17"
+    ],
+    "moment_text": "My therapist just laughs at me because he's like you. You can't schedule healing. Like you can't schedule it into this course. It's like I try to make a healing course for myself and one day I just felt like what broke you is not what's going to heal you. And it made me realize that I was doing everything in my head. It wasn't being in my body. So it forced me to go on this journey of like learning how to feel my feelings. I didn't realize how hard that was for me. Like I sat for months with like, what does that even mean to feel your feelings?",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "mental_wellness",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "confusion",
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (lack_of_information) and agency signals (seeking_care) within a healthcare provider interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This is a key insight about the limits of intellectualization in healing from burnout and trauma, and the shift to somatic awareness."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Shalina",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p18",
+      "p19"
+    ],
+    "moment_text": "I am so grateful to what you said about going on the journey, like the freedom I have now, the way I can sit with my emotions now. The way I'm in tune with myself and know my body now is such a gift and I'm so grateful that I got to meet this me because I don't know. There's just so much more now. There's so much more that I can create. There's so much more that I can be connected with other people. There's so much more that I can see of myself. So I just say that to encourage anybody, like the journey is not easy and no one will like it, but it's like the you, you get to meet on the other side is totally worth it.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "mental_wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "empowerment",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional signals (hope, empowerment) and agency signals (sharing_story) within a peer community interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p20",
+      "p21"
+    ],
+    "moment_text": "And I think you're right that, you know, we, you know most people, but let's focus on women. We're so focused on the doing part of life, and you made a comment that we're pushing the, the, we're pushing down, pushing down what we're feeling. I don't even know that, that we're. Consciously doing that. I would say we're more agreed, consciously focusing on what things look like externally, and I think there's a great book, the Second Mountain, I just like the metaphor of it because the first mountain is traveling. It's all about getting to the top, but it's all focused on everything. What you were saying about Selena, all the accomplishment.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_wellness",
+    "system_interaction": "community",
+    "emotional_signals": [],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains a barrier signal (stigma) and an agency signal (enduring) related to a community/societal system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment captures the societal pressure on women to focus on external achievements ('the doing part of life') over internal states."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Shalina",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p23",
+      "p24"
+    ],
+    "moment_text": "You know, I feel like, uh, I used to look so much for my needs in other people, and to me, mental wellness is about learning that like you within yourself have everything you need. And the first times I heard that, it sounded nice, but I didn't really know what that meant. So my word of this year is actually abundance.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "mental_wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "clarity",
+      "confidence",
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains a barrier signal (lack_of_language) and emotional signals (clarity, confidence).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Selena",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00",
+    "timestamp_end": "1:20",
+    "paragraph_ids": [
+      "p45",
+      "p46",
+      "p47",
+      "p48",
+      "p49"
+    ],
+    "moment_text": "I opened Instagram towards the beginning of the year and this content person that I follow said that abundance means that you have everything you need inside of you. And I had to like sit with that, like what does that mean? And I realized to what we were talking about the career, like I love accomplishing things. I love being able to say, I worked really hard on this and this happened, but I can't root my identity in my accomplishments. Because when your identity is rooted in your accomplishments, it's like you're always having to hustle for your worthiness. Everybody needs to hear this. I think that that is brilliant. I keep going. I'm sorry for that. Thank you. Well, I can't fully claim credit for it. I read Brene Brown's book, uh, the Gifts of Imperfection, and she first introduced me to the phrase, hustle for your Worthiness. And I actually had it on my phone every day. I'd have a reminder that went off that said, you don't have to hustle for your worthiness. Because I realized that I had put my identity, who I am in what I did, and basically I was just always chasing the next high. And so this process has told me this mental health process has taught me that my identity is not up for negotiation. It's not determined by my actions. It just is like, like our value as people just is who we are. Just is like, we get to decide that every day and our identity evolves through our actions. You know, tomorrow I could decide I'm gonna be a runner and I just get up and run and then like months from now I become a runner. You know, it's so much more malleable than I thought, and it doesn't need to be grounded in my output.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "clarity",
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment details a significant realization about detaching identity from accomplishments, a common behavioral pattern, supported by clear agency and emotional signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Selena",
+    "speaker_role": "patient",
+    "timestamp_start": "1:20",
+    "timestamp_end": "2:10",
+    "paragraph_ids": [
+      "p50",
+      "p51",
+      "p52"
+    ],
+    "moment_text": "Then you'll always feel that pressure and that focus on your output rather than just being, just living life and creating, you know, that was like a big shift for me and that's what mental health for me is all about. Like learning how to sit with yourself, learning how to show up for your needs. We all need love, care. We all need to feel that sense of worthiness and we don't like, it's not that I'm saying that we should be self-reliant and never care about what other people think about us. I think we should, but I mean in the sense that you can give that love to yourself. You can find your own worthiness within yourself. You can find that care within yourself. It lives in your actions. It lives in the moments of self abandonment. In the time we spend with ourselves and the focus of ourselves. And so that's what mental health is for me. It's like going on that journey of like learning how to recognize that your abundance is within yourself and kind of like, uh, being with yourself.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "confidence",
+      "empowerment",
+      "calm"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment provides a clear definition of mental health from a lived experience perspective, highlighting a behavioral pattern of internal validation and self-care, supported by emotional signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Selena",
+    "speaker_role": "patient",
+    "timestamp_start": "2:17",
+    "timestamp_end": "3:30",
+    "paragraph_ids": [
+      "p54",
+      "p55",
+      "p56"
+    ],
+    "moment_text": "No, I would be freaking out. But I just have this piece where I'm just letting things unfold. And I have to tell you, Elizabeth, it took me like eight months to understand the concept of radical acceptance. I was like, what? Accept what? Realize that you can't change. What? What do you mean I wanna change it? I wanna do it. I was so in the act of energy. And I don't know what happened, but now I'm just like, yeah, I'm gonna talk to people. I'm gonna do things that I find interesting, but I'm gonna let things unfold. And so I'm letting things unfold and I'm learning how to have faith. There is a vision for me that there is a plan for me. You know, I'm super passionate about hearing what I've learned, particularly with women. I just think that there are so many societal messages that negatively impact women and stop us from reaching our truest potential. So I'm just dreaming about how can I continue to show up for myself, but be of service to others?",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "calm",
+      "hope",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment describes a significant behavioral and emotional shift from control to 'radical acceptance,' a key pattern in personal growth, supported by clear emotional signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Selena",
+    "speaker_role": "patient",
+    "timestamp_start": "4:00",
+    "timestamp_end": "5:15",
+    "paragraph_ids": [
+      "p59",
+      "p60",
+      "p61"
+    ],
+    "moment_text": "No agenda, just to do the things that, you know, living a life of purpose and meaning. And so I think that. Yeah, I've always been passionate about healthcare. You know, uh, my grandma is Indian and I grew up with my Indian family, so I grew up as this like little black girl with like my Indian family. And so that is really where my curiosity around health comes from. Because I've always wondered like, well, what does that mean for my health? And you know, when I, once I learned about like the rates of diabetes, hypertension in the African American community, and then when I was in grad school in St. Louis, that's when Mike Brown was killed. So, you know, an image that is forever in my head is of this little boy holding a sign at a protest that says I matter. And that was such a pivotal moment for me because I thought about when I was a kid, I never told anybody I mattered, you know, the color of my skin, my race didn't determine my life in the way that I see it in America. And so once I saw that I was one of three black people getting my PhD across 12 programs. In that time. So it taught me that, you know, there are gonna be places that I'm in where there are no people that look like me. And so I never feel like I can be a voice for anybody because like, you know, I don't know other people's experiences. But I do think that it's important to highlight things that people might not be aware of so that they can get more curious and that they can go talk to people, um, that are in those situations.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "health_equity",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "sadness",
+      "confidence"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment connects lived experience with systemic issues (racism, representation in education) to a commitment to health equity, highlighting a barrier (social isolation) and agency (speaking up). It's a strong candidate for a systemic pattern insight.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Selena",
+    "speaker_role": "patient",
+    "timestamp_start": "5:15",
+    "timestamp_end": "5:41",
+    "paragraph_ids": [
+      "p62"
+    ],
+    "moment_text": "And so. Equitable Healthcare, I think is so much in the fabric and the DNA of who I am, and now I feel like I've went on this personal journey to help me be the type of person that can hold the discomfort. That comes with some of these conversations. Um, and that can show up with empathy, grace, compassion, but also fervor, dedication, like being rooted in what it is I believe in and what it is that I think that we should be creating.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "health_equity",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "confidence",
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment identifies a key protective factor—the emotional capacity to 'hold the discomfort' of difficult conversations—developed through personal experience, which is a significant behavioral pattern.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Selena",
+    "speaker_role": "patient",
+    "timestamp_start": "5:41",
+    "timestamp_end": "6:13",
+    "paragraph_ids": [
+      "p63"
+    ],
+    "moment_text": "So I'm curious to see, to your point where all of this is gonna take me, but I know that the only thing I'm meant to do is continue to evolve. Continue to show up, continue to grow, continue to challenge myself, and so I'm just trying to be obedient to the things I can control and have faith in the rest that there is a plan, that things are unfolding. I've spent so much of my life creating the plan, making things happen. You know, I always lived in this, like I gotta seize the opportunity 'cause I don't know when the next one is gonna come. And I love her. She did so much. She got me here, like I honor that version of me, but I wanna give her rest and like, you know, let her, let her rest.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "calm",
+      "relief",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment provides a powerful emotional and behavioral pattern of acknowledging and releasing a past self, representing a significant stage in a healing or growth journey.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Selena",
+    "speaker_role": "patient",
+    "timestamp_start": "6:36",
+    "timestamp_end": "7:15",
+    "paragraph_ids": [
+      "p66",
+      "p67"
+    ],
+    "moment_text": "'cause when I was at j and J, everyone always asked me, were you it sort of rotational program because I started in regulatory affairs. I moved to the commercial side on a market access team. I went to business development, I went to marketing, then I was in corporate and corporate affairs. So a lot of times when people look at my professional background. They're like, how did you get so many different experiences? Like, were you on a path? And I'm like, no. Like the path just unfolded. Even in that microcosm, I can see how it, like looking back on it, it feels like it was organized. It feels like it was a path, even though in the moment it felt a little like, I'm not sure what's next. I'm trying to figure it out, you know?",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "career_development",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "confusion",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment illustrates a common behavioral and relational pattern of navigating a career path that feels chaotic in the moment but appears coherent in retrospect, supported by a clear workplace system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Selena",
+    "speaker_role": "patient",
+    "timestamp_start": "7:22",
+    "timestamp_end": "8:05",
+    "paragraph_ids": [
+      "p70",
+      "p71"
+    ],
+    "moment_text": "Oh my goodness. So many things, but I will be disciplined and narrow it down to three. So one I would say is don't root your identity in what you do. Like remember that what you do is not who you are. What you do is super important. We spend so much time at work and I love pouring myself into something, but never confuse that for who you are. Who you are is so much more than what you do. And the reason why I think this is really critical is especially in a season where so many people are getting laid off, if you lose who you are, you might feel so lost in life. If who you are was your job. Your job is no longer there. Um, and I think that also happens to a lot of people in retirement as well. So I think learning what you do versus who you are is, is so critical to have those things be distinct in your mind and in your heart.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "fear",
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment provides direct advocacy and a protective strategy against a common risk factor (job loss impacting identity), making it a strong behavioral pattern insight with a clear workplace system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Selena",
+    "speaker_role": "patient",
+    "timestamp_start": "8:05",
+    "timestamp_end": "8:09",
+    "paragraph_ids": [
+      "p72"
+    ],
+    "moment_text": "I think the second thing is you gotta be willing to give up who you are for who you could be.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment presents a core principle of personal growth as a concise, actionable piece of advice, representing a significant behavioral pattern.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Shelina",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:41.000",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "And that is hard because who you are is the person you know. It's the person that you've built is the person that you work so hard for. It's the person that is kind of like home, but there's so much more. And I think as humans we're meant to evolve. I don't think we're meant to stay stagnant. Now, I wanna be clear though, that we shouldn't always be looking for the next version of ourselves and never live the current version, right? So it's a balance of being able to enjoy where you are now. What I mean to say it emotionally, like I have been so, so stuck on who I am and not wanting to let that go, and I had to learn that who I am is so fluid and I need to like loosen the reins to let myself evolve because if not, I'm holding myself back.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "frustration",
+      "hope",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing agency signals ('making_decisions').",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Shelina",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:42.000",
+    "timestamp_end": "0:00:50.000",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "You deserve to me that you. You know, you deserve to meet her and to be with her and see what she's excited about and the freedom she feels and the ways that she looks at life.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing emotional signals ('hope', 'empowerment') within a peer community system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Shelina",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:50.000",
+    "timestamp_end": "0:01:21.000",
+    "paragraph_ids": [
+      "p3",
+      "p4"
+    ],
+    "moment_text": "So I would say that, and then the third thing I would say is I have spent so much of my life. Analyzing myself, thinking about myself, and I saw this thing on Instagram and it said, awareness without compassion is just like torture or something like that. I'm, I'm not phrasing it well, but I have just learned so much in the last year about grace. About compassion, about self-acceptance, because I've lived so much of my life trying to be perfect, trying to have it all together, and it was because I thought that I was only lovable if I was perfect. And I have learned that like grace, compassion, understanding, acceptance, or so critical because the parts of us that we're afraid are unlovable are really just the parts of ourselves that we're avoiding.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "shame",
+      "self_doubt",
+      "relief",
+      "clarity"
+    ],
+    "agency_signals": [
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing barrier signals ('stigma', 'shame_culture') and agency signals ('self_blame').",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M012",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Shelina",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:22.000",
+    "timestamp_end": "0:01:51.000",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "And like we deserve our own love. We deserve our own acceptance. We deserve to be able to sit with all of us, and we shouldn't have this hierarchy where we make some parts of ourselves lovable and other parts of ourselves not lovable. And really that's kind of like buying into the idea of like, you have to be worthy of love, but you don't have to do anything for love. It just is. So I just say that to the like self-critical girlies like me. Mm-hmm. Like you don't need that to be successful. You don't need that to drive you. For years I believed that I did, but that was really just me withholding love for myself and not learning and knowing how to sit with all the parts of me that I thought were unlovable.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing barrier signals ('stigma'), agency signals ('sharing_story'), and emotional signals ('empowerment') within a peer community context.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M013",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Shelina",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:52.000",
+    "timestamp_end": "0:02:01.000",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "And the more that I love those parts of me, the more I see those parts of me. The more love I'm actually able to hold in my life because I can see other people's imperfections and still love them through it.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment",
+      "connection",
+      "clarity"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails evidence gate A2 as it contains only emotional signals with a system_interaction of 'none' and lacks barrier or agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M014",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "0:02:01.000",
+    "timestamp_end": "0:02:15.000",
+    "paragraph_ids": [
+      "p7",
+      "p8"
+    ],
+    "moment_text": "So those are my three last thoughts. Those are three big things, but I, and I'm like, I'm taken aback by all of 'em. The one that really I, I mean it all sticks with me, but the one that goes through my mind, which is you are not. What you do, you are who you are. I just think that's a wonderful message. All three of those very powerful messages. Selena, if people wanna get ahold of you, how do they find you?",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "validation",
+      "recognition"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing emotional signals ('validation', 'recognition') within a media system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M015",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Shelina",
+    "speaker_role": "patient",
+    "timestamp_start": "0:02:15.000",
+    "timestamp_end": "0:02:34.000",
+    "paragraph_ids": [
+      "p8",
+      "p9",
+      "p10"
+    ],
+    "moment_text": "Oh, yes. Well, you know, Shelina, Ramnarine is not exactly a hard name to find. It's. Very unique. So, uh, you can definitely easily find me on LinkedIn and, you know, I'm happy to talk to people and I would love to hear people's stories of their own journeys of how they have navigated some of the things that we've talked about today. So thank you so much, Elizabeth, for the opportunity to share this mental health journey that I've been on and what mental health means to me and some of the things that I've learned along the way.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "hope"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing agency signals ('sharing_story', 'seeking_support') and emotional signals ('connection') within a peer community context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M016",
+    "episode_id": "UTS_S4_PODCAST_030.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_030.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "0:02:35.000",
+    "timestamp_end": "0:02:39.000",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "Thank you so much for getting under the hood and for being open and having such grace and sharing your story. Thank you, Selena. Thank you.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "validation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing an emotional signal ('validation') within a media system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

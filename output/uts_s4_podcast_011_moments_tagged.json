@@ -1,0 +1,945 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique Cupid",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:11",
+    "timestamp_end": "00:04:01",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "But at 48 is when I realized that in my thirties I was going through a major depression and horrible mood swings and just uh, like it was like my darkest decade. And I realized at that moment, at 48 that I was really going through my whole perimenopause stage and it kicked off, I believe at 35. So I had my, my son. My son now is, uh, 24 and I had him at 30. And you know, I thought for the first couple of months, believe it or not, I thought I was going through, um, postpartum. And it was just really bad and it was going on for a long time, and I'm like, wow, postpartum really lasts for years because I, it was just, you know, I, I was going through, um, just very to myself.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Perimenopause",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "confusion",
+      "clarity"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "delayed_diagnosis",
+      "misdiagnosis",
+      "lack_of_information",
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with multiple barrier signals (delayed_diagnosis, misdiagnosis, lack_of_information) detailing a significant knowledge gap in women's health.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker is reflecting at age 48 about her experience in her 30s. The misdiagnosis of postpartum was a self-diagnosis due to a lack of awareness about perimenopause."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique Cupid",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:01",
+    "timestamp_end": "00:04:41",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "I, it would be a sunny day outside and I would be bundled up on the sofa and just not wanting to do anything. Um. My, my husband, you know, just lashing out at him and just thinking, you know, it's not me, it's you. Um, not wanting to just thought, what, what more was there to do in life, you know? Um, I didn't have, um, any desire to want to participate in things and, you know, I have to be there for my son and my family, but I would. Have enough energy to show up for that part. But then after that it was just like, yeah, there's, there's nothing that I wanna do. There's nothing that I can do. Um, and just really looking at myself and, and think something was wrong with me, but not really taking the initiative to really do the work at the time.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness",
+      "isolation",
+      "hopelessness",
+      "anger"
+    ],
+    "agency_signals": [
+      "withdrawing",
+      "self_blame",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong emotional signals (isolation, hopelessness) and agency signals (self_blame, withdrawing) tied to a family system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment vividly describes the functional impact of the speaker's undiagnosed perimenopausal depression."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique Cupid",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:42",
+    "timestamp_end": "00:05:25",
+    "paragraph_ids": [
+      "p12",
+      "p13"
+    ],
+    "moment_text": "So, I mean. It, it was a long time that I was going through that dark phase, and, um, by the grace of God, I, I, I pull my, and I should have went for help, but I put it on myself to pull myself out of it. Um, and that could be a lot. And some people don't have that to do that on their own. And when I look back, I'm just like, like I. I was just going through the motion. It's just like, okay, you're, you're in this funk, Monique, you don't like how you feel in this funk? What are we gonna do about it? Okay. So I, I, I'm gonna figure out how I can find joy, because joy was definitely missing in my life at that point.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "hopelessness",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with clear agency signals (making_decisions) and a barrier signal (lack_of_support), highlighting a moment of self-initiated change.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker explicitly states she 'should have went for help' but didn't, highlighting a barrier and the subsequent need for self-reliance."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique Cupid",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:25",
+    "timestamp_end": "00:06:41",
+    "paragraph_ids": [
+      "p14",
+      "p15"
+    ],
+    "moment_text": "And, um, you know what, what brings me joy? You know, I had to really dig deep to find out what would make me happy just to. Get myself up in the morning and, um, and just feel good about, you know, the day and just being here on, on this, on this earth, you know? Um, so with that in mind, I really dug deep and I started to tap into play. So that play was my, my therapy and. How I played was I looked at other people who were in my age, who were older, I should say. I looked at people who were like, at the time, I was in my thirties, so people who were like five years, seven years older than me, and I was saying, how were they enjoying themselves at this time? And I was finding out that life really can thrive. After, you know, after this, this dark day, right? Life can't thrive. And I'm looking at certain, um, celebrities who are like in their forties and how, um, I'm into music and concerts a lot. And um, I had a coworker who was a big fan of YouTube and she would go to the concerts and then she would go. Backstage and I would look at her, I'm like, you know, how old are you? And you're still doing these things and she's finding so much joy. And then when I, you know, watched the band like Bono and seeing him perform and run around this heart shape stage and have all this energy, I'm like, oh, this is doable. Like this is doable. There's more to life than. You know what you think it is at that moment, but you have to find it, and you have to really do the work and dig deep.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong agency signals (seeking_information, seeking_support) and emotional signals (hope) tied to a peer community interaction, demonstrating a pathway out of isolation.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker finds a path forward not through formal healthcare but by observing peers and media figures, which serves as an informal support and inspiration system."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique Cupid",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:42",
+    "timestamp_end": "00:07:14",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "And that's what I did. And that's when I, um, started to go out more and go to, um, different events for things that I was interested in. And, um, once I started tapping into that, the, the weight was starting to lift off my shoulders because now I had something to help me. Release any kind of, um, anxiety that I would have. Um, you know, just any kind of emotional craziness that would be going on in my head that, um, I was bit by bit finding a way to release it and to be able to enjoy myself again.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "relief",
+      "anxiety",
+      "calm"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with clear emotional signals (relief from anxiety) and agency signals (seeking support) tied to a community interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment shows the direct positive outcome of the realization and actions described in the previous moment."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique Cupid",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:51",
+    "timestamp_end": "00:08:48",
+    "paragraph_ids": [
+      "p20",
+      "p21"
+    ],
+    "moment_text": "I, yeah, I, it was a game changer. Um, and once I started doing that, my forties were like just a whole different story. I was just tapping into, you know, connecting with other people, going out more, um, dancing more. 'cause I love to dance and, um. You know, when I was younger I would be the club kid and, you know, and just dancing and music was just my thing. And so, you know, as you get older there's this idea that, you know, things just stop. And especially, you know, I, I, I'm a Christian, but at the time I was going to church, so that was a lot of things that you think, I think, that I couldn't do. But then I'm like, oh no, I can still do these things. You know, it's, it's nothing wrong with. Dancing to music and moving your body, and like, these are things that are a part of me and it's something that I could never like cut out of my life. So once I was able to tap back into that, there was just so much freedom in that and it made me feel so, so much better.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Aging",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "empowerment",
+      "relief",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong agency signals (setting_boundaries), emotional signals (empowerment), and a barrier signal (stigma) related to age and community norms.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker challenges both ageist ideas ('as you get older... things just stop') and perceived community norms (related to her church) to reclaim an essential part of her identity."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:05.000",
+    "timestamp_end": "00:00:51.000",
+    "paragraph_ids": [
+      "p2",
+      "p3",
+      "p4"
+    ],
+    "moment_text": "So I am a clean beauty advocate. So 10 years ago, um, you know, it started off with my hair and just understanding what products I'm putting on my hair and whatever I put on my hair, it goes through my body. And so I had a business that sold, um, natural hair care products. It was called, uh, cotton Kings and Coils. So it was during the natural hair movement where, you know, women, black women were staying straying away from the chemicals and the perms and just, you know, embracing their natural hair. And so I decided to enter that arena and, you know, start understanding my hair and what it feels like and what it works for it, and learning that, oh, these products really are the best for my hair. So let me find a natural way. So started that clean beauty journey with my hair and then it kind of morphed into, um, makeup because, you know, now we're talking about, um, skincare and makeup and the ingredients that are in there that we put all over our bodies. The biggest organ, it's our skin. And, um, not being aware of these toxic ingredients.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "clarity",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains clear agency signals ('seeking_information') and barrier signals ('lack_of_information' about toxic ingredients), meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:01:04.000",
+    "timestamp_end": "00:01:41.000",
+    "paragraph_ids": [
+      "p7",
+      "p8"
+    ],
+    "moment_text": "And now I transitioned into advocating for pro aging for women in midlife because that's another, um, arena where society kind of looks at us like we're not worthy, you know, and just to. In my head. At the time I thought 50 was the midlife starting right? But then I googled it and it said 40. And I'm like, wait a minute, you mean this whole time? I'm just like celebrating. I'm having a good time. And this whole time society is looking at me like, um, yeah, old lady. It's like, what are you doing? And I'm, I'm like, wow. And then when I started hearing other women talk about it.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Aging",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "confusion",
+      "frustration"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment clearly describes encountering societal stigma ('society kind of looks at us like we're not worthy') and a personal knowledge gap, which are strong barrier signals that pass the evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:01:42.000",
+    "timestamp_end": "00:02:18.000",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "They were not as celebratory as I was with it. And so I began to make it my mission to change the narrative around aging midlife and getting older. And, um, that's when I just decided to create, you know, a platform for, you know, women 40, 50, 60, and older. For, uh, my Instagram page is called, um, the Midlife Glow Chaser. So I started that and basically what that is all about is it's not that I'm chasing things to make me glowy happy. I already have the glow, but I need to keep that glow jar filled. So it's like. I, I haven't, but when it starts to go down, I'm, I'm chasing after something to help me keep it up and going so that I won't be back in the state that I was in my thirties feeling depressed about, you know, things not going, however, which way I, I thought they would go.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "hope",
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment details a clear act of advocacy and empowerment in response to a barrier (stigma), demonstrating strong agency signals that meet eligibility criteria.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:02:19.000",
+    "timestamp_end": "00:02:35.000",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "Yeah. Well, I think it's interesting. Thank you for sharing that. I think what's interesting is the through line is like at each stage you've been almost creating. To the stage or experiencing you're experiencing this at this stage, postpartum, what have you, and like coming out of that shell and just, you know, it's just interesting for you to go into the hair, the clean hair, and then the clean beauty, and then the well aging because they're all interconnected as you look at your journey from, uh, you know, as, as we transition through different times in our life.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "validation",
+      "recognition"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "This moment is a host's reflection and validation. It lacks specific barrier or agency signals from a lived experience perspective, making it ineligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:02:44.000",
+    "timestamp_end": "00:03:30.000",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "Well, how Life of Depa got started, it really started when I, um, turned 50 and I was in a stuck like. So forties was party time. When 50 hit, it was like, I'm stuck again. And I'm just like, what do I do now? Um, do I want to shrivel or do I want to ascend? Do I want to thrive? And, um, life in the pause is what, you know, my partner Dixie and I created is a festival, but the title came from me thinking about creating a blog based on being. In the pause, like I hit 50, I feel like I'm in this jello mold. I can't go anywhere. I don't know what to do. So I'm pausing right now. So I'm in this pause trying to figure out my next move. And so, you know, Dixie and I are talking and we're, you know, tapping into this menopause, um, arena. And we thought, wait a minute. Life in the pause. Life in the pause is not just about well aging, but it's also life during the menopause journey. So you have your perimenopause, your menopause state, and then you have your post menopause, which actually we're in menopause for the rest of our lives.",
+    "moment_type": "lived_experience",
+    "life_stage": "menopause_transition",
+    "health_domain": "Menopause",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hopelessness",
+      "confusion",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment describes a significant emotional experience of feeling 'stuck' (social_isolation) during a life transition and the subsequent agency in creating a new path, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:03:31.000",
+    "timestamp_end": "00:03:46.000",
+    "paragraph_ids": [
+      "p15"
+    ],
+    "moment_text": "So, uh, we created this platform that, um, talks about menopause, well aging. Uh, we do it through education. We come in community and we celebrate it to death because it's something to, you know, not feel like it's a doom and gloom situation, but it is part of our lives. It's, um, something that we're going to experience. So why not make the best out of it and have a great time during this time, you know?",
+    "moment_type": "advocacy",
+    "life_stage": "menopause_transition",
+    "health_domain": "Menopause",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment explicitly states an advocacy mission to combat stigma ('doom and gloom situation') through community and education, demonstrating clear agency and barrier signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:04:09.000",
+    "timestamp_end": "00:05:00.000",
+    "paragraph_ids": [
+      "p18",
+      "p19",
+      "p20"
+    ],
+    "moment_text": "Yeah. So it's about, you know, just bringing women together to really, really connect on the same level as we are during this time in our lives, during this midlife journey, during this menopause journey. And. We wanna create a safe space so that we can have these kitchen table conversations around the whole menopause topic, you know, around the pro aging, well aging topic because um, you know, sometimes people don't have people to talk to about that. You know, 'cause some people are, some women are still like. Don't put me in that category. I like, I will never talk about menopause or aging. Don't talk to me about aging because I'm not there yet. And it's like, it's okay to talk. You know? So we're creating this, this, this safe space so we can all have this conversation about it and the fact that, you know, Dixie and I really embrace it and really enjoy this time. We just wanna make, we just want women to see and inspire women to. Release it. You know, just release that stress, release that stigma because it only weighs you down and it doesn't serve you. So let it go. Come to the table and let's, let's just Kiki and talking, you know, and learn some things about yourself. You know, learn some things about, you know, what it's, what to expect during this time, this, uh, menopause journey. And. And just be, you know, open to hearing ways of how you can embrace, you know, the aging process. Because it can seem scary how society would like for us to believe aging should be, but it's not. It really isn't.",
+    "moment_type": "advocacy",
+    "life_stage": "menopause_transition",
+    "health_domain": "Menopause",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "silence",
+      "social_isolation",
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is rich with evidence of barriers like stigma, silence, and social isolation, and the agency taken to counteract them by creating a safe community space.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:05:01.000",
+    "timestamp_end": "00:05:21.000",
+    "paragraph_ids": [
+      "p21",
+      "p22"
+    ],
+    "moment_text": "Well, what, what I love is just the, the positivity that you both bring to the table. I mean, meeting you now and just hearing the story, um, it just really. You know, being post menopause and understanding that, to bring that joy to this phase, like embracing the fact that we're alive, we're in our next phase. We have so much freedom after in a way, and you know, it doesn't not come with complications, you know, we know that there's complications, but I think. The other thing is, um, Monique, I think it's about attitude, and that's what you're saying is like bringing, you know, that attitude. And so I think it's interesting.",
+    "moment_type": "reflection",
+    "life_stage": "post_menopause",
+    "health_domain": "Aging",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "validation",
+      "hope",
+      "recognition"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "As a host's reflection validating the guest's perspective, this moment lacks the specific barrier or agency signals from a primary lived experience required for promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:05:32.000",
+    "timestamp_end": "00:05:42.000",
+    "paragraph_ids": [
+      "p24",
+      "p25"
+    ],
+    "moment_text": "I feel like I would say two years ago, honestly, I would say it's relatively new. Um, it's relatively new. It was a slow start and then it was like, boom. It just, it just took off like two years and boom, like everybody's talking about it. You see it everywhere. We have commercials now about, you know, menopause.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Menopause",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "recognition"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment observes a shift in the media landscape, implicitly referencing the prior barrier of silence around menopause, thus meeting the evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier signal 'silence' is implied as the opposite of the current state where 'everybody's talking about it'."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "We have, um, so many, um, platforms, a lot of women talking, you know, doctors having things, experts, like, it's just exploding. And I think it's pretty fast how it's exploding. Um, but, you know, it's, it's a great thing 'cause we all need that information. But I think we also need, um, options with the information because I feel like there's just a OneNote. Conversation around certain things and, um, I think the more that these platforms are being created and people are discussing it, the more we'll have a whole lot of, uh, different options for us to choose, which is good 'cause I, I'm all about the options in anything that I do.",
+    "moment_type": "system_observation",
+    "life_stage": "menopause_transition",
+    "health_domain": "Menopause",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals ('seeking_information') and barrier signals ('lack_of_information') within a system interaction ('media').",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is observing the trend of information explosion in the media landscape around menopause, but notes a lack of diverse options or perspectives."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p4",
+      "p5"
+    ],
+    "moment_text": "Oh yes, it's definitely inclusive. Um, but for us, we just wanna make sure that black women are our lead. We center them, you know, because we are two black women, because we've experienced, you know, um, being the last to be privy to any information, you know? Um, because. We are the group that get the products, that have all the toxins in it, and we don't get the education to understand like, you know, this is not, this is not good. You know, and, and what to look for so that you won't purchase it. Like there's, we're so behind and so overlooked with stuff that we're just like, okay, our platform, everyone's included, but just know that.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Menopause",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong barrier signals ('lack_of_information', 'education_gap') and agency signals ('speaking_up') detailing a systemic issue for a specific community.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment explicitly states the mission to center Black women due to systemic inequities in information and product safety."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "Um, and definitely bringing up facts of, you know, how black women are affected by it more. Than the other, uh, group of women. Um, like the education, you know, the education is what we're so big on with life menopause because there was lack of information and resources to us, I mean, to all women at first, you know, and then even more so to us because we are just not in that lineup of, you know, receiving. The, the types of tools that we need. Um, but yeah, so education is, is our, is our thing. Education one community. Yes. 'cause we need community. But I feel like celebration is just missing out of all of this, especially starting out it was just very heavy. Like education is good, but. A lot of education on top, like just sitting there and just hearing all this stuff. It weighs on you. It does it freak and it freaks you out because it's like, oh my God, is this what I have to look forward to? Or you know, this is what I'm going through. It's a lot to take in, but to have that moment that breather and be like, it's gonna be okay. It is gonna be okay. And as we're learning, we are finding joy.",
+    "moment_type": "reflection",
+    "life_stage": "menopause_transition",
+    "health_domain": "Menopause",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "overwhelm",
+      "fear",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong emotional signals ('overwhelm', 'fear') and barrier signals ('lack_of_information', 'lack_of_support') within a system interaction ('peer_community').",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker identifies a critical need to balance heavy educational content with celebration and hope to prevent overwhelm and fear."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "The thing that's also been very interesting to me with all the women I've interviewed in the health, women's health space, and these are women both with conditions, different life stages, as well as the experts is every one of them is accessible to talk about these things that are heavy, to your point, to make them accessible and to do it with. In a celebratory way versus a, versus a stigma a, you know, you know, a shame sort of way, like to sort of reverse the script, reframe the narrative, as you said. I mean, it's an amazing thing and I think that you and Dixie are doing a phenomenal job at that. And then you're accessible as humans. So women can feel they can connect with you because I think it's really hard opening if you don't feel you're in a safe space or in a safe, like right now room. It's you and me, this container. Yeah. You know, um, you're not gonna share and you're not gonna talk and you're not gonna, you are not gonna wanna, and you probably won't even listen because you don't feel comfortable.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "trust",
+      "validation"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture",
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional signals ('trust', 'connection') and barrier signals ('stigma', 'shame_culture') within a system interaction ('peer_community').",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p17",
+      "p18"
+    ],
+    "moment_text": "Well, for me, I am just continuing. To tap into play, just to help. I mean, last year was, last couple of years. Um, my word of the year was play and I, I played, I traveled, I, you know, I auditioned for, uh, you know, uh, a dance, a senior dance team. I, you know, I background acting. I was just out there, just, you know, doing it all up. And I feel like this year. I have to tap a, I got to really dig deep to, to, to play, you know, and, um, and really kind of like go within and just find a different way of taking better care of myself mentally. So whether that be, you know, therapy, which, you know, I'm getting my therapist, um. You know, taking a moment to get a, um, what did she call it, A healing, um, massage. It's a certain type of healing, uh, energy healing, massage, um, doing that, but just really honing in on taking care of my mental state that way.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_care",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong agency signals ('seeking_support', 'seeking_care') related to proactively managing mental wellness.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The mention of therapy and taking care of one's mental state warrants the mental_health_sensitivity flag."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p21",
+      "p22"
+    ],
+    "moment_text": "It's a heavier time to your point. Mm-hmm. It's, you know, I, I, I wake up and I'm like, I'm always happy and whatever. Since January, there's been a weight on me. It's been just really different and I, and I have to work on it to get out and I play in different ways. And so I think hearing that, I think that's a, a really good, um, thing to tell the audience to say like, you know, March for Mental Wellness, find your play, find your interplay. Right?",
+    "moment_type": "validation",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "overwhelm",
+      "sadness"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional signals ('overwhelm', 'sadness') and agency signals ('enduring') related to a personal mental health experience.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The host shares a personal feeling of a 'weight' on her, which relates to mental wellness."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p23"
+    ],
+    "moment_text": "It's I think tapping into your, your inner child and, um. Finding what was innocent and joyful. It really helps you as an adult as well too. You know? I mean, I never thought of it that way, but when I tapped into that and it ignited something in me, I was like, oh, I didn't realize that this laid dormant in me and didn't even know that I can pick up where I left off with that type of joy.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "hope",
+      "relief",
+      "clarity"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong emotional signals ('hope', 'relief', 'clarity') that articulate a personal realization about mental wellness.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment is a powerful realization about reconnecting with joy as a mental health strategy."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:16.000",
+    "timestamp_end": "00:00:58.000",
+    "paragraph_ids": [
+      "p3",
+      "p4",
+      "p5"
+    ],
+    "moment_text": "I, I feel like with, well, aging, you have to be the example and, and it's not necessarily with. Showing you how I do it to be, to how I age. Well, it is like, let me show it as Monique, but however I tap into what brings me joy, because really, well, age is about finding that, having that joy. Um, if you're not happy, well aging is not going to be as easy as you think it is. And, and well, aging is not about, you know. Anti-wrinkle, you know, or the perfect body, or actually, uh, well, aging is embracing what you have, you know, accepting your, your authentic beauty, accepting your authentic weight, and, and, and just being, you know, and, and, and taking care of yourself, you know, with your health.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Healthy Aging",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment contains agency signals related to personal mindset and decision-making about aging, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker defines 'well aging' as a mindset of joy and self-acceptance, contrasting it with societal anti-aging pressures."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:59.000",
+    "timestamp_end": "00:01:21.000",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "And just finding that, that time for you and, and being your true self honestly, is what the well aging is all about. And so with life in the pause, like I said, you know, it's just, um, being an example, Dixie and I being an example of what well aging is for us. And I think, like I said, well aging for everyone. The, the common denominator is. That joy, that joy, that happiness, that, that thing that sparks that, that spark that's in you, that helps you to shine through all of that.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment contains agency signals (sharing story) and describes an interaction with a peer community, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:50.000",
+    "timestamp_end": "00:02:40.000",
+    "paragraph_ids": [
+      "p11",
+      "p12",
+      "p13"
+    ],
+    "moment_text": "I would like to leave them with, especially women in their. Thirties, just be aware of, of your, the changes in you, like the subtleties of those changes because those are the little tiny red flags that can, you know, inform you that something something's about to go down. Um, you know, someone asked me that same question and. I would say I, I told them that, um, like if you see somebody who's, you know, typically, you know, normal, happy, but they feel, you see a little change in how they're presenting themselves or, you know, they're a little bit irritable, not crazy irritable, but just, just those little subtle things that you're like, Hmm, that's pretty, you know, off for her to be, you know, going in that route or say anything. But those little things just. Be mindful of because they can, um, just help you understand sooner than later you know, what's going on and that you can kind of work on or try to really get to the bottom of what's happening so that you can get back to your happy self sooner than later.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Perimenopause",
+    "system_interaction": "none",
+    "emotional_signals": [],
+    "agency_signals": [
+      "tracking_symptoms",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment contains clear agency signals (tracking symptoms) and an implied barrier (lack of information about early perimenopause signs), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is direct advice to women in their thirties about recognizing the early, subtle signs of perimenopause."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_011.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_011.docx",
+    "speaker_id": "Monique",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:05.000",
+    "timestamp_end": "00:03:45.000",
+    "paragraph_ids": [
+      "p15"
+    ],
+    "moment_text": "Yes. That was, that was. A lot to just feel like you're, I have friends, I have family, but for some reason I just felt like, let me just keep it to myself because I don't even know if it was about not wanting anyone to know about it, but I think I just really felt like I could, it's my thing. Let me figure out what's going on. Let me handle it. Um, but that wasn't good. Um, you definitely need to. Have community and be open to sharing your experience because you'd be surprised how many people are going through the same thing at the same time. And I learned that going forward. Like, yeah, I'm just going to speak and then, you know, if I, if I can help somebody or if you know someone can help me, that's great. But you have to communicate in order to, um, help yourself feel a bit better. Some of these, these dark times.",
+    "moment_type": "realization",
+    "life_stage": "menopause_transition",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "loneliness",
+      "connection"
+    ],
+    "agency_signals": [
+      "silence",
+      "withdrawing",
+      "sharing_story",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment details a lived experience with clear emotional signals (isolation), barrier signals (social isolation, silence), and agency signals (withdrawing, sharing story), strongly meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker describes a past feeling of isolation and the realization of the importance of community and sharing, especially during 'dark times'."
+  }
+]

@@ -1,0 +1,1167 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Dr. Kara Reeves",
+    "speaker_role": "educator",
+    "timestamp_start": "00:02:21",
+    "timestamp_end": "00:03:21",
+    "paragraph_ids": [
+      "p6"
+    ],
+    "moment_text": "I would say that, you know, I always knew I wanted to go into healthcare of some, mostly primary health is what I thought I was gonna be doing. I come from a long legacy of primary healthcare providers and so I kind of just took on that identity and assumed that was my path. And then I got into college and I was. The pre-med path, taking my biology classes and, and I just happened to take a psychology class and I really enjoyed it in such a natural way. So then I took another, 'cause I had two social science requirements and I love that one even more. And then I took an upper level psych class. It was abnormal psychology taught by an amazing woman who became my professional and personal mentor later on. And I was like, that's it. I'm, I'm done. I love this. I love this. Entire subject matter. It was just naturally intriguing and, and just pulling me in and I knew it was my calling. So I decided to change my major and that was a, that was a big deal because my dad was very invested in my pre-med career. I told him I was changing. He was extremely disappointed and I, I kid you not told me that this is his worst nightmare. And I was going into a soft science because it was easy. And I didn't care because I loved it. I knew this was right for me. So I stuck to my path and, and my choice and I have not looked back since.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "confidence",
+      "frustration"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "speaking_up",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains clear barrier signals (lack of family support, stigma around 'soft science') and agency signals (making a major life decision despite disapproval) within a family system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is a clinical psychologist, so her role is tagged as 'educator' as she is educating the audience through her professional journey."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Dr. Kara Reeves",
+    "speaker_role": "educator",
+    "timestamp_start": "00:03:21",
+    "timestamp_end": "00:04:16",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "I have been so happy. And I will say I went, I went on, I got my master's degree first in clinical psych, knowing that the clinical psychology is a non terminal degree. So I knew I was gonna go on for my PhD, but I took a little time in between them. I got married. Because I was in love and my personal life is a, a very big part of who I am as well. I was nurturing that as well. And then I went back for my PhD and that was kind of an interesting journey too. I've shared this with lots of young women that I've mentored because. Even within the field of psychology, my career has taken several turns. And so when I first got in my PhD program, you know, clinical psychology, the model for that is a scientist practitioner model. So we need to be scientists first and foremost, and then use that science center clinical practice. But the way it kind of gets translated sometimes to these programs. You need to be a scientist. You need to do research or you're a sellout, or at least that's how I interpreted it. So I quickly adopted that belief system and felt like I knew I wanted to teach and go into academia, and so I needed to be a researcher.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "overwhelm",
+      "self_doubt"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it details a barrier (stigma against non-research paths, a training gap in how the scientist-practitioner model is presented) within the medical training system, leading to an agency response of enduring this pressure.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Dr. Kara Reeves",
+    "speaker_role": "educator",
+    "timestamp_start": "00:04:16",
+    "timestamp_end": "00:04:51",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "So I told myself I love research and convinced myself I did, and I do value research. But what I found out was I actually don't love doing it. I did a lot of it. I've published a lot, but I quickly found out that that was probably not. My calling and I, I will tell you this, it was really interesting because I was sitting in grand rounds at St. Jude listening to all these physicians talk about their patients. And they had, you know, they had, um, oncology, radiology, diagnostic imaging, pathology, all these brilliant minds sitting around the table so vested in these s and I was so jealous. Because I was a researcher and I felt like I was in the nosebleed section of the baseball field, and I just wanted to be down in the trenches with them.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "isolation",
+      "clarity",
+      "self_doubt"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional signals (isolation, jealousy leading to clarity) directly tied to a system interaction (observing clinical practice within medical training), which satisfies the evidence gate for promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Dr. Kara Reeves",
+    "speaker_role": "educator",
+    "timestamp_start": "00:04:51",
+    "timestamp_end": "00:05:41",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "And so that was another time when my gut and my instincts were telling me, Kara, you know, maybe you need to take a different path. And so I did. But before that, I was pre, I was pregnant. This all happened right when I was pregnant with my daughter and my mentor. A dissertation chair called me to his office and wanted to talk to me about my career path. 'cause he was definitely kind of pushing me down the academic medicine path. And he basically told me, I want you to look around at the women in this department that are successful. And he is like, these women aren't married and they don't have kids. You need to make a choice. I thought, sweet, I've already made my choice. I am married and I am six months pregnant. And I am not at all questioning that, but it was just interesting because, you know, of course I was a little offended by it and I didn't really like that. But, you know, he was coming from a man's perspective of the wife at home supporting him and feeling like he could have it all. And I just realized, you know, I'm a woman and a mother and I have, I could have a different path. That doesn't mean I have to sacrifice and make a choice. I also knew I had to carve out my path, like it was gonna be something I had to do with intention.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "pregnancy",
+    "health_domain": "Mental Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "anger",
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "stigma",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is highly eligible due to its clear depiction of a barrier encounter (stigma against mothers in academia, lack of support from a mentor) within the medical training system, which prompted a strong agency response (making a decision, self-advocacy).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a powerful moment illustrating gender bias in academia and medicine."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Dr. Kara Reeves",
+    "speaker_role": "educator",
+    "timestamp_start": "00:05:46",
+    "timestamp_end": "00:06:24",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "I have, I've been on this journey and I did do a fellowship at the hospital, which was research based, and that really sealed the deal that I knew I wanted more clinical opportunities and more, I wanna be more involved in care. So from there, I I, I went the clinical route and I will say that. Was a really hard decision for me because I felt like all of my training had been putting energy into academia, and I knew that I was kind of at a fork in the road, and if I went the academic route, it would mean that I have to go to a particular teaching, you know, whatever institution is available that had my line of research in pediatric oncology, and it might be in Topeka, Kansas. Maybe I don't wanna live in Topeka, Kansas. So all these, you know, personal decisions are presenting themselves, but at the same time, I'm trying to be true to what I'm interested in.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "anxiety",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it describes a barrier (system navigation difficulty due to the rigid structure of the academic career path) and a clear agency signal (making a hard decision to prioritize personal life and professional interests), which meets the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Dr. Kara Reeves",
+    "speaker_role": "educator",
+    "timestamp_start": "00:06:24",
+    "timestamp_end": "00:06:55",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "And an opportunity came to do testing with some women that I went to graduate school with, and that's when I went into the comprehensive testing and I loved it. I, I quickly realized. That I'm a very relational person and, and that I am, and I'm a, the be That provider role was really important to me as, as a professional. And so once I got past my little crisis and identity that I was changing, I was very happy with my decision to move on and do testing, and then went on to the hospital and did therapy, even in the, um, obesity program. I did testing, but really fell into the therapy part and then have moved on into private practice.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "relief",
+      "confidence",
+      "connection"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional signals (relief, confidence) and an agency signal (making decisions) tied to a system interaction (transitioning into a healthcare provider role), satisfying the evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Dr. Kara Reeves",
+    "speaker_role": "educator",
+    "timestamp_start": "00:07:06",
+    "timestamp_end": "00:08:06",
+    "paragraph_ids": [
+      "p14",
+      "p15"
+    ],
+    "moment_text": "It's been a journey as well. I mean, I feel like I really appreciate my research background because I do feel like it informs my practice so much. So I mean, it was a lot of training and it's not, you know, what I choose to spend my, my professional time engaging in personally, but, but I absolutely am so happy that I had the opportunity to really delve into research and, and learn how to interpret it, to, to have it inform my practice. Um, so I really try to use evidence. Space therapies for all of my clients. Uh, and, and, but I also try, I mean, when I was young and I first came out, I would be very, very structured and behavioral and I would have an agenda like mapped out for every therapy session, um, which was great. But with more experience, you come to realize that. You know, nothing is perfectly scripted out, like, you know, and so you have to adapt a lot to what's going on in relevant themes in someone's life that may be different than what they came in initially for. So there's a lot of adjustment along the way. I also try to really, uh, really kind of match the person's needs and their style.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains an agency signal (making decisions about clinical approach) and emotional signals (confidence, clarity) within the context of a system interaction (her role as a healthcare provider).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment reflects on professional growth and the evolution of a clinical practice, which could be a valuable theme."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Dr. Cara",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:07:00",
+    "timestamp_end": "00:07:45",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "I have some clients that really want it very scripted out. They want homework, they want something to work on and really sink their teeth into and have others where that doesn't feel natural to them. It feels forced and, um, cumbersome. So I, I try to kind. Adjust my approach to meet them where they are and I, and have a transparent conversation about it. If you need more structure from me, let me know. And if this is a little too structured and you're not gonna do it, just tell me this is a partnership. And that's how I approach it. I tell them this is a partnership. Like we're working together to help you develop the skills to manage the stressors and emotions that, that you've been struggling with.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "trust",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional and agency signals within a healthcare provider interaction, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Dr. Cara",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:08:15",
+    "timestamp_end": "00:09:00",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "It's funny, you know, once again it's morphed into something else. And I would say the last 10 years maybe starting with the obesity clinic that I worked for and into private practice, I've really been working, I work with males too, so I don't want it all sound like I don't, and I enjoy them. But my practice is mostly, um, girls and in women and I'd say adolescent, young adult, and then. Women as well, and some of the women are, I, I'm very passionate about moms because I feel like moms need to put so much energy into themselves and they tend to give everything outwardly. So, so that's been, I say most of my practice has been female heavy, and yes, the body image thing.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "This moment is not eligible as it primarily describes the speaker's professional history and lacks the required barrier, agency, or emotional signals to pass the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker mentions being 'passionate about moms' but passion is not in the emotional signals vocabulary."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Dr. Cara",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:09:00",
+    "timestamp_end": "00:09:45",
+    "paragraph_ids": [
+      "p7",
+      "p8"
+    ],
+    "moment_text": "I am so happy to support girls and women and hopefully having a healthier relationship with their body and partnering with it and experiencing life through it instead of being at war with it and objectifying it. The objectification, and I know we've talked about this previously, is just, it has been an enormous thing in social media, has ignited or inflamed it, if you will, you know?",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Body Image",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains both emotional and barrier signals related to a media system interaction, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Dr. Cara",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:10:15",
+    "timestamp_end": "00:11:00",
+    "paragraph_ids": [
+      "p10",
+      "p11"
+    ],
+    "moment_text": "And I triggers, I, I just went to New York with my mom and my daughter. I, I started struggling with. Image more than I have in years. And I'm like, why is this back? Like, why, what, why is this rearing its little head right now? And what is, what is causing this? I thought this was behind me. And you know, I reflected on some of my own triggers, so to speak. I know that word's a little, you know, but overused. But really what were my triggers? But then I was also kind of blown away with the fact of we are constantly intentionally managing things in our life. We never check the box and we're done with them, you know? And so, yes, my lived experiences have informed me, they've blindsided me.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Body Image",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "confusion",
+      "anxiety",
+      "self_doubt"
+    ],
+    "agency_signals": [
+      "tracking_symptoms"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional and agency signals within a family system interaction, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Dr. Cara",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:11:00",
+    "timestamp_end": "00:11:45",
+    "paragraph_ids": [
+      "p12",
+      "p13"
+    ],
+    "moment_text": "They have sometimes helped my clients because I'm not. I mean, I have boundaries. I'd never make it about me, but I have found that sometimes being able to share little micro doses, it's very impactful. You know, it helps 'em relate. It helps 'em. It humanizes everything. It lets 'em know we're all struggling. When I shared a little bit with one female client, she's my age, I remember she text me later and said, I cannot thank you enough for sharing that experience of hardship. Because sometimes I've been afraid to tell you things 'cause I, it puts you on a pedestal and think you don't have any difficult, everything in your life is just coming together. I'm like, oh no girl.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "validation",
+      "connection",
+      "trust",
+      "relief"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains multiple emotional signals, an agency signal, and a barrier signal within a healthcare provider interaction, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier 'fear_of_judgment' is from the client's perspective, which the clinician's action directly addresses."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Dr. Cara",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:12:15",
+    "timestamp_end": "00:13:00",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "There, there seems to be a lot of anxiety. Um, I think with social media and other things, it, it, it's a different world that they're living in. There's different influences. They're being influenced all the time, 24 7. So I think the introduction of social media and the constant bombardment of feeds and, and like engineered feeds and, and news and everything else, it definitely seems to be affecting people. And I, I see a lot. Of anxiety in my population that I'm working with. But, but the, but the beautiful thing is I also feel like people are talking about it more. I feel like there's less stigma, you know, especially the younger kids. I mean, they will be so, yeah, they will be so open and come in. It's. Say, I'm feeling really anxious. This is what's going on. They'll, they'll label it.",
+    "moment_type": "system_observation",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "anxiety",
+      "hope"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional, agency, and barrier signals within a media system interaction, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The barrier of 'stigma' is mentioned in the context of it being reduced, which is a key part of the observation."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Dr. Cara",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:13:15",
+    "timestamp_end": "00:14:15",
+    "paragraph_ids": [
+      "p18",
+      "p19"
+    ],
+    "moment_text": "I see a lot in the referrals I'm getting in like teams and pre-teens. And I think, and part of that might be just, you know, my reputation of the type of like practice that I have. But I, but I also think it's because of the exposure they have, you know, with some of the changes culturally. There's a lot of things going on. I mean, there's, there's school shootings that are, I mean, to a point where I have kids when there's been a shutdown or a shooting. Some kids get super anxious and some are almost indifferent, which is like, 'cause they've heard it so much, which is terrifying. So, yeah, there's a, there's a lot of exposure. There's a lot of exposure. So I do think that affects emotional wellness. Uh, the pandemic played a big part too. I mean. That that played a big part. And there was some, there was a survey that came out, the youth risk survey that showed an increase in depression. It was following the pandemic and so it was based on a few questions and the questions made sense given how isolated kids were. That definitely played, played a big part in, in emotional wellness as well.",
+    "moment_type": "system_observation",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "anxiety",
+      "fear",
+      "hopelessness",
+      "isolation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional signals and a barrier signal related to a community system interaction, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:0:0.0",
+    "timestamp_end": "0:0:0.0",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "Something that I think for a long time wasn't getting the recognition that it deserved, um, of practices. Then they're brought into like our therapeutic practices, but also primary care settings as well. And I really enjoyed when I was in a primary care setting. That collaborative component that some of the clinics are bringing where therapies apart and, you know, other meditation pieces and that mind-body piece. So I think that's a big shift that, that I feel like I've noticed in addition to, you know, the evidence-based practices that are more specifically looking at dealing with more acute, uh, psychological issues. But that mind body piece is kind of looking at the wellness component, you know, like kind of a preventative piece and how do we, how do we develop skills to offset some of these symptoms for becoming so acute and debilitating?",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals and emotional signals within a healthcare system interaction, indicating a systemic shift in care.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is observing a positive shift in healthcare towards integrated, preventative mind-body wellness, implying a past training gap."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:0:0.0",
+    "timestamp_end": "0:0:0.0",
+    "paragraph_ids": [
+      "p3",
+      "p4"
+    ],
+    "moment_text": "And that is really exciting. Um, and I like having, I had a young girl in the other day who was describing having some anxiousness that was kind of getting caught. Close, like to an episode of panic. And she told me, she's like, but my mom talked to me. She's like, I did some breathing and this is her first time she came to see me. She's like, I did some breathing exercises and I tried to, I tried to quiet my mind and then my mom kind of talked to me and calmed me down and, and that really helped me sometimes. And I was like. Girl, you are in a great place. Like you are already off to such a good start. I'm so impressed to see you have these skills at this age before you even come in my door and work on hopefully adding some new skills to that.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "hope",
+      "validation",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_care"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains agency and emotional signals, highlighting a positive pattern of early intervention and family support.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This is a clinical anecdote illustrating the positive impact of early coping skill development and parental support for anxiety in an adolescent."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:0:0.0",
+    "timestamp_end": "0:0:0.0",
+    "paragraph_ids": [
+      "p5"
+    ],
+    "moment_text": "I think that's a really good point, which is the fact that these kids, these your, your clients, your patients are coming in and as you said, they're much more educated and informed, so they're coming in with a number of modalities or whatever. In terms of the way they're handling things, which is, which in a way makes your job, it's like easier to identify how to build from.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "recognition"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains agency and emotional signals, reflecting on the changing dynamic of more informed patients interacting with the healthcare system.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:0:0.0",
+    "timestamp_end": "0:0:0.0",
+    "paragraph_ids": [
+      "p7",
+      "p8",
+      "p9",
+      "p10",
+      "p11"
+    ],
+    "moment_text": "And so the, the, the data behind whether a treatment is effective in managing symptoms, it was just, it, they had been working towards that model, but it was just behind, um, primary care for so long. But, but there's definitely been that movement within the field of, of psychology to, to look at it well, um, done like, uh, studies, you know, that are, that are randomized. Clinical control trials where they will compare different treatments and see how effective they are. Maybe it's a therapy versus some kind of medication or it's comparing different therapies, a population of, of people that are screened for the testing, or excuse me, for the research project, but I mean it. It's really important part because quality studies let us know that this treatment is effective for most people, not all, but for most. And and that's why understanding how to read the research is so important to know that a treatment modality is effective. And that's why I love my research training and, and not everybody. You know, gets it, and there's different types of research out there. There are some studies that are really well designed and some that aren't. So that's where it can get really tricky. But evidence-based practice is something that is kind of tried and true to something that will work for like depression. CBT Cognitive behavioral therapy has been around for a really long time. There's some newer iterations of things kind of similar to it that also have data behind it, but that's kind of the gold standard. And it has been shown time and time again to do a really good job at managing symptoms of depression and anxiety.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "trust",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier, agency, and emotional signals related to the healthcare system, explaining a key concept and addressing a knowledge gap.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is explaining the concept of evidence-based care in psychology, highlighting a historical gap compared to primary care and the importance of quality research."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:0:0.0",
+    "timestamp_end": "0:0:0.0",
+    "paragraph_ids": [
+      "p12",
+      "p14"
+    ],
+    "moment_text": "So it is important when you're seeking any kind of therapy to that. Hopefully your therapist is one that values evidence-based practice and treatment modalities. So, and asking questions, I mean, having that conversation with your providers, I mean, if you were gonna take, if you were looking the medication. For a cancer diagnosis, I mean, you would absolutely wanna ask about different types of chemotherapy and radiation options. I mean, you should be an advocate for yourself in therapy just like you hopefully are in medicine. It's really important. It's appropriate, and your doctor or provider should be more than willing to answer your questions, and if they're not, then maybe you need to seek treatment elsewhere.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "asking_questions",
+      "seeking_care",
+      "making_decisions",
+      "changing_providers"
+    ],
+    "barrier_signals": [
+      "provider_dismissal"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong and multiple agency and barrier signals, providing a clear call to action for patient self-advocacy within the healthcare system.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a powerful moment of advocacy, explicitly encouraging patients to question providers and change them if they are dismissive."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:0:0.0",
+    "timestamp_end": "0:0:0.0",
+    "paragraph_ids": [
+      "p16",
+      "p17"
+    ],
+    "moment_text": "You know, and when I was younger and I would work with parents, it would make me so mad when they would say, do you have children? And I had to say no. And I'd be like, that doesn't matter because what I'm saying is right, which is true. But being a parent and helping parents, it is a whole different experience. It is so nice that I could say to them, you know, I, I, I get it, and I, I'm telling you to do something and sometimes I forget to do it. So it's, it's, you know, I've been there. I know, I understand. It's hard. You gotta pick your battles. That's, I think the, I think that's added to my practice. It is. I mean, you could be a great therapist without being a parent, but because I work with so many parents on parenting issues, I really value that I could draw from my own life experiences with my daughter and my son.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Parenting",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier, agency, and emotional signals, reflecting on the role of lived experience in building trust and validation within a therapeutic relationship.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker reflects on how her personal experience as a parent, while not clinically necessary, has enhanced her ability to connect with and validate the experiences of her parent clients."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:0:0.0",
+    "timestamp_end": "0:0:0.0",
+    "paragraph_ids": [
+      "p18"
+    ],
+    "moment_text": "And, and how parenting these kids are so different and, you know, ad adjusting your parenting approach once again to meet the child. Um, one, one approach doesn't fit 'em all. So, you know, and I have two kids with very different temperaments and so it, it, I have had to make a lot of adjustments and I've made some mistakes, but I try to give myself some grace and make some shifts when I realize what I'm doing isn't working. But yes, my, my experience with my kids have been a big part. Those life experiences that I bring into my practice, absolutely.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Parenting",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "calm"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains agency and emotional signals, describing a behavioral pattern of adapting parenting and self-compassion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:0:0.0",
+    "timestamp_end": "0:0:0.0",
+    "paragraph_ids": [
+      "p20",
+      "p21"
+    ],
+    "moment_text": "I feel like that word sums it up. I think it's that shift from illness to wellness like that. Not, not, not to, not to dismiss that there are clinical issues out there, but I, I feel like my practice and my march and what I felt drawn to in a calling to is really working towards wellness. And what does that mean? And one thing about wellness is it doesn't mean, I kinda mentioned this earlier, that you, that the individual lives a life without sadness or anxiousness or anger or even anxiety and like depression. It doesn't mean they live without stressors, right. It's living a life in a way, an approach to life where. There's resiliency, you know, able to overcome those stressors.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier and emotional signals, articulating a paradigm shift from an illness-focused model to a wellness and resiliency model, which counters stigma.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment provides a powerful reframe of mental health, moving away from a purely clinical/illness perspective to one focused on building resilience and overall wellness."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:0:0.0",
+    "timestamp_end": "0:0:0.0",
+    "paragraph_ids": [
+      "p22",
+      "p23"
+    ],
+    "moment_text": "I think that there's a lot of authenticity, like I think being a a well adjusted person is a big part of it is knowing who you are, like all the parts and roles that you serve that make you the collective gestalt of you and nurturing those and living a life that aligns to that. It's kinda like when I talked about my professional journey. A big part of what led me down this path, and I am so fulfilled in my career. I never, I really don't dread going to work. You know, I really don't, but I think it's because. Fortunately, when confronted a few times, I held true to what was right for me, not what I thought was the right path, or what I kind of was told was the right path. And I think that is so important for all of us to know what that is.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "confidence",
+      "empowerment",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong agency and emotional signals, identifying authenticity and value-aligned decision-making as a protective factor for well-being.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker connects the abstract concept of 'wellness' to the concrete action of living authentically and making choices aligned with one's true self, using her own career as an example."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:0:0.0",
+    "timestamp_end": "0:0:0.0",
+    "paragraph_ids": [
+      "p24"
+    ],
+    "moment_text": "I've given a lot of my clients an exercise while I'll draw a circle and have little puzzle pieces in, and I'm like, I want you to label these puzzle pieces with what makes you. As many pieces as you need, but the core aspects of who you are, and maybe it's your role. Mine's always a role as a mom and and a wife. My relationships, it's my profession. But some people, it could be spirituality, it could be adventure. I mean it could be all kinds, it could be philanthropy, it all kinds of things. But what make you, and as long as we know what that is and nurture that on a regular basis, then I think we will be mostly okay.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "clarity",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier, agency, and emotional signals, offering a tangible tool that addresses a lack of language for self-identification, which is a protective factor.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment provides a concrete, actionable exercise for self-discovery and well-being that the speaker uses in her clinical practice."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M026",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Kara",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:06.000",
+    "timestamp_end": "0:01:08.000",
+    "paragraph_ids": [
+      "p2",
+      "p3",
+      "p4",
+      "p5"
+    ],
+    "moment_text": "But, uh, I'm just thinking of a client that has talked to, um, a couple months ago who is at an Ivy school and was like in not her healthiest. State, um, and called me and said, I'm not okay. Like I, and she was exams and, and we kind of went back and, and she immediately started pathologizing it like, I'm depressed and I'm anxious. And once again, I, those are real like mental, um, disorders, but. But we took a step back and I said, let's talk about all of you. Let's talk about who you are and what matters to you, and are you nurturing all of that, you know? And she was nurturing her professional self 'cause she was in a very competitive, you know, school and nurturing that, which was great, but there was no energy left for self care for her relationship. She was a very relational person and she felt disconnected from her friends and, and her partner. And then she's also very philanthropic person, and that's a big part of her identity, and she wasn't able to feel like she was giving outside of her profession. So being able to take a step back and say, we've gotta, we gotta prioritize this even when there's a lot of stress. And she was eating out of a vending machine. We gotta practice self-care. So, and let's, let's worry less about calling it depression, anxiety. I mean, she was on, she had, she was on medication and managing those symptoms. But let's also take a step back and make sure you're nurturing all of yourself. And she, on her next session, came back and said, that was, that was helpful to me. I was able to recognize I can't lose myself during times of stress. And that's what she felt like she'd done. She lost most of herself and was focused on one thing.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "anxiety",
+      "relief",
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains barrier signals (social_isolation, lack_of_language) and agency signals (seeking_care) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This is a strong example of a clinician reframing a patient's self-pathologizing language by taking a holistic view of their life."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M027",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Kara",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:14.000",
+    "timestamp_end": "0:02:01.000",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "That is so important with some of the younger ones as well, because particularly adolescents is a time that we're creating an identity and I have had a lot of, I've seen a tendency because the stigma of mental illness is not what it used to be and it's more accessible. I've also seen kids come in that are taking that identity on unnecessarily as their sole identity. Like, I'm sick, my mental, I've had, I've had teenagers say, because I'm mentally ill. So a lot of my practice has been normalizing this experience that the emotions might be really strong, but we could bridle them, you know, and it doesn't mean you are a mentally ill person. It means you're a person whose emotions have taken over and we just need to develop the skills to learn to manage them more effectively. I am very passionate about that and I, I share that with parents because I think, you know, parents wanna make sure their kids are, are getting healthier and, and not feeling like they're as healthy because of me, but because they are managing this. Better and they can move forward with those skills and they won't need me anymore. That's the whole goal.",
+    "moment_type": "system_observation",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_language",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains multiple barrier signals (stigma, lack_of_language) related to identity formation in adolescents within a healthcare context.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker identifies an unintended consequence of reduced stigma: young people adopting a 'mentally ill' identity. This could be a key insight."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M028",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Kara",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:02:08.000",
+    "timestamp_end": "0:02:33.000",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "Yes, yes. It, it, it, it's, it's very important to me. I mean, I've, and, and, and also sharing like I've, I've shared with some of my kiddos, like whether it's some sadness or anxiety. 'cause I definitely have the anxious mind, um, just saying, you know, when I have been anxious, this is what I've done. You know, we all get anxious sometimes. Just, and I try not to even use, I don't talk about anxiety. I'll talk about, I don't talk about depression with the young ones. I'll say sadness and, and nervousness or fear anxiousness. To try to, once again, you know, kind of normalize the experience of emotions. Even the, the emotions that are uncomfortable, we're all gonna experience, it's, it's being able to tolerate them and manage them.",
+    "moment_type": "education",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "trust",
+      "connection",
+      "validation"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_language",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (sharing_story) and barrier signals (lack_of_language, stigma) describing a specific clinical technique.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment details a specific communication strategy (using simpler words, sharing personal experience) to build trust and normalize emotions."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M029",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Kara",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:02:36.000",
+    "timestamp_end": "0:03:23.000",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "It wasn't necessarily intentional. I think that came through practice and seeing people respond to treatment and recognizing the influence a therapist can have. And the last thing I wanna do, and I've, I've seen, I've seen other providers that aren't as careful and. Just be so quick to throw a bunch of labels on a young kid, like a permanent label without thinking twice about it. And, and I just know kids are so impressionable and, and they are coming into themselves. And so I think seeing people, you be less cautious and then having my own experience of, of watching them respond to how our influence has made me very, very careful and, and really also recognizing, and this is part of my own lived experience, like I get anxious. I've struggled with sadness, I've struggled with bot. Like we, we all have these, I mean, is everyone mentally ill? No. We're humans. We just, part of the human lived experience there is suffering, you know? But we wanna have resiliency in those moments, and that's, I think, a big part of what I want. Women and girls to, to hear that, that we can become resilient and overcome these hardships, that we can be strong and get through it and still suffer, but be able to move on.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "misdiagnosis",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong barrier signals (misdiagnosis, training_gap) based on observing other providers, which informed the speaker's own clinical approach.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker contrasts her approach with that of other providers, highlighting a potential training gap in the field regarding the impact of labeling young people."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M030",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Kara",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:03:33.000",
+    "timestamp_end": "0:04:10.000",
+    "paragraph_ids": [
+      "p15"
+    ],
+    "moment_text": "And you know, the other thing is, I mean, some of the adults that I work with too, it's the same thing. And we never stop growing and evolving. And so as long as we realize that we can have a tremendous impact, just because we're, you know, middle age doesn't mean we don't continue to grow. Hopefully, I wanna continue. I don't wanna peak, I wanna keep evolving as long as I'm here. And so, you know, being able to do that with adults as well can. Yeah, it, it, the kiddos are fun 'cause they just absorb it up. You know, they're just like, if they absorb it, they absorb it. Adults sometimes can be a little bit, um, more skeptical, like it's not gonna work. You know, they've had a lot of experiences that have been hard where maybe they haven't had the successes they want, but I think once they can experience that success and feel these meaningful shifts, even if they're small in the beginning, um, you know, it can have an impact there as well.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "resignation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains an emotional signal (resignation) and a barrier signal (lack_of_validation from past experiences) within a healthcare provider interaction context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment contrasts the experience of treating adults versus children, noting adult skepticism as a barrier born from past negative experiences."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M031",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Kara",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:04:20.000",
+    "timestamp_end": "0:04:43.000",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "It, it you, you can't ever coast really. You have to constantly, you be intentional about, you know, what these, these different processes you're trying to, to put in place and be consistent in their use, and the moment that you stop it starts to creep back. I, I just had that where all of a sudden I was getting worked up and I, I could tell I was just spiking in, in my reactions. Like in a way that I normally don't, I was like, oh, okay. I need to, I gotta, I gotta pull back a little bit and like readjust. And, and I, I could do it. I could do it. I just gotta put a little more effort into it.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "overwhelm",
+      "anxiety",
+      "calm"
+    ],
+    "agency_signals": [
+      "tracking_symptoms",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong agency signals (tracking_symptoms, making_decisions) demonstrating a personal, lived experience of self-regulation.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "A clinician shares a moment of personal vulnerability and the active, ongoing work required for emotional management, which humanizes the expert role."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M032",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Kara",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:04:54.000",
+    "timestamp_end": "0:05:26.000",
+    "paragraph_ids": [
+      "p20"
+    ],
+    "moment_text": "I don't feel dire about the state of people and, and I, I don't feel like we are in a, a horrible place and that, that I feel like sometimes gets projected a little bit. I think that there are unique challenges we have because of our culture. I think in some ways other things have gotten better. I think the fact that that psychology and. Mental wellness has is such a, a more common conversation and people are more open to it is very encouraging to me and so. I am a little bit of an an optimistic person, so there might be other providers that would have a different opinion, but I feel like things are moving in the right direction, and I hope that people can be open to bringing these practices, their daily life so that the experiences they have, their life lived experiences are in line with what they want to get during their lifetime. And we could do that.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains an agency signal (sharing_story) and observes a positive shift in the media/cultural system interaction around mental health.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment provides a hopeful, optimistic counter-narrative to the often-dire discourse on the state of mental health."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p2"
+    ],
+    "moment_text": "I really think that the, the message I, I want to send and I've tried to send in my practice is getting back to what I said about my own life journey. It's, it's really focusing on who you authentically are. Like knowing who you are and being true to that. Not trying to be something else, um, that's just not really who you are. And, and, and hold onto it and let that guide you in your decisions in life. And I feel like that. Is such an important thing to do, and we'll have so much more fulfillment from that process.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness & Authenticity",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains a strong agency signal (making decisions) and presents a protective factor by advocating for authenticity as a guide for life choices, which constitutes a significant behavioral pattern.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is the guest's concluding message of advice to the audience, framed by her experience in her professional practice."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_002.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_002.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "I love that. Know who you are and being true to your authentic self. I just absolutely love that. Um, this has been an incredible conversation. Thank you so much for getting under the hood with me and for sharing your life story.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness & Authenticity",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 evidence gate: This moment is a host's validation and conversational closing. It lacks specific barrier, agency, or emotional signals tied to a system interaction that would make it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "Host's validation of the guest's final message, serving as a transition to the podcast outro."
+  }
+]

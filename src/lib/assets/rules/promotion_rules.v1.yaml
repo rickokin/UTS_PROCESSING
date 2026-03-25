@@ -1,0 +1,67 @@
+locks_version: v1.0
+name: moment_to_insight_promotion_rules
+principle: "No promotion without multi-episode evidence and explicit signal support."
+
+moment_eligibility_gates:
+  A1_structural_completeness_required_fields:
+    - moment_text
+    - episode_id
+    - speaker_role
+    - timestamp_start
+    - timestamp_end
+    - paragraph_ids
+    - life_stage
+    - system_interaction
+    - insight_eligible
+    - eligibility_rationale
+  A2_evidence_gate:
+    pass_if_any:
+      - has_barrier_signals: true
+      - has_agency_signals: true
+      - has_emotional_signals_and_system_interaction_not_none: true
+
+cluster_gates:
+  B1_multi_episode_min_distinct_episodes: 2
+  B2_pattern_coherence:
+    dominant_feature_threshold_pct: 0.60
+    features:
+      - barrier_signals
+      - agency_signals
+      - system_interaction
+      - life_stage
+  B3_episode_dominance_cap_pct: 0.50
+
+promotion_paths:
+  C1_standard:
+    min_moments: 5
+    min_distinct_episodes: 3
+    min_distinct_speaker_roles: 2
+  C2_cross_life_stage:
+    min_moments: 6
+    min_distinct_episodes: 3
+    min_distinct_life_stages: 2
+  C3_clinician_corroborated:
+    min_moments: 4
+    min_distinct_episodes: 2
+    required:
+      clinician_moment:
+        speaker_role: clinician
+        system_interaction_any_of: [medical_training, healthcare_provider]
+      patient_moments_min: 2
+
+disqualifiers:
+  D1_inference_risk: true
+  D2_weak_evidence_density: true
+  D3_overbreadth: true
+
+confidence_assignment:
+  high:
+    requires_any_promotion_path: true
+    min_cluster_coherence_pct: 0.70
+    min_distinct_episodes: 3
+  medium:
+    min_moments: 4
+    min_distinct_episodes: 2
+    cluster_coherence_pct_range: [0.60, 0.69]
+  emerging:
+    description: "Multi-episode signal present but insufficient evidence or coherence for promotion."

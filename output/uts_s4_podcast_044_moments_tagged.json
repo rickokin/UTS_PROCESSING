@@ -1,0 +1,724 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle Rankin",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:28",
+    "timestamp_end": "00:05:08",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "Most impactful point actually was definitely my brother's incident to get me into caregiving, but I would actually say what stands out the most to me is actually when my stepdad passed from prostate cancer. Having the knowledge that I know and going through it again unpacks differently and. I really constantly always see how women carry the full burden. You know, there's this saying, what is it? You burn the candle on both ends. But I feel, uh, specifically as a daughter in that point, I saw how my mom was carrying the candles, right? And how I needed to be there to support her as much as possible in that journey. So for me. In regards to mental health and seeing it from a caregiving lens couldn't be even more important than anything in your everyday life.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Caregiving",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional signals (overwhelm) and a system interaction (family), highlighting the pattern of caregiver burden.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle Rankin",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:08",
+    "timestamp_end": "00:06:31",
+    "paragraph_ids": [
+      "p10",
+      "p11"
+    ],
+    "moment_text": "I'm constantly always reminded myself, right, how do I tend to this garden and how do when new things enter my life? How do I recalculate today? It could be my stepdad. And fortunately we did lose him and he's in a better place 'cause he was in a lot of pain. But there's always something coming into our life that is going to shift us and our mental health is what grounds us with that. I heard this saying and I just, it stays in my mind continuously. It's like when you're driving and you make a wrong turn, it doesn't say bad. It says Recalculating. It's okay. We just have to make another turn. And so as anything that happens in our life, especially things that can weigh on us that are heavy, just like caregiving, how do we recalculate and keep moving through it? Because it is our grounding and how we navigate and look at things from a perspective of. What is positive in it? I did a talk just the other day about caregiving, tending to your garden. One of the key factors in that is weathering the storm, and at first when I was riding it, I said, weathering the storm. We all know that it's gonna happen and it's gonna be heavy. But then I really looked at it from another perspective of sometimes in that storm there is peace. If I really literally think about when there is a storm, there is a peace in that there is a rebuilding that has to happen. And I think all, all of that said in one is my inflection. And it's kind of ironic right now. Today is the aftermath of Hurricane Melissa in Jamaica. And, um, you know, embracing all the emotions that is a fear for my family there and friends and what that is gonna be like. And so it's, it's just always a journey in life. And our mental health must always be at the forefront.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "hope",
+      "calm",
+      "fear"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 evidence gate: While emotional signals are present, the system_interaction is 'none', making it a personal philosophy rather than an observation of a systemic or relational pattern.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle Rankin",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:16",
+    "timestamp_end": "00:08:40",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "It was totally different experiences with my brother. I didn't, mental health was not something that was talked about when I was in my twenties. Uh, not at all, but I do remember the feeling of being anxious and unsettling. Now looking back on it, I'll tell you when my brother accident happened, I can cry at the drop of a dime. That's just how I am. If you tell me a sad story, I'm gonna be boo-hooing and my mom knows that of me. And so I remember the day we got to the I, I. So, let me back up. My brother's accident happened in Indiana. My mom lives in New Jersey. I was in Jamaica at the time and we all had to fly in. So when I finally arrived, like a day later after he's been in the hospital, I wanted to go see him immediately and my mom stopped me. And she said, you're not allowed in this room, Michelle, until you can control your emotions. Because anything that comes in this room has to be of positivity and I know you're gonna cry. And at that moment, to me, I was sad, hurt. You know, I wanna see him, I wanna be present. I'm like looking through like the window. I just want to be there. But now knowing all the things and have done the work in regards to mental health, doing the work is so important of knowing your emotions and how to feel, and I had to feel my way through that and sit in it, you know, to really say, okay, there's other things I can do to support my strong mom here who doesn't cry. From that, from outside and I was able to kind of help navigate the friends that were coming to visit. 'cause you know, he's 21, there was 101 fraternity brothers and all the things, you know, trying to navigate that piece for her that that was my role. I'm happy I got to do that at that time. But I wasn't prepared. I didn't have the toolkit at that time",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Caregiving",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "anxiety",
+      "sadness",
+      "frustration"
+    ],
+    "agency_signals": [
+      "silence",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_language",
+      "lack_of_validation",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong barrier signals (lack_of_language, lack_of_validation) and emotional signals (anxiety, sadness) within a family system interaction.",
+    "risk_flags": [
+      "medical_trauma",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle Rankin",
+    "speaker_role": "patient",
+    "timestamp_start": "00:08:40",
+    "timestamp_end": "00:09:20",
+    "paragraph_ids": [
+      "p14"
+    ],
+    "moment_text": "with my stepdad. That was just four years ago. It felt different. It was a very hard time. However, I knew what to do and I knew that it was okay to feel I, I didn't have the level of anxiety that I had with my brother, for example, we had a caregiver there already set in place. I already knew what was next to come. I already knew how to navigate hospice and. We, I, we had our chaplain that prayed with us and everything in that moment, I felt present and it wasn't reactive and my brother's incident, it was a reaction. So for, for those moments, I felt. Comfortable and at peace, and I, I'm not sure if it's just growth and time of age, but I definitely knew how to manage those emotions much differently at 39 versus at 25 or six.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "calm",
+      "clarity",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong agency signals (making_decisions, seeking_support) and a system interaction with healthcare providers, demonstrating a protective factor.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:01:04",
+    "timestamp_end": "00:02:38",
+    "paragraph_ids": [
+      "p2",
+      "p3",
+      "p4",
+      "p5"
+    ],
+    "moment_text": "I, I wanna pull it up 'cause I don't wanna miss something. So the first thing I know is you have to water your own soil sometimes, you know, just like we hear the analogy of being in the airport, put your mask on first before you help anyone else. And I giggle at that sometimes because. One of the key questions that I ask the audience, and I want anyone who's listening to us to ask this yourself. I know I am a giver, and most women are, and when you are an innate giver, you just give, but how would that be if you actually gave yourself all that you give? And we just don't do that. We don't, and I, and I say this and I have to remind myself on a regular basis, I have to water my own soil. It's funny, I'm sitting here in my kitchen and this bright light is not a light of uh oh. No, it's fabulous. Honestly. It's fabulous. But you know what's funny? It's actually my AI garden. It's a reminder of me, even though I have this thing and I can kind of show it to you, even though I have this thing on I autopilot, it is not always thriving. I still have to tend to it. And so in my mind, we think sometimes things could be so easy to put it on autopilot. It and it's not. And I sometimes am like, okay, I know all the things, I have all the routines, but when am I sitting present in the moment? And that is, that is watering your soil. And I just tell myself, 10 minutes, I have a little massage chair. I sit in it and I read. And for me, reading and just sitting in absolute silence is all I need.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "calm",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency and emotional signals related to a self-care framework, making it a strong example of a protective factor.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:02:39",
+    "timestamp_end": "00:03:43",
+    "paragraph_ids": [
+      "p6",
+      "p7",
+      "p8"
+    ],
+    "moment_text": "All I need to go through the day and make myself grounded. And for someone else it could be different, but that is watering your soil. The other thing is wearing your gloves and I consider wearing the gloves. Ah, my mom. Oh, interesting. My mom put a boundary, right. Just how I told you in the story. We have to have good boundaries and it's okay to say no. We can't be superwomen every day. So that's wearing the gloves and then feeding the soil, right? You have to water your own soil, but how do you feed it? And I think sometimes we think we should be always blooming. And that's, that's, that's not reality, right? And so if you tend to your garden, there's gonna be some pieces they have to pull out and throw that are kind of like dying. It's okay. It's okay. It's okay. If you don't go to that extra event with your girlfriend, you can say no. And so how are you feeding your soil? And then the final thing is what I mentioned, weathering the storm. There is going to be a storm. You know, you need to embrace it. How do you walk through that journey and how do you find peace in it?",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "empowerment",
+      "calm"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong agency signals (setting_boundaries) and emotional signals within a family system interaction context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "00:03:44",
+    "timestamp_end": "00:04:44",
+    "paragraph_ids": [
+      "p9",
+      "p10",
+      "p11"
+    ],
+    "moment_text": "And that's my four tips of emotional survival for caregiving. I love, I actually, I think it's brilliant and I'm just smiling. I have a big smile inside, which you can't see because I. W in my previous job and I continued to, I always talked about watering my garden and my garden were were the creatives who worked with me and I said, you're a beautiful garden. You've all blossomed differently. But I literally used that metaphor. About watering our garden, tending to our garden and planting seeds, and usually the planting seeds of positivity, things are gonna bloom. And to your point, storms will come in and they're gonna bloom differently. Your crop one year will be different from the next. Um, but I love that as a metaphor. Personally, because I think that when we think of ourselves as gardens that need to be tended to and cherish, there's something just really, it's really beautiful. And then when you think of yourself as a caregiver, tending to the external garden, the garden of life, and the fact that things happen, I think it also gives you some distance from things.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional signals (validation, connection) and a clear system interaction (workplace).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:04:53",
+    "timestamp_end": "00:06:50",
+    "paragraph_ids": [
+      "p13",
+      "p14",
+      "p15",
+      "p16",
+      "p17",
+      "p18"
+    ],
+    "moment_text": "That journey I think is. Something of following your gut first. I am one, and I think many people in their twenties, you don't really know what you want to do. You think, you know, and so, you know, I, I have a degree that you mentioned that I'm not using right. But it did give me some skills and it's interesting. I think you should always follow your gut. I laugh about it now because I remember taking the exam. And it kind of associates your personality to a career. And when I took it, I remember it said caregiving, and I remember it said nursing or, and it had made and all these things. And I remember going to my mom and she's like, oh. And I'm not paying for Purdue University. This is all wrong. And coming from a a immigrant family, it's like you're going one direction, right? Like it's either doctor, attorney, engineer, and so, you know, you, you drive off of others and what direction you need to go. When I really became an adult and felt that, okay, I'm finishing my PhD. I like to serve students. I love that. But when walking through the journey of my brother's accident, I really felt a calling. That I had to defy my parents, they were like, well, you haven't even walked the full journey of your doctorate yet, Michelle, you've worked all this way. And I think there's a point of when you're an entrepreneur and you just have a gut feeling like this isn't my purpose, and I know it's that direction. I don't really know why or how or what, but I'm gonna keep going that way. And I, to be quite honest, I really didn't know. My next step. But I think when you have faith in yourself, I really felt strong calling that anything that I betted on, I could bet on myself. And I know, you know, as women, we know that feeling like I know I'm gonna get through this. And I was like, I've never. Done professional caregiving as a agency, but I was like, I think I can do this. And, um, that's why I ended up choosing the pathway of a franchise because I knew I needed support along this way.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Career and Identity",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "confidence",
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "speaking_up",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong agency signals (making_decisions), a barrier signal (lack_of_support), and emotional signals within a family system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:07:42",
+    "timestamp_end": "00:09:24",
+    "paragraph_ids": [
+      "p22",
+      "p23",
+      "p24",
+      "p25"
+    ],
+    "moment_text": "You know, with Fastest Labs, I am using it in a way to help my patients. So one of the ways, you know, I, I'm a certified dementia practitioner, and with dementia, I'm very passionate about it. My mom's oldest sister is in a memory care community, and seeing her dementia and seeing it, the signs early. And then seeing her progress through the disease is, is very hard to witness as well as just, that's who I see on a normal basis for, for other families. And with dementia, I think it is innate. When I meet the caregivers of the anxiety, they feel like, how do I prevent this? From happening to me. Like what do I need to do, Michelle, to prepare myself, right? And I have these conversations often, and so Fastest Labs has given me the toolkit to offer PGX testing and it's pharmacogenetics testing. And I think when you're working with dementia patients, they don't know or they can't communicate how medication makes them feel. And when you have someone with dementia, they are on medication and many times what I have found is their medication might not be best for them. There may be alternate that works better for their DNA. And the PGX test allows us to just do a cheek swab and test to see, uh, how that medication reacts to their DNA. And we have seen significant improvement. By just giving that now to their primary care physician to say, can we alter this medication? This one gives them side effects, and this one doesn't, and I think everyone needs it, but more so for those persons who can't speak to how they feel.",
+    "moment_type": "education",
+    "life_stage": "aging",
+    "health_domain": "Dementia Care",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "lack_of_language",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains clear barrier signals (lack_of_language), agency signals (self_advocacy), and emotional signals within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:09:25",
+    "timestamp_end": "00:10:08",
+    "paragraph_ids": [
+      "p26",
+      "p27"
+    ],
+    "moment_text": "For example, Elizabeth, you know, you may take a medicine and say, Hey, doc. It's kind of giving me a stomach ache. It's making me too tired. You know, they adjust the milligrams and that's just, that's how we work with medicine. We just adjust based on how we communicate it, affect how it affected. And sometimes just seeing the signs aren't enough. Uh, and I do believe that many times we, you know, especially with dementia patients, they can be overmedicated. Uh, and so that gives me the toolkit to add to what we are doing with right at home in addition to just compliance. You know, I feel that the biggest tool or my product is caregivers. And I wanna make sure, hands down, that everyone is receiving the same care I would give to my mom and my dad.",
+    "moment_type": "system_observation",
+    "life_stage": "aging",
+    "health_domain": "Dementia Care",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "lack_of_language",
+      "misdiagnosis"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains barrier signals (lack_of_language, misdiagnosis) and agency signals within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier 'misdiagnosis' is used here to capture the concept of overmedication as a form of incorrect treatment."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p3",
+      "p4"
+    ],
+    "moment_text": "One of the things I have felt, you know, just ensuring that my mother, my father, who have since passed, had the care were getting the love, the things that they needed to progress through their experience. And I, myself, by the way, my mom's younger sister, she has two sisters left, there were four of them, and she's in, she has Alzheimer's. And watching her decline in the whole experience has been really, um, really. Upsetting. Just really upsetting. It's like seeing that disease up close. So to do that all the time and to be in that space and really the care the heart, you must have you, you know? Yeah. I mean, if you're a crier, that must be, you must be shedding a lot of tears, huh?",
+    "moment_type": "lived_experience",
+    "life_stage": "aging",
+    "health_domain": "Alzheimer's Disease",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness",
+      "grief",
+      "overwhelm"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: Contains emotional signals (sadness, grief) and a system interaction (family).",
+    "risk_flags": [
+      "grief_loss",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "Oh, yeah. Oh yeah. Oh yeah. And I think everyone wants to be seen, right? Mm-hmm. I think for myself. I have, I know what this disease does, and I have to always remind myself. So when I go see my aunt, I always know, like when she has a moment of clarity, everyone gets excited, right? Because now she remembered me. Like my aunts get excited. Oh, she remembered me. Yeah, she talked about that. You know, and so if it, if you don't have that experience, and I see it very often where a daughter or a son. Go back to visit their mom and they don't know who they are, and that is a different level of pain. If you don't know how to process that and you don't un and it's not a level of understanding the disease, they understand it, but it's the innate feeling of feeling seen.",
+    "moment_type": "system_observation",
+    "life_stage": "aging",
+    "health_domain": "Alzheimer's Disease",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness",
+      "relief",
+      "validation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: Contains a barrier signal (lack_of_validation) and emotional signals within a family system interaction.",
+    "risk_flags": [
+      "grief_loss",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "I see very often, you know, which then can go in two ways, right? Do I continue to visit often when someone doesn't know me or do I fall back? And then what is that in-between space of that, that, that emotion of sadness, that emotion of guilt of either direction that you choose. Uh, I, I witness that all the time.",
+    "moment_type": "system_observation",
+    "life_stage": "aging",
+    "health_domain": "Caregiving",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness",
+      "self_doubt",
+      "grief"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "withdrawing"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: Contains barrier signals (social_isolation), agency signals (withdrawing), and emotional signals within a family system interaction.",
+    "risk_flags": [
+      "grief_loss",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p10",
+      "p11"
+    ],
+    "moment_text": "It's funny you say that 'cause it speaks to this quote that I always, uh, see and it's caregiving is love in action, but for women it's often invisible labor. And so we want to be seen. Everyone wants to be seen. You wanna have that feeling, but caregiving is an invisible labor that you're not getting any rewards for. And when I think of the journey for women. And there's always the term sandwich generation, caring for your parents and then caring for your kids. But that's not it. That's not encompass of everything. Because I witness women caring for their kids, caring for their parents, and then also caring for their spouse, their partner. You're talking about a triple effect. That is, that is labor intensive, and that is so many hours of care, understanding, tasking, outsourcing, managing them and yourself. It it, it's unspeakable how I witness that.",
+    "moment_type": "system_observation",
+    "life_stage": "midlife",
+    "health_domain": "Caregiving",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "overwhelm",
+      "frustration"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: Contains barrier signals (lack_of_validation, lack_of_support) and emotional signals within a family system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p18"
+    ],
+    "moment_text": "Um, because the burnout is something that I'm constantly aware of myself that I, I said it to myself the other day. I said I have to take some time for myself now, um, because I felt like I was running red. 'cause you're running a business. And many of us are working and you know, whatever your task may be every day, and running that business as well as caring for people. And it's like, I like to always consider it math with care. There is the math piece of the business, but you have to always lead with the care. And that that is heavy. That is heavy.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: Contains agency signals (self_advocacy, setting_boundaries) and a system interaction (workplace).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p19"
+    ],
+    "moment_text": "And so I'm constantly going back to my four pillars and what do I need to do in those four pillars. For myself, and sometimes that's just 10 minutes a day. And sometimes it's just I, that week could be 10 minutes that week that I'd able to spend where I'm pouring back into myself. 'cause I know when I'm depleted. And I think the biggest thing with that, to be quite honest, Elizabeth, that, you know, we don't really talk about. Is just getting good sleep. I can't tell you how many women I talk to, they're not able to sleep to just replenish just a ba our basic needs because they're, they're waking up in the middle of the night mind racing of tasks they need to do later, and they're not well rested.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "overwhelm",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: Contains a barrier signal (lack_of_support) and emotional signals within a peer community system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p20"
+    ],
+    "moment_text": "And so I think one thing that I always am reminded of, I wear a whoop and it will tell me. You, you need recovery. And there's nothing better to me personally to have that constant reminder that it, it's alerting me that I need to put in my rest.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "relief",
+      "validation"
+    ],
+    "agency_signals": [
+      "tracking_symptoms",
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: Contains agency signals (tracking_symptoms, seeking_information).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle Rankin",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "Is agape love and if you ever want to witness love as an action word, it is that caregiving because I think we think, oh, love all the hearts and feelings are great, but love comes with ache. Right. Love comes through every emotion. And how do you, and how can we constantly give the love we wanna receive and also give that to others with balance?",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Caregiving",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: Contains a barrier signal (lack_of_support) and an agency signal (seeking_information) related to the emotional challenges of caregiving within a family context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Michelle Rankin",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "You are just extraordinary. I love the work you're doing. It's really important. Thank you so much, Elizabeth, for having me. I, I love this. It's a great conversation and thank you for having the platform for everyone else to kind of listen in because I know there's a lot of women that will benefit from this.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Peer Support",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection",
+      "hope"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: Contains a barrier signal (lack_of_support) and agency signal (sharing_story) within a peer community context, highlighting the need for supportive platforms.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_044.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_044.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p4"
+    ],
+    "moment_text": "Thank you. I, I do wanna add, um, I wanna add on to two, two other things I just wanna add to that, which is, you know, we're living in such a time of ai, everything, everything is. You know, artificial intelligence. But these real conversations, intimate conversations with women, to give voice to all of their strengths, to celebrate them, I think is so important.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Community Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: Identifies a potential societal barrier (social_isolation) and highlights agency signals (sharing_story, speaking_up) as a protective factor within the media system.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

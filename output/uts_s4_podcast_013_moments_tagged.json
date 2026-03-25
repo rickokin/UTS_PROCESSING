@@ -1,0 +1,1208 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Dr. Mitzi Crock over",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:03:08",
+    "timestamp_end": "00:04:28",
+    "paragraph_ids": [
+      "p_10",
+      "p_11",
+      "p_12"
+    ],
+    "moment_text": "Sure. Well, when I was at WashU, I was a psych major and I thought I wanted to be a clinical psychologist, but what I was finding out was that really, um, those. Uh, programs at the time were few and far between. They were really focused on research. So long story short, I decided to go to medical school with some support from other folks, and I did that. I made that decision my senior year of college. So I, uh, graduated and did all my pre-med in a year and, and, um, took the mca, interviewed and luckily got into medical school, university of Texas, hook 'em, horns, and, uh. I, um, did my resident, yeah, sorry. I did my, um, rotation in psychiatry, which I really loved, but I found myself more of a generalist and wanting to kind of integrate. So I decided that I wanted to do my residency in general internal medicine with the knowledge and belief that mental health is as much a part of that as, you know, your physical health. Um, and really we shouldn't be. Dissecting or, or dividing the two, they really are integrated. Um, our mental health comes from a lot of physiology. So in any case, um, being a primary care physician is what, uh, you know, allows me to do that. And then in practice, uh, kind of fast forward when I was at UCLA and decided to really focus on women's health, you know, it. Became even more apparent, um, in terms of the integration and the effect of, um, our hormones, our external circumstances on women's mental health, and then in turn how that mental health can impact us with, you know, again, just having chronic stress, increasing our cortisol inclu, increasing our inflammation, and then leading to all sorts of chronic diseases. So, you know, I think it was kind of a. Full circle, um, in that I started in psych, but I, I came around to kind of integrating it, uh, more holistically.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "General Wellness",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "clarity",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with both agency signals (making decisions) and barrier signals (fragmented care). It describes a foundational realization about the need to integrate mental and physical health, challenging a systemic norm.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Dr. Mitzi Crock over",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:04:48",
+    "timestamp_end": "00:06:08",
+    "paragraph_ids": [
+      "p_14",
+      "p_15",
+      "p_16"
+    ],
+    "moment_text": "You know, I think part of it is just being comfortable speaking about different things and you know, this may or may not be a little tangential when we were trying to. Help other physicians understand the importance of women's health in primary care. Um, I was asked to do a talk, and the talk that I gave was on domestic violence. And the reason I chose domestic violence as a women's health issue is because it really did integrate not only physical abuse. Some of the challenges around control of another person, but also the mental stresses and the effects of those mental stresses on, on health, and you know, it's much more than that, but also the effects of trauma. On, especially women. And I think that's a big issue for so many women, unfortunately, whether it be, um, trauma, sexual abuse, violence, you know, unfortunately, again, um, we're more, um, at risk for that. And so just really being able to. Have those discussions and ask those questions. I think, you know, certainly, you know, my experience in psychology and psychiatry helped me. Um, I have personal and family experience that I think I brought into it a bit. Um, and then increasing work that was being done to show the. Real connections between things like fibromyalgia and um, and trauma or obesity or eating disorders and, and trauma. Um, again, those are very physical issues that. End up, um, you know, maybe being triggered by those early, uh, experiences and mental health experiences, if you will. And, you know, just going back to the whole issue about stress, you know, the effect of cortisol on heart disease, blood pressure, diabetes, uh, as well as certainly, um, you know, anxiety and depression.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Trauma and Stress",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "confidence"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate by containing both barrier signals (education_gap, stigma) and agency signals (speaking_up). It details a specific action taken to address a systemic knowledge gap in medical training regarding trauma and women's health.",
+    "risk_flags": [
+      "violence_abuse",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker mentions sexual abuse and violence as risk factors for women, which warrants the risk flags."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Dr. Mitzi Crock over",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:07:08",
+    "timestamp_end": "00:08:24",
+    "paragraph_ids": [
+      "p_21",
+      "p_22",
+      "p_23"
+    ],
+    "moment_text": "Well, I think, you know, when you say discover, I think I, I was. As a clinician, putting two and two together, putting the, the information and the research together along with my colleagues. You know, I think that it was a, and the center is still going on, so it wasn't like, um, it was a special point in time to be able to create something like this, especially at that time. Um, and what we wanted to do again, because we were internist and still are, uh, we wanted to focus on. All of the ways that sex and gender impact on our health, whether it's cardio, you know, let me kind of back up. We think about health with those, uh, conditions that manifest differently in women like heart disease, uh, predominantly in women Alzheimer's, osteoporosis, autoimmune diseases, and then obviously the reproductive and gynecological issues. And so we really wanted to address those. Um. With women, um, with the literature that was already there, but also that was growing and that some of our researchers were actually already doing. And so to be able to do that and with that was the understanding that mental health is a part of that. It's, um. Part of our lived experience, it's part of, again, impacting on health. Uh, maybe we didn't know all the little details that we know now, but we certainly knew that it did. And to be able to create, um, an approach to primary care for women that. Understood that, acknowledged it and, you know, uh, treated it, you know, where it needed to be was really kind of, exci was definitely exciting. And to work with my colleagues that were doing it not only in internal medicine, but also we had a great group of sub subspecialists that, uh, were also part of it.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with clear barrier signals (fragmented care) and agency signals (making decisions). It describes the creation of a new care model to address systemic gaps in women's healthcare, making it a strong candidate for a systemic pattern insight.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:11.0",
+    "timestamp_end": "0:02:10.0",
+    "paragraph_ids": [
+      "p4",
+      "p5",
+      "p6"
+    ],
+    "moment_text": "We were about two years. Um. To, uh, to plan. I wanna give a shout out to Iris Cantor who really came to the university and said, I wanna build a women's health center. We had talked about that amongst ourselves, but obviously until you have, um, funding and resources, it doesn't really, uh, take a take shape. So she really, and she's been a continued supporter of the center, um, and endowed a chair, which the woman who took my. Um, plays, who's a good friend and colleague, Janet ler, um, is that endowed chair. So. Um, that's how we got there. Uh, and then again, because we had been thinking about this, but it was also in 1993 that the NIH mandated that women and underrepresented groups had to be included in NIH funded um, research. And that was huge because up until now. We were pretty much doing, um, research on white men and because they were easier, easier to obtain and easier to, uh, to study because of the, um, you know, the lack of, uh, the hormone variations that we have and the fact that, uh, they don't have babies. Um, but we had this gap because we were basically extrapolating those research findings on women and what we know now, that again, all the way to the cellular level we are different.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health Research",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate. This moment details a systemic barrier (education_gap in research focused on men) and the systemic action taken to address it, making it eligible for insight generation about historical gaps and progress in women's healthcare.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:03:05.0",
+    "timestamp_end": "0:03:43.0",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "And just again, connecting the dots. I know I'm going on and on, but I will, you know, connect that.in that things like menopause where there's definitely mood swings and changes for a number of women who don't even know myself included, that I wasn't that and you can't see the, um, forest for the trees and really struggling sometimes. Um. And not having enough information, research, uh, clinical training, um, to know that that's what a woman is suffering from. And then, as you probably have heard, being, uh, prescribed antidepressants and anti-anxiety pills, which may be useful, but that's not the crux of the problem. The problem is the hormone changes and you hear so many women.",
+    "moment_type": "system_observation",
+    "life_stage": "menopause_transition",
+    "health_domain": "Menopause",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "confusion"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "misdiagnosis",
+      "training_gap",
+      "lack_of_information",
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate. This moment explicitly describes a common barrier (misdiagnosis) within a specific system interaction (healthcare_provider) and life stage (menopause_transition), making it highly eligible for pattern analysis.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:03:51.0",
+    "timestamp_end": "0:04:18.0",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "On the other spec, you know, side of the spectrum is postpartum depression and, um. We can talk a little bit, I hope we will about, you know, how policy makes a difference, but, um, you know, it's a major problem and again, women who are having postpartum depression may or may not know that, you know, again, they're just struggling to take care of the baby, perhaps, or, and themselves. And it's really up to, um, our support systems to also be educated so that they can help us and point that out.",
+    "moment_type": "advocacy",
+    "life_stage": "postpartum",
+    "health_domain": "Postpartum Depression",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "overwhelm",
+      "isolation"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "lack_of_support",
+      "education_gap",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate. This moment identifies a specific barrier (lack_of_support, education_gap) within a critical life stage (postpartum) and system interaction (family/community), making it eligible for insights about protective factors.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:05:11.0",
+    "timestamp_end": "0:05:42.0",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "You know, I used to really push back because I didn't want women to, you know, oh, she's on her period, you know, she's on the rag, that's why she's crazy. You know, that kind of thing. Um, and, you know, make it kind of an easy way to dismiss women, but. It's part of our physiology and that's why we have the differences between women and men. Women are twice as likely to be depressed or have depression. Same with anxiety. And it's not, you know, again, could be our, some of our lived experience, um, and environmental issues, but we do have these hormones and they do make a difference.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "frustration",
+      "validation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "stigma",
+      "provider_dismissal",
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate. This moment directly addresses a significant barrier (stigma) and its impact on how women's health is perceived, linking it to a systemic pattern of dismissal. This is highly eligible.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:06:10.0",
+    "timestamp_end": "0:06:42.0",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "So, um, there's nothing to be ashamed about. There's nothing to be, um, I. To say that, that we're the weaker sex, I think we're the stronger sex because many of us, um, if not all of us go through it and just, you know, um, if you're going was at Winston Churchill said, if you're going through, hell just keep going. You know, and I think a lot of women do that, especially, you know, prior to having a, you know, this increased awareness. Nobody ever talked to me about menopause. Um, and I think it's also kind of my, um, PSA talk to your kids about it, men and, you know, boys and girls because, um, that way it won't be such a shock.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Menopause",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "empowerment",
+      "hope",
+      "confidence"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "shame_culture",
+      "stigma",
+      "silence",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate. This moment identifies multiple barriers (stigma, silence, education_gap) and proposes a clear agency-based solution (speaking_up), making it eligible for insights about protective factors and advocacy.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:06:51.0",
+    "timestamp_end": "0:07:16.0",
+    "paragraph_ids": [
+      "p14"
+    ],
+    "moment_text": "I don't know about you, but perimenopause was never a thing. And so I think that only 10 years later, in hindsight, I was like, oh, I got graves. I got this spontaneous autoimmune disease. I was stressed out. I had a high stress job, stressful situation, had a, I had a family member die. Like just all these things coming together and suddenly, and I happened to be perimenopause and even the brain fog that like, just no knowledge and your, of your family's kind of laughing at you, your immediate nuclear family.",
+    "moment_type": "lived_experience",
+    "life_stage": "menopause_transition",
+    "health_domain": "Perimenopause",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "confusion",
+      "isolation",
+      "frustration"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "lack_of_validation",
+      "education_gap",
+      "lack_of_support",
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate. This is a classic lived experience moment detailing multiple barriers (lack_of_information, lack_of_validation) within a specific life stage and system interaction (family), making it highly eligible for pattern analysis.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi (Guest)",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:00",
+    "timestamp_end": "0:00:00",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "Thank you. I know Somi, I just, uh, drew her name, but in any case, um, you know, and she made the point, and I will make the point too. I mean, she's an ob, GYN and she said I had four years of residency and I had 45 minutes of menopause. Yep. I will, I remember my physiology book was huge. The part on women's physiology was so tiny and I think it was toward the back.",
+    "moment_type": "system_observation",
+    "life_stage": "menopause_transition",
+    "health_domain": "Medical Education",
+    "system_interaction": "medical_training",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "training_gap",
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing multiple barrier signals (training_gap, education_gap) within a specific system interaction (medical_training).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi (Guest)",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:00",
+    "timestamp_end": "0:00:00",
+    "paragraph_ids": [
+      "p2"
+    ],
+    "moment_text": "So as you know, at the end of, you know, you never get to the end of the textbook. So, I mean, I think we did, but at the same time, um, and. Not to go on, but you know, part of the other issue in a lot of, um, scientists that are deep into this are, you know, are also saying we're trying to create all these solutions, but we haven't really figured out women's biology yet. And so, um, that's, you know, a challenge, you know, that we're kind of, you know, building the. The plane while we're flying it a little bit or a lot.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health Research",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing barrier signals (education_gap) and an emotional signal (frustration) related to a system interaction (medical_training).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi (Guest)",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:00",
+    "timestamp_end": "0:00:00",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "I worry about the current policies and their effect on that research of biology, research on, um, treatments and, um. You know, and our knowledge, that significant knowledge gap that's there either getting wider or at least at the very least not getting, um, filled in.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health Policy",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "anxiety",
+      "frustration"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing a barrier signal (education_gap) and emotional signals (anxiety, frustration) within a system interaction (community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "System interaction is tagged as 'community' to reflect the broad impact of public policy."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:00:00",
+    "timestamp_end": "0:00:00",
+    "paragraph_ids": [
+      "p4"
+    ],
+    "moment_text": "And so I think that, so I think that in that handling of things in life, we are so busy taking care of others that we don't often take care of ourselves. And I think that's where mental health gets exacerbated because the caregiving for. Everybody else and, and until you start doing that self-care work, I mean, I think, you know, I think it's, it's, it's challenging, right?",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "overwhelm"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing an emotional signal (overwhelm) and a barrier signal (lack_of_support) within a system interaction (family).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi (Guest)",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:00",
+    "timestamp_end": "0:00:00",
+    "paragraph_ids": [
+      "p5"
+    ],
+    "moment_text": "Absolutely. Um, and I'm sure you will agree, self-care can be a bubble bath can be a massage, can be, you know, lighting a candle. But it doesn't have to be that. It's really just saying, I'm gonna get. Go to sleep by 10 o'clock every night. I'm gonna get six hours of sleep. I'm gonna really focus on it. I'm going to do five minutes of breathing. Um, you know, and I'm gonna start saying no. Hmm. I love the no saying no. Yeah. You, I mean, that's self-care. Drawing boundaries and limits.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Self-Care",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing multiple agency signals (setting_boundaries, making_decisions).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi (Guest)",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:00",
+    "timestamp_end": "0:00:00",
+    "paragraph_ids": [
+      "p6"
+    ],
+    "moment_text": "And even though, again, I think a lot of us are uncomfortable, we don't wanna offend somebody, we don't wanna disappoint someone. I have found that. When I'm stretched too thin, I end up disappointing people and I end up frustrating people. And so it's a gift for me to say no. If I really understand that I'm not gonna be able to give my my best time or or effort. So I just hope people. The, your listeners might consider that because I think women especially are not real comfortable with saying no.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "anxiety",
+      "frustration",
+      "relief"
+    ],
+    "agency_signals": [
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing barrier, agency, and emotional signals within a system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi (Guest)",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:00",
+    "timestamp_end": "0:00:00",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "They really had to re they about how their practice was set up. And so the a MA actually came out with a really great, um, monograph that talked about. Just even looking at it through, um, your regular exam, finding things that are maybe not red flags, like bruises or whatever, but pink flags like the, the partner doesn't leave the office, you know, during the exam, or the individual has really an exacerbation of their chronic illness because they're not allowed to come into the ER or whatever it is. So all these different kind of si, you know, little signs.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing a barrier signal (training_gap) and an agency signal (seeking_information) within a system interaction (healthcare_provider).",
+    "risk_flags": [
+      "violence_abuse"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi (Guest)",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:00",
+    "timestamp_end": "0:00:00",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "And in fact, during COVID when many women, um, who were experiencing intimate partner violence were locked in with their abuser, you saw more substance use. You saw, you know, again, more exacerbation of illness and, and certainly more violence. And so, um. Uh, you know, again, it just shows you the interrelatedness of, of all of these issues.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence",
+    "system_interaction": "community",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing a barrier signal (social_isolation) within a system interaction (community).",
+    "risk_flags": [
+      "violence_abuse",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi (Guest)",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:00",
+    "timestamp_end": "0:00:00",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "I would also say that's also another opportunity for self-care. I think a lot of us right now are just, especially when we see all the ramifications, especially in women's health, it's like, it's so overwhelming, but. It's probably overwhelming to your elected representatives as well.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Advocacy",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "overwhelm",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing agency and emotional signals within a system interaction (community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The agency signal 'speaking_up' is inferred from the context of advocating to elected representatives."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi (Guest)",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:00",
+    "timestamp_end": "0:00:00",
+    "paragraph_ids": [
+      "p10"
+    ],
+    "moment_text": "No matter what side of the aisle, women's health is nonpartisan women's health. We know that if we spend, um, just, just double our research dollars in the small amount, we'll get a $14 billion return. We know globally it could be a $1 trillion return. This is, you know, if you. Um, have healthy women, you have healthy caretakers, many of whom are not paid for that caretaking. You have a healthy workforce, you have more productivity, you have better GDP. So I would just say that, and again, I don't know that everybody connects the dots, including representatives about the fact that this research that. It needs to be done will directly affect how we train our physicians and how we provide solutions for those healthcare pro uh, health issues. And so, and that could be an economic boost, it will be an economic boost to our country as well as improve the health of our country. And so I would say. An act of self-care is to write a letter and, and, and get on the phone.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health Policy",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "empowerment"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing multiple agency signals (speaking_up), a barrier signal (education_gap), and an emotional signal (empowerment) within a system interaction (community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M027",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi Krock",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:20:00",
+    "timestamp_end": "00:20:40",
+    "paragraph_ids": [
+      "p_59",
+      "p_60",
+      "p_61"
+    ],
+    "moment_text": "It's, it's critical and, you know. I, I have my fingers crossed everybody that everything, because the past few years, you know, last year with Biden and all, all that he signed off on, you know, the executive orders for that, to think of all the work that all of the women and the women leaders in women's health, um, did to get to where we were. To have that sort of, you know, I, I don't know what the right word is for abolished or taken away, right. There are researchers who are not getting what was awarded to them.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health Policy",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "frustration",
+      "hopelessness"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains a barrier signal (lack_of_support) related to policy changes affecting research funding.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is expressing frustration over political decisions reversing progress in women's health research funding."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M028",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi Krock",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:20:40",
+    "timestamp_end": "00:21:21",
+    "paragraph_ids": [
+      "p_62",
+      "p_63"
+    ],
+    "moment_text": "I will also say the other piece of policy is things like Medicaid. Um, prior, well in the last couple of years, Medicaid, which covers 50% of births in the United States, um, was expanded to for a year after. Delivery to take care of what we call that fourth trimester because so many women, um, have a number of issues, but one of them is postpartum depression. And that impacts on that woman, and it impacts on the care of that child. It impacts on the family. And so I would hate to see that go away. And then we have, again, these women and these families suffering in a way that they don't really need to. If there was support.",
+    "moment_type": "system_observation",
+    "life_stage": "postpartum",
+    "health_domain": "Postpartum Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "fear"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support",
+      "cost_constraint",
+      "access_barrier"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains multiple barrier signals (lack_of_support, cost_constraint) within a healthcare system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M029",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Shireen",
+    "speaker_role": "host",
+    "timestamp_start": "00:21:21",
+    "timestamp_end": "00:22:01",
+    "paragraph_ids": [
+      "p_64",
+      "p_65"
+    ],
+    "moment_text": "I think that's interesting. You just got me thinking, Mitzi on that when you made the comment about, you know, the pars postpartum and the mother's, you know, the, the challenges of taking care of the, the baby and stuff. And you know what we don't realize even in these younger years, and I'm sure that there's studies somewhat on this, the, the cycle effect that it sort of starts that PTSD. The environmental challenges, if you will. So it's like really hard to break that cycle and you know, from an intergenerational trauma, if you will, you're just continuing.",
+    "moment_type": "realization",
+    "life_stage": "postpartum",
+    "health_domain": "Intergenerational Trauma",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains a barrier signal (lack_of_support) and an emotional signal within a family system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The host is connecting the dots between unsupported postpartum challenges and the beginning of intergenerational trauma cycles."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M030",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi Krock",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:22:01",
+    "timestamp_end": "00:22:10",
+    "paragraph_ids": [
+      "p_66"
+    ],
+    "moment_text": "Absolutely. 'cause you're not addressing the underlying symptoms so that you're out, you know, I mean, this is, you don't get bonding. I mean, that's the most primitive, um, you know, thing you can do. And if you miss that, it really does have repercussion. So you're exactly right.",
+    "moment_type": "validation",
+    "life_stage": "postpartum",
+    "health_domain": "Maternal-Infant Bonding",
+    "system_interaction": "family",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains a barrier signal (lack_of_support) related to the repercussions of not addressing postpartum symptoms.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M031",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi Krock",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:23:11",
+    "timestamp_end": "00:24:41",
+    "paragraph_ids": [
+      "p_73",
+      "p_74"
+    ],
+    "moment_text": "I think as a society right now, we have a real challenge. I don't think anyone feels well, I don't think, I think that there is this collective anxiety. Um, I get up every morning, you know, with a, uh, I get up every morning with a knot in my stomach. I, I dread looking at what's going on next. Um, I don't like the uncertainty, you know, some of this. Hopefully we'll, um, uh, shake out. But what I really feel that I think maybe is heightening my anxiety and my lack of wellbeing is the lack of respect that's being shown to people and whether they're being dismissed from their, um, jobs or changes are being made or. You know, um, grants are being frozen. There's, there's just a lack of civility and respect and empathy, and I think that that permeates, um, the zeitgeist in some way and then goes and makes it, you know, more anxiety producing for everyone else and.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellbeing",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "anxiety",
+      "overwhelm",
+      "fear"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains strong emotional signals (anxiety, overwhelm) and a barrier signal within a community system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This is a powerful lived experience moment describing a 'collective anxiety' and its personal impact."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M032",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Shireen",
+    "speaker_role": "host",
+    "timestamp_start": "00:24:51",
+    "timestamp_end": "00:25:41",
+    "paragraph_ids": [
+      "p_76",
+      "p_77"
+    ],
+    "moment_text": "I think that that's really well put, and thank you for sharing that. And I, I couldn't agree more, you know, uh, you wake up in knots. I wake up with the heaviness. I, when I did the introduction the other day, I was saying that this is such an important conversation, wellbeing. We're in a climate where anxieties an all time high and. You know, there's just a weight and a weight on women in particular and of course marginalized groups. All of us are marginalized and um, and I think that, you know, thinking about the mental wellbeing of sys, of a soci, of a, of an individual, 'cause we can focus, to your point on our own self-care, we have to do that to be able to sort of subsist. Um, but then when you think about it from a collective perspective, like what does that mean? And I think that. I think, you know, you made a really, a really good point about that from a society perspective. How do, how do we, like, we're not, it's, this is a time where we're not necessarily able to show up as our best selves in this sort of condition.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellbeing",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "anxiety",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains strong emotional signals (validation, anxiety) and an agency signal within a peer community interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M033",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi Krock",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:26:01",
+    "timestamp_end": "00:26:41",
+    "paragraph_ids": [
+      "p_79",
+      "p_80"
+    ],
+    "moment_text": "So, yeah, and again, all the things that we talked about, but I think you also bring up a point, whereas we, you know, a lot of this feels too big for any one person to deal with. Where are the places that we do have control? Certainly we have control within ourselves. Potentially our families, but also our workplaces or our places of worship. And so, um, or if you're so inclined, your local government. And so I think that that's how we maybe make changes, um, and maybe in an iterative fashion. Uh, but also kind of, I think that when you have a positive interaction that does, uh. Um, benefit your wellbeing and contribute to it. So again, I think that in some ways we wanna change things in a big way, but I think we also have to deal small.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Agency",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains agency and emotional signals within a community system interaction, focusing on finding control amidst overwhelm.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment offers a solution-oriented perspective on how to cope with large-scale societal anxiety by focusing on smaller, controllable spheres of influence."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M034",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi Krock",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:26:51",
+    "timestamp_end": "00:28:11",
+    "paragraph_ids": [
+      "p_82",
+      "p_83",
+      "p_84"
+    ],
+    "moment_text": "Well. First of all, thank you again for having me here. You know, being able to increase awareness and, and thank you for the work that you're doing with that. Um, as you know, I have a, a podcast as well and focused on women's health and all those factors that impact on women's health. We have covered meditation, we have covered, um, stress as being a mo, a working mother. We've talked about stress, we've talked about sleep, sleep hygiene, um, and then menopause and, and postpartum depression. So that's one way you mentioned my other hat, which is investing. So, you know, being able to work with these women's health entrepreneurs, um, especially, um, those that are focusing on, um, mental health, whether it be, again, recognizing menopause and, and changing that trajectory. Or even postpartum depression screening and treatment, um, and even, uh, you know, just, uh, direct services. I, you know, that, that is helpful to me. I am also on the board of a organization called the Institute for Mental Health Research, which was started here in Arizona to, uh, I, I always think of it as an investment. Basically invest in early. New mental health research that is the hardest to get.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health Advocacy",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_information",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains multiple agency signals (sharing_story, seeking_support) demonstrating active advocacy work.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M035",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi Krock",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:28:11",
+    "timestamp_end": "00:28:51",
+    "paragraph_ids": [
+      "p_86",
+      "p_87"
+    ],
+    "moment_text": "Really, you know, the advocacy piece as well that we talked about. And, and then just kind of personally, whenever I can, I talk to people who, um, and increase awareness of systems that may impact on mental health in a way that they may not even realize. Schools, for example, that don't have policies that. They may allow somebody who has an injury to take a medical leave or have take an incomplete, but if it's a mental health issue, they don't see it as important or, you know, the, in the same way. So they may not support that individual or in a, an employer who has a lot of, you have somebody, um, hoops to jump.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health Stigma",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_support",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains multiple barrier signals (stigma, lack_of_support) and agency signals within education and workplace system interactions.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment clearly articulates the systemic barrier of mental health not being treated with the same gravity as physical health in institutional settings like schools and workplaces."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p104"
+    ],
+    "moment_text": "You know, we never put ourselves first. And I'm not the first person to say this, but again, think about being on a plane who do, what do they tell you? Put your mask on first. 'cause if you can't breathe, if you can't function, you can't help anybody else. Um, and you can't help you. Um, so that's number one. I think we don't put ourselves first and we, or we feel guilty about it, and it's like, no, you know, that's, that's something we should do.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it identifies a common barrier (shame_culture around self-care) and promotes specific agency signals (making_decisions, setting_boundaries) as a solution.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p105",
+      "p106"
+    ],
+    "moment_text": "The other thing is, is that. I will tell you, I don't know anyone who doesn't have a mental health challenge of some sort. It's not a failure, it's not a weakness. In fact, some of the strongest people I know are people that have dealt with this and, you know, um, and, and really, uh. Been resilient. Um, and, and it's also not anything to be embarrassed by. So again, if anyone in your audience is feeling down low suicidal, um, 9, 8, 8 is, um, a hotline. Um, you know, your clergy support, whatever you need to do. Um, if you have a loved one that's like, you know, that's having challenges, you know, don't, don't, um, put it under the rug.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_care",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it directly confronts multiple barriers (stigma, shame_culture, silence) related to mental health and provides clear agency signals (seeking_support, seeking_care) as actionable advice.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p107",
+      "p108"
+    ],
+    "moment_text": "The other piece of it is, you know, sometimes we are told, especially as women, um, when we go to the doctor's office, it's all in your head. Well, your head, as you said, is attached to our body. And so it, you know, and there are all sorts of physiological connections as we've talked about. So, um, you know, own that and, and say, okay, so then ad address it.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "provider_dismissal"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it describes a clear barrier encounter (provider_dismissal) within a specific system interaction (healthcare_provider) and promotes agency (self_advocacy) in response.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p109",
+      "p110"
+    ],
+    "moment_text": "And then again, uh, we talked about, you know, mood swings and, you know. Things that are just not right, do get help. And if you see someone who is struggling, don't keep that to yourself. You know, again, they may not even know that because they're in, in the midst of it.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "seeking_support",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "silence",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it highlights agency signals (seeking_care, seeking_support) as a counter to common barriers (silence, social_isolation) within a peer community context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Mitzi",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p111",
+      "p112"
+    ],
+    "moment_text": "Um, and then finally what we talked about, um, for those that are in situations where they can make policy or influence policy or influence workplaces, um. That helps you, that helps, uh, so many others, uh, to do that. But again, I just wanna go back to, you know, the first person and that's you. And really, um, finding ways to, uh, to support yourself.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Public Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it proposes an agency signal (speaking_up) within a systemic context (workplace, policy) and is accompanied by emotional signals of empowerment and hope.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_013.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_013.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p113"
+    ],
+    "moment_text": "Hmm. I really, um, um, that really resonates with me. But I also love the extreme of the policy. I feel like we have a, we have a social responsibility to take care of ourselves first so we can take care of others, and that will lead to that down the road of that, that policy change and being part of, and being an advocate for it.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Public Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [
+      "self_advocacy"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as a reflection that connects an agency signal (self_advocacy) to a broader system interaction (community) and is supported by emotional signals (validation, connection).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

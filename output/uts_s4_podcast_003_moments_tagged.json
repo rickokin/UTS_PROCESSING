@@ -1,0 +1,1459 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Leslie Coplan",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "First of all, I just wanna say once again, how happy I am to be here. Um, one through line is communication and conversation, and there's nothing I like better than. I love small talk, but I also love big talk. I love having meaningful conversation about meaningful things and uh, this was a little bit of a, this is your life experience for me, when you asked me about the inflection point, because I really had to connect the dots. You know, we don't often. Look at our lives, um, there's this great quote, as you live your life, it's kind of appearing like a series of random events bouncing you from thing to thing, causing this situation or that. And later when you look back, it's like a finely crafted novel, right? So there is a through line in all of our lives, and mine has definitely been communication.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Career Path",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "clarity",
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to the presence of agency signals (sharing_story).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Leslie Coplan",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p3",
+      "p4"
+    ],
+    "moment_text": "I had two inflection points I was thinking about. This one is I had been a stay at home mom for a while and I decided I wanted to start thinking about going back to work. But television production didn't really work for my worklife balance. I had none when I was in TV production. And so I started to get interested. I, I was always interested in fitness, so I became a personal trainer once again, didn't think of it. It really wasn't about the, how many situps, it was about the talking and the listening, the empowering, the, you know, and then I had back surgery. I had an emergency spinal incident, and I was like, gee, I can't do that anymore. That moment kind of taught me to lean into, I was 40, almost 40 when it happened. So I did some things that were pretty impulsive. I got a puppy and I cut bangs. Never a good idea in that kind of moment, but I also started thinking if I could do anything, what would I do?",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Career Transition",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "overwhelm",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to the presence of agency and barrier signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Leslie Coplan",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p5",
+      "p6",
+      "p7"
+    ],
+    "moment_text": "And I had this moment where my kids, I have two kids and they're both were interested in theater. They were in this crazy local production of Les Mis that ended up being an incredibly expansive. Same. My son was tiny. He was Gav Rush. He didn't even had never done theater before. My daughter was Madam Sonier and all the moms, it was a new local theater. The moms were kind of pulling together, putting the carpet down like the day before the, the show opened and I saw my kids up there and obviously the musical blame is, is so inspiring. I just started sobbing and I was like, what is happening? Because I'm very much about what is going on and how can that inform what I do next. And what was going on was I was like, oh, this is what I've been doing for the last 18. Whatever they were, 13 and whatever. And I was like, and I've done that pretty well and whatever I want do next, I wanna feel this way about this dedicated, this passionate.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Career Transition",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "clarity",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to the presence of emotional signals and a non-'none' system interaction (family).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Leslie Coplan",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "When I went to social work school, it felt like it was giving theory to things that I had always intuited. I was a very relational kid. I was, uh, brought up in a household where we talked about everything a lot had to get a word and answer twice. And also, you know, feelings and human stories and you know, from gossip to entertainment, stories were very important. But all of a sudden I had all these theories, these relational theories, these systems theories, right? And so it was able to put into practice things that I believed.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Professional Development",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "validation",
+      "clarity",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to the presence of emotional signals and a non-'none' system interaction (medical_training).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Leslie Coplan",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "Also, social work. I chose it specifically. You know, there's a wide range of mental health practitioners, but social work really focuses on strengths. The focus is strength based, so we're looking for the positivity. I've always been a positive person. I mean, try not to be toxically positive, but you know, pos look for the, look for the beauty. Look for the what is going right in your life, what are your resources, things like that. Also, it's considered to be person in environment, so less the medical model of you are depressed, but you are depressed. Because what are the challenges in your life, both culturally, right? Historically, you know, what is the emotional inheritance of your family generation to generation, the burdens that you're carrying. Two challenges with housing, challenges in relationships, and then you know that cultural humility to consider that in every situation. I can't report to know anything about someone else's life until they tell me, so I'm really gonna listen.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health Philosophy",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "confidence",
+      "trust"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to the presence of agency, barrier, and emotional signals in a non-'none' system interaction context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier signal 'training_gap' is inferred from the speaker's contrast between the social work model and the 'medical model'."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Leslie Coplan",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p10"
+    ],
+    "moment_text": "Like I said, I tend to be a positive person. Um, I don't, I don't really have any theory behind this, but I'm just gonna throw it out there. You know, there's a lot of discussion, as I said, of emotional inheritance and intergenerational trauma, you know, and I'm a Eastern European Jewish woman, and you know, there is that whole legacy of survivors of the Holocaust, um, and how that's passed down. Well, my family was already over here. So there was that feeling of like, aren't we lucky? Right. We are so lucky. Lucky. And that's positive, but it can become toxically positive.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Intergenerational Patterns",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "clarity"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to the presence of agency, barrier, and emotional signals in a non-'none' system interaction context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier 'silence' is inferred from the concept of 'toxically positive,' where negative feelings are not expressed."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Leslie Coplan",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "And I think why I was so attracted to social work is because. Just the same way, you know, we're talking about entertainment. My favorite, you know, I love documentaries and I love movies where kind of dark things happen because I was very drawn to the, let's be real. We don't always have to be positive. When something stinks, we can say it stinks. When somethings hard, we can say it's. Parts, but also in social work, you're using your belief in them that, that they can change. You're, you're trying to be, um, you know, lend them your, you know, ego strength. So you do have to have some sort of belief in the human spirit and identify what a strength is for them.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health Philosophy",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "validation",
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to the presence of agency signals and emotional signals in a non-'none' system interaction context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "UTS_S4_GUEST_LESLIE",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p4",
+      "p5",
+      "p6"
+    ],
+    "moment_text": "Well, you said it right there. It is a space for feeling, and it is as close as I can say to something sacred that I felt. You're holding space for someone's feelings. You're bearing witness to their story, to the worst times of their life. You're celebrating the best times of their life. You are connecting those dots for them, kind of like you said, uh, about. We don't always think about our culture and what I said before about kind of the finely crafted novel. A lot of people feel like I'm in this situation, or I'm in this relationship, or I'm in this pattern of behaviors that I wanna stop and they're not zooming back and they're taking it all upon themselves and we're able as over time to collaborate with them.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "validation",
+      "trust",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment describes agency and emotional signals within a healthcare provider interaction, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "UTS_S4_GUEST_LESLIE",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p7",
+      "p8"
+    ],
+    "moment_text": "Right? Improv once again to create awareness around. The story. So for me, therapy was most impactful when I had, you know, issues at work, issues at home, issues in relationships, and over time I realized how my, you know, my childhood and my intergenerational, whatever, all of that went into play. And then I saw how I was showing up in all of these places. Yes, the boss, I love my boss, but yes, the boss, yes the husband loved my husband, but you know, things. But what was I doing? Because the through line there was me, I was the character that I was writing. And uh, once you can see it, then you can change it, right? So I would be like, oh, that's me again. Once again.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "clarity",
+      "relief"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "self_blame",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains strong agency signals related to a realization within a healthcare provider context, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "UTS_S4_GUEST_LESLIE",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "Me, also, me, you know, making the same mistakes or decisions. 'cause you know, relationships are very patterned, uh, behaviors. Yeah. So it's all of those things. Um, and it's helping people see those patterns and connections to get unstuck. To define what they even want. I keep doing this, this, I know it's a podcast touching sort of the, the bone, which, you know, my breast bone. Sometimes as women, it it, we don't even know what it is that we do want. So before we try to go after it, we wanna identify what that is and you can really help someone do that in therapy through conversation.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confusion",
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment identifies a barrier signal (lack of language for one's own desires) and agency signals within a healthcare provider interaction, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "UTS_S4_GUEST_LESLIE",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "Well, it's interesting you say that 'cause that would've would've been another inflection point I could have mentioned because, so I graduated from social work school. I had worked in television, you know, I worked for David Letterman, as you said. You know, knew that I could talk to, you know, basically a rock from, you know, Madonna to the boy who ate a piece of cheese and made it look like a a, a state of the United States. And that was kind of my superpower. I know you love that term and I do too, you know, but I also had the empathy and things like that. So then when I went to social work school, I graduated and my first real job was doing presentations and trainings. So here I was. I thought I was gonna be a therapist. But I was, I was leading groups and giving life skills, trainings to young people, and basically there I was, right?",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Professional Development",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment describes agency and emotional signals within a workplace system interaction, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "UTS_S4_GUEST_LESLIE",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "And so I ended up not being a therapist. I worked in an agency, a domestic violence agency, where as you said, where I answered the hotline. And every training I did, someone came up to me after and wanted to process themselves, their sister, their cousin, their brother, their uncle, you know? Um, but I really wasn't clinical until the pandemic. And then I was in my most consistent therapy because I didn't cancel 'cause it was virtual and I was stuck at home living with my entire family. And I really went to consistent therapy every week. And that's where I started to really make those connections. And I had kind of given up on the idea of being a therapist. I was like, oh, well this is what I'm meant to do. Right? I'm meant to use my social work and my communication skills to be a presenter trainer. Facilitator and then all of a sudden I was like, I wanted to once again evolve, you know, to pivot, um, another chapter of my life. And I decided to leave the agency and start private practice.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "resignation",
+      "hope",
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment details a significant realization and life change driven by agency signals (seeking care, making decisions) and emotional signals within a healthcare provider context, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker implies that virtual therapy removed an access barrier to consistent care, but doesn't state it explicitly."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "UTS_S4_GUEST_LESLIE",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "And what I've learned and didn't connect until I started preparing for this podcast is that it's just another form of. Communication. Communication. It's improv. It is that back and forth. It's definitely talking less and listening more, but it kind of all ties together. And you know, I'm a lifelong learner and I'm very curious and I really do. I enjoy people. So it's really fascinating. It's exciting. I'm almost 60 and it's exciting to be basically starting a new chapter. Right. My friend's mother has this theory. Uh, late mother had this theory about the decades, like every decade we do something else. And the fact that at 59 I was starting my next decade felt really powerful.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Aging",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment",
+      "hope",
+      "clarity"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "The moment is a personal reflection without a specific system interaction, failing the A2 evidence gate which requires a system interaction when only emotional signals are present.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "UTS_S4_GUEST_LESLIE",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p15"
+    ],
+    "moment_text": "I'm not, I don't really have a specialty yet. I, I don't see children that would be a, and then I don't see couples. I would, I might have a, you know, a spouse come in for a couple of sessions, if you know, but I've really been focusing on individual psychotherapy. My youngest client was 13 and my oldest, I think currently is 82.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains an agency signal (setting boundaries) within a healthcare provider context, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "UTS_S4_GUEST_LESLIE",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "And that is because I'm new at it. So I wanted to kind of try everything because I do like, and I do. Relate to all types of people, men, women, and re gender, you know, all of it. Everybody's story. I mean, that is part of the work. Everybody has such a powerful story, and that's where the toxic positivity is not helpful because yes, you can believe in them and you can want the best for them. You can lean into their strengths, but sometimes you just have to, like I said, bear witness to the, the really tough parts.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "validation"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment identifies a barrier (toxic positivity, akin to normalization without context) and emotional signals within a healthcare provider interaction, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker's critique of 'toxic positivity' is tagged as 'symptoms_normalized_without_context' as it is the closest available barrier signal for dismissing negative experiences with positivity."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "UTS_S4_GUEST_LESLIE",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "But even like in the fields of domestic violence, we called what we did, client defined advocacy. So basically what that meant is. You are the expert on your own life. You know what you have to be afraid of. You know what? Why you're staying? 'cause that was always the biggest question. Why don't they just leave? I get that all the time. Survivors of domestic violence are the most wily, strong, smart. People that are making the best decisions, you know, the first thing we'd say to them is how brave of you to come here or call how smart you are that you have survived all this time. Look at you, you're still here.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "validation",
+      "confidence"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is rich with barrier signals (stigma), agency signals (self_advocacy), and emotional signals (empowerment) within a healthcare context, strongly meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "UTS_S4_GUEST_LESLIE",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "And so then, uh, cultivating those strengths, defining what they want to do. Some people are never, were never gonna leave those relationships, and that was not for me to say. And if they felt judgment or an ultimatum on my part, they'd never come back. So the idea is to keep those open lines of communication, once again, supportive, engaging, empowering, right? They have somebody already who's disempowering them, so we wanted to empower them. It's your choice. What do you wanna do? And then how can we help you do it? Is it trauma work or is it housing? Or is it a job or is it opening a bank account? Right. Any of those types of things. Um, meeting the client really where they were.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "trust",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment explicitly addresses overcoming barriers like fear of judgment by fostering agency (making decisions) and positive emotions (empowerment) within a healthcare context, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:14",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "Um, but yeah, it's cumulative and people have asked me that actually over the holiday. Uh, it's a holiday week right now. Um, how do I manage to kind of leave it at the office? And I've not been doing as great a job candidly. Um, and I tend to feel it in my back because we all have our places. So I'm gonna work on that.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "enduring",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional and agency signals and a non-none system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:27",
+    "timestamp_end": "00:01:11",
+    "paragraph_ids": [
+      "p3",
+      "p4",
+      "p5"
+    ],
+    "moment_text": "I mean, I think I have the basic skills and the license, the training, but I am learning every day. I use a variety of modalities. I think, um, it all starts with the relationship and that's the part that I feel. Pretty comfortable with and the communication piece. But I am continuously researching modalities, right? So if I'm with somebody and we've done kind of the unpacking of the issue, but we get to a, a stuck point within the therapy, I'm gonna try to figure out. How to get us unstuck, right? It's my job to be the container. They can trust me that they don't have to figure it all out themselves. And sometimes you try something and it doesn't work, right? Some people are really into mindfulness. Some people you try to get them to breathe and when they're anxious, they feel it in their chest, so that's not gonna work. You have to pivot, find something else to focus on. Sound senses, right? Um. Uh, some people are very, they want homework. Some people don't want homework, so once again, it's meeting the person where it's not my agenda.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "trust"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional and agency signals and a non-none system interaction. The moment details a patient-centered therapeutic approach.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:01:12",
+    "timestamp_end": "00:01:36",
+    "paragraph_ids": [
+      "p6"
+    ],
+    "moment_text": "I'm throwing out options for them. But yeah, I guess I see it evolving. I am in a joint office space with, uh, two colleagues, two dear colleagues who you know, so we'll see what happens there. And, um, I'd love to do groups because that kind of goes back to that facilitator. Um, I was running a caregiver support group very briefly and that was great and I learned a lot. You know, I do a deep dive into any subject. I took some notes, but then you gotta throw it away and just be present. So, uh, we'll see. And that's kind of the exciting part of it. I'm creating it as I go.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional and agency signals and a non-none system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:01:43",
+    "timestamp_end": "00:02:16",
+    "paragraph_ids": [
+      "p8",
+      "p9"
+    ],
+    "moment_text": "Well, like I said, it all begins. With the relationship. Relationship. And that means a lot of things. Unconditional positive regard, right? So I am always gonna be someone who is gonna meet you with respect and believe in you. Then the next phase is you're using what's happening in the room. So once again, going back to acting or improv or storytelling or, you know, meaning making, um, you know, if you cancel a bunch of times, uh, we're gonna talk about it, right? Because there's. Behaviors are expressing feelings, right? So you start crying at a certain point. I wanna ask you why that moment made you cry. So all of those things that are happening in the room, like, you know, in vivo live, you know, and in color, um, those are really important moments.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "trust",
+      "validation"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "asking_questions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional and agency signals and a non-none system interaction. It explains a core tenet of relational psychotherapy.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:02:16",
+    "timestamp_end": "00:02:53",
+    "paragraph_ids": [
+      "p10",
+      "p11"
+    ],
+    "moment_text": "But for some people, yes, skills are very important. So there's something called dialectical behavioral therapy that I'm dipping my toe in, and that is very skill based. And honestly, the more I've looked into it. It's just kind of like how to be a human being. You know, it's mindfulness, it's, uh, relational, um, you know, and it's skills, right? So just the, one of the simplest ones I could explain is they talk about Wise mind, but almost in every modality you kind of have this idea of, you have like, you know, the, it like the, um, very highly emotional reactive, I'm touching my lower stomach sort of. Part of yourself, the child, the, the, the, I want it, I want it now the're reactive. Then above you, you have sort of the judgmental over intellectualizing and in the middle you have that really wise find or wise loving adult and we wanna be operating from that perspective.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency and barrier signals and a non-none system interaction. It provides accessible language for a complex therapeutic concept.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:02:53",
+    "timestamp_end": "00:04:16",
+    "paragraph_ids": [
+      "p12",
+      "p13",
+      "p14",
+      "p15"
+    ],
+    "moment_text": "One another thing I've really become interested in is internal family systems, which it basically speaks to the fact that we all are made up of. Parts. The person who created it was working with actual family systems, and what he realized was that within all of us, we have different parts of us that are playing a role, playing parts when we're children. Some of those parts are amplified and valued, like with me, the talker, the entertainer, and some parts are exiled because they don't serve the family system or nobody wants to hear it. And what happens to those exiled parts is they keep getting louder and louder. And then the other part of, um, internal family systems that I find really interesting is to keep those parts at bay. There are, there are managers that come in. So there are two types of managers. There's ones that are like the overfunctioners, the super organized, the people pleasers, I'm raising my hand. All of those things. And those are very socially accepted, but they're still keeping the parts of us that we don't wanna deal with at bay. And then they're the firefighters. And the firefighters just as it sounds like they come out and they immediately, they're not managing, they're putting out the fire. So that's addiction. You know, anger, you know, more, uh, uh, more, uh, less desirable. Social behaviors, right? So how can we integrate all of those parts of us? They're, they all have value. They were exiled for a reason, but they play a role. Or maybe they played a role for us when we were a child and we really needed them. And how can we integrate them into what IFS calls the self with an uppercase F that is creative and compassionate and collaborative and all of the things that we all wanna do, kind of like that wise. That wise adult, right? That wise minded, loving adult.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "recognition",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_language",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional, agency, and barrier signals and a non-none system interaction. This is a rich, detailed explanation of a therapeutic model with broad applicability.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "speaker_02",
+    "speaker_role": "host",
+    "timestamp_start": "00:04:16",
+    "timestamp_end": "00:04:26",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "It's interesting as a family member, as a mother, as a child, all of that, right? Take a moment to think about that and the meaning behind what you just suggested. It's like, wow, I'm raising my hand. That's me. That's me, right?",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "recognition",
+      "validation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong emotional signals and a non-none system interaction, demonstrating the immediate resonance of a concept.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:04:26",
+    "timestamp_end": "00:04:53",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "And if you focus awareness on it, then you can change it, right? Because you know, we all have those. Dialogues that we play out with our children, with our parents, with our partners, with our, you know, and you're saying the same things, and doing the same things and getting the same result. I'm not gonna use that definition of crazy joke, but it is true. And it's like if you don't notice it, what's at play here? What's going on? And then you can try to change it and then it takes practice. Nothing happens like that. These patterns of beliefs, relationships. They are very entrenched and ingrained, right? And they work for us maybe for a while, and then they don't, and then we have to figure out another way. But the first step is awareness.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "hope",
+      "frustration"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional and agency signals and a non-none system interaction. It clearly articulates the mechanism of behavioral change starting with awareness.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:05:01",
+    "timestamp_end": "00:05:41",
+    "paragraph_ids": [
+      "p19",
+      "p20"
+    ],
+    "moment_text": "Yes, and it's funny, that's another skill that I didn't mention before in the relational psychotherapy is confrontation, which sounds like such a mm word. You know? We want the positive regard and we wanna be warm, we wanna hold space. But you know what? If you tell me I wanna stop doing this and I did it, I am there to point out that stuck point for you. I am there to point out. I'm not gonna do it in session one. Right. We're gonna, I'm gonna wait till I've listened to you for a while or you, and then I'm gonna say, you know, you said you wanted to be closer to your sister and then you did this thing to take you farther apart in your trip. Whether you withdrew, whether it was, whether you're a confrontation, you know, or aggressive or whatever it is. And I'm not saying right or wrong, I'm saying you say you want to do this, but you're actually doing this, right? So, and then what happens is hopefully people start to notice it for themselves.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "trust",
+      "clarity"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional and agency signals and a non-none system interaction. It demystifies a challenging but crucial therapeutic technique.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:05:41",
+    "timestamp_end": "00:06:28",
+    "paragraph_ids": [
+      "p21",
+      "p22"
+    ],
+    "moment_text": "Like I said, I did, I noticed how I was showing up at work in relationships at home. Within my own self. Right. My own self-talk and oh yeah, that's me again and be again. Mm-hmm. That's me. You know? So once you notice it, that doesn't mean you can automatically change it. Right. And also one thing I've really been thinking about recently, especially with behaviors that people wanna stop, you know, whether it's drinking too much, you know, too much. TV time or too much Instagram or whatever it is. What is the function of the behavior? Because like I said before, behaviors are also communication. We're we're telling the world and ourselves. Um, you know, so are we numbing out? Right. Is there something we're avoiding? Is it, um, you know, because, because to be behaviors can have different functions. Right? You, it can be an addiction, but it could also be, I don't wanna feel this right now, or I'm bored. Right. I always, you know, we always say about kids, you're not bored, you're just, you know, it's another word for I'm sad or I'm lonely. So I think that we're giving voice. We're questioning them on things they're doing automatically over and over again to unspool the thread, you know, the ball of the yarn and make those connections.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "clarity",
+      "sadness"
+    ],
+    "agency_signals": [
+      "asking_questions",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional, agency, and barrier signals and a non-none system interaction. It provides a compassionate framework for understanding difficult behaviors.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "Moment mentions addiction ('drinking too much') and numbing behaviors."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:06:28",
+    "timestamp_end": "00:06:42",
+    "paragraph_ids": [
+      "p23"
+    ],
+    "moment_text": "So then we can look at it together and then start practicing it. And then the week to week is, I did it, I didn't do it, I did it, and I felt this way. I didn't do it this time. You know, sometimes people will say, it's my favorite moment. I mean, it sounds very about me, but. I thought of you this week when I didn't do that thing right.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "validation",
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong emotional and agency signals and a non-none system interaction. It captures the rewarding outcome of the therapeutic process.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Guest_Clinician",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3"
+    ],
+    "moment_text": "I don't read a lot of self-help books. I was raised on Oprah Winfrey and I, what I liked is, and sort of is in alignment with what I ended up doing. Not that I'm like Oprah Winfrey, but she would take these big books and information. She digest it with her producers and then she'd give it to the audience in ways we could all have three takeaways, right? That's where I learned about Tony Morrison and Maya Angelou, and I'm trying to think of other people that didn't turn out to be, uh, you know, Louise Hay and all of those people. So, and I think any, any formula, like I said about the modalities in therapy, I'll try anything that someone is interested in, but it's kind of what connects to you.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains agency and emotional signals and describes an interaction with media, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Guest_Clinician",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p4",
+      "p5"
+    ],
+    "moment_text": "Well, I mean, I think I am really, these are things I've been interested in my whole life, and I am really, I'm really walking the walk now. In a way, I talked to talk for many years, and I don't mean that in a, that I wasn't doing anything, but I was literally talking and now I'm listening a lot more. I'm learning a lot more. I think I am using my natural skills, the state of flow with this. Um, not only am I curious and empathic, but I'm also very authentic. Right. If I don't know something, I'll say, I don't know it, you know, I'm not trying to be like too cool for school and I am able to meet people where they are. So, like I said, that wide variety of clients, especially women, um, of different ages, you know, from teenagers through octogenarians, I'm really trying to show up for them in a way that makes them feel seen, heard, and validated in their experience and why they are the way they are and where they are.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "validation",
+      "empowerment",
+      "trust"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains strong emotional and agency signals within a healthcare provider context, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Guest_Clinician",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "Then trying to help them move forward, but empowering them, like I said, not about my agenda about theirs. And that's hard. That is very hard as a psychotherapist, when you see, you know, I, I've talked about this recently with my colleague, someone who wants to terminate treatment. I would rather leave the door open. Yes, we wanna discuss it if possible. Doesn't always happen. Sometimes people just leave. That's a behavior that's speaking volumes to, we either got too close or to the, to the a nerve or, but also celebrating that piece of work that we did together, right? So if you don't wanna come back anymore, I'm, I don't wanna make you feel bad about that. I wanna leave that door open. I wanna let you know that you're in charge. Celebrate what we did together, even if it was two sessions, right? Something powerful happened in those two sessions. And remind them that wellness and mental health is a practice that continues lifelong, right? It's social. It's physical, it's emotional, and I'm there for them when they wanna come back, right?",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Psychotherapy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "trust"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains clear emotional and agency signals related to client empowerment within a healthcare provider interaction, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Guest_Clinician",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p8",
+      "p9"
+    ],
+    "moment_text": "Like I said, it's not the medical model. It's not you're sick and I'm Well. Right. We don't even call them patients. We call them clients. Right. They've, they've hired us to work with them to help them figure out, and as social workers, we call them clients. I mean, if they're in a hospital, we'll call them a patient.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Psychotherapy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains a barrier signal (lack of language) and an emotional signal within a healthcare system context, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier signal 'lack_of_language' refers to the critique of the term 'patient' and the shift to 'client' to rebalance power dynamics."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Guest_Clinician",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p10",
+      "p11"
+    ],
+    "moment_text": "But it's all, it's, we're in this together. And I'm also not a blank slate in strict psychotherapy. I don't work that way. And sometimes someone telling you a story about what happened over the weekend or how nasty their roommate was and you go. You know, you make a dramatic face. You're feeling it with them, you're with them on it. And I really believe that, that took me a while. 'cause you do learn in school. There are some practitioners who are very, you know, strictly psychoanalytic and we're a mirror and we don't show any emotion or whatever, but. You know, I feel like if you're on the ride with me, um, you know, for some people I am a sister, you know, I'm playing a role of a sister. I'm playing the role of a daughter, I'm playing the role of a mother, a wife, you know, not really, but there's flavors of that. So I'm leaning into that, what's actually happening and what they need, um, the relationship to be.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Psychotherapy",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "connection",
+      "trust",
+      "validation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains a barrier signal (training gap) and emotional signals within the context of medical training and practice, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "I think of just my one personal experience. Back in my mid twenties, I went to, um, a therapist. I just remember this living in New York, and I went into this and the guy just sat there and he just literally bobbled his head and it was like I was talking to myself. So my reason for bringing that up is, you know, I, I would imagine that being in that. Space with your clients and feeling them with them and understanding them would be just a, a really much more helpful approach to getting them to where they wanna go.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "isolation"
+    ],
+    "agency_signals": [
+      "withdrawing"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment is a clear barrier encounter with a healthcare provider, containing multiple barrier, emotional, and agency signals, making it highly eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is the host recounting a past experience as a patient."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Guest_Clinician",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "And going back to what you said, I, the first question I ask everybody, um, when they come to me is, have you ever been in therapy before? How was it? What'd you like? What didn't you like? I'll try not to do that. Right, because, and I've had a lot of people say that. Say I just talked and talked and talked. Now, sometimes when the people come in and they say, I just talked and talked and talked and they didn't say it, you learn it about three sessions. I was probably this way in therapy in the beginning. 'cause I would wait till it built up so much that I just wanted to dump it, get it all out. The first three sessions, it's hard sometimes to get a word in edgewise. But that's your job. Your job is to jump in, especially if someone has said, I don't want you to let me talk and talk and talk. It's your job to jump in, make connections, ask questions, call bs, you know, all of those things. So it's a really good point.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Psychotherapy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "asking_questions",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains both agency and barrier signals describing a specific therapeutic technique to overcome past negative experiences, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "Guest_Clinician",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "I think the reason therapy is so interesting is because everything is gr for the mill. Right? Like I said, if I make a face that you don't like. That might be something we talk about. You might feel judged about it or pop culture. I mean, I'm a big pop culture girl. You know, I'll bring in, if someone wants to talk about an episode of a TV show that meant something to them. That's cool. You know, uh, when I used to do trainings, we would use a lot of media. You know, media is really, um, marketing and media and advertising we're all impacted by that. So what are the images and messages you've received about that? So really anything is, you know, more and more people are like coming in and wanna read you text messages or share an Instagram quote that was inspiring to them. That made them think of, of the work, a TikTok or something like that. And I think that's all, you know, that's the creativity and the flow and the improv of it.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Psychotherapy",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment contains emotional and agency signals within the context of media's role in therapy, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M013",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "uts_s4_e3_leslie_g",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:45:01",
+    "timestamp_end": "00:45:45",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "You're just kind of going where it goes, as long as it's in service of the client. And sometimes what they want is to laugh with you at a TikTok video. That's connection that makes them feel like you get them. A lot of people are lonely, especially post COVID. People are lonely. People have lost, um, a lot of the, we call them third spaces, right? We used to have work home and then some other space that you went that had nothing to do with your job or your family, but it was someplace you felt connected, whether it was a house of worship or your bowling league or, and people lost a lot of those things. So sometimes a lot of what we're doing in the room is we're just having that human connection, which is so powerful and.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "loneliness",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains a barrier signal (social_isolation) and emotional signals (loneliness, connection) within a system interaction (community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M014",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "uts_s4_e3_leslie_g",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:45:46",
+    "timestamp_end": "00:46:31",
+    "paragraph_ids": [
+      "p3",
+      "p4"
+    ],
+    "moment_text": "Especially if it's about something that's emotional, I'll just bring in one, um, media reference. So I just saw Wicked, like probably many, many people, and it really struck me that I, I've heard this is, there's a theory behind this, which I don't know, but as a, as a person, I always know I don't cry in a movie or a book when the bad thing is happening. I cry after the bad thing has happened. Two people are seeing each other and there's that connection of, I know this was hard for you and I believe in you, so you know when Galinda and an Alpha book come together, right? That because I knew you or any of those moments where two kids, where one character or one person, one mother, one friend sees your pain, bears witness to it, and just that makes it feel so much better.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Emotional Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection",
+      "relief"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong emotional signals (validation, connection) and a barrier signal (lack_of_validation) within a system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M015",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "uts_s4_e3_leslie_g",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:46:45",
+    "timestamp_end": "00:47:25",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "Of women and one superpower that we have, uh, both because I think it's instinctual and also because it has been thrust on us by society and the patriarchy and all of that is being caretakers and nurturers. And I think that the beauty of that is that. If you can take care of other people, guess what? You can take care of yourself. True disclosure, I pulled my back out yesterday. Well, I knew just what to do for myself. To take care of myself, right? We always think about it as taking care of others, but we can turn that and nurture ourselves, right? We, we can cook ourselves a meal, we can, um, reach out to a friend. Uh, all of those things that we instinctively know how to do because we've been trained to do it for other people.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Self-care",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains clear agency signals (seeking_support, making_decisions) and emotional signals (empowerment).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M016",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "uts_s4_e3_leslie_g",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:47:26",
+    "timestamp_end": "00:47:45",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "So I really believe in that. I also believe in self-care referred to as something that has to do with your soul, not your role. Right, because I think self-care has been kind of co-opted by the beauty industry, honestly. And it's not about, I mean, for you may, maybe getting your nails done, I know people, but it, it's also about anything that makes you feel more like you.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Self-care",
+    "system_interaction": "media",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains a barrier signal (lack_of_information) related to a system interaction (media).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M017",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "uts_s4_e3_leslie_g",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:47:46",
+    "timestamp_end": "00:49:05",
+    "paragraph_ids": [
+      "p9",
+      "p10",
+      "p11",
+      "p12"
+    ],
+    "moment_text": "And also I believe in the communal nature. Of women, right? The, the, the beauty of the sisterhood, the idea that real self-care is not only taking care of yourself, but it's taking care of each other. And that is a superpower that women have and can share, right? So we're all these nurturers and these caretakers. Well, what if we turn that towards each other, right? Share a meal, share a laugh. Share a cry, right? And mentor. Mentor, younger women, learn from older women, um, you know, hang out with peers, laugh, cry, all of those things, right? A quote that I just saw before we started this podcast on my colleague's wall, I kind, I thought kind of, kind of speaks to this. Um, I don't know who said it. So sadness shared is divided and joy shared is multiplied. That's what it is. Isn't that? I know. That's, that's, I literally went to get a pen and I saw this on her wall. Right? So, A, I learned that from a colleague, and B, isn't that beautiful, right? We share the burden and we also celebrate the victories and we can care for each other, right? We can turn that burden of society, of being the nurturer and the caretaker into our best asset and reap the benefits ourselves.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Community",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "belonging",
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong agency signals (seeking_support, sharing_story) and emotional signals (connection, empowerment) within a system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M018",
+    "episode_id": "UTS_S4_PODCAST_003.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_003.docx",
+    "speaker_id": "uts_s4_e3_elizabeth_e",
+    "speaker_role": "host",
+    "timestamp_start": "00:49:06",
+    "timestamp_end": "00:49:38",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "Wow. Thank you. That is just amazing. I, a word came to mind just listening to you, which is soul care, self-care to soul care. And I think that, I think you're absolutely right. Women have giant shoulders, are so busy taking care of everybody else but themselves. Mm-hmm. And. And step up and, and soul care. So, um, Leslie, this has been a phenomenal conversation. Thank you so much for getting under the hood with me and for sharing your inspiring journey. Thank you so much for having me, and what you do is so inspiring too.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Self-care",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "validation",
+      "recognition"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 evidence gate: The moment contains emotional signals but lacks any barrier signals, agency signals, or a system interaction other than 'none'.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

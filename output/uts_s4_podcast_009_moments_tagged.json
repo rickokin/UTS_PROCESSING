@@ -1,0 +1,1190 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sydney Peck",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:48",
+    "timestamp_end": "00:04:11",
+    "paragraph_ids": [
+      "p11",
+      "p12",
+      "p13"
+    ],
+    "moment_text": "Yeah, you know, I think I look at at it more like. I was building a layer cake. There wasn't just one single inflection point. I think this might be true for a lot of us, but three of those layers that have come to be true for me. The first was that when I was in my twenties, my father was diagnosed with young onset dementia. Um, and I watched my mom and I supported her as primary caregiver through the dementia process. So if anyone has ever had a family member go through the dementia process, you can, um, relate. It's long and grueling and importantly lonely. Um, and that will ring true later in, um, the third inflection point. So, um, so. That happened. I started exploring, educating myself and um, as you heard in my bio, then started exploring age tech. The second layer on that was, um, I became a foster parent in 2020 and had the experience of having someone else's child in my home and providing the best love and care that I could for that child in that moment, but really understanding what it meant for that child to be in the system. And how many points of trauma occurred, not only the initial trauma that pulled them from the home, but how many points of trauma occurred after that and why? The foster care system and the things that are attached to it, such as homelessness and incarceration are a cyclical process. Um, and then the third layer on that is I moved to a new city on my own in Northern California for a year. Um, and. As someone who was highly social, always connected, actually tried to push away, you know, more of an introvert, push away and be alone. I was really lonely. And so for the first time I had that glimpse into loneliness. And so all of this kind of came together in various levels of research and curiosity, um, into exploring what intergenerational communities. Are what they look like and what the benefits are. Um, and I think it's all these different experiences in my life that kind of led me here. And I see layers continue to happen every single day. Um, but everything tends to point back to building this intergenerational community.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Dementia",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "loneliness",
+      "isolation"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (social_isolation) and emotional signals (loneliness) related to a family system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker describes being in her twenties when her father was diagnosed, which places this initial experience in the 'reproductive_years' life stage."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sydney Peck",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:11",
+    "timestamp_end": "00:06:31",
+    "paragraph_ids": [
+      "p16",
+      "p17",
+      "p18"
+    ],
+    "moment_text": "Absolutely. Yeah. It's unique there. So there are very few people who have young onset dementia and as a result, there are very few adults like me, um, who are in our twenties when, who are losing a parent, and, um, oh gosh, there's so many layers that I've probably packed up and put away. Um, but, um, man, the. Ambiguous loss and the daily new version of grief that happens with dementia. Any neurological? Um, I think maybe it happens with physical loss as well. I'm not as familiar with that, but, um, my dad became a different person and so I mourned the loss of my dad that I grew up knowing and then every day he would change. Um, and it d it can be pretty extreme that every, you know, every time I would see him, he was a different person. And so there's a lot of grief involved in that process. Um, and what's interesting about age related disease, nobody wants to talk about it. And I don't wanna say that any, any condition is a better condition to have than others. But, you know, a disease that feels like you can win it or you can come out the other side. People will talk to you about it. They'll get excited. They'll cheer for you. They'll raise money. They'll do all of that dementia. Everybody's afraid that it's gonna happen to them, and there is, quite frankly today, there is no other side. There's no beautiful win at the end of dementia. It is the slow decline and then the loss of life. Um, and so no one would talk. No one knew how to talk to me about it. No one understood when I was talking about it. People in our lives, my mom and I would slowly start to disappear 'cause they didn't know how to be around him. Um, and you can't blame people 'cause it's awkward. We don't talk about it. They don't know. And so it's just layers and layers of grief, um, that happen over time.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Grief",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "grief",
+      "sadness",
+      "isolation"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "silence",
+      "social_isolation",
+      "lack_of_support",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong barrier signals (stigma, silence, social_isolation) and emotional signals (grief, isolation) within a community system interaction.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": "This moment powerfully details the social barriers and stigma surrounding a disease without a 'win,' leading to isolation for the patient and their family."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sydney Peck",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:06:31",
+    "timestamp_end": "00:07:20",
+    "paragraph_ids": [
+      "p19",
+      "p20"
+    ],
+    "moment_text": "Um, I find myself to be a pretty, um. I dunno if this is a thing, but I'm a healthy griever for whatever reason. Um, you know, if you're into astrology, maybe that comes with being Aquarius. But, um, there are elements of, um, I handle loss very well and I'm grateful for that. And when I went through this process and I recognize that, I thought, oh, I can show up for other people who are going through this grief process as well. And since then, a lot of it's usually women. A lot of women have reached out to me. When they or a friend have a parent diagnosed with a form of dementia and we, I spend a lot of time in conversation about this and how to process it and, um, frankly, how to enjoy the weird silliness that comes from one, losing their mind and not get caught up in all the negative and the hard parts about it.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Grief",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "confidence",
+      "empowerment",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains agency signals (sharing_story) and emotional signals (empowerment) within a peer community system interaction, highlighting a protective factor.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": "The speaker's role is tagged as 'advocate' here because she is describing how she uses her experience to actively support and guide others in a peer setting."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:01",
+    "timestamp_end": "00:02:01",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "He wanted to be able to provide 'em online. And so he recruited me because of my time and my experience, and we launched an a Aging 2.0 chapter in Arizona and really built a lot of stuff around H Tech and I, I really, I poured myself into it. I mean that's, I think in my nature is I take my grief and I poured into what can be impact. Um, and so. Yeah, so I, I ran that company for a year. In the end, it wasn't a good co-founder fit between, um, the, the founder and I. But, um, it was a great experience for me to learn and understand that space and recognize how much, like really have it in my face, how much as a country we devalue seniors. Or older generations. There's a, we're, I think we're trying to, to revamp some different terms here, but older generations are not valued and revered like they are in other cultures. Um, we've gone away from the intergenerational living and so a lot of that became like just bright in front of my face. So, so I saw it both professionally and then I kind of carried that with me.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Aging",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "grief",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier signals (stigma, social_isolation) and agency signals within a workplace system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:25",
+    "timestamp_end": "00:03:25",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "The way you approach life and taking on others'. Mental health and wellness. Yeah. Yeah. Some might be asking why would you go after more loss? 'cause the foster care system, if it's working, actually should result in loss for the, for the foster parents. Um, you know, people ask me this all the time, I have no idea why. Um, ever since I was a teenager, I've wanted to be a foster parent and. Because I have thrown myself so much into work. It was never, quote unquote, the right time to do something like that. 'cause it is a, a significant time investment to take in a new child with drama. Um, but I found myself in the right position. I was in a chief of staff role, which meant that I had one direct report, which was the CEO and I had nobody else that I had to answer to. And so it was a great time and he understood my draw to it. Um, and so I got into it and again. The intent was not to adopt. The intent was truly to serve as a foster parent for a period of time while a child needed me.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "hope",
+      "relief"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with a barrier signal (time_constraint) and agency signals (making_decisions) related to a workplace system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:25",
+    "timestamp_end": "00:04:24",
+    "paragraph_ids": [
+      "p8",
+      "p9"
+    ],
+    "moment_text": "Um, and I think I was just leaning into what I recognized as I was getting older. I recognized I have this natural strength of processing grief. And so if I can put myself in a position, one of the best things for young people in the foster care system is to have an experience of healthy attachment. And in order for there to be healthy attachment, the adult needs to attach as well. And so, um. I knew I could do it, and so I, I leaned into it and I did it. Um, and I, I don't, you know, I can't explain it more, more than that. It just is in my soul. Um, and I did not expect to then. Put together more pieces after seeing the foster care system. I was doing it on a personal level. I also, you know, desired the opportunity to parent because it did not, um, occur in my life to have, um, bi my own biological children. And so, um, I got the opportunity to parent and selfishly that was amazing.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "confidence",
+      "grief",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong emotional and agency signals related to the foster care system interaction.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:24",
+    "timestamp_end": "00:05:31",
+    "paragraph_ids": [
+      "p10"
+    ],
+    "moment_text": "Um, but then I saw, I. Um, so I'll say it was a bene, it was tough and a benefit to my own mental health because having someone with trauma in your home and trauma that you weren't there to see, so you don't understand, um, is very trying on one's mental health. But it was really powerful for me to, I started developing tools. I mean, they, they support you through the system, right? And they give you all these tools and trainings and things, and I started to understand trauma and the brain and the way. Um, behaviors as they look on the outside, both from children and adults throughout our lives, right? If someone's mean to you, if someone, um, flips you off in traffic, if someone, you know, all these different things, it, it really drove home for me. There's a longer tail there. There's a root where that pain is coming from. And it allowed me to have even more compassion and understanding as I navigate the world and recognize that all of us have different layers of trauma. Likely many of us have different layers of trauma. Um, and it displays differently. And if we all just think about where somebody might be coming from, um, when we see their actions, um. It might be a, a more loving place. So I think in the end it really benefited my mental health.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "overwhelm",
+      "clarity",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with a barrier signal (education_gap) and agency signal (seeking_information) related to the foster care system.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:50",
+    "timestamp_end": "00:06:51",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "Yeah, I think the, one of the things that hit home the most was I went to a trauma training as a part of, um, keeping my foster license and some, a, a data point that stuck with me is that if a child, I think this applies to under age seven, but if a child has a year of healthy attachment and a loving adult, a loving relationship with an adult, that physically creates a pathway in the brain. So they can recognize a loving adult relationship. And what that translated for me was, okay if this little girl who's in my home as she's four can build that neuro pathway so that when she's 22, I. She could maybe be in a relationship with a boyfriend or girlfriend or whomever that is loving. And if it's not, she might recognize that because her brain actually has the path to know what love looks like. And so once I heard that, I was like, okay, I mean, I'll do this. You know, a hundred times over to give a young person that year. I don't know the data on over seven, but I imagine there's still some power there. But just the, you know, I love learning the stuff about the actual physical stuff that's happening in the brain.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Trauma",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "clarity",
+      "hope",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier signals (education_gap) and an agency signal (seeking_information) within a medical_training system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:08",
+    "timestamp_end": "00:09:08",
+    "paragraph_ids": [
+      "p14"
+    ],
+    "moment_text": "Yeah, you know. I think loneliness and isolation maybe wasn't, um, a, a topic any of us really thought much about, or we had such a negative, um, attachment to before COVID because it was like, oh, that person over there who's lonely, you know, it was the, you know, the typical story. Um, and then we all had an opportunity to be isolated in a unique way during COVID, and we all had the opportunity, even if people were around us. To feel a sense of loneliness because we were not given access to some of the things we love and enjoy and whatever. Um, and so for me, this was just another state of mental health and, um, and in being in one's own system, and I, I noticed that like the, the through line from dementia to Foster, to me being on my own was. That at the center of all this that can improve every situation is this human connection. When I would sit with my dad and have a conversation or with some, when a stranger would bother to look him in the eye and smile at him or say something, you, it. It doesn't matter what crazy stuff is happening in the brain regarding memory or function, you see a smile. Now, I'm not a neurologist, so I might be a little scientifically wrong on this, but in my experience watching it, you see a smile or warmth from another human that's gonna resonate with someone no matter what's happened in their brain. Um, and this I saw in foster care. Um, and I saw with myself that living on my own, newly out of a relationship, um, working remotely. So I, I literally could have sat in my living room 24 hours a day and no one would've known, right? Um, that when I would go out in public and someone would bother to have a conversation with me that mattered. Um, and so all these pieces that come together, this human connection, and I think, you know, we layer the intergenerational on it because. We see the, um, we get out of our own echo chamber and we get to have different kind of conversations. It brings us new perspective. In fact, a report that Generations United put out in the last couple years showed improved cognitive, um, ability. Improved, um, self-worth purpose, self-confidence, obviously reduced loneliness, all of these things across all age groups.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "loneliness",
+      "isolation",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with explicit barrier signals (social_isolation, stigma) and emotional signals within a community system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p-03-01",
+      "p-03-02"
+    ],
+    "moment_text": "Um, when you're in intergenerational community, um, and there are just unique things that happen. You, you look at Gen Z and maybe the um, uh, protocol way of communicating is through a device. Okay? So amongst their peers, that's what's gonna be happening. But you're not gonna text your grandpa or the the elderly neighbor or whatever, you're gonna look face to face, and you're gonna say at least a word or a couple of words to that person. That interaction changes the brain. It changes the heart, right? And so all of these things, just to me, all the, the lines go back to human connection and spending that time. Acknowledging each other and having compassion for each other and empathy and interest. Like people across generations are so interesting outside of our own right, because they're, it's a different life.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Social Connection",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "connection",
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with emotional signals (connection) and a non-none system interaction (community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p-03-03",
+      "p-03-04"
+    ],
+    "moment_text": "It's just so beautiful. It is beautiful. And our Under the Sisterhood is an intergenerational company. We've interviewed young women at 11 and 12 all the way up to 88 11, and it's really important to us that every single woman and ally feels recognized, feels seen, heard, and celebrated. So everything you're saying, I'm just sitting here, I'm like, yes, it's so resonant, but it's so important. And I think what's happened, and I too worked in age tech, um, um, and did an initiative called Aging with Attitude. And I think what's interesting is the. The lack of understanding that the connections that happen between generations are where the magic lie.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Social Connection",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "recognition",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with emotional signals (validation, connection), agency signals (sharing_story), and barrier signals (education_gap).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p-03-06",
+      "p-03-07"
+    ],
+    "moment_text": "Sure. Yeah. So after, um, my foster daughter was adopted with by her grandmother, um, I decided to dig in and, and ask the question, how can my skills, so my skills are in business operations and building new things, how can my skills be helpful here? And honestly, Elizabeth, I locked, knocked on a lot of doors with a lot of rejection of like. Unless you run for governor or you decide to take, uh, some public office or take a ridiculously low paying social service job and work your way, like good luck lady. Like you're not gonna change or fix any of this.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "midlife",
+    "health_domain": "Foster Care System",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "frustration",
+      "resignation"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with strong barrier signals (lack_of_support, system_navigation_difficulty) and related emotional signals (frustration).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p-03-08",
+      "p-03-09",
+      "p-03-10"
+    ],
+    "moment_text": "And so it took, I had to sit in that for a while, which actually. That's a, a new skill in the last couple of years is learned patience. Um, and as I sat in it and I reflected and I, and I gave my brain space to like connect the dots, um, subconsciously, um, the intergenerational thing kept knocking and, um. Prevention kept knocking. So, um, we love, we are a society of take a pill and make it go away. We love interventions. We're not so much fans. I mean, we're cha trying to change, but so much fans of putting the work in to do the preventative work and everything pointed to, if you want to fix foster care in America, you need to do things that eliminate the need for foster care in America.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Foster Care System",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "clarity",
+      "hope"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with agency signals (enduring) and emotional signals (clarity).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p-03-11",
+      "p-03-12"
+    ],
+    "moment_text": "So how do you do that? Well, you go back to the root of where some of this happens and it's, there's a particularly, um, important group, which is those individuals who turn 18 when the foster care in the foster care system and have not been, um, they don't have permanency as they call it, so they don't have a family that they're entering into. Literally it's their 18th birthday, and it's like, bye-bye. Go figure out how to be an adult and live on your own and find housing and a job. And could you imagine? I mean, I, when I was 18, I had probably, you know, seven different people keeping me on my toes. Um, and so they're all alone. Um. That puts them at risk to enter into some of these systems of being unhoused, um, making choices that put them in a position to be incarcerated or having children young and when they're not financially ready to, and then having to reenter the foster care system as parents.",
+    "moment_type": "system_observation",
+    "life_stage": "adolescence",
+    "health_domain": "Foster Care System",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "sadness",
+      "isolation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with strong barrier signals (social_isolation, lack_of_support) describing a systemic failure.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p-03-13"
+    ],
+    "moment_text": "So to stop this cycle. These individuals need time and space to heal and an opportunity to feel purpose and path, dignity and agency. And unfortunately, um, while a lot of good social service work is done out of necessity and like, um, pragmatism, it doesn't always go to the healing part. It's how do we get you food? How do we get you a job? How do we get you a house? Um, but you're still gonna enter that cycle, right? If you don't heal the thing, you go back in.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "hopelessness"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fragmented_care",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with barrier signals (fragmented_care) and a clear system interaction (healthcare_provider/social services).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The system interaction is with social services, which functions similarly to healthcare_provider in this context of care delivery."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p-03-15"
+    ],
+    "moment_text": "And I said, can you help me? And after, um, an hour of. This is why it's hard. This is why it's hard. This is why you shouldn't do it. This is why it's hard. And at the end I was like, okay, cool. Sounds good. Um, let's do it. And he is like, okay, if you still wanna do it after that, I'm with you. And so he is been, um, incredible.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Social Entrepreneurship",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "frustration",
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "speaking_up",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with strong agency signals (seeking_support, speaking_up) in the face of a barrier (lack_of_support).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p-03-18"
+    ],
+    "moment_text": "So this one is one really important nugget that we learned in this process is. The mentorship program is not it. So you don't just take a senior and take a, an 18-year-old and say, and now here's your mentor. A lot of things can go wrong in that, that relationship. Instead, you lead by proximity and you create opportunities for, uh, organic relationship creation. You put them in the same place. You let 'em show up on Tuesday nights at, you know, taco dinner or whatever at the, the same time every week. And slowly they choose. So that's part of the agency. They choose to build that relationship. They connect with who they wanna connect with. And now both groups start to build out these human connections, these social networks and these support systems that they didn't have when they were on their own.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Social Connection",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "clarity",
+      "empowerment",
+      "connection"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with agency signals (making_decisions) and emotional signals (empowerment) within a system interaction context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p-03-19",
+      "p-03-20"
+    ],
+    "moment_text": "I love that. I think that's, that's fantastic. And I think what really struck me, because as I'm listening to you, I'm thinking about the role modeling and it's like, no, if it's organic, it's happening in the moment. So it's, you know, it's, it's about each individual. It's almost like micro. Uh, moments of interaction that will connect them or not. And so by creating those scenarios, um, those opportunities, that's really special. And so over time, when you build the communities and the people come into the communities, you can see the role modeling coming from both sides and I think sides. What I think is very interesting about it is you have the, the more seasoned, the seniors, if you will, not seniors just age wise, but the more seasoned people with more lived experiences who can role model that builds their esteem, that keeps them feeling. Worthy and valued. And then you have the younger people being able to support and have these dialogues and feel that safety and security as well as, you know, have the opportunity to interact and engage on levels that they wouldn't have imagined. And so it's like. There's so much, ma, I used the word magic a couple of times, but there's a lot of magic in that and I know that just from like all of the research I've been part of with the organizations I've been part of, of bringing those two generations. But what I think is particularly interest interesting as well, is your comment around the risk. You know, there's probably a lot more to gain than a lot more risk. Um, because you know, that's your comment all along is the human connection. That human bond, those human bonds that form a, are much more important than what isn't, if you will.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Social Connection",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with emotional signals (validation, hope) and a non-none system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M025",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sid",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:24:29.911",
+    "timestamp_end": "0:25:28.111",
+    "paragraph_ids": [
+      "p_51",
+      "p_52",
+      "p_53",
+      "p_54",
+      "p_55"
+    ],
+    "moment_text": "Purpose and self-worth. And when you can see that by your interaction with another person. So if you have, you know, John comes out and he's 65 and he is like, man, I, I'm supposed to download this app and I don't know how to, it works. And here comes Sarah. And she's like, oh, you need help with that, John. And okay, that's a micro moment. You nailed it. A micro moment of purpose. Oh, I'm valuable. I am valuable to this person in this moment. And, and that, that stores, right, that's, that's one that's a layer in the brain. And then vice versa, Sarah, you know, I'm being very stereotypical here, but Sarah gets a flat tire and she's like, well, shoot, no one ever taught me how to change a tire. And John's like, I, uh, I've changed a lot of tires. Let me help you, let me show you, let me teach you. Um, that's a micro moment for John, for both right? The feeling of being I, there's someone I can go to and I can be supported that, that's important. Um, and then I'm, I have purpose and people need me, and that's important.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection",
+      "belonging",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with agency and barrier signals within a peer community interaction. The moment describes a clear protective factor pattern ('micro moments' of reciprocal support) that builds self-worth and combats isolation.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M026",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sid",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:25:29.111",
+    "timestamp_end": "0:26:26.111",
+    "paragraph_ids": [
+      "p_56",
+      "p_57",
+      "p_58",
+      "p_59"
+    ],
+    "moment_text": "And it keeps happening in these moments, and I think they'll get bigger and deeper. The more those relationships build, but in the beginning they can just be these little tiny things, um, that, that just happen naturally. And I think it's so hard. You can't, you can't craft this very easily into large, you know, social services programs. But these are the things that are the unlock 'cause. Then if I show up tomorrow, confident with purpose. I'm gonna do better in my interview that I'm really, really scared for. Or I might raise my hand in class if I've decided to, to go to community college, right? I might speak up, I might ask someone on a date. I might, you know, all these little things that start to happen when we start to feel like we're human and, and we live in that dignity in that agency, and so. I mean, I get the chills thinking about it. Like just the opportunity for all these little moments that some of us, um, get to experience day in and day out. And we, we don't actually recognize that they're happening. Um, but for people who are all alone, and I mean these individuals. Are often very much all alone. Uh, they don't have those moments. And so I'm just, I just cannot wait for the site to be built so that people can start experiencing these things.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "empowerment",
+      "confidence",
+      "isolation"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with clear barrier (social_isolation) and agency (speaking_up) signals. This describes a behavioral pattern linking the accumulation of supportive 'micro moments' to increased agency and confidence in broader life activities.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M027",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:26:26.111",
+    "timestamp_end": "0:27:13.111",
+    "paragraph_ids": [
+      "p_60",
+      "p_61"
+    ],
+    "moment_text": "I can't wait for you either. That's it. Sounds wonderful. And I just, you know, it, it's, it's hard in a lot of ways not having gone down that road and experienced that, you know, but I think a lot about like Maslow's hierarchy of needs and being in the safety and security and the self actually. Self-actualization and it's like, I forget the layer in between. Of course, I know the base level, but it's really about connecting the two. If you think about it, the purpose is up at the top and the safety and security, we all need to know we have a safe place to live and feel comfortable with. But giving them a sense of purpose, and I think back to your word agency, is really, um, is really, it's not only important, but it's, it that's really where the fodder lie, if you will, and, and the moments.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "validation",
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 gate. This is a host's reflection and validation of the guest's points, lacking specific barrier or agency signals from a lived experience.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M028",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sid",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:27:13.111",
+    "timestamp_end": "0:28:25.111",
+    "paragraph_ids": [
+      "p_62",
+      "p_63",
+      "p_64"
+    ],
+    "moment_text": "Yeah. That's one of, you know, I have to present this to, or get to present this to cities and organizations where we're asking for support and, and guidance and, um, one of the things that I, you know, I've tried to put numbers to, but we just, we don't know. I just think they're gonna be huge, is the economic impact on communities. When one person. Become self-reliant versus going back into the system. Right? When one person does, then that means though there are children that get birthed later, right? When they're financially able to do it and they have the support system to do it, and then that individual works in some form or fashion, they pay taxes and they give back into their communities instead of taking from, which, not that they want it to be taking from, but they would be if they're in the system. Um. Then their children are modeled that behavior and set up for success and get an education and get to go through that. And then that's generational. And now you've just broken the generational cycle and the value of that to community for people who just care about economics. I, I'm here all day for people who just are looking at the cost of this stuff. Um, that alone. Is a selling point, take away all the beautiful human stuff and the way we interact in our communities.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Social Determinants of Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "confidence",
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with emotional signals tied to a community system interaction. It describes a systemic pattern connecting individual healing and self-reliance to broad economic and generational community benefits.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M029",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sid",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:28:25.111",
+    "timestamp_end": "0:29:31.111",
+    "paragraph_ids": [
+      "p_65",
+      "p_66",
+      "p_67"
+    ],
+    "moment_text": "But, but the cost impact of the generational, um, ripple effect. Um, and you're right, generations United. I will plug again in their report, said benefits from, um, intergenerational community flow over into their surrounding community and the staff that work there. So now someone who comes on site is taking that home to their family, to their community, and all of this, it just continues to ripple. Um, so yeah, I think, um. I think it, I think a small, so we, we build intimate communities on purpose because we think human connection needs intimacy of under 30 or 40 units. Um, and, and a lot of people in housing don't like that. Um, but I believe that these small communities, not only can we build multiple of them, but they have such an effect that goes on and is so much bigger than we really think about. If we. And, and I'm gonna say this, I don't wanna discount this, this important shelter work, but just putting someone in housing. To make sure they have a roof over their head does achieve something and it achieves something important. If it doesn't help them heal, we just don't have that ripple effect and they have the chance to reenter into other systems later. Right. And so putting a value on that longevity of the, of the healing and the impact of that, I think is. There's a lot of work and research to be done, but, um, I'm excited and look forward to, to being part of that dataset.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Social Determinants of Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "hope",
+      "confidence"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with a barrier signal (fragmented_care). The moment presents a systemic pattern contrasting the limited impact of providing only housing with the long-term, ripple effect of fostering healing to prevent system re-entry.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M030",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:29:49.111",
+    "timestamp_end": "0:30:30.111",
+    "paragraph_ids": [
+      "p_69"
+    ],
+    "moment_text": "You know, by, by sort of stopping the intergenerational repeat of cycling the system, if you will, so you're, you're stopping that, then you're creating a new way to look at intergenerational, less about trauma and about healing or healed. So you heal this group and then the new, the next generation doesn't come in? Well, they come in with the trauma if we think about the intergenerational trauma, but you know what I mean, it's less, it's less overt in their daily lives. It's something that's more subliminal, and I think you can work with that. But, um, this is really, um, rich territory, really rich and special territory.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "hope",
+      "validation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 gate. This is a host's reflection and synthesis of the guest's points, lacking specific barrier or agency signals from a lived experience.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M031",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sid",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:30:30.111",
+    "timestamp_end": "0:31:31.111",
+    "paragraph_ids": [
+      "p_70",
+      "p_71",
+      "p_72",
+      "p_73"
+    ],
+    "moment_text": "Yeah. You know, I, I've been thinking about this part of it, and I don't know if this is a little bit cheesy, but part of it is just how I show up in the world I think is really important. So again, back to human connection, I think every one-on-one interaction. Does actually have a ripple effect, right? When you are kind to someone at the coffee shop, they take that kindness to the next person they interact with. Um, and I, I'm a huge believer in that. So I think the way I live and operate in the world, um, is an important way that I march for women's, um, mental wellness. Um, I also just hope to build so many of these communities. Um, you know, there is a big dream. Uh, it's. You are still in very early stages of development, but there is a big dream to build more versions of heirloom collective properties that that span lots of different groups of people. Um, and so creating the space, um, especially, you know, if there's an opportunity where there's, you know, women centric. Living scenarios and all that. There's all kinds of fun, um, fair housing laws, stuff all, um, sprinkled in there. But, um, the opportunity to help women live together intergenerationally, I think is, is big on my list over the next 10 years.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "confidence",
+      "connection"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate with agency and emotional signals within a peer community system interaction. The moment describes a personal philosophy and professional mission that acts as a protective factor and a model for community building.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sydnee",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "Um, and importantly, I just. I want to help women find their own path and their own joy, like stepping into their purpose, however big or small, and we, we've used this word purpose again. It doesn't have to be like changing the world, running for president, any of those, you know, your purpose can be being kind when you're out in the world or you're, you know, can, it can span lots of different visible sizes, but, um. Helping women on that journey and, and standing up for that when it's, um, when I see things happening around me. Um, I chose to not live life by, um, societal norms and I, um, take it as a part of my journey to, to be visibly and, um, audibly showing and telling that that's okay for other women as well. Yeah.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "Identity and Purpose",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "empowerment",
+      "hope",
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment contains strong agency signals (sharing_story, speaking_up) and a barrier signal (stigma) within a community system interaction, making it eligible for pattern analysis.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sydnee",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p4",
+      "p5"
+    ],
+    "moment_text": "So I a, I think it's changing, which is amazing, but from my generation and my time coming of age, um, and still a lot of this, uh, the things women were congratulated for were getting married and having children. Um, I did neither of those things. And I wasn't ever drawn to do either. There were times where I thought I might, and I think because I thought I should, or I was supposed to, but, um, but I didn't.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Identity and Purpose",
+    "system_interaction": "community",
+    "emotional_signals": [],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment details a direct encounter with a societal barrier (stigma) and an act of agency (making_decisions), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sydnee",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "And what happened along the way is that I've had beautiful romantic relationships multiple over my years of dating life that have taught me so much. All the different people that I've had the opportunity to date and become very close with and become family with, frankly. Um, and that were represented a season in my life. Um, it also created space. So I've, I've also had the opportunity to, to be in a parental role over, um, other people's children, which has brought me a lot of joy as well.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Identity and Purpose",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment contains emotional and agency signals within a family/community context, making it eligible for analysis of alternative life paths.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sydnee",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p8",
+      "p9"
+    ],
+    "moment_text": "Um, and the space of not having my own children and not, um. Frankly, I'll just speak, um, very, in a very straightforward way. I haven't really had to sacrifice my dreams for another adult or for other children. Um, and so as a result, I've gotten to build a big, beautiful career and do really, um. Things that are really important to me, that I'm passionate about, that I hope will have a big impact, um, without feeling like I was sacrificing something in a relationship or, you know, and I, I wanna recognize the importance of being a mom and a wife and how that. Um, giving of yourself to other humans, how beautiful and important that is. That just was not the path, um, that my life took or hasn't so far.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Identity and Purpose",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment contains strong agency and emotional signals related to a clear system interaction (workplace), making it eligible for pattern analysis.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sydnee",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p10"
+    ],
+    "moment_text": "But I will tell you, um, the number of parties, networking events, meetings, professional to personal, along the spectrum, things that I show up to. I'll say something my grandma would say, if I had a dollar for every time someone said, are you married? Do you have kids within the first minute of meeting me, um, I would be very, very rich. And so I'd like to shift that. And it's hard, like some, you know, I'm, I'm, I stand strong in the choices I've made and I'm so grateful for this big, beautiful life that I have and.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "midlife",
+    "health_domain": "Social Determinants of Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment clearly articulates a recurring societal barrier (stigma, lack_of_validation) and the emotional impact, making it highly eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sydnee",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "I would love for society to stop asking those questions of women. Um, and I think we're getting closer. We're warming up to that. Uh, but that's not where, even if we do those two things amazing, that's not what our value is, right? We bring so much as every human brings so much as a part of our human, um, to the conversation, to the table. And so let's not lead with are you married, do you have kids as the two most important things that a woman can do with her time.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Social Determinants of Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "frustration",
+      "hope"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is a clear act of advocacy with strong agency signals (speaking_up, self_advocacy) aimed at a systemic barrier (stigma), making it highly eligible.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "I'm sitting here right now in utter goosebumps and I'm recalling myself at 21. Having left art school. I'm never getting married, never have a, I mean, you know how many years later? Um, well, divorced and three children. Children. But it's interesting. I think I really, really respect and admire your courage to say, you know what, no, I'm not gonna live my life based on societal norms or standards and you know, and I think it's really important to give voice to women that there is no one thing that defines us. I was having another conversation with an attorney, wonderful woman, and she said. I'm an attorney. I'm a this, I'm a this. She says, but that is what I do. That is not who I am. And I think that that is what you're getting at.",
+    "moment_type": "validation",
+    "life_stage": "midlife",
+    "health_domain": "Identity and Purpose",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "recognition",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment provides strong emotional signals of validation and connection within a peer community context, making it eligible for analysis of supportive dynamics.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_009.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_009.docx",
+    "speaker_id": "Sydnee",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p20"
+    ],
+    "moment_text": "But the the time, space and courage to show up as you are and do things that bring you joy again, if like being home, reading a book and having a cup of tea is your joyful weekend. Don't feel like you're supposed to go out and have an Instagram photo with 20 friends at brunch. Right. And vice versa. Right. Like, whatever. I just would invite women and humans just to live in your true self, um, and to show up. And gosh, life is so short. If there's one thing my experience with my dad taught me is that. There is no death does not discriminate new slash we're all gonna die and we don't know when. And, um, oh, if we could just show up every day living and doing things that bring us joy in the way that we care about, um, and not for what other people think that would be, that would be my mess message to women and to, and to all humans.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental and Emotional Wellbeing",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment provides actionable advice (agency signals) to counteract societal barriers (stigma, fear_of_judgment) influenced by media, making it eligible for insight promotion.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": "Moment contains a reference to the speaker's father's death as a motivator for her perspective."
+  }
+]

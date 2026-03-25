@@ -1,0 +1,1304 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "Stephanie Vincent",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:20",
+    "timestamp_end": "00:02:51",
+    "paragraph_ids": [
+      "p6"
+    ],
+    "moment_text": "Yeah, there's been many different times in my life where I've had like shifts that really, you know, change me. But I have to say, the one that really started me on the path that I'm on today is when that came after I kind of hit rock bottom. So I had struggled with my body image and my weight, my, my whole life since I was a a small child. And when I was. 24, I had a gastric bypass surgery. I had my daughter and then I gained a bunch of weight back. I hit rock bottom. I just, you know, I was self-destructive. It was just really bad. But at that bottom, I knew that I didn't need another diet or another. Like I knew I needed to love and accept myself.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hopelessness",
+      "self_doubt",
+      "clarity"
+    ],
+    "agency_signals": [
+      "self_blame",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment contains strong emotional signals (hopelessness) and describes a significant lived experience of hitting a turning point after a medical intervention, which is a key element for pattern identification. It meets gate A2.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "Stephanie Vincent",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:51",
+    "timestamp_end": "00:03:23",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "Like I knew that that was what I needed to do. So I started working with a life coach and I read Ecker Tolle's, a New Earth, uh, which is all about presence and being the moment. I, there was one session with my life coach, although, you know, it's a built up. It's not really one where there was like the shift inside me where I felt like I broke my self-worth, apart from my physical body or anything else. I would often say prior to this that I, I can't be who I really am until I lose weight. It's stopping me from being, having my full potential. And when I realized that I was whole. Because I was connected to the real me and not the ego, not the voice in my head. That's when my life really started to transform.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "clarity",
+      "empowerment",
+      "relief"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_language",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment details a clear realization and the agency taken to get there (seeking support), which is a valuable pattern for understanding protective factors. It meets gate A2.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The system interaction is tagged as 'peer_community' because a life coach is not a licensed clinician, making 'healthcare_provider' inappropriate."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "Stephanie Vincent",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:48",
+    "timestamp_end": "00:04:12",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "The first thing that happened, I was able to take care of my body in a way that I had never, that had felt like a chore before I started exercising and, and eating well and all that stuff. And it, it felt like magic because all the times I had tried to do it because I hated myself. You know, it didn't really work. And, um, but when I. Started loving myself. It became natural.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "relief",
+      "empowerment",
+      "calm"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment describes a clear behavioral pattern shift, linking emotional state (self-love vs. self-hate) to health behaviors, making it highly eligible for insight generation. It meets gate A2.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker's previous state of 'hating myself' could be seen as a barrier of 'self_blame', but the moment focuses on the positive shift, so I left barrier_signals empty."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "Stephanie Vincent",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:18",
+    "timestamp_end": "00:05:00",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "All this space was freed up in my mind. To be able to, to do so much more. And it's really, the path has continued because it's been evolution because like the, the journey of self-love and acceptance, it like started there. But over the years I've gone deeper and deeper into loving myself and having grace for myself, and I deeply believe that. That is why I'm able to do the leadership, to lead in the way that I do in social justice now because, uh, you know, I don't, you know, not that I don't have feelings of imposter syndrome and, and feeling, you know, all the feelings that humans do. But I have the, the ability to see that and step away from it instead of be caught up in it all the time and able to step in and step into my power and who I am and my capacity and my skills, and do what I can do.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "confidence",
+      "empowerment",
+      "self_doubt"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment connects an internal protective factor (self-love) to external action and leadership, which is a significant pattern. It contains both emotional and agency signals and a system interaction, meeting gate A2.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "Stephanie Vincent",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:40",
+    "timestamp_end": "00:06:16",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "Practice when you first start to understand like your triggers or understand like where, when you're being emotionally triggered. I actually remember being emotionally triggered like early on by my mother. She's not around anymore, but, and she, and I remember the first time where I. See it coming, it, I felt like it was like a, a truck coming at me and, and I couldn't stop it. I went full emotional dysregulation, crazy person. But over time you learn how to like see things and it's not always a hundred percent, but the more you practice and the more you know that those voices in your head that or, or that trigger, what that trigger is, the more that they lose as much power.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "overwhelm",
+      "anger",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "tracking_symptoms"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment details the lived experience of learning emotional regulation, including a system interaction (family) and clear emotional/agency signals, making it eligible for insights on behavioral patterns. It meets gate A2.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "Stephanie Vincent",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:31",
+    "timestamp_end": "00:06:52",
+    "paragraph_ids": [
+      "p14"
+    ],
+    "moment_text": "The self-love, you know, came when I realized that I, it when, when it really became unconditional. When it wasn't about like what my body could do or couldn't do initially, you know, a lot of it was acceptance, you know, 'cause you're not gonna like everything. And people get confused about acceptance. Sometimes people think that acceptance is resignation, that if you accept something, then you're just like not gonna do anything about it. But the truth is like accepting, you know, and, and giving yourself grace.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "clarity",
+      "calm"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment directly addresses a knowledge gap pattern by clarifying the distinction between acceptance and resignation, making it eligible for an educational insight. It meets gate A2.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "Stephanie Vincent",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:52",
+    "timestamp_end": "00:07:14",
+    "paragraph_ids": [
+      "p14"
+    ],
+    "moment_text": "And also just realizing like all this stuff is like, doesn't even matter. There's so many things about our bodies that like, no, these little things that we don't like. It's like it's taking up so much space to have to, like to be thinking it all the time when, you know, all that space can be used for the, the innate gifts and abilities that, that we have as humans that you, we don't get to use when we're using them. You know, beating up on ourselves or being hard on ourselves. And it doesn't have to be just about your body. It can be really about anything.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "clarity",
+      "empowerment",
+      "frustration"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment describes a common behavioral pattern of negative self-talk and the realization of its cost, making it eligible for insights about self-worth and protective factors. It meets gate A2.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "Stephanie Vincent",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:22",
+    "timestamp_end": "00:07:46",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "Yeah. So I think I, yes. I think what happened was, so, you know, I had, like I said, I had been overweight my whole life. I had always, you know, been made fun of and been felt left out because of, because of. My weight. I had one point when I was in, in, in college where I was like, I'm gonna love myself. And I was eating, you know, try and I did it for like a year and then it, I kind of like fell off. And then, you know, I had the, the gastric bypass surgery, you know, after the gastric bypass surgery, I had lost, I think, I think if you can't remember the numbers now, it was so long ago, but like 160 pounds. And I remember that I was looking in the mirror.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "isolation",
+      "sadness"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment details a significant lived experience involving a medical intervention (gastric bypass) as a response to long-term stigma and social isolation, making it eligible for insights related to healthcare system interaction. It meets gate A2.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:28.800",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "Crying and, and being so unhappy trying to get dressed. When a year and a half ago before the surgery, I would've said I would've, I would be so happy to be this size. I was a smaller size than I had been since, since middle school, and I was still not happy. Mm-hmm. I was still not happy. Mm-hmm. I think that was a lot about what, because it was like at that bottom, like I knew that something was broken. I think losing weight. Is is what made me be like, wait a minute, like this isn't about my body. I wish I could like say exactly so that I could get every other woman to be able to like really like, love and accept themselves. But yeah, I mean it was that. It was that. It was that. Seeing that, and that was like the motive that was.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Body Image",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "sadness",
+      "frustration",
+      "hopelessness"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains strong emotional signals ('so unhappy', 'something was broken') and a barrier signal ('I wish I could like say exactly'), indicating a significant lived experience and realization.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:28.800",
+    "timestamp_end": "0:00:53.000",
+    "paragraph_ids": [
+      "p3",
+      "p4"
+    ],
+    "moment_text": "The, the sh the, the shift. And then what happened with the fitness is what is, I decided I wanted to live in my body, like I wanted to be in my body. I didn't want to like try to lose weight. So when I first started getting into fitness, I found functional fitness. Which is basically moving your body the way you do in real life. Kettlebells, barbells, dumbbells, running, running, running, rowing, all that good stuff. And it didn't focus all on weight loss. 'cause I didn't weigh myself like for the first year at all. It was a way that I could just like be in my body and do the workouts and, and I, I had never done anything physical because of being overweight.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Fitness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains a clear agency signal ('I decided I wanted to live in my body') and emotional signals ('empowerment'), marking a significant behavioral and mindset shift.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:53.000",
+    "timestamp_end": "0:01:11.000",
+    "paragraph_ids": [
+      "p5"
+    ],
+    "moment_text": "So it was like, it was like a, an awakening. And it was also. For me too. I think it's so important that our mind, body, and spirit all need to kind of be connected. And for me, I was always very spiritual, very, you know, emotionally intelligent, but I did not have that connection with my physical body. So at this time it was the first time those three things kind of like integrated with me for me.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Holistic Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "clarity",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains a barrier signal (the opposite of 'integrated' implies fragmented experience) and emotional signals ('awakening', 'connection'), highlighting a key insight into holistic health.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier signal 'fragmented_care' is inferred as the inverse of the 'integration' the speaker achieved. This reflects a prior state of disconnection between mind, body, and spirit."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:11.000",
+    "timestamp_end": "0:01:24.000",
+    "paragraph_ids": [
+      "p6"
+    ],
+    "moment_text": "And I wanted everybody to be, I mean, that's what, you know, like a lot of the, I want everybody to experience that, to be able to be connected, to be able to love their body. It's hard to love something you don't like. It's hard to take care of something you don't like when you love something. It's a lot easier to do to to, to do good things for it.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "Body Image",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains emotional signals ('love their body'), a barrier signal (the implied lack of support that necessitates this advocacy), and a system interaction ('peer_community'), making it eligible.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "caregiver",
+    "timestamp_start": "0:01:55.000",
+    "timestamp_end": "0:02:28.000",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "Had been struggling since, since, since for the, the, the two years prior to that with her mental health, with self-injurious behavior and suicidal ideation. It was, it was really hard. There was like every, every week there was something. And during CVID and early in COVID, very early. During the quarantine, she was hospitalized. It was horrible. We had to go to the emergency room and sit there as people were coming with COVID. It was just a nightmare, nightmare hospital experience. And then she came home. She was home for like a month and she, she was in impartial program and then she started to have issues again and was starting to talk about suicidal ideation again.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "overwhelm",
+      "hopelessness"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty",
+      "fragmented_care",
+      "access_barrier"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: This moment is rich with barrier signals ('nightmare hospital experience'), agency signals ('seeking_care'), and emotional signals ('horrible', 'hard') within a healthcare system interaction, making it highly eligible.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": "The speaker is recounting her daughter's experience, so her role is caregiver and the life stage is her daughter's (adolescence)."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "caregiver",
+    "timestamp_start": "0:02:28.000",
+    "timestamp_end": "0:03:00.000",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "And I was like. I can't put this kid in the hospital again 'cause it was so traumatic the last time. So I said, let's go to the Poconos for a weekend. We went there and while we were there we saw an Instagram live, people in our community going out in the streets after George Floyd was murdered. So we watched him and we were like, we should go when we go home. So we went home and the next day there was a, a protest at the out, out here at the mall here out in the street. And I took her. And they, in the middle of the street, they formed a circle and she got in the middle of it and she spoke and I saw a confidence empower in her that I hadn't seen. For a long time, and I said, I'm gonna take her to every protest that I can.",
+    "moment_type": "realization",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "hope",
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_support",
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains strong agency signals ('making decisions', 'speaking up') and emotional signals ('confidence', 'empowerment') tied to a community interaction, representing a significant turning point.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The agency signal 'speaking_up' refers to the daughter, while 'making_decisions' refers to the mother (speaker)."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:03:00.000",
+    "timestamp_end": "0:03:31.000",
+    "paragraph_ids": [
+      "p14",
+      "p15",
+      "p16"
+    ],
+    "moment_text": "And so I did. So I, that summer, there was lots of protests we kept going. And just being the kind of person that I am, being the organizer that I am, you know, I've always, I've been organizing planning event. I mean, like, I so many different things. So I, I just was like, how do I do this? How do I run a protest? I asked, what do you do? And then, you know, we, we started doing it and I learned a lot. I mean. I have a black family. My husband's from West Africa. My kids are, are, are black and my daughter's biracial. I, of course, I've understood racism, I've seen it, I've seen it. But however, it, it was, after getting involved in all this, I really started to wake into the deeper systematic issues and, and all the things that, that, you know, I, I just didn't understand. And so the more I learn, the more it, you know, it makes me more empowered. To, to, to create change and to build something different that really supports, you know, all people equally and, you know, value and dignity as humans.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Social Justice",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "empowerment",
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment details a personal transformation with clear agency signals ('asking questions', 'seeking information'), a barrier overcome ('education_gap'), and emotional signals ('empowered'), making it eligible.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:03:35.000",
+    "timestamp_end": "0:03:59.000",
+    "paragraph_ids": [
+      "p18",
+      "p19"
+    ],
+    "moment_text": "That was her pivot, yeah. When you saw, yeah, and I didn't say this, I didn't say this about like, you know, my, my journey with, with, with my body. But honestly she played a role in that too, because I had had her and then that, and after I had her, I had gained the weight back and hit, hit the rock bottom, like I said, and. There was some that was part of the motivation too. 'cause here I had this. Little girl, this little baby girl. And I was like, I cannot pass this same stuff onto her. Like I've got it. Like she was my motivation. 'cause I knew, like I knew it. So like she tends to be me and her. There's a little cat, she's a cat.",
+    "moment_type": "realization",
+    "life_stage": "postpartum",
+    "health_domain": "Intergenerational Patterns",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains a clear agency signal ('I cannot pass this same stuff onto her'), a barrier signal (the implied 'shame_culture' of body image issues), and a family system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:04:15.000",
+    "timestamp_end": "0:05:05.000",
+    "paragraph_ids": [
+      "p21",
+      "p22"
+    ],
+    "moment_text": "That summer 2020, we did, you know, lots of different protests and at the end of the summer we decided that we were gonna cap off the summer by doing protests across the county and do a car parade in between. And, and we decided, what are we gonna call it? 'cause we wanted to sign on as many people as possible from different organizations and c. And so we said Community for change, and that was just the name of that, that big action that we did. But then we continued, we continued to do educational events and voting things and the trans rates, rallies and all kinds of stuff, even through COVID and lockdown and things like that. And it's always been about coalition and community. Like there's, there's lots of helpers out there, there's lots of different activists and organizations, and we tend to be kind of in our own silos. Like bringing people together to connect to find that common ground. So that's always been part of it. And then, you know, more recently this year with what's happening in the country, the election we've been, we started to get activated again and, and what And but, but now it's even diff it's different. 'cause we're doing a lot of activism and we're doing a lot of resistance. We do protests, but we're building community. We're building community because that's one of the things that's really missing. From a lot of people's lives in our society, we've forgotten how to rely on each other and how to work with each other.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "Community Building",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "connection"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains strong barrier signals ('in our own silos', 'forgotten how to rely on each other') and agency signals ('we decided'), making it a clear example of identifying a problem and creating a solution.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:05:05.000",
+    "timestamp_end": "0:05:35.000",
+    "paragraph_ids": [
+      "p23",
+      "p24"
+    ],
+    "moment_text": "The first week after the election, I wasn't like sure what to do. Like do I start running like women's circles again or healing circles for people? Do I get act, I do protests, what do I do? And it was a week after and I had my a, a appointment with my therapist and I was like, I don't know what to do. And she's, we decided you're, let's stop trying to figure it out. And I swear that night I had like an epiphany because I, I, it hit me. I can't control what happens at the top. I can't control the federal government. I can't control what's happening in the world. But what I can do is I control how I act my values. And what I believe in, in my relationship with my neighbors, in the relationships with my family, with the relationships with my community, and ultimately the relationship with myself.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "confusion",
+      "clarity",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains strong emotional signals ('overwhelm', 'epiphany'), agency signals ('seeking support'), and a healthcare provider interaction, making it a powerful example of a realization.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p4"
+    ],
+    "moment_text": "Like as, especially as women, like, you're not supposed to need help. You're not supposed to be struggling. You're not supposed to, like, you're supposed to have everything together. And that's the way we function in the society. Like people are, nobody talks about how much tax debt or how, I'm sorry, how much medical debt they're carrying, how much credit card debt, they're daring or what's happening here? Everybody. So nobody. And it's the same with women. Like if you don't talk about it, when you start to talk about the reality of what we're all facing, what we're all dealing with, there's a shift there that can happen just by like getting it out there. That's the first, you know, what do they say? It's always the first step to change is admit it.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "shame",
+      "isolation",
+      "relief"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong barrier signals (stigma, shame_culture, silence) and agency signals (speaking_up) within a community system interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "I think what I'm finding is it doesn't matter where you are in the ecosystem of the world. We're, we all have so many universal commonalities. Absolutely. And you know, getting to the truth of it, admitting it, sharing it, being vulnerable with yourself, the world, with women, and saying, Hey, but you're still out there doing these things and you still are, and you're power doing them, but you're still human.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "belonging",
+      "validation"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional signals (connection, validation) and an agency signal (sharing_story) within a peer_community system interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "And so one of the things that we've been doing with Community for Change too, that doesn't always happen in every activist space is that we try to make room for that part of things, the emotional part of things. Too many activist spaces where they just focus on the work and they don't ever tend to their hearts and their, their spirits. You know, you're gonna burn out this work. That, especially now, I mean, the work we're doing, the work I'm doing now, like right on the frontline, dealing with families that are affected by immigration reigns and like real fear and horrible things happening. It's, it's heavy. It's really freaking heavy. We, we, we have, we have organizing circles once a month where we have a space for the heart where people can speak about how, you know, the toll on them, how they're coping, what they need.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "overwhelm",
+      "fear",
+      "sadness"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains a barrier signal (lack_of_support), agency signals (seeking_support), and emotional signals (overwhelm) within a peer_community system interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker discusses the heavy emotional toll of frontline activism, which could be sensitive for some listeners."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p17",
+      "p19",
+      "p20"
+    ],
+    "moment_text": "I believe that what's happening in the world and in this country is about evolution of spirit. I think that there is an old way of being that is on its way out. ... But the ways that we're starting to understand about our minds and our consciousness. And, and, and trauma and neurodivergency and all these different things and, and, and harm and how things, harm and boundaries and like all these things that we're learning about how to be in a relationship with each other and how to be better. You can't put that stuff back in the box. All the ways that we've learned to accept people for who they what, whatever what they wanna call themselves or everyone, they look all that way of being that's not going anywhere. So I think what's happening is really evolution of individuals is starting to wake up to, to, and it's really, like I said, like it's really is about liberation.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "hope",
+      "clarity",
+      "empowerment"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional signals (hope, empowerment) within a community system interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The text was combined from three paragraphs to form a coherent moment. The '...' indicates a jump between paragraphs p17 and p19."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p22",
+      "p24"
+    ],
+    "moment_text": "Unfortunately the situation that we're in right now is a situation where we have our. Federal government breaking constitutional law and civil rights. And so we have local municipalities like the local county government and the municipal governments that don't have jurisdiction over the federal government. So we're at this. Place where it's literally citizens across the country that are on the frontline protecting people. ... The truth is, the change does not come from the, it's, it's gonna come from the bottom. It comes from the people. It comes from us. It's not gonna, we can't, nobody's gonna save us. It's, it's about us, us saving us.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Civic Engagement",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "frustration",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains a barrier signal (system_navigation_difficulty), an agency signal (self_advocacy), and emotional signals (empowerment) within a community system interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The text was combined from two paragraphs to form a coherent moment. The '...' indicates a jump between paragraphs p22 and p24."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p26",
+      "p27",
+      "p28",
+      "p29"
+    ],
+    "moment_text": "I think one of the things I would say that I'm doing for, for marching. For my own mental wellness within all of this is to make space to take care of myself through this and learning to be able to ask for help and learning to make space for myself and model that. It's not always easy when there's like crisis situations going off every day, making space for myself. And then the other thing is. A real commitment to being courageous in my relationships with other people and, and that's the, I had some years after COVID where I felt very anti-people. I'm sure lots of people are gonna relate to me on that respect. Like, I didn't wanna go to meetings, I didn't wanna deal with people at all. But now I've just really made this decision that. I know that in this work there's gonna be emotions, there's people with different personalities, but I've decided to be transparent, to be honest, to face conflict with bravery, and also to keep stepping through fear when I do have imposter syndrome.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "fear",
+      "isolation",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "setting_boundaries",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains a barrier signal (social_isolation), strong agency signals (seeking_support, setting_boundaries), and emotional signals (fear, confidence) within a peer_community system interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "UTS_S4_PODCAST_036_Guest_Stephanie",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:12.100",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "When I do feel, 'cause that comes up, there's times where I'm like, oh, who am I? Like who am I to be doing this? Why is anybody listening to, and then, you know, just to be, to push that away and to just really, to be able to do what I can do and use my, you know, it's, it's. It's not always easy, but it's it's important.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "self_doubt",
+      "confidence"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional and agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is describing a classic case of imposter syndrome and the internal work to push through it."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "UTS_S4_PODCAST_036_Host_Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:12.200",
+    "timestamp_end": "00:00:25.000",
+    "paragraph_ids": [
+      "p2"
+    ],
+    "moment_text": "You're guiding, you're supporting, um, yeah, the community in such a big way. And we can only do that if we're role modeling. We have to be what we're actually espousing, if you know what I mean. So I mean that, yeah, in a lot of ways we're all, we're all really learning together too right now because it's, we've never, this is, you know, although there's always moments in history that resemble others, there is no moment.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Community Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional signals and a system interaction other than 'none'.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M012",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "UTS_S4_PODCAST_036_Guest_Stephanie",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:25.100",
+    "timestamp_end": "00:00:39.500",
+    "paragraph_ids": [
+      "p3",
+      "p4"
+    ],
+    "moment_text": "Like the one that we're having right now. It's new. And you know, some people act like, some people say feel like we're going backwards. But the thing about evolu, the collective evolution is the same as individual evolution. You go, it's not a straight line. You go up, you shit shake stuff, shake loose, and then you gotta deal with stuff again. But you don't go back to where you started. You keep going up. So what's happening now is just a, a product of growing.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional and agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M013",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "UTS_S4_PODCAST_036_Host_Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:39.600",
+    "timestamp_end": "00:00:56.000",
+    "paragraph_ids": [
+      "p5",
+      "p6",
+      "p7"
+    ],
+    "moment_text": "But you're right, there isn't any precedent for what we're living through right now. It's unprecedented. I don't even know how to articulate this, so maybe I should not articulate it. It is so strife with emotional deregulation. If you, if you add, just if we look at. Maslow's Maslow's hierarchy of needs. Mm-hmm. And we all need a safe space to live all of that. We can't even feel that right now. Yeah. Yeah. The base level. So forget about self-actualization. If one takes time to really think about it, it's kind of hard to get out bed.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "overwhelm",
+      "anxiety",
+      "hopelessness"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong emotional and barrier signals and a system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M014",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "UTS_S4_PODCAST_036_Host_Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:56.100",
+    "timestamp_end": "00:01:08.000",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "But if you sort of, you know, say, I'm gonna create this bubble and do what I do really well, so make my personal contributions to this world as good as I can, because that's what, back to your very early comment. I can't control what's out there. I can control what's in here and, and we can do, and we can control that within our families in some ways in our communities if we have a voice, but harder in in other situations.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "empowerment",
+      "calm"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries",
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong agency and emotional signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M015",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "UTS_S4_PODCAST_036_Guest_Stephanie",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:08.100",
+    "timestamp_end": "00:01:23.000",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "And so I think it's tricky. What do you think? It's, you know, at all process and evolution is, is, is it's, it's, it's messy. It's, you know, every time you go through like a dark time, it feels like, you know, like unbearable. Like even when, you know, it's part of the whole process getting better. But I think the more that. We are able, we're able to connect to the essential part of us, what do you call it? A soul, whatever you call it. The part where we're connected to each other in all life, the more that we can get through whatever we need to get through.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "overwhelm",
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional and agency signals.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M016",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "UTS_S4_PODCAST_036_Guest_Stephanie",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:23.100",
+    "timestamp_end": "00:01:42.000",
+    "paragraph_ids": [
+      "p10"
+    ],
+    "moment_text": "I think there's, and I think there's, in all the bad that's happening, in all the harm, like you talk about like that bottom level, I would never wish any of this. Of course, I would never, ever, ever, ever want any of this to happen. But I think there's some things. From this society going through this that will ultimately cause growth and transformation. Think about COVID, think about the quarantine and like how many people's lives, you know, have like changed and a lot like for the better, like loss let go of things that didn't serve anymore. You know, so, you know, these things are happening, but they're happening in service of growth of, of a better world.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "hope",
+      "sadness"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional and agency signals and a system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment describes a concept similar to post-traumatic growth on a societal level."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M017",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "UTS_S4_PODCAST_036_Guest_Stephanie",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:49.000",
+    "timestamp_end": "00:02:07.000",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "Focus on your own spiritual path and, and forget about, you know, like there is, I, I saw, I wish I could remember a quote I saw recently. It was talking about like your individual spiritual path. Like if, if that's your, but it, it, it is related to the collective 'cause. The, the more that you connect with your true self, it, it, it, it, that is what creates the collective. Because, 'cause you can't, if you're really connected to who you really are, anybody, you can't go out there in the world and do harm to other people. You're gonna create, you know what I mean? So it, it, it, it really is to me, the, it's kind of, it's the same.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "clarity",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional signals and a system interaction other than 'none'.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M018",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "UTS_S4_PODCAST_036_Host_Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "00:02:07.100",
+    "timestamp_end": "00:02:18.000",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "I hear you. Yeah. The same thing, but you can't turn somebody if you just turn your, your, you know, to your own personal growth and spirituality and, and as of effect of turning away from the world, especially right now. That's, that's kind of privilege in, in action too, because it's nice that, that, for those that can, but there's a lot that. That really can't at all. So, yeah.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Community Health",
+    "system_interaction": "community",
+    "emotional_signals": [],
+    "agency_signals": [
+      "avoidance"
+    ],
+    "barrier_signals": [
+      "access_barrier"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency and barrier signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a critique of 'spiritual bypassing' and highlights the privilege inherent in being able to focus solely on personal growth."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M019",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "UTS_S4_PODCAST_036_Guest_Stephanie",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:25.000",
+    "timestamp_end": "00:02:40.000",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "Obviously like in communities, it's, it's pretty, the mental health issues are, are widespread right now 'cause it's just a lot of fear and a lot of. Feeling hated in the, the helping space, the activist space. It's, it's a lot. What, it's a lot what you talked about. I mean, people are doing their best to cope and regulate, but it's a, a daily assault on your sense of justice and, and a caring for people. So it's, it's really heavy and hard.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "fear",
+      "overwhelm",
+      "sadness"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional, agency, and barrier signals, as well as a system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "Describes the significant mental health burden and burnout risk in activist and helping professions."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M020",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "UTS_S4_PODCAST_036_Guest_Stephanie",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:40.100",
+    "timestamp_end": "00:02:57.000",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "I work with. I think the work does help. I think it does help to have something to know that you're doing what you can do to contribute. A lot of the folks that I work with say like. I feel this way too sometimes. Like I, I, I think they don't have a choice when it comes to like, I, if I have the opportunity, I'm out a place where somebody can, is at risk and I can do something, I'm gonna do it. And that's what people are just so there's like the despair and the fear. But there's also like this com a level of commitment by the folks in the, in the space that are fighting back. We're gonna fight with everything we have.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Community Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "empowerment",
+      "fear"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong emotional and agency signals and a system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M021",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "UTS_S4_PODCAST_036_Guest_Stephanie",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:07.000",
+    "timestamp_end": "00:03:19.000",
+    "paragraph_ids": [
+      "p19"
+    ],
+    "moment_text": "I think what I would like to tell, remind all women that you are embracing a journey towards loving yourself unconditionally and accepting the parts you don't like, and giving yourself grace and giving yourself rest and speaking your truth. And keeping your boundaries and all these things are not just about you. Of course, those things will make your life so much more better and, and full.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "calm"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong emotional and agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M022",
+    "episode_id": "UTS_S4_PODCAST_036.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_036.docx",
+    "speaker_id": "UTS_S4_PODCAST_036_Guest_Stephanie",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:19.100",
+    "timestamp_end": "00:03:40.000",
+    "paragraph_ids": [
+      "p20"
+    ],
+    "moment_text": "But it's really about, it's also about the liberation of all of us. The work that you do to be come into your own self more fully and be able to give whatever G gifts that you have, whatever skills, whatever you are blessed with, have to give that more freely into the world is what will make the world better. So the liberation of our own selves. From all the stories of misogyny, from all the ways that were held back and all the ways we're told that were less than is about freeing the world. You free yourself, you free the world, and, and you know, women are good at doing things for other people. So if you don't do it for yourself, love yourself for the world.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "empowerment",
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains signals across all three categories (emotional, agency, barrier) and a system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a powerful concluding statement connecting individual self-worth and liberation to collective liberation."
+  }
+]

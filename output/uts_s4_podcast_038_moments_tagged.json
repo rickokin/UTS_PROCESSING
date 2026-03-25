@@ -1,0 +1,1124 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra Hertado",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:13",
+    "timestamp_end": "00:03:25",
+    "paragraph_ids": [
+      "p7",
+      "p8"
+    ],
+    "moment_text": "I was the top of my career. I had a fantastic job, fantastic colleagues. When all of a sudden I started having anxiety. I couldn't sleep, so well, I have to say, I always been very, because I was in a, in a help. And wellness company. Doing sports and talking about yoga was just very, very common. It was part of our lifestyle. And I also think that part of it was, I wanna take care of myself, but part of it was also trying to take care of my dad. So to give you a little bit of context, since I was very little, my dad had a mistress illness that turned out to be autoimmune. Which really threw off the family. Uh, he had a juvenile arthritis and that completely changed our lives. So, spent many times, uh, at the hospital, uh, until they figured out what it was. He almost died because he got the, the wrong prescription. Anyway, anyway, fast forward, I think my journey started trying to heal me and heal him. And that included going into wellness retreats that eventually graduated into getting certificates in meditation, mindfulness, yoga. And eventually led into getting very, very deep, not only into the mind space, but the connection with the body. And that's kind of how the journey got me to a point where I started discovering that even though I could not help my dad anymore, I could help another group of people that were struggling.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health & Autoimmune Disease",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "anxiety",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "misdiagnosis",
+      "delayed_diagnosis"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains barrier signals (misdiagnosis, delayed diagnosis) and emotional signals (anxiety) within a family and healthcare system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra Hertado",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:02",
+    "timestamp_end": "00:05:21",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "It does start with us first. And I think I did not know that. I remember being in one of my, one of the trainings that I did, uh, for Yoga Nira. And I remember being at the exercise itself, when all of a sudden it came to my mind why I was there. I started remembering when I was a little girl, trying to help my dad feel better, trying to support my mom, and then I had all these emotions. On one side, it was nostalgia, gratitude, but also this sense of awareness of, okay, now I know and I cannot do anything about that. I was a little girl, but I can do something for me. I still feel com or I still, at that point, I, I felt very incomplete because even though I was slowly learning about me, but I still cannot do something for someone else. And that was, uh. Very difficult to deal with in the sense that I didn't think I was competent enough to help someone through a meditation or through a yoga class or through anything like that. I just didn't think I had that gift that many people have. I wanted to figure out a way to get to a point where, yes. I through my own healing, I can help others. And I think that's part of the reason why Hormone or Prelude Health became such a big part of what I, what I do. And I don't think I will be a good founder for any other type of company. I am good at this because. I think it's important. It has a purpose and I understand it, and it connects to my life story.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness & Personal Development",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "self_doubt",
+      "clarity",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong agency signals (seeking information, making decisions) and emotional signals (self-doubt, clarity) within a peer community system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker's feeling of incompetence is a strong internal barrier, but does not map directly to the provided `barrier_signals` vocabulary."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:05:21",
+    "timestamp_end": "00:05:58",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "By creating Prelude Health and Harmony, you are actually scaling the ability to heal and help others. So I think that you said a lot there. I think that that even the way you described it slowly been scaling. Yeah. Your healing world and probably not even thinking of it that way. And it's interesting, just your humbling nature. I think as women we're so busy. Being critical. I never thought, you know, I could teach meditation or yoga, and now you're doing it and you have the capacity to do it. And so it's just like, it's just about, it's about putting in the discipline and doing the work and, and showing up for class and learning it. Right.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health Advocacy",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "empowerment"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 evidence gate. While it contains emotional signals, it lacks any barrier or agency signals, making it primarily a conversational connector rather than a source of insight.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra Hertado",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:58",
+    "timestamp_end": "00:06:20",
+    "paragraph_ids": [
+      "p14",
+      "p15",
+      "p16"
+    ],
+    "moment_text": "Oh, I don't know. I still feel like the more I know, the more I feel like a little girl that knows nothing, but that's kind of like life, right? I mean, the more we know, the more we recognize, we know nothing. That's actually a very powerful truth. Right? Yeah. I mean, you know, that's kind of a good thing because as soon as you think you know too much. You stop learning and growing. So I actually think of it positively.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Personal Development",
+    "system_interaction": "none",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 evidence gate. This is a general philosophical reflection with no specific barrier, agency, or emotional signals tied to a system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a conversational exchange between host and guest. I've assigned it to Myra as she introduces the core idea."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra Hertado",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:06:20",
+    "timestamp_end": "00:07:25",
+    "paragraph_ids": [
+      "p17",
+      "p18"
+    ],
+    "moment_text": "It is, no, it is a positive and I am. Pretty grateful because even this morning when I was doing my little meditation, I was thinking about every person has a journey and every woman has a story. I often talk about what I do and I start talking about hormones, and every woman I talk to, they tell me a story about their own. Hormonal health experience. I'm sitting next to someone on a plane. She will tell me two hours of her journey. That's why I love what you do because the we are stories, right? And I think personally what we found through this journey was that. Our stories that share a story, every woman will go through perimenopause, every woman will, will similar conditions. Somehow. It's very universal. It doesn't have to do much with culture. Which is amazing because that means that we can also change it. If we manage to change how we speak about it, we can address many things, including how do we research it, how do we address it, how do we talk about it, how do we educate, how do we deal with our mental and uh, physical state when it goes through it? I feel all of this could be the culmination of many stories told.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Hormonal Health & Perimenopause",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "hope"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "silence",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains clear barrier signals (silence, education_gap) and agency signals (sharing story, speaking up) related to the peer community system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra Hertado",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:07:42",
+    "timestamp_end": "00:09:01",
+    "paragraph_ids": [
+      "p20",
+      "p21"
+    ],
+    "moment_text": "But I think what's interesting is what you said. Is in the case when it comes to our bodies, women have felt uncomfortable telling their stories. Yes. And so I think that your comment, Myra, about the fact that there, there's these universal truths. Every woman's gonna go through perimenopause. There's no cultural differences. Maybe the cultural differences, even when you think of the western world. We're only starting now to talk about it. If we could globally talk about the experience of hormonal health and our perimenopause experience, we would be educating each other and then educating the next generation that's would from a prevention. Exactly. Exactly. So I, I couldn't agree. It's so, it's so interesting and so yes stories, the power of stories to really affect change and you know, with women's stories, there's also that trusted source. Women trust other women versus getting an expert. And I think it's very much tied to, uh, mental wellness in the sense that, and we, we have research about this, that when women connect. To a community to discuss what they're going through, their improvement in symptoms, it skyrockets, uh, very quickly because first of all, it is a comfort that you know, you're not alone. Two, that it's, that you can address it and it's just know, knowing what you could do about it. So that's one side of it, but the other side of it is.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Hormonal Health & Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection",
+      "trust"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "silence",
+      "stigma",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong barrier signals (silence, stigma), agency signals (sharing story), and emotional signals (validation, connection) within a peer community context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment is a dialogue between the host and guest, but the core evidence and expansion of the idea comes from Myra, so she is assigned as the speaker."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:41.510",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3"
+    ],
+    "moment_text": "I was, uh, listening to, uh, an interview to Alri yesterday, and he was talking about him going to therapy and how history needs to have a, the, or, uh, cultures and countries need to have a therapist because a lot of the stories that we tell ourselves might not be stories that serve us right now anymore. We need to change the story in the way that we tell ourselves that story. And that changes a lot. How we address each other and how we address ourselves, our bodies, our partners, our family. So I really, really like that and I just thought it was, uh, a good analogy he had. But the stories today, service differently because we're living in different times and in different circumstances. And in today's climate, more than ever. The power of our stories, the power of giving voice. I think about what's going on in the us and to me, more than ever having these conversations, it's more important and it's a, it's a global phenomenon. I think that the way that we tell the stories of our cultures, of our family, of our groups, and just, uh, because I don't wanna forget that we're talking about mental health.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains an agency signal (sharing_story).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:41.510",
+    "timestamp_end": "0:01:21.580",
+    "paragraph_ids": [
+      "p4",
+      "p5"
+    ],
+    "moment_text": "Why I believe stories are so important in specifically me perimenopause for women in mental health is that. What we found out and why we is important. All these topics where they, they connect is that. Because the stories have not been told, women go with a very heavy load by a story to go through their journey. So this is not normal. I'm getting old. I I'm not useful anymore. Um, my body is not responding, et cetera, et cetera, et cetera. And because we don't understand the context, we don't understand, we even are disconnected with our body because we are so busy, we. Having been educated or have their words to tell the story, we cannot explain it to our partners, to our kids, which sometimes are going through, uh, adolescence and their own hormonal change. At the same time, we cannot have those conversations at work. And also they cannot have it because they should be able to understand the global story behind, uh, perimenopause.",
+    "moment_type": "system_observation",
+    "life_stage": "menopause_transition",
+    "health_domain": "Perimenopause",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "isolation",
+      "self_doubt"
+    ],
+    "agency_signals": [
+      "self_blame",
+      "silence"
+    ],
+    "barrier_signals": [
+      "lack_of_language",
+      "lack_of_information",
+      "silence",
+      "social_isolation",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains multiple barrier signals (lack_of_language, lack_of_information) and agency signals (self_blame).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:01:21.580",
+    "timestamp_end": "0:02:11.800",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "So through harmony, we created, um. A tagline, uh, called Per Menno Causes our perimenopause is to combine all the stories with a science lens to provoke and normalize the conversation. So women. Just to give you a statistic, the highest rate of divorce and suicide happen in women in their early mid forties. We don't know it. Can these be related to the symptoms that are going through? Are these symptoms very likely connected to both their body and their their mental health? Because hormones then are neurotransmitters, right? They're connected to your brain. So yes, there's a lot of new studies like Dr. Moscone that is talking about Alzheimer and the connection of brain and and body through menopause and pre menopause. But we need to be able to give the words to women so they can communicate that makes it right for them and their their community.",
+    "moment_type": "advocacy",
+    "life_stage": "menopause_transition",
+    "health_domain": "Perimenopause",
+    "system_interaction": "peer_community",
+    "emotional_signals": [],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_language",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains barrier signals (lack_of_language, stigma) and agency signals (sharing_story).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The mention of suicide is statistical and in a public health context, not personal ideation, but flagged for sensitivity."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra",
+    "speaker_role": "patient",
+    "timestamp_start": "0:02:29.000",
+    "timestamp_end": "0:03:31.900",
+    "paragraph_ids": [
+      "p9",
+      "p10",
+      "p11",
+      "p12",
+      "p13"
+    ],
+    "moment_text": "So I've been in Singapore for 17 years. The last 10, or almost the last 10 I've spent in Adidas, which was a fantastic journey. Uh, I. I enjoy very much, uh, being there. It's uh, uh, my team, uh, everything about it. Uh, not to say that it was ce but it was very competitive, but it was very enjoyable. Then after that, during COVID, when we are all having these aha moments, um. I had the opportunity to move to a women's health startup, uh, specifically in sexual wellness. And I was just so intrigued about, again, this, the stories that we tell ourselves because I was doing business development for them, so marketing and. I had the opportunity to talk to women and men from every part of the world. And the, the, the story was the same. We're too conservative. Our use, our consumers will never buy this. They, nobody wants to talk about it. And during COVID, there was such a big explosion in the conversation that, that allow us to have more reach to the point that one of my customers was, um, bookstore in Canada. That they were physically selling sexual wellness products next to the sexual wellness books. It was on the news. Uh, some people were not, were very shocked about it. Let's put it that way. It's very novel for sure. It was very novel. Uh, now that the products are available in Sephora, in Galler, Lafayette, Bloomingdale's pharmacy, so that really helps, uh, change the narrative.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Sexual Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains multiple barrier signals (stigma, shame_culture, silence).",
+    "risk_flags": [
+      "sexual_health"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra",
+    "speaker_role": "patient",
+    "timestamp_start": "0:03:31.900",
+    "timestamp_end": "0:04:28.190",
+    "paragraph_ids": [
+      "p14"
+    ],
+    "moment_text": "But through that journey, what. Coming out of a, a very also high performance company where I was having trouble sleeping. I had anxiety migraines. I even had an MRA done because I couldn't figure out why I had migraines. They couldn't find anything until a nutritionist out of all people send me to do labs. Uh, this was a transition. From one company to the other, and I figure out, or, well, that, first of all, it was super expensive. You had to send them to another, another country to the US twice because it was not, it didn't arrive well enough, the sample. Uh, and at the end. What ended up happening is I just got a piece of paper with a bunch of numbers that said perimenopause, like you never heard of it. My mother never spoke about it. She probably didn't know either. This nutritionist sat with me for an hour and a half or two, talked to me about hormones, talk about what I needed to do. I got into her program and I deflated like eight kgs in six months or so. So it was lots of inflammation, but my learning to me was with the technology that we have, I cannot believe this is not more while available.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "menopause_transition",
+    "health_domain": "Perimenopause",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "confusion",
+      "frustration"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "delayed_diagnosis",
+      "cost_constraint",
+      "system_navigation_difficulty",
+      "lack_of_information",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains multiple barrier signals (delayed_diagnosis, cost_constraint) and involves a healthcare_provider interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra",
+    "speaker_role": "patient",
+    "timestamp_start": "0:04:28.190",
+    "timestamp_end": "0:05:12.190",
+    "paragraph_ids": [
+      "p15"
+    ],
+    "moment_text": "So especially at this time. Number two, this would be impossible for just any person to achieve. I was lucky because, uh. I'm not married, I don't have kids. I have the purchasing power to do it. I was extremely fortunate. But not everybody has it, and why not? So that's when I got connected with, uh, Dr. Kumble and, uh, Joe Dunbar, which are experts in, uh, diagnostics. They opened my mind because again, my story is. I'm not an entrepreneur. I cannot do this. This is too hard. I don't understand science. I'm well where I am. I don't wanna rock the boat. So that's another story I had to change. But by being with them, I met and learned people that have done it and they understand it and they taught me, and it has been a fantastic journey working with them.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Women's Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "self_doubt",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "cost_constraint",
+      "access_barrier"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains barrier signals (cost_constraint, access_barrier) and emotional signals with a system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:05:28.100",
+    "timestamp_end": "0:05:51.100",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "And I think it's really interesting, um, Myra, you like, you started saying that this is my life and these were my inflection points, but this other point here, you were in a very successful job at a very big company like doing probably amazing work and having this personal moment. And you know that the pandemic, of course, offers one. It's like, what am you know, what's it all about? And I'm going through this. I wanna do something about it. So I wanna just take a moment to, for you to breathe in for me, pause, and just really own that. That's really powerful. And it takes. So much courage to go on the journey as a founder, like making these decisions.",
+    "moment_type": "validation",
+    "life_stage": "midlife",
+    "health_domain": "Career",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains emotional signals (validation, empowerment) and an agency signal (making_decisions) with a system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:05:55.000",
+    "timestamp_end": "0:06:41.180",
+    "paragraph_ids": [
+      "p18",
+      "p19"
+    ],
+    "moment_text": "Plant the seeds. Plant the seeds. Plant the seeds. Like be diligent about planting seeds. Do it in integrity. Water the seeds, take care, plant more seeds. It will happen. If the idea is good, the science is good as it relates to what you're doing, um, it will happen. And what I've learned is it's just put the time in thing. It's very rare that something's an overnight success. My, my, um, chief legal officer says to me, Elizabeth, read shoe dog. Shoe Dog was the Nike story. Yes. Bill Knight story. And it's a great story because it what took him over 10 years or so, you know, before he was close to bankrupt and look at what happened. He created a billion dollar, you know, so I think that's a great story. When you're having that moment to sort of reflect, um, on, you know, capacity, and I know it's different in women's health, I know it's not as funded.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Career",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "cost_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains a barrier signal (cost_constraint) and an emotional signal with a system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:06:41.180",
+    "timestamp_end": "0:07:01.180",
+    "paragraph_ids": [
+      "p20"
+    ],
+    "moment_text": "So it's interesting, um, that you mentioned that because when I did, you know, coming from marketing, I did all the proper market research about my consumer, my product, what you need to do, and it ticked all the boxes. I mean, it was just unbelievable. I remember seeing one report that from McKenzie that had a box with everything that is covered and that is not covered and the boxes were empty and it was just so.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health",
+    "system_interaction": "media",
+    "emotional_signals": [],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains barrier signals (education_gap, lack_of_information).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:26.880",
+    "paragraph_ids": [
+      "p37",
+      "p38"
+    ],
+    "moment_text": "Obvious, I just couldn't understand why it has not been done. But what I missed to research is what are my possibilities as a female founder in health tech? Because I've been fortunate enough that in Adidas, my boss and his boss, they really take care of us, uh, in the sense that if we, if you were good at your job, didn't matter. Gender, color, nationality, age. You are in, if you would be hardworking and good at it. So it was a bit of a shocker, uh, when we started going out. And first of all, at that point nobody was talking about menopause and perimenopause.",
+    "moment_type": "system_observation",
+    "life_stage": "midlife",
+    "health_domain": "Menopause",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "confusion",
+      "frustration"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "silence",
+      "stigma",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains barrier signals (silence, lack of information) related to a specific system interaction (workplace/health tech funding).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:33.000",
+    "timestamp_end": "0:00:56.100",
+    "paragraph_ids": [
+      "p40",
+      "p41"
+    ],
+    "moment_text": "So statistics are not necessarily in a, in a favor worldwide. Uh, a lot that we, what we have done, it has been done by, uh, friends, family, angel groups. And family offices. We have had, uh, support from the university, the SMU Management University in Singapore that incubate us. We also had, uh, conversations with Singapore about, um, other types of, um, support that is on the works. We have gotten a lot of people and organizations behind us, but I think if you compare to what FinTech or NFTs or blockchain gets, I mean it's statistics say one to 2%. So it, it has been a community journey, which I'm very grateful for.",
+    "moment_type": "system_observation",
+    "life_stage": "midlife",
+    "health_domain": "Women's Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "frustration",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "cost_constraint",
+      "access_barrier"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains barrier signals (cost constraint, access barrier) and agency signals (seeking support) related to a specific system interaction (community/funding).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:58.280",
+    "timestamp_end": "0:01:16.190",
+    "paragraph_ids": [
+      "p42",
+      "p43"
+    ],
+    "moment_text": "So when we started talking about menopause and perimenopause, like I was saying, it was a very difficult conversation. Now, thanks to, uh, many women that are like yourself, bringing the conversation out in the open, that has really, really helped us reduce the time that it take us to explain what hormones do. Now people just know that it is important. I think the greatest thing that we can do across the board is create awareness and education, because if people don't understand, it doesn't matter that you have the product.",
+    "moment_type": "advocacy",
+    "life_stage": "menopause_transition",
+    "health_domain": "Menopause",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "relief",
+      "hope"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "silence",
+      "stigma",
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains multiple barrier signals (silence, education gap) and agency signals (speaking up, sharing story) related to a system interaction (peer community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:01:18.600",
+    "timestamp_end": "0:01:28.110",
+    "paragraph_ids": [
+      "p44"
+    ],
+    "moment_text": "So I think creating awareness is not something to be undervalued. And I think also to your comment that what one or two or 3%, uh, of investment go to women's health? It's so tricky because it, it can, going into it. It can be so defeating, but if you don't go into it, we continue to perpetuate the very problem, which is the lack of solutions for 50% of the world.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "frustration",
+      "hope"
+    ],
+    "agency_signals": [
+      "enduring",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "cost_constraint",
+      "access_barrier",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains barrier signals (cost constraint) and agency signals (enduring) related to a system interaction (workplace/investment).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:31.600",
+    "timestamp_end": "0:01:56.110",
+    "paragraph_ids": [
+      "p46",
+      "p47"
+    ],
+    "moment_text": "Thing that can change this gap is talking about it. So from a marketing background, I will say marketing and branding, that's not how it's position in the article, but it's about talking about it. And I think going back to telling stories and going back to the work you do and the community that, and how women communicate for ages and ages and uh, through time, our stories, this is what will help us put. An eye on the problem so we can solve it. I think my only, I guess, or I don't know if it's a learning, but maybe it's a learning, but also the way I would like that conversation to be, I would like it to be very propositive. I would like it to be with a growth mindset because sometimes it's very easy to stay in the, oh, but there's only 1%.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains barrier signals (silence) and agency signals (sharing story, speaking up) related to a system interaction (peer community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:02:00.890",
+    "timestamp_end": "0:02:12.890",
+    "paragraph_ids": [
+      "p49"
+    ],
+    "moment_text": "Challenges. And it's not like, don't play victim, let's like, like this is physically the science behind what we're experiencing and why you can expect certain things. How do you create a support supportive work culture that gets that? And by the way, some of us have felt that way in our own homes, you know, where we could be an executive out in the world and feel less so in our home. So I think that, you know, without having these conversations, people, women don't know, people don't know.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "frustration",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains barrier signals (lack of support) and agency signals (speaking up) related to multiple system interactions (workplace, family).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:02:12.890",
+    "timestamp_end": "0:02:28.100",
+    "paragraph_ids": [
+      "p50"
+    ],
+    "moment_text": "Exactly, and it's really helpful to all kinds of relationships, but I think it also helps solve problems. So once you understand it, and it's so interesting because I've had so many conversations with different founders and they talk about the pitch to a group of men and their pitch and their story. At the end of the day, it's like, just stay up. And you have a wife, you have a daughter, you have a mother, you might have a sister who could be experiencing this. Like, you tell me that this isn't something that's needed. It's like nothing, none, nothing. None of what we're suggesting is superfluous.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "education_gap",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment describes a barrier encounter (lack of validation) and agency signals (speaking up) within a specific system interaction (workplace/funding).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:02:31.280",
+    "timestamp_end": "0:03:01.100",
+    "paragraph_ids": [
+      "p52"
+    ],
+    "moment_text": "Exactly. And it's changing. This changing. It's interesting because in my. Angel group. I think by now, if not more, if not half, more than half of my angels are men and they're, and even my team, half of us are men, half of us are women. And I do feel that this is collective effort for two reasons, like you said, because we have women in our family because it is the. Economically viable, uh, to have healthy women in society and also, well, I guess three reasons. And also because so far we only know half of the story of a human health perspective. So if we are saying, okay, why going back to my father's illness? Why didn't my dad had juvenile arthritis? When women are more prone to autoimmune disease, why him as a man? Why are men more prone to autism? We just starting to find out, but until we don't study the other 50% or we don't study health with a gender lens, we won't be able to understand how to address it at the end of the day.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Autoimmune Disease",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "hope",
+      "clarity"
+    ],
+    "agency_signals": [
+      "asking_questions",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains multiple barrier signals (education gap, lack of information) and agency signals (asking questions) related to a system interaction (medical training).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:03:04.800",
+    "timestamp_end": "0:03:21.900",
+    "paragraph_ids": [
+      "p54",
+      "p55"
+    ],
+    "moment_text": "You know what comes to mind when you say that? It's like, we need to address, this is a systemic problem, however we can't treat it systemically. So meaning. You have to be gender specific when it comes to health. Yes. You can't treat it systemically. We aren't all equal that way. Our bodies are different, so you have to understand them and so it's very interesting. It just came to me as you're saying this. I'm like, wow, that's kind of profound. We have a systemic issue. You know, women's health isn't understood. We've been treated like we're men. I mean, it wasn't until until 1993 that they started doing research on women conducting, bringing them into clinical trials and for a host of reasons.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "clarity",
+      "frustration"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "training_gap",
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains multiple barrier signals (training gap, education gap) related to a specific system interaction (medical training).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:03:22.630",
+    "timestamp_end": "0:03:40.800",
+    "paragraph_ids": [
+      "p56"
+    ],
+    "moment_text": "But I think it's really a good thing to think about and sort of take action in isn't just creating awareness, is understanding. Without that knowledge and without that move to gender specific research, gender specific care, gender specific treatment. Gender specific awareness and education, but the more men know, you know, I, I was doing one event and one of the fathers came in and he talked about having, um, two daughters going through puberty and adolescence and what the experience was like as a father. Him understanding allowed him to show up better as a dad, but better as a human.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Women's Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains barrier signals (education gap) and agency signals (seeking information) related to a system interaction (family).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:03:40.800",
+    "timestamp_end": "0:04:16.180",
+    "paragraph_ids": [
+      "p57",
+      "p58"
+    ],
+    "moment_text": "It is systemic. And we need to have many players, uh, addressing it. There has to be many harmonies. They potentially even a, a harmony in every country because the way that women experience perimenopause in Latin America might be different than North America or even different parts of Asia. The food that is available for them to eat is different. The body is done differently. And to add to that. Out of the very little data available only 20% represents black, Asian, and Latino women. So we need many people working on it, uh, in different, at least. Pieces of it, kind of like, um, I think one of the fantastic things I saw in COVID is that many scientists were working on maybe the RNA from a different perspective, maybe similar, maybe overlap, uh, additional things on top of that. And what they ended up all doing is connecting. And they created a, a network as a result of that, where they would share information to develop faster. And I think. Again, this goes back to how do we get together to develop solutions that serve different contexts, even though it's the same systemic issue with different realities.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Menopause",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "frustration",
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains multiple barrier signals (lack of information, fragmented care) related to a specific system interaction (medical training).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The moment highlights the lack of racial diversity in medical data, which is a significant barrier."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M012",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:04:16.180",
+    "timestamp_end": "0:04:25.190",
+    "paragraph_ids": [
+      "p59",
+      "p60",
+      "p61"
+    ],
+    "moment_text": "Actually, I love that same systemic issue with different realities. That's a beautiful way of putting it. I'm really curious, how are you marching for mental wellness? And it can be personal, professional, a combination. I get goosebumps when you said that. I feel like I've been so terrible at it. Oh, it sounds like you're pretty good at it.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "self_doubt",
+      "validation"
+    ],
+    "agency_signals": [
+      "self_blame"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains emotional signals (self_doubt, validation) and agency signals (self_blame) within a system interaction (peer community).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "UTS_S4_PODCAST_038_M007",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra",
+    "speaker_role": "advocate",
+    "timestamp_start": "TBD",
+    "timestamp_end": "TBD",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "Have all these certificates. I, I have to be very honest. Being a, a founder is. As we know, challenging and it not necessarily for the week, it not some, and you really need to have, uh, support systems that are not always available. I think it's, uh, the, one of the biggest success factors having, uh, support systems, but also having frameworks. Uh, I'm very fortunate that I have many therapists in psychology that I check in. Actually, my therapist checked in on me today. This morning before the call, and I think it's, I have to really actively remind me that I need to take care of me, that I need to take moments that, uh, often I feel at the end of the day, I am like, oh, I don't wanna do this.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains both agency signals (seeking_support, seeking_care) and barrier signals (lack_of_support) within a workplace system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "UTS_S4_PODCAST_038_M008",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra",
+    "speaker_role": "advocate",
+    "timestamp_start": "TBD",
+    "timestamp_end": "TBD",
+    "paragraph_ids": [
+      "p3",
+      "p4"
+    ],
+    "moment_text": "This is so hard. This is never gonna work. And it's just. Wait, you are tired. It was a long day, but you had all these wins. You're gonna sleep and tomorrow you're gonna feel great. So I think you start finding this like shortcuts that become. Like muscles, you know, your muscles starts to grow, your mental health muscles. So I'm hoping that, like we said at the beginning, to circle back, a lot of it is taking care of your mental health and showing up with your own example, because that's the hardest one. Talking about it, showing other people doesn't work. You need to do it, which is the hardest one.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "hopelessness",
+      "overwhelm",
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 evidence gate: Lacks barrier or agency signals. While emotional signals are present, the system_interaction is 'none', which does not meet the criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment describes a powerful internal coping mechanism (cognitive reframing) which could be considered a behavioral pattern. However, it doesn't map cleanly to the existing agency signals and fails the strict A2 rule due to system_interaction being 'none'. Consider for qualitative review."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "UTS_S4_PODCAST_038_M009",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "TBD",
+    "timestamp_end": "TBD",
+    "paragraph_ids": [
+      "p5"
+    ],
+    "moment_text": "You commented, Myra, on role modeling it. It's really important that we role model this behavior, not just for, for ourselves, for the communities we touch, for our businesses, for our families, whatever it may be. Um, because you're putting that out, it's that, it's that growth mindset and then it's role modeling it.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Community Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains an agency signal (sharing_story) and describes a system interaction with community, business, and family.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "UTS_S4_PODCAST_038_M010",
+    "episode_id": "UTS_S4_PODCAST_038.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_038.docx",
+    "speaker_id": "Myra",
+    "speaker_role": "advocate",
+    "timestamp_start": "TBD",
+    "timestamp_end": "TBD",
+    "paragraph_ids": [
+      "p6"
+    ],
+    "moment_text": "I think I wanna, um, highlight what you said. Take time off or timeouts during the day to take care of yourself. Reconnect with your body because the body's super wise. Talk about it to other people. Connect with other people. There's a huge power in community. And especially between women, uh, community, share your story because people learn through stories, so your story might help other people. And yeah, that kind of closes the whole circle is get to know myself, tell my story, connect with other people.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong agency signals (sharing_story, seeking_support) and implies barriers (social_isolation) within a peer community context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

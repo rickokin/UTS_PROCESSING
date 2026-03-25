@@ -1,0 +1,1240 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila Tola",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:02:01",
+    "timestamp_end": "00:03:11",
+    "paragraph_ids": [
+      "p4",
+      "p5"
+    ],
+    "moment_text": "So I think to me, the biggest wake up call was, uh, when I was 25 years old and, uh, my best friend was killed in a car accident. She was on a trip with her parents and her brother. She was driving. Both her and her dad, uh, passed away on the spot. Her brother and her mother survived. They passed away on my birthday. On my Jewish birthday, which, uh, I don't celebrate anymore. I focus on my, uh, English birthday. And it was, um, you know, one of those defining moments that, you know, there's so much despair, but you can only grow after that. And then I did my journey and there. I recognized a lot of other points in my life when events have shaped, you know, and made me who I am today. But this was the one where it's like, okay, life is short Gila. You have to use your assets, you have to use the brain you were given. There was a little bit of a, like a feeling of a mission. You know, God gave you a brain that you can use, and I felt at this point that I had not really. Lived my potential and it pushed me to, to do more, to apply to business school. Uh, to go to business school, and then to apply to McKinsey and go to McKinsey. And I think this moment really propelled me.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Grief and Loss",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "grief",
+      "sadness",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains a clear agency signal ('making_decisions') as the speaker describes how the event pushed her to apply to business school and live her potential.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila Tola",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:03:25",
+    "timestamp_end": "00:03:52",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "I was, you know, what they call a gifted student. And what it means is I was just really bored and really annoying to my teachers at the time. We didn't know about A DHD, um, and so it was just, um, active and, uh, sassy. I decided to just skip grades. It was my way of dealing with it. So I worked really hard and I skipped a grade, and then I skipped another grade and I finished my baccalaureate.",
+    "moment_type": "reflection",
+    "life_stage": "adolescence",
+    "health_domain": "Neurodivergence",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_language",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains clear barrier signals ('lack_of_language', 'education_gap') related to the lack of awareness about ADHD within the education system at the time.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker mentions ADHD retrospectively, which is a key part of the moment."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila Tola",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:03:52",
+    "timestamp_end": "00:05:08",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "It was a big shift, but to me it was, it, it made, it made sense to move to the us. I grew up in France in the feeling of, um, antisemitism, I would say, um, all my life and, uh, we could talk about this a bit more, but my parents really taught us that. It might not be the right place. It, uh, France is not very meritocratic when it comes to this and, you know, they felt like, um, the US Israel would be better for us. And so it. It made sense, uh, to leave. I met my husband in New York. People said, he's French, you're French, you guys should talk. Um, there was a pre, you know, there was a bias in the sample because we were at a Yeshiva University event, so we were already pretty similar. But then, you know, I, I, I, uh, lived in the us, went back to France, um, then moved back to the US to Chicago, and then moved to the US to Israel. I think to me there was a lot of this feeling of homelessness, I would say, of not belonging really anywhere, you know? And, uh, coming to Israel was actually for me, a way coming home, even though it was never my home, but I felt at some point in my life that the homelessness was also in my blood. You know, I felt no one in my family. Died where they were born because you're always running from one country to the other. And I wanted my kids to have a choice to have a home. Of course, they can go study in France and they speak English, French, and Hebrew, and they can go study in the us, but I wanted them to have a home and to stop this generational homelessness.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Generational Trauma",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "isolation",
+      "loneliness"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains a clear barrier signal ('social_isolation') and emotional signals ('isolation', 'loneliness') within a community context, describing a feeling of homelessness and not belonging.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila Tola",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:05:45",
+    "timestamp_end": "00:06:35",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "It was a feeling of, um, restlessness for me and very late in life, I was actually doing a retreat in Thailand, um, trying to reflect on, on, on life, you know, and suddenly I, as I was falling asleep, I remembered a dream that I had as a teenager every night. And it was a dream where I'm going upstairs and the stairs disappear. Every time I step on it, every time I step on the stairs, they disappear. So I can't slow down. I have to run, and I can only survive if I run. 'cause the steps don't stay for more than a second when I touch it. And I realized the, the, the meaning of this dream when I was there in Thailand trying to slow down. And I was like, wow, I'm allowed to slow down Gila. You don't have to run. But it's a message that I have to remind myself every day.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "anxiety",
+      "overwhelm",
+      "clarity"
+    ],
+    "agency_signals": [
+      "enduring",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains clear agency signals ('enduring', 'seeking_support') as the speaker describes a lifelong pattern of 'running' and the active step of going on a retreat to gain insight.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment connects a past experience (the dream) with a present realization, making it a powerful reflection on long-term mental patterns."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila Tola",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:07:10",
+    "timestamp_end": "00:08:04",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "When you're in this fear in the survival mode, it's a natural mode, right? It's because we are wired to sense threat. We are wired to survive. It's biology 1 0 1, right? But that pulls us into that space of fear and that space of fear, which is. You're in defense mode instead of being in the creative mode, you can't be in creative building optimism if you are staying in that place of fear and survival. You know that quote from Viktor Frankl where he says, between the trigger and the reaction lies your freedom. That choice your freedom and, and then edit. Edgar wrote the book on the choice, like I felt like I, I, I had to choose. Mm-hmm. I had to choose to. See things differently and, and, and it's a conscious choice all the time. And of course I fall back into the default and I have to remind myself and, you know, and I am preaching to others and then I have to preach to myself. Right. But, you know, it's a, it's a, it's a work of every day. I don't think it's ever gonna be over.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "fear",
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains a clear agency signal ('making_decisions') as the speaker explicitly states 'I had to choose to see things differently and... it's a conscious choice all the time.'",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila Tola",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:08:38",
+    "timestamp_end": "00:08:58",
+    "paragraph_ids": [
+      "p18"
+    ],
+    "moment_text": "When I started at McKinsey, they do ask you, what's your passion? And it, it was a really huge question for me because they, they say, you know, what's your passion? Like, is there any industry that you want to work in? And I didn't feel like I had one, like, you know, if I looked at, I had done a lot of change management with working with airplanes and there was always a guy more passionate about airplanes than me and trains and cars.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Career Development",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "self_doubt"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains an emotional signal ('self_doubt') and a specified system interaction ('workplace'), meeting the criteria of 'has_emotional_signals_and_system_interaction_not_none'.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "I did a lot of work with supermarkets and I wasn't that passionate about bringing stuff on the shelf, although it's important and, and I said to them, I said, look, for me to be passionate, I need to do something that's not only about the bottom line, it has to have a meeting. So either education or uh, public sector, social sector, healthcare, and said, oh, healthcare. Healthcare. We have a lot of clients. And, and here are three projects in healthcare that you can think about. And at the beginning I was like, you know what? Even if it's only because all my friends are in the healthcare space, I'll have good dinner conversation. Great. But I really am passionate about healthcare.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Career in Healthcare",
+    "system_interaction": "workplace",
+    "emotional_signals": [],
+    "agency_signals": [
+      "making_decisions",
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains agency signals (making_decisions, speaking_up).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "It was so easy for me to become an expert on the topic 'cause I was reviewing stuff about it and, and so I started right away in healthcare. You know, within healthcare I did hospitals, pharmacy chains, I did me devices. But what I loved was the intersection between different parts of the value chain where there's a lot of inefficiencies, a lot of misunderstandings, like explaining to a med device company how a hospital system thinks.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Healthcare Systems",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fragmented_care",
+      "lack_of_language",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains barrier signals (fragmented_care, lack_of_language) and involves a system interaction (healthcare_provider).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p4",
+      "p5"
+    ],
+    "moment_text": "And then 2015 I was working with colleagues on, uh, vaccines. We were talking to policy shaper, shaping, uh, institute and the industry, bio industry group. And we were talking about the fact that really investments were not going towards vaccines. And you are and towards infectious diseases and you are, they were always better. Places where you could put your money. The viruses and the bacteria didn't get the memo. They continued to do their own thing, right? And then so we created the vaccines practice at McKinsey. And then COVID came only four years later. I was on maternity leave with my fourth, and my husband is telling me all about COVID. And I'm like, dude, we said I'm taking maternity leave. Why are you telling me about work? And he is like, no, it's not work. It's life. I think all of us are gonna be, you know, is gonna be impacted by COVID. And I came back from mat leave March 1st, 2020.",
+    "moment_type": "lived_experience",
+    "life_stage": "postpartum",
+    "health_domain": "Public Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains an agency signal (making_decisions).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "And at that point I wanted to work on public health, you know, and um, and that's when I started to work on, on health equity. How do we make sure that we don't only bring vaccines to the developed market, but also to the developing countries? And when I started to work on health equity, it opened the door to thinking about the areas of medicine where we have the least equity. You can guess what they are, mental health. Because the more we learn about the brain, the more we realize we don't know much about the brain. And because, uh, the success rates are pretty low, there's very little money going to r and d in psychiatry. Mm-hmm. Even help because we have a modern medicine that's very organ by organ. Women have an endocrinologic system that is system-wide and we are still under investing in the research of the women, uh, body and metabolism, et cetera. So these are the two areas I've been focusing on since 2020.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Health Equity",
+    "system_interaction": "medical_training",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap",
+      "fragmented_care",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains multiple barrier signals (education_gap, fragmented_care) and describes a system interaction (medical_training).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p8",
+      "p9",
+      "p10"
+    ],
+    "moment_text": "By trauma, by mental health. So I spent a lot of time on this since 2020. I also learned a lot about trauma informed, um, organizations and how trauma shapes organizations. I think that's really interesting. That's, yeah. I'll tell you a bit to talk about it. Yeah. Yeah. So what I mean by that is, um, think about a pharma company that brings a product to market. It's a true story, right? And that product ends up killing people. Now, your entire identity as a pharma company is to help people. And now you brought a product to market that killed people, and it's a huge identity crisis, and you put in place all kinds of defense mechanisms so it doesn't happen again.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Trauma",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "grief",
+      "shame"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains emotional signals (grief, shame) within a system interaction (workplace).",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "The same way someone who goes through a relock creates defense mechanisms to protect him or herself. Over time, those defense mechanisms are no longer needed, but you don't know how to let them go. So for example, someone broke your trust and you don't trust anyone anymore and you can't let go and that hurts you. You, you need to learn how to let go of those different, same thing in organizations. And then it creates animosity in the organization because marketing and sales trusted r and d, that the product was a good product and you made me sell a product that killed people. Then lo and behold, you're 10 years later and r and d hasn't come up with a new, new product because they're stuck and they're scared, and they've put in place defense mechanisms and risk management practices, et cetera, that are so high that they will never be able to get another product out if they don't work on that trauma.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Trauma",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "fear",
+      "anger",
+      "trust"
+    ],
+    "agency_signals": [
+      "avoidance",
+      "withdrawing"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains emotional signals (fear, anger) and agency signals (avoidance) within a system interaction (workplace).",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "I like to start by saying that even on individual trauma, we have, we don't know much. We, we started search, you know, researching individual trauma in the eighties. Which is like super recent. And at the time people thought it only affects soldiers. Those soldiers who come back, came back from Vietnam or who come back now, like they have this thing and, and people didn't even understand that it can impact anyone that goes through a traumatic event. And since then we've done a lot of research. We understand even more like adverse childhood events, chronic stress that then can take the shape of, of trauma.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Trauma",
+    "system_interaction": "medical_training",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_information",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains multiple barrier signals (education_gap, stigma) and describes a system interaction (medical_training).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p17",
+      "p18"
+    ],
+    "moment_text": "It's important for me to say that the trauma response is very intelligent. You are trying to protect yourself. I'm gonna give you a real example. A girl after October 7th, she was a Nova survivor. She couldn't walk, she was paralyzed from the waist down, and they did a bunch of tests, and the answer in the end was, it's all in your head. There is no reason why you shouldn't be able to walk. So she comes out of the hospital, as you can imagine, it was crazy days. I'm not blaming anyone at the hospital because they were all super busy with a lot of things, right? It's all in your head is is is a hard sentence. It shouldn't be like this. And, and what we wanted to explain to her is it's all in your head because your head is amazing, because your brain, she plead dead for so many hours to be able to survive. And so that the terrorists wouldn't find her, that her body helped her. By paralyzing her and making it easier for her to play dead it. Understanding that trauma response is a intelligent response that allows you to survive is the first step to accepting what's happening to you.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Trauma",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "validation"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "lack_of_validation",
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains strong barrier signals (provider_dismissal, lack_of_validation) and emotional signals within a healthcare_provider interaction.",
+    "risk_flags": [
+      "medical_trauma",
+      "violence_abuse"
+    ],
+    "notes_for_reviewer": "The moment describes a survivor of the October 7th attack, which is a sensitive topic involving violence and trauma."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p19",
+      "p20"
+    ],
+    "moment_text": "And then you think about, am I ready to move on Now for this woman, you know, we're in an ongoing state of war. It's not a car accident. Where I can build a new narrative around, oh, you know what? I was driving too close to the car in front of me. Next time I drive, I'm gonna drive further. I'm gonna make more distance. Or, you know, I wasn't wearing my seatbelt. Now I'm gonna wear, she's still in the ongoing state of war, we're still under existential threat and you know, it was too early for her to let go of that defense mechanisms and no talk therapy by the way. Would work in that place because you're in a disassociative state, right? Of, and so for her, it was all about doing acupuncture, uh, ma massages. And then at some point she felt a tingle, uh, broke into tears from filling the tingle on her leg. At that point, talk therapy was an option. And, and she started, and she's, you know, she started walking again, I'm talking about this because I just wanna say the first step is to understand that trauma response is, is a smart response. It's just that after you need to work through it.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Trauma",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "relief",
+      "sadness",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains a barrier signal (fragmented_care), agency signal (seeking_care), and emotional signals within a healthcare_provider interaction.",
+    "risk_flags": [
+      "medical_trauma",
+      "violence_abuse"
+    ],
+    "notes_for_reviewer": "This moment details the specific therapeutic path for a trauma survivor, highlighting the limitations of certain modalities like talk therapy in acute, dissociative states."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p21",
+      "p22"
+    ],
+    "moment_text": "And so in the collective, the collective trauma is, is being even less studied. One of the experts on collective trauma is, uh, Thomas Huble, who lives here in Tel Aviv, is in, uh, originally from Austria, but uh, married a woman from Israel, moved to Israel. He did a lot of work on collective trauma, studying what happened in, in Germany with Nazi, uh, descendants and, and Jewish descendants. And, um, also helping them work, you know, understand one another because collective trauma stays also unless you work on it. And when you look too much to the past and you're stuck in the past, you're stuck at different places of the past. And, and then when we're talking to each other, we're not. Present, and it's very hard to build a future together if we can't stand together in the present.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Trauma",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "isolation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "education_gap",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains barrier signals (education_gap, social_isolation) and an emotional signal within a community interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:33.840",
+    "paragraph_ids": [
+      "p_0",
+      "p_1",
+      "p_2"
+    ],
+    "moment_text": "So one of the things that Thomas Hubbell explains is almost that your ancestral trauma, your collective trauma that you're carrying, means that your train is going at one speed and another train is going at another speed. And we're trying to talk to each other and wave at each other. But really we need to stop at the station to be able to actually talk to one another. To do that, we need to be in the present and to do that, and only if we do that can we build a future together. We don't know much about collective trauma, and that's why the war that we're in in Israel right now is one of the first time that you have, uh, developed market with such a big national and collective trauma.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "community",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment identifies a systemic barrier (lack of information/education gap) regarding collective trauma.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:00:33.840",
+    "timestamp_end": "0:01:18.080",
+    "paragraph_ids": [
+      "p_3",
+      "p_4",
+      "p_5",
+      "p_6"
+    ],
+    "moment_text": "There are no protocols. We don't have a playbook that says, here's what you need to do. That happens. We're trying to figure it out and people need to talk to each other to try things, generate evidence, but that's one of, of, of the reason why working together is so important. That would be great for you to share, you know, what compelled you to like what it's about, and then we'll ask questions from there. Probably four reasons why eal. The first one we mentioned the no protocols, so it's not like we have a playbook and we can go and do it. The second one is a chronic underfunding of mental health globally, but also specifically in Israel. I think the third one is extreme fragmentation of the system in. Creating a lot of confusion of who does what, who's responsible for whom, where do I go when I need care? And making it hard for people who want to support Israel, to know where to send the money, where to send the mental health professionals. And with all of this, I feel like we could have continued as is.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confusion",
+      "frustration"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "education_gap",
+      "cost_constraint",
+      "fragmented_care",
+      "system_navigation_difficulty",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment details multiple systemic barriers (fragmented care, cost constraint, education gap) within the healthcare system and expresses the resulting emotional signal of confusion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:01:18.080",
+    "timestamp_end": "0:01:29.600",
+    "paragraph_ids": [
+      "p_7"
+    ],
+    "moment_text": "We're not the only countries with these problems of underfunding from tation and new protocols and shortages, et cetera, et cetera. October 7th, um, exposed that mental health crisis in a way. It's not a new crisis crisis that existed, that we've seen a glimpse of it in COVID and during the Corona, but now it's exposed and now we don't have a choice.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "resignation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "cost_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment identifies a systemic barrier (underfunding) and describes a societal realization within a community context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:01:30.160",
+    "timestamp_end": "0:02:08.080",
+    "paragraph_ids": [
+      "p_8",
+      "p_9",
+      "p_10"
+    ],
+    "moment_text": "Um, supply and demand is completely. So we said it's time for collective Impact collective work. IKA stands for Israel Collective Action for Resilience. Collective Action means every organization that works in the field today of mental health or trauma recovery mm-hmm. Has its own mission statement, has its own population that it's trying to support, et cetera. But now we also have a Uber mission, all of us, which is to accelerate the recovery from October 7th and suddenly. We all share that mission statement. Suddenly, we also all realize that there isn't enough to, you know, there's no longer a scarcity mindset of, you know, uh, the patients need to come to me because, or else the donors won't help me, et cetera, et cetera. Like, there's enough for everybody. It's too big for any one of us. We need to work together, um, to be able to overcome this challenge. So it's, it's the right time for collective impact model.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment describes an agency signal (making decisions) within a peer community context, representing a potential protective factor.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:02:08.080",
+    "timestamp_end": "0:02:42.880",
+    "paragraph_ids": [
+      "p_11",
+      "p_12",
+      "p_13"
+    ],
+    "moment_text": "And, and what do we do? We one map who's doing what people told us, you know, folks will be suspicious of who you are. Why are you asking all these questions? And the truth is, I was actually surprised by how open people, like everybody understands all those problems I described. You know, for some of them it's about, yeah, help me understand who else is doing what I'm doing. Help me understand where do I send the people that I cannot help. Help me understand how my message can be heard by the people who match my value proposition, who help me understand how to do, uh, more effective fundraising because I'm spending too much on fundraising instead of helping the people who need my help, right? All of these things and, and we can help each other by working together.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "relief",
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment describes agency signals (seeking information, seeking support) in response to systemic barriers (fragmented care, system navigation difficulty).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:02:43.360",
+    "timestamp_end": "0:03:38.480",
+    "paragraph_ids": [
+      "p_14",
+      "p_15",
+      "p_16"
+    ],
+    "moment_text": "So mapping is one. Second, one is introducing people to one another. Now that we know that they exist, I feel like every day I'm a matchmaker. Oh my God, you should talk to so and so. He's doing something very similar. Or, you know, you should talk to this professor because you know they're working. They, they want to showcase and, and research community resilience, and you sitting on so much data in your NGO, like work together to generate evidence. Also, if you don't generate evidence, you can't decrease reliance on philanthropy. And then, you know, get reimbursed or work with it. So, so it's a win-win, you know, and philanthropists who are also wanting to help but are worried about hurting, right? Sometimes they say, you know, I don't know. Is it a good organization? Is it doing the right thing? And you know, and you have experts because we have, you know, three psychiatrists, Penn opinions. It's like, this is, no, no, this is not good. Yes, this is good. So then, you know, the philanthropist is gonna say, oh, you know what, I'm just gonna go help. With rebuilding shelters or feeding children. Everybody needs to eat. Everybody needs to be protected. Mental health's too complicated. So we're also helping connect people.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "frustration",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment describes a barrier (system navigation difficulty) and the agency taken to overcome it within a peer community context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:03:38.480",
+    "timestamp_end": "0:04:02.400",
+    "paragraph_ids": [
+      "p_17"
+    ],
+    "moment_text": "And then the last thing, we are trying to mix with this bottoms up view of who's doing what and, and, and matching, you know, helping matchmaking. We also try to take a top-down view and ask experts. If you had a hundred million dollars, where would you put it? And we got a lot of different answers, but actually we narrowed it down. There were eight areas that everybody agreed on, and those we called the eight imperatives that if we do it right, we can actually accelerate the healing process. Not only help it, but actually accelerate it. And none of these. Can be done by any one organization alone. They require convening. They require collective impact. They require collective efforts.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment describes agency signals (making decisions) in response to a systemic barrier (fragmented care) within a healthcare provider context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:04:14.480",
+    "timestamp_end": "0:04:36.800",
+    "paragraph_ids": [
+      "p_20",
+      "p_21",
+      "p_22",
+      "p_23"
+    ],
+    "moment_text": "So before I answer that question, I wanna react to what you're saying. 'cause one of the things I didn't say about collective trauma versus individual trauma is that collective trauma leads to collective healing. Which in a way I like that. I like that. I like that a lot. That's good. We look at each other here and we're all in it. And sometimes we forget, but most of the time when you slow down, you realize we're all in it together and we are gonna heal together. We got hurt together, we're gonna heal together.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "hope",
+      "connection",
+      "belonging",
+      "validation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong emotional signals (hope, connection, belonging) within a community system interaction, indicating a potential protective factor.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:04:36.800",
+    "timestamp_end": "0:04:51.280",
+    "paragraph_ids": [
+      "p_23"
+    ],
+    "moment_text": "It also helps with de-stigmatization. 'cause when you have individual trauma, there's still a bit stigma, but today there's no more stigma. We all got hurt and I mean, of course, like we're still working with people, but the number of people who told me, you know, no one knows I have PTSD from the war like 20 years ago, and now it's. Like you could talk about it. So, so I do think that, that, that's the nice part. The collective trauma is the collective healing.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "relief",
+      "validation"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment explicitly names a barrier (stigma) and the agency signal (speaking up) that counters it, representing a clear pattern.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:05:00.800",
+    "timestamp_end": "0:05:21.280",
+    "paragraph_ids": [
+      "p_25",
+      "p_26"
+    ],
+    "moment_text": "And by the way, like that's one of the strength in Israel. We are leaving in communities when you look at the numbers. In the general population, we have more PTSD than most other countries because we're a country made on survivors children who grew up in the border with rockets, et cetera. When you look at veterans versus veterans. You see that we have less PTSD because our veterans are surrounded by people who respect them, support them, they're together. And the community aspect I think will help us heal.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "connection",
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment identifies a barrier (social isolation, implied) and contrasts it with the protective factor of community support, which is a systemic observation.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:05:21.280",
+    "timestamp_end": "0:05:41.680",
+    "paragraph_ids": [
+      "p_27"
+    ],
+    "moment_text": "And so what we're trying to think about in the country as well is how do we build those resilient communities? We don't have to over medicalize trauma. We don't want to pa create a pathology out of everybody right now. Not the point where resilient human beings and 80% of people who face terrible trauma end up fine, right? Because of how resilient we are. And so that's also a very important message that we need to remember that we're strong and we'll be strong and, and, you know, continue to fight against the media who tell us we're all post, post-trauma, you know, uh, in post-trauma, et cetera.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment describes an agency signal (speaking up) against a media-driven barrier (stigma), which constitutes a pattern of advocacy.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M012",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:05:42.240",
+    "timestamp_end": "0:06:16.000",
+    "paragraph_ids": [
+      "p_28",
+      "p_29",
+      "p_30",
+      "p_31"
+    ],
+    "moment_text": "Now about my own efforts. Like I said, I'm a work in progress. It depends on the day. It depends. Uh, at the beginning of the war when I was working with the survivors of De Nova, someone told me, Gila, I don't understand how you do it. You come every day. And I usually take, um, a day off and a day in because I need the one day off to a resource and I don't see you, uh, break down. And I say, what do you mean you don't see me break down? I break down about every 90 minutes. I, um, I have my little. Break out, you know, a lot of tears and anger, and then I come back at it 'cause I don't have a choice. Like I, I just go back and, and I pour myself in work. And in the, in the summit that we had for, with Ika, one of our experts was on stage and he says there's nothing, everybody chooses a poison to cope with what's happening right now.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "mental_health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "overwhelm",
+      "sadness",
+      "anger"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong emotional and agency signals related to coping with secondary trauma, which is a significant lived experience.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This is a powerful lived experience of a frontline advocate/caregiver dealing with the emotional toll of their work."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:53",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "We're seeing a rise in, in drug usage. Both, you know, legal drugs like Clex or whatever, Xanax or whatever, and, and, uh, illegal drugs. But my coping mechanism has been finding meaning in my work and working a lot. And I know that it's escape, that I'm using this as an escape. And sometimes I joke, I tell people my addiction is better than yours because mine is socially accepted, but it doesn't mean it's really better. It means that I, uh, escape through a way that's, you know, maybe healthier and maybe not. You know, I, I, I need to learn how to slow down. It's a, it, I'm a work in progress. I know that the weeks that I do go to yoga, I'm better than the weeks when I don't go to yoga. I know that the weeks when I sleep not enough, I am way more easily triggered by, you know, rejection or by the feeling of perceived rejection, right?",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "self_doubt",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "enduring",
+      "seeking_support",
+      "tracking_symptoms"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (enduring, seeking_support) and emotional signals with a system interaction (workplace).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker identifies as a patient in the context of her own mental health journey, even though she is also an advocate/educator."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:53",
+    "timestamp_end": "00:01:10",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "Mm-hmm. So. It's just about, you know, remaining self-aware and, um, and knowing, you know, when you need to take a break. I did, you know, a few weeks ago, I took a mental health day. I was like, guys not feeling well. I didn't have to explain to everyone what part of my body was I feeling. Well, I just said, I'm not feeling well.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "confidence"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "setting_boundaries",
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong agency signals (self_advocacy, setting_boundaries) within a workplace system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:01:23",
+    "timestamp_end": "00:01:52",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "Mm-hmm. Um, we're barely learning to sit down and hold our head straight. And so that's also about being self-aware. Um, we have big goals and a big vision, but it's step by step and. That's also a work in progress, right? Some days I beat myself up for not doing enough and not being enough, and then realize, dude, like it's been nine months. It's, you know, you're doing what you can in the time that you have. Right?",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "self_doubt",
+      "overwhelm",
+      "calm"
+    ],
+    "agency_signals": [
+      "self_blame",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains barrier signals (time_constraint), agency signals (self_blame), and emotional signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment captures the tension between ambition and the reality of building a new organization."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:01:52",
+    "timestamp_end": "00:02:22",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "But it's, um, yeah, we're pretty new. Uh, we have grown pretty fast, uh, from, uh, you know, a team of four co-founders to 11 people working, uh, full-time on that mapping on, uh, reaching out to all of the mental health organizations in the field to understand who's doing what. Trying to build the trust so that we can understand the needs of the field and, and see what could help, uh, bringing communities together of people doing similar things that can learn from one another. That's, uh, how we see our, our, our role as a backbone organization.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "hope",
+      "trust"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains barrier signals (fragmented_care) that the organization aims to address, along with agency and emotional signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier signals are what the speaker's organization is trying to solve, which is an important context."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:02:34",
+    "timestamp_end": "00:03:40",
+    "paragraph_ids": [
+      "p10",
+      "p11",
+      "p12",
+      "p13"
+    ],
+    "moment_text": "I'd like to see more public-private partnerships. So I think we've seen a lot of people raise their hands, um, to help on, on the private side. And then, you know, the government is also trying to do a lot, but there is a lot of, uh, fragmentation, even at the government level. Trauma impacts everything, not just the Ministry of Health. Right. It impacts the Minister of Welfare and Social Affairs, minister of Economy, uh, minister of Defense, obviously with all the soldiers. So I'd love to find ways to have more effective public-private partnerships on some of these. Uh, and I think organizations are doing it. I'm not saying, I'm just saying we need more. And um, and I think there's a lot that the public sector can learn from the private sector. I think the private sector sometimes is very snob about the public sector. Like, oh, they don't know what to do. You know? And, and it's not true. Like public sector is full of amazing people as well, right? And it's more about how do we work together to leverage everybody's strength? And then the other thing is, I wish more people would realize why mental health is so important. You know, it's, we're not doing mental health for the sake of mental health, although it would be worthy anyways, but it's about. Physical health. We have so much high blood pressure and cardiovascular issues in general autoimmune diseases, you know, shingles is all around here right now. It's about productivity, children who can't go to school or, uh, it's about people who are unemployed or have on the job accidents. It's about security because when your serotonin levels are often you're aggressive and impulsive, you have more car accident, you have more domestic abuse, you have, you know, it's all of this.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "frustration"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "education_gap",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong barrier signals (fragmented_care, education_gap) and describes a system-level interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:04:06",
+    "timestamp_end": "00:04:25",
+    "paragraph_ids": [
+      "p15"
+    ],
+    "moment_text": "You know, what type of culture do we wanna create? And so, you know, can we actually heal when we're still in work? Can we actually heal when there's still hostages that are not home? Can we even let go? Right. The feeling of guilt that the hostages that came back are feeling and the, it's also. A question of, of knowing what can be done now.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "trauma",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "grief",
+      "hopelessness",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong emotional signals (grief, hopelessness) and a barrier signal within a community context.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": "This moment directly addresses the difficulty of healing from collective trauma while the traumatic event is ongoing."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_016.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_016.docx",
+    "speaker_id": "Gila",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:04:33",
+    "timestamp_end": "00:05:20",
+    "paragraph_ids": [
+      "p17",
+      "p18"
+    ],
+    "moment_text": "You know, something that just popped into my mind, I actually didn't think about it before we spoke, but, um, you know, all the studies about. What people regret on their deathbed, right? It's never about that meeting at work that it didn't go to. It's, it's always about doing the right thing, being with your family, et cetera. And I think it took me a long time because of what we spoke about, the always running and always wanting to help everyone else, et cetera, to make space for me, for my family. You know, life is short. Spending more time with your family and, and. And finding meaning in your work because we spend so much time at work. You and I spoke about this, like, you know, we spend so much time at work and sometimes we drink the Kool-Aid and we think what we're doing is, you know, super important. But taking a step back and figure it out, you know, is it really important? Am I doing something that's meaningful that uses my strength? Right? I'm here for something for a reason. Like, so that's what I would want, you know, people to think about. Women of all ages, to think about.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "clarity",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (making_decisions) and a barrier signal (time_constraint) within family and workplace system interactions.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is the speaker's final, summative message to the audience."
+  }
+]

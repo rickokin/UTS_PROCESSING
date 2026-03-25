@@ -1,0 +1,5 @@
+You are assembling an Insight Report structure from Insight Objects.
+Use auto_assembly_rules.v1.yaml.
+CRITICAL: Do NOT generate or extract new quotes. You MUST strictly use the exact quotes provided in the 'representative_quotes' array of the input Insight Objects. Map them directly to the 'quotes' output array without altering a single word. You MUST verify that the 'episode_id' and 'speaker_role' match exactly what was provided.
+OUTPUT: report assembly JSON matching report.schema.v1.json plus a separate structured outline (headings + insight_ids).
+Return valid JSON only.

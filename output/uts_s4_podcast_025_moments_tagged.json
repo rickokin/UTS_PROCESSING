@@ -1,0 +1,750 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Xte",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:08",
+    "timestamp_end": "00:03:21",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "The inflection point for me was when I realized that my purpose was not just to write songs. I wanted to really be a voice for people who really needed the most. I used to write a lot of love songs about like heartbreak or just like my personal struggles, but never really with the intent to make a difference. People. So that was the point for me. And with that song, beautiful, has no cost. I wrote that when I was 15 and I really got flooded with a lot of comments of people who told me how much the song made a difference to them and or like helped them with their struggles. So. When I got all those comments, I was like, wow, I can really make like a really big difference and I feel so good with it. And I was like, this is what I want to do with my song. Nobody stays. I wrote it in a really, really dark time for me when I didn't feel like I had a voice and I just wanted like somebody to understand me, to get me. I wanted to also be that voice for anybody else who was struggling with, uh, mental health or even like if they have borderline personality disorder. So yeah, that was pretty much the inflection point for me.",
+    "moment_type": "realization",
+    "life_stage": "adolescence",
+    "health_domain": "mental_health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "empowerment",
+      "connection",
+      "isolation"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency signals (sharing_story), emotional signals (validation, empowerment), and a system interaction (peer_community).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker mentions borderline personality disorder, which is a key theme."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Xte",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:50",
+    "timestamp_end": "00:05:10",
+    "paragraph_ids": [
+      "p8",
+      "p9",
+      "p10"
+    ],
+    "moment_text": "Um, so when I was that young, I, yeah, I was about 11. I was going to a public school. And I honestly, I just wanted to kind of be myself. Something about me is I'm not, I don't really fall into either like very, very, very feminine or even like very, very, very masculine. I'm a little bit in between by me just wearing like. Bigger shorts or like something like that. I became kind of like a big target. I'd cut my hair. I started really kind of discovering, like me and my family, discovering that I had a lot of learning differences and um, the school really was starting not to be a good fit for me. So I was looking for other schools to attend that would really cater. More towards like my learning differences and to get away from like, the bullying from that school. But yeah, like I, I had like special ed classes in that school the before I moved schools. And yeah, people would just wait outside there just to call me, like me names or like, um, and it was really hard, like some of the darkest times I couldn't even sit. Outside, like at the lunch table 'cause it just got so bad. So I actually started eating my lunches in the bathroom stall. Um, and then they would kind of, you know, like throw toilet paper over it just so it wasn't, it was pretty bad for me. It definitely caused me some, like trauma, I think. Like I was too scared to make friends. I was too scared to talk to anyone when I went to the new school. And it really, it really did. Really affect me and I didn't, I wasn't able to let go for years and years and years later.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "bullying",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "isolation",
+      "fear",
+      "shame",
+      "sadness"
+    ],
+    "agency_signals": [
+      "withdrawing",
+      "enduring",
+      "silence"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "stigma",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong barrier signals (social_isolation, stigma), emotional signals (isolation, fear), and a system interaction (education_system).",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": "The speaker explicitly uses the word 'trauma' to describe the experience."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Xte",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:10",
+    "timestamp_end": "00:05:51",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "I wish I had discovered music back then 'cause I know that would've really helped me. When I did move schools, they actually gave, they provided everybody with a laptop, and I knew the garage band was on there because in my other school we had a music class and they were like really experimenting with it. But I just, I never got a say in anything. So I was just sitting there and I was like, wishing that I could experiment with that. So I was like, oh wait, this has garage band. So then I just started like exploring that and I just, I, I never stopped. I spent. Hours and hours and hours every single day after school. Just really discovering like music production. I started writing songs, um, recording them and yeah, that's when it really, really lifted off for me.",
+    "moment_type": "realization",
+    "life_stage": "adolescence",
+    "health_domain": "creative expression",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "hope",
+      "relief",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency signals (seeking_information), emotional signals (hope, empowerment), and a system interaction (education_system).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Xte",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:18",
+    "timestamp_end": "00:08:18",
+    "paragraph_ids": [
+      "p14",
+      "p15",
+      "p16",
+      "p17",
+      "p18"
+    ],
+    "moment_text": "So I actually was at the beach when I was. I think I was 11. Yeah. And me and my family, they were like, wanna go out for ice cream? We were all like, yeah. And so we go out to ice cream to this place called Utter Delight. And just that one day there was a guy dressed up like in a cow suit, just dancing to a boombox. And the song that was playing was Titanium by Sia and David gta. And at that point I just, I heard. Her voice and I was just like, whoa. I just felt so inspired and I had never even really experimented with music before and I was like. I want to like do what she does. I wanna try it. Like, and so I really, when I got back to the house, I, I was spending all this time watching her live videos, like really trying to get to know her music. And I just decided that I, that's what I want to do. And there was a big storm, I think it was Sandy. All the power went out and I was like, I, that's when I actually made my first song and. Oh my gosh. It felt so good. And so Sia, this was all kind of like, before she was famous, she only had like 3000 followers on Twitter, so I decided to tweet her. I was like, Hey, like, um, like a big fan, um, just to see if she'd respond. And she did. So we ended up kind of being like Twitter buddies. Like I'd send her tweets, like asking her questions about her music or like something like that. And she would always respond. And then I started just sending her just. Every single song that I was working on, and she would give her feedback, but she was so nice about it. Like my music back then was definitely not great, but I, I think she saw like potential in me being so young. So she was so supportive. And, um, she would, she sent me a video of her, like dancing to my music in like a hotel. I was like, what? And at the end of that video she was like, don't stop singing. And just her saying that I was like. I'm never gonna stop. And I just made that promise to myself and I just, I never stopped since then. And then she had released her song chandelier and that's when she really blew up. So she kind of became a little outta reach. But those times, like, they mean like the world to me still.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "mentorship",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "hope",
+      "empowerment",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story",
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong agency signals (seeking_support, sharing_story), emotional signals (validation, empowerment), and a system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Xte",
+    "speaker_role": "patient",
+    "timestamp_start": "00:08:40",
+    "timestamp_end": "00:09:42",
+    "paragraph_ids": [
+      "p20",
+      "p21"
+    ],
+    "moment_text": "I did take singing lessons. I started when I was 11, so at home. Yeah. So I would just spend so many hours just being on my laptop, making like music, recording for Christmas. My parents got me like a microphone, another Christmas thing on me, like a keyboard, and oh my gosh, those, those, those two moments were some of like the most exciting moments of my life. Like so ecstatic and I really just, I just. Really blossomed in those times. Like, my family was so, so, so supportive. Like literally like the second I was like, I wanna do this. They were like, we'll get you singing lessons. And they just really, really believed in me, like my voice. I was not born to sing. Like I could not stay in key, I couldn't stay in rhythm. My voice just sounded very, very like bad. Um, but they still really believed in me. And, um, saw potential and saw my passion that I had for it, and I guess they knew that I would probably run with it. So, yeah, it was just, I'd come home from school, spend pretty much the entire night doing music every single day for all of middle school, all of high school, just nonstop. So I, I had so much support for my family also at the school as well. Like when I first went to that school, that was the first time.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "family support",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "validation",
+      "confidence",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional signals (validation, confidence), agency signals (seeking_support), and a system interaction (family).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier 'lack_of_support' is implied as what she did NOT have from her family; they were the opposite. This moment is a protective factor."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00",
+    "timestamp_end": "0:00",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "Saw that like a teacher could care about me and like the way I learn or like help me. And when I started doing all my music, the entire school, like all of the teachers, all the staff, all the students were so, so, so supportive. Um, they even had like little music classes in there in the school. So. And that would be my absolute favorite. And my teacher there actually taught me so much about music production. And then I, I guess I got just like really, really good at it. And then I ended up teaching like his class a few times about music production, which was just a crazy, like full circle moment. Um, so that's kind of what it looked like for me.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "validation",
+      "recognition",
+      "connection",
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: has emotional signals and system_interaction is not 'none'.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a positive moment highlighting a protective factor within the education system, where the speaker felt supported and was able to thrive."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00",
+    "timestamp_end": "0:00",
+    "paragraph_ids": [
+      "p7",
+      "p8",
+      "p9"
+    ],
+    "moment_text": "I can just sit down and it so much comes to me. Like I'll always get like flows of ideas, like I'll start. It always starts from one note, and I just pretty much blossom, you know, all of the different aspects to like the instruments, the core progressions. I really like stack them all up on each other. But during that whole process, I'm just, just so full of joy. Like the creativity just, it feels like it's on fire. Um, and I just, I get so passionate about making like whatever I'm making and I get so excited, like all. Be like making noises. I'm like, yeah, this was crazy. Like I get so excited and then when I'm songwriting, like writing this. Part of the song. Yeah. That's when it gets really, really intimate for me and really personal. And I really try to dig deep into my heart and like my entire soul. And that's really where my lyrics come from.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 evidence gate: lacks barrier signals, significant agency signals beyond 'sharing_story', and system_interaction is 'none'.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00",
+    "timestamp_end": "0:00",
+    "paragraph_ids": [
+      "p11",
+      "p12",
+      "p13"
+    ],
+    "moment_text": "Oh yeah, so music is seriously like my biggest outlet for expressing my emotions. A lot of the times when I'm writing about whatever experience I'm going through, it's really just I feel whatever I'm going through so much and I'm like, what? What do I do with this? Like, I dunno how to really express it or how to deal with it. So I just, I go to my laptop, I open up like a new project, and then I just. Play on piano, how I feel. And then when I lay that down, all of the words just come to me. I just, I really just sit down and I'm like, okay, how do I feel? And then I just type how I feel and then, you know, I can turn that into something more like poetic, um, more brilliant, um, things like that. But yeah, so many times it's just. I am feeling in the moment what I'm going through and like really going through it and I'm like. I need music. It's a really big thing for me.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "overwhelm",
+      "confusion",
+      "relief"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: has a barrier signal ('lack_of_language' for emotions).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The 'seeking_support' agency signal refers to turning to music as a form of support/outlet."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00",
+    "timestamp_end": "0:00",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "I live my life every day. I really try my best to have like a center of peace. Um, and that affects pretty much everything else. So if I try to keep my peace that looks like letting things go, that might like annoy me during the day or something that might affect. That would usually affect me, like, like let's just say at work somebody is like talking about me or something like that. I do not let anything like that bother me. So I just always, I'm always centering myself and just keeping my peace. Um, so everything just falls off. My shoulders, pretty much. Other things that I do are, I have like routines for myself, so I'm always doing like self-care, like lighting candles, setting the vibe. I'm always setting an attention for the day. So I'm always like, it's gonna be a great day today. 'cause if you say it's gonna be bad, it's just gonna be bad. Um, but if you say it's gonna be good, then you're just setting up. Your day for a really good intention. That's a really big thing for me too. 'cause we really are not promised tomorrow at all. And you never know what's gonna happen or what life is gonna hit you with. So I really try every single day to cherish the day and um, really take it as a gift and that. Seriously helps like my me, all of my mental health pretty much completely.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "calm",
+      "confidence"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: has agency signals and system_interaction is not 'none'.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00",
+    "timestamp_end": "0:00",
+    "paragraph_ids": [
+      "p19"
+    ],
+    "moment_text": "I do overthink a lot, so I do always have to self-soothe. So usually what happens is. I get overwhelmed at first and I feel a lot like very, a lot intensely, and I just have to like pull myself back for a sec and by I do that by just stopping what I'm thinking. I'm just like, okay, let me stop thinking for a second. And then I take a deep breath and I'm like, okay, so. What is going on? What are the facts? And then I look at the facts and then I see really how, how do I feel about this? And then I accept how I feel, and then I'm like, so what am I going to do? So I could either let it go, I could cause like, you know, any kind of negative. Thing, like a negative reaction or you know, so I just choose to let it go. And sometimes it's hard, so I have to constantly tell myself it's okay to let this go. Like I can let this go. It doesn't serve me well, and by doing that I can move on from pretty much anything.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "overwhelm",
+      "calm",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: has agency signals.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This is a very clear, educational moment about a specific coping strategy for overthinking."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00",
+    "timestamp_end": "0:00",
+    "paragraph_ids": [
+      "p21",
+      "p22",
+      "p23"
+    ],
+    "moment_text": "These coping skills, I think stemmed from like other coping skills that I accumulated throughout, like my struggles with borderline personality disorder. So I feel like everything is really connected. Everything is. Very similar. So you can really take like certain coping skills or something and apply it to something completely different. So things like the self-soothing and the breathing, I have definitely used those during like episodes of like borderline personality disorder. So like, let's just say I was overthinking something of like, what my partner would say and I would usually just go spiraling, and then it would turn into this whole thing and I would totally get it all wrong and it, I, it just, I didn't have to overthink, so I would just, I would breathe. Like, lay down the facts, like, you know, so it was the same thing. it does come down to just, just normal feelings of like, whether it's fear, anxiety, sadness, it's all, you know, the same feeling. So I think that's why some of these coping skills can actually apply to literally anything.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "anxiety",
+      "clarity",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: has agency signals and system_interaction is not 'none'.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker makes a powerful connection about the transferability of coping skills learned from managing BPD to other life situations."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00",
+    "timestamp_end": "0:00",
+    "paragraph_ids": [
+      "p25",
+      "p26"
+    ],
+    "moment_text": "So borderline personality disorder is, I feel the hardest disorder to even. Explain or describe it is just such a complex thing and it's, there's so much stigma behind it. That's something that I wanted to try to make a difference to end the stigma with, but my experiences with BPD really, really. Play out in my past relationships. They also affect me just in overall life. Like I feel so much, so intensely and it can be like a blessing and a curse. About 2020, I started intensively working on my borderline personality disorder. I thought that it was not. Curable and it's not, but it is treatable. Um, so you can fully manage it. And that's what people do not realize. People think people with BPD are just like crazy. They think we're like manipulative or like narcissists, just all this like crazy. Like it makes us all look like terrible people.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "frustration",
+      "overwhelm",
+      "hope"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_information",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: has multiple strong barrier and agency signals.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This is a powerful moment directly addressing the stigma and misinformation surrounding Borderline Personality Disorder (BPD)."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:25:05",
+    "timestamp_end": "00:26:01",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3"
+    ],
+    "moment_text": "Um, but in reality we just struggle with like fear of abandonment. So like. If we think somebody's gonna leave us, like that's when people would get anxiety. And there's B, PD is so different for everybody. I think so. And there there's definitely a spectrum. Like I was so extreme. Mine was so extreme and there's a lot of dark times for me when it was extreme before it was like treated before I could fully manage it. And some of those times were, um. Very, very, very dark. I would think. Everybody was leaving me and I would just kind of like act out, really just kind of cause a whole like ruckus. I'd be like constantly in tears, like begging people not to leave me and they were just weren't going to. So just 'cause I was just so used to everybody. Everybody leaving. Yeah. Just so, so, so many tears. Um. It's definitely a little hard to talk about.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "fear",
+      "anxiety",
+      "sadness",
+      "isolation"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains strong emotional signals (fear, anxiety) and barrier signals (social_isolation) related to a lived health experience.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:26:05",
+    "timestamp_end": "00:26:55",
+    "paragraph_ids": [
+      "p4",
+      "p5"
+    ],
+    "moment_text": "I actually was in a treatment, an outpatient treatment, and. One of the directors of it was like, I think you have borderline personality disorder, and I thought that she meant something else. Um, and I was like, no, I don't. And I just, I had no idea what BPD was, and I actually started therapy for trauma and PTSD when I was 20 and my therapist. There actually, like after we were done with a long, long time of exposure therapy in EMDR, um, she started getting to know me and, um, I talked about my experiences and like literally within one session, um, she diagnosed me.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confusion",
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "delayed_diagnosis"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment details a direct interaction with the healthcare system and contains clear barrier signals (lack_of_information, delayed_diagnosis).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:26:56",
+    "timestamp_end": "00:27:40",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "So she pulled out that paper of, I think it's either nine or 10 symptoms, and I had all of 'em, every single one of 'em from that point till now. I just, I cannot believe how much progress I've made. And that's why now I wanna really, really, really try to end stigma and like be the voice for people. 'cause I mean, like, I was in their shoes and I just, I really thought there was no hope. I was like, I just can't be in relationships. I can't have friendships. Like I just should. I just be distant from the world for the rest of my life? I know that I can. So I wanna be that voice for everybody and the hope for anybody, and even just like, just mental health. Not even just BPD, you know? So, yeah.",
+    "moment_type": "advocacy",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hopelessness",
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains strong agency signals (sharing_story, speaking_up) and emotional signals (hope, empowerment) in the context of a system interaction (peer_community).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:27:50",
+    "timestamp_end": "00:28:20",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "There are so many good things I feel like that come with BPD as well, and that is like feeling so intensely. So when I am making my music, it's almost like just so dramatic of me, but I'm just genuinely feeling so ecstatic about it. So when I am making my music, I'm just, all of my senses are like times a hundred enhanced. And. I'm just really taking in life and that's when I'm like, I love life.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "confidence"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails evidence gate A2: This is a personal reflection that lacks barrier signals, agency signals, and a system interaction, making it ineligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:28:22",
+    "timestamp_end": "00:29:30",
+    "paragraph_ids": [
+      "p11",
+      "p12",
+      "p13",
+      "p14",
+      "p15"
+    ],
+    "moment_text": "I actually didn't realize how quick I do this. I think it's because I can hyper focus so hard. I think that's my A DHD. But yeah, I sit down and I can make a beat and. Like 30 minutes to an hour. But the detail that I want to add usually takes like another hour. So I'll be doing the music production part for a good couple hours to a few hours And I'll, sometimes I go back after the song's done and like, make edits or I'm like, oh, I should have added this. But yeah, so the songwriting process is usually the fastest for me. Um, just 'cause it comes to me really so easily. And, um. I just really get in my flow so I can write a song in like 10, 20 minutes. The lyrics and the melodies just come to me. Sometimes I write, I do it both at the same time. I'll write the words as I'm writing the melody, um, and just go off like that. So a full song. Could just take me really, um, maybe like five, six hours in a day. So sometimes I'll do like half, like I'll do most of it, and then I'll save the editing and the mastering, the mixing for like the next day for a song. So. Yeah, I've got, I'm really, really, really blessed that I'm able to do it so fast. 'cause like sometimes I'll, I'll do some performances, I'll like, hear other people's stories and I'm like, oh wow. Like some people take like a month on a song, few months, and I'm like, whoa. So I just, I don't realize how quick I, I do this music, um, until I hear like things like that. But yeah.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "confidence"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails evidence gate A2: This moment describes a personal creative process and lacks the required barrier, agency, or system interaction signals for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "Speaker mentions ADHD as a potential reason for her hyper-focus in creativity."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "educator",
+    "timestamp_start": "00:29:35",
+    "timestamp_end": "00:30:35",
+    "paragraph_ids": [
+      "p17",
+      "p18",
+      "p19",
+      "p20"
+    ],
+    "moment_text": "I love music production and I always love helping people. I offer like custom beats so somebody could come to me and be like, Hey, I wanna make a song. Here's like three song examples of kind of what I wanna do. Um, and then I. I will pretty much like create some like small demo and be like, is this kind of what you're looking for? And then they'll just give me feedback and we go back and forth and pretty much my whole goal is to completely achieve what they want, like their vision in the song and the entire atmosphere. So I really, really, really try to dig deep in everybody that wants to work with me and just so I can get it so specific and I really want to. Every piece that I make, I wanna like blow people away. So I put like everything that I have into every single beat. And yeah, if I can do that for other people and just, even people have come to me to add strings and like piano and stuff to their songs to add like more motion and I'll. Like, go crazy with them and add just, and I just, I really love doing that. So yeah, I will do like custom beats or I'll offer like mixing and mastering. 'cause I love, I love editing vocals too, and you can really manipulate, like editing vocals as well and just have so much fun with it.",
+    "moment_type": "education",
+    "life_stage": "reproductive_years",
+    "health_domain": "Career",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "confidence",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails evidence gate A2: This moment describes a professional service and does not contain the required barrier or agency signals related to a health journey.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:30:40",
+    "timestamp_end": "00:31:45",
+    "paragraph_ids": [
+      "p22",
+      "p23",
+      "p24",
+      "p25"
+    ],
+    "moment_text": "I did cover pretty much everything. But yeah, I really try to just keep my peace, live life with intentions like different mantras. Something about me, like some of the things I live by is I do not worry about or I try not to worry about things that are not in my control. And I learned like something like that when I was. I think I was 12. And, um, on the news, everybody was freaking out about like the world ending, um, from the things from the calendars. And I asked my dad, I was like, uh, what are we gonna do? And I was 12 and he was like, I don't worry about things that are outside of my control. So ever since then I've tried living with like mantras like that. So it applies to literally everything, even just sitting in traffic like. I'm just like, this isn't in my control. I'm not gonna waste my energy being like working myself up, getting mad about this. Um, and then I'm like, I'm gonna save my energy for something positive, and then I think of something positive that I can do. So like even in those moments when I would just get annoyed at something or like just get all worked up, I try to turn it into something, um, that's like, will help me grow or. Will help me feel the opposite.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "calm",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains a clear agency signal (making_decisions) as a coping mechanism, learned through a family system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_025.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_025.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:31:50",
+    "timestamp_end": "00:32:40",
+    "paragraph_ids": [
+      "p27",
+      "p28",
+      "p29"
+    ],
+    "moment_text": "I wanted to say to all women, you are not broken. You're allowed to rewrite your story. I feel like life is a canvas. You can literally paint it however you want. If you want to change anything, you can change it. And healing is you're always gonna be healing. And it's okay to be healing. We don't have to be perfect. We don't have to always be at a certain point, we're going to grow for pretty much the rest of our lives and. I wanted to say little things like, like you don't need to be perfect to be powerful. You know, you don't need permission to be whole. And I just wanted to say that to everyone. Like, you are not ever alone. You're powerful. You're so strong. And to just continue growing. Yeah.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains strong agency signals (speaking_up), emotional signals (empowerment), and addresses a barrier (stigma) within a peer community context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

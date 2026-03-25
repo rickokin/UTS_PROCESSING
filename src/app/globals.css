@@ -10,6 +10,19 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  
+  /* Under the Sisterhood Brand Colors */
+  --color-brand-50: #fdf2fa;
+  --color-brand-100: #fce5f5;
+  --color-brand-200: #fbb6e6;
+  --color-brand-300: #f685d5;
+  --color-brand-400: #f152c1;
+  --color-brand-500: #e722a9;
+  --color-brand-600: #ce1293;
+  --color-brand-700: #a90d79;
+  --color-brand-800: #85085e;
+  --color-brand-900: #6d074d;
+  --color-brand-950: #44032f;
 }
 
 @media (prefers-color-scheme: dark) {

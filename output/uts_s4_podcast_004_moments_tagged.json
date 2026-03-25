@@ -1,0 +1,1478 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah Carve",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:11",
+    "timestamp_end": "00:03:31",
+    "paragraph_ids": [
+      "p7",
+      "p8",
+      "p9"
+    ],
+    "moment_text": "Yeah, so for me, I guess I was, I was involved in a sport, you know, I, I'm from a sporty sort of family. My dad's always been involved in sport, not so much my mom, but my dad. So he sort of said to me, he was like, do you wanna come to the driving range and come and hit some balls and see if you like it? And at school I used to play hockey and I did a bit of netball and things like that. So I liked sport. And then, yeah, so we went to a driving range and I started to get into golf and I got to a certain level and there was a point in my life I guess, where I had to make a decision of do I go and I, and do I try and become an elite levels golfer. Or actually do I go and I carry on, uh, my journey, you know, sort of in education. And actually I thought to myself, well, I still wanna be involved in sport in some way, shape, or form. I don't necessarily wanna be the athlete myself, but I wanna try and help and support athletes when they're going through their journey. And I actually took a, a psychology A level and it really got me hooked in. And I was like, Ooh, this is an interesting area. And then I thought, actually, can we combine, we did a module on sports psychology, I thought. Or we can combine the era I love, which is sport, and then also this new area, which I've found really fascinating in terms of how the, the mind and the brain can be so impactful in our decision making and all those sorts of things. And so that's really when I kind of, the, my passion grew and I. Right. This is an area that I wanna work in and I wanna try and then, you know, develop myself. I knew it was a long journey, like you mentioned, obviously that I've been doing it for eight years, but it took me seven years to become fully qualified. You know, so it, you know, it's a long journey, but actually. During that journey to becoming fully qualified, I, I learned more and more my passion grew. I gotta do loads of different experiences with loads of different people and individuals, which was just really exciting and fun. And from those experiences I thought, yeah, no, this is a career that I wanted to go into.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "Career Development",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "clarity",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with agency signals (making_decisions) and a clear system interaction (education_system), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is sharing her personal history, so she is tagged as 'patient' for this moment, even though her professional role is a clinician."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah Carve",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:31",
+    "timestamp_end": "00:04:41",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "Yes. I mean, I guess to be honest, I guess it was that point in time where it was kind of that acceptance. I knew that, you know, sport is a culture of pressure. It's a vacuum of pressure, and there are so many people nowadays that are at that level of what I would class as good, but to get to, you know, to get to that. You have to be great. You have to make so many different sacrifices. And so I knew it was gonna be a difficult journey and I thought to myself, actually, would I, do I wanna put myself through that and potentially then fall outta love with the sport of golf, you know, because I put too much pressure on myself or you know, all of those. Different things or, you know, I used to get really nervous, um, when I used to play, especially when I started playing at the sort of the higher levels in national tournaments. I used to get nervous myself and I was thinking, do I wanna put myself through that? Or actually would I rather still be involved in the area, but just from a slightly different angle, I guess, which is helping other people deal with some of the nerves and some of the, you know, the issues that I had and I knew that. I was still gonna be looking into an area that involved sport, um, and physical activity and exercise in some way, shape or form. I knew I was never, you know, I still play golf, but I just play it more recreation and just for a bit of fun now and enjoy enjoyment rather than having to practice and train all the time and, you know, all of those different things. I just help and support other people who do that and try and make sure that they do it to the best of their abilities really.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "anxiety",
+      "calm",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with both emotional signals (anxiety) and agency signals (making_decisions), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is reflecting on a past personal decision, so she is tagged as 'patient' for this moment."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah Carve",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:04:41",
+    "timestamp_end": "00:05:58",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "Yes, throughout when either my degrees, um, when I was, again, learning more around the era of sports psychology and all the different, you know, concepts and themes and things like that. There was definitely aha moments where I go, oh my goodness me. Yeah, if only I knew that and if only I knew how to implement that when I was an athlete, that would be really useful. Um, but also, I guess for me it's a really powerful thing to, 'cause I can truly, I guess, demonstrate that empathy. Other athletes when they are, you know, explaining to me what that, when they're, you know, feeling nervous or feeling anxious, if it's a big competition or a big event or something that they've done the first time, you know, first experiences. We know that that sometimes causes those, you know, those anxious or those, those nerves. And so I can truly be empathetic with them because I can say, look, I used to face that, you know, I understand what you're going through because I lived it myself. Um. So yes, I guess I could, I use my experiences and say to them, look, this is what I tried. Maybe try this or, you know, together, then let's work together to try and figure out exactly where this is coming from. And because that was, for me, was huge, was the, the biggest aha moment was the actual, the actualization that if I understood the root of where those nerves were coming from. That's kind. How I could have better dealt with them, um, and use them as more of a positive rather than a, as a negative. Um, and I kind of try and use that a lot with the athletes and the people that I work with is kind of trying to really establish where that's coming from and then hopefully turning them into a positive bit, like more like butterflies rather than something that's a bit more, you know, negative or disruptive.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "validation",
+      "anxiety",
+      "clarity"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate by having barrier signals (education_gap), agency signals (sharing_story), and emotional signals (validation) within a healthcare provider context, making it highly eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is connecting her past lived experience to her current professional practice, so she is tagged as 'clinician' here."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah Carve",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:06:12",
+    "timestamp_end": "00:07:31",
+    "paragraph_ids": [
+      "p16",
+      "p17"
+    ],
+    "moment_text": "Both of those environments, um, we would class 'em as you know, they're high performing environments. The athletes that are there, they're there from a re for a reason, from like a technical perspective or a, you know, they're at that level where they've, they've either, you know, played for their clubs or their country or, or. We kind of use these terms of proactive and reactive. So part of my work is very much proactive where we, we've got this individual athlete or we've got this team in front of us, and actually we work with them in terms of, well, what have they already got? What do they do well? How can we make them even better? How can we make this athlete, you know, they could be a really good national level athlete, but they wanna, they wanna make, you know, become more international or they wanna get into the world stage. You know, I worked with her. A female cyclist, and she was literally at that tip. She was really good nationally. And then we, you know, she knew she wanted to get to a international, um, level. She wants to get into a really good racing team. So actually it was like, okay, what have you already got? What have you, what's your mentality like already? And actually how can we then push you proactively to make you even better to get you to that next? Steps. So I guess that's one approach that we try and take is that proactive and using that positive psychology and working with their, you know, strengths based, because a lot of individual athletes, sometimes they don't think about it, but they've got so many strengths and it's how do we utilize them in the most effective way.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Sports Psychology",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate as it has emotional signals (empowerment) and a system interaction that is not 'none' (healthcare_provider), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment describes a professional methodology and is tagged as 'education' and 'clinician'."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:30.000",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "A lot of my work sometimes is reactive in terms of when something doesn't go as well as they want it to. Whether that be, I don't know, I work with some judo, so some judo athletes. So when, if they maybe lost one of their fights. Is, how do we pick them back up? How do we get them to go again? If the team, for example, I worked with in women's football, there was a period of the season where they were on a bit of a losing streak. So actually let's stop, let's reflect and let's see how we can pick them back up and address what's going on. So I guess that's the kind of approaches that I take. But personally, I prefer to work in a proactive way. Yes, I know we need to, sometimes we call it taking the, letting out the fires, firefights fire, fire, getting rid of the fires kind of thing.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Performance Psychology",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains an agency signal (seeking_support) and describes a professional's approach within a system interaction (healthcare_provider).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:30.000",
+    "timestamp_end": "0:00:43.000",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "Um, but I like to work proactively. I like to work, you know, what, what have you already got and how can we make it even better? What can I add to your existing toolkit that's gonna make you thrive and make you happy and, and excited and enjoy your performance even more?",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Performance Psychology",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional signals (empowerment, hope) and describes a proactive approach within a system interaction (healthcare_provider).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "educator",
+    "timestamp_start": "0:00:50.000",
+    "timestamp_end": "0:01:02.000",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "All the different practitioners and we come together. So I'm, yes, I'm the psychologist, but I work alongside the strength and conditioning coaches that play the performance, lifestyle, the nutrition. So we work all together. Um, so we've kind of got that individual athlete in the middle. So that cyclist, for example, was in the middle. And then our job as the, we call it a multidisciplinary team, was to how, how do we get the best outta her?",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Holistic Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it describes a systemic approach to care (multidisciplinary team) which is a direct counterpoint to the barrier of fragmented care, and occurs within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The moment describes the solution to 'fragmented_care' without explicitly naming the barrier."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "educator",
+    "timestamp_start": "0:01:02.000",
+    "timestamp_end": "0:01:32.000",
+    "paragraph_ids": [
+      "p7",
+      "p8"
+    ],
+    "moment_text": "So then it was, yeah, some of. Bits of that after talking to her coaches and things like that was a little bit physiological. I would say this for her. She had the skills pretty much nailed down. So actually she knew how to ride a bike. She knew, you know, she knew what to do from that perspective. Um, she knew how to pace herself, et cetera, et cetera. But there was certain bits was kind of like the physiological, so actually how do you push her physiologically and allow her, in terms of her capacities. And and making sure that pacing strategy is the most effective that it can be so that she physically is able to do it. That was one element, but then also there was the other element of, yeah, mindset. When she gets into that track cycling, for example, and she's got loads of people around her, how did she kind of try and keep going and pushing herself out into the front and dealing with that kind of that environment. So there was that piece as well.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Performance Psychology",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "This moment is a descriptive example and lacks specific emotional, agency, or barrier signals required for promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "educator",
+    "timestamp_start": "0:01:32.000",
+    "timestamp_end": "0:01:53.000",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "Again, you are working with individuals, so ultimately you could get an individual, which who technically and physically is absolutely blowing everyone else out the water. Metaphorically, but then you can, yeah, from a mindset perspective, there may just not be something that's clicking, which is where the work needs to be done. So I guess it's a mixture of, sometimes it's, um, it's, you know, from all different elements of the sports science that you have to work with the athlete and other times they, yeah, I have, through my private practice, I'll have clients come to me and it'll be, you know, I know that psychology is the area that I really need to tap into and work on to then get me to, you know, go from good to great.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Performance Psychology",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "seeking_care",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains clear agency signals (seeking_care, seeking_support) within the context of a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "educator",
+    "timestamp_start": "0:01:57.000",
+    "timestamp_end": "0:02:58.000",
+    "paragraph_ids": [
+      "p11",
+      "p12",
+      "p13",
+      "p14"
+    ],
+    "moment_text": "I guess one of the key differences is, is whether they're taking part in an individual sport or a team sport. Um, but I think overlaying all of that, actually, it's all around that, that individual's motivation and drive. Why are they doing what they're doing? And if they have a full understanding of, you know, the, that level of motivation and that drive to get and keep pushing themselves. You see those athletes making those sacrifices, you know, training not just a hundred percent, like 110% all the time. You know, fully committed to that. I guess that end goal that they have set themselves. 'cause they're really driven and motivated to want to get there. And then also there's this. Um, for me, a lot of the time is when I start working with the athletes that maybe are at that lower level that wanna improve. That's one of the biggest things is if they've got clear goals, stepping stones, targets, whatever you wanna call it. But if they've got a clear sort of pathway that they know that this is what they've got to do in order to reach the. High level goals, higher level, that really then helps them to just wanna keep going and, and understand that there'll be days where it'll be, you know, so for cycling, it's pretty much, it's quite an outdoor sport, isn't it? So there'll be days where it'll be raining or the weather will be miserable, or they may just not really feel like going out on the bike. And actually it's that motivation and that drive that hopefully is gonna push them to them be like, okay, well I'll get out and, and I'll maybe do a little, because we all know that once you get out. Or at least for myself, once I get out, whether it be for a walk, whether it be for a run or some sort of physical activity and exercise, you always feel better about yourself. I'm always like, when I'm out, I'm like, oh yeah, I'll go a little bit more or I'll do a little bit more. So yes, so it's really, it's that underpinning of that what's, yeah, what's their drive, what's really motivating them, and hopefully I try to encourage. All levels is to, for that motivation to be intrinsic. So it coming within, you know, yes, there'll be a certain level of, they may wanna win, you know, certain games or certain competitions, which is a little bit externally. But actually from the, the, to the core, I guess their core motivation is what's inside. It's their internal drive.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Performance Psychology",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "hope",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains both emotional signals (hope, confidence) and agency signals (making_decisions) related to the core concept of intrinsic motivation.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a long moment but it represents a single, coherent explanation of motivation in athletes. Splitting it would lose the connection between the core concept and its practical application."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "educator",
+    "timestamp_start": "0:03:03.000",
+    "timestamp_end": "0:03:18.000",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "And yeah, and they're starting younger and younger now, which is just, you know, certain sports gymnastics, for example. You know, you see Olympic athletes at 16 years old. And you know, it's like how, how do we keep and maintain that motivation that they had when they were young to just go and, you know, have fun, maybe go and jump on a trampoline or jump on the, you know, apparatus or whatever. How do you maintain that level of fun and that enjoyment for that motivation? All the way through when they are at that top level.",
+    "moment_type": "reflection",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "education_system",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it focuses on a specific life stage (adolescence) and its intersection with a system (education_system/sports training), raising a key question about long-term well-being.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "educator",
+    "timestamp_start": "0:03:28.000",
+    "timestamp_end": "0:04:28.000",
+    "paragraph_ids": [
+      "p18",
+      "p19",
+      "p20"
+    ],
+    "moment_text": "Mental health has always been for in, for sports psychologists especially. It's always been a bit of a, I don't, I never know really know how to word it, but it's always been a bit of a bone of contention in terms of, we obviously, when we work with individuals, we wanna try and promote that positive mental health and wellbeing. But then I guess as a sports psychologist, we also know, especially in the uk, we kind of know our, our limits as it were. So, you know, I don't get me wrong, I've worked with individuals, um, to, you know, supporting them and. Mental health and wellbeing. But I know that if it gets, you know, if that sort of, if it gets to a point when I think actually this is more of a, you know, more of turning into more of an issue or so some sort of diagnosis needs to happen. But we're really fortunate now within the organizations, most of the organizations now, there was a, there was a big drive, I think it was pre COVID, but there was a big drive to try and get. People expertise in the area of mental health into these sporting organizations now because we know actually this is an area that's becoming ever more prevalent in terms of, we know that those athletes, not just at the elite level, but at any level, um, you know, when they are trying to strive to achieve something that actually is quite, it could be quite difficult or there could be a lot of pressure on them naturally, they may, that then may then influence and impact their mental health. So, you know, we've got those people in there now that have that. But he's in mental health. So actually as a sports psychologist, we can work with them to try and best help and support those other athletes or that team who, you know, whoever it may be. And that's, that's, again, that's the approach that I like to take, is I don't necessarily like to, you know, back in the day it was, oh, we can't work with you. Right? It's almost like we're gonna ship you off. You're gonna go and deal with your mental health and whether then you can come back in and work with, you know, work with us again. Whereas my approach very much now is actually how can I work? With the, whether it be a counseling psychologist or a clinical psychologist or an expert in mental health, how can I work with them to then best support the athletes?",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "stigma",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is highly eligible as it explicitly identifies multiple systemic barriers (fragmented_care, stigma, training_gap) and describes a systemic shift in the approach to mental health within the healthcare_provider context.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker describes a historical model of care ('ship you off') that implies stigma and represents fragmented care, which is now being addressed by a more integrated approach."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:08.000",
+    "timestamp_end": "00:00:36.000",
+    "paragraph_ids": [
+      "p3_1",
+      "p3_2"
+    ],
+    "moment_text": "So, so yeah, it's very much more of a collaborative approach now, I guess, to try and help to, um. Tackle the area of mental health and wellbeing within sport because we know it's so important because we know that, you know, when athletes are happy, ultimately I work with athletes as individuals. Their people aren't there. And we know that when people are happy and they're in a good mood, you know, and they're content and they're accepting that they are much more likely to then be able to perform at the level that they wanna because they're, you know, they're in a better place. Physically, mentally. So, yeah. So if we can work together to help and support them, then I think that works well.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 as it contains emotional and agency signals within a healthcare provider context, describing a systemic approach to well-being.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:37.000",
+    "timestamp_end": "00:00:50.000",
+    "paragraph_ids": [
+      "p3_3"
+    ],
+    "moment_text": "I love the fact that you have a holistic approach, meaning the UK looks at it holistically. I don't, I mean, I, I presume that a lot of countries do. I presume that the US does, I don't know. I'm not an expert in that. I'm kind of curious, like with all the, you know, the celebrities, you know, the athletes, you're like Simone Biles for instance, really opening and de-stigmatizing.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "validation"
+    ],
+    "agency_signals": [
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 as it contains emotional, agency, and barrier signals and discusses the role of media in de-stigmatizing mental health.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier signal 'stigma' is inferred from the word 'de-stigmatizing'."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:51.000",
+    "timestamp_end": "00:01:13.000",
+    "paragraph_ids": [
+      "p3_4",
+      "p3_5"
+    ],
+    "moment_text": "Here you have this elite, elite athlete who also happens, happen to have mental health challenges. What was your response to that? Personally, I thought it was great. I thought a, the, the fact that she had the courage to talk about it, I thought was like wonderful. Um, I think, like you say, I think it really did start to de-stigmatize the area and actually show to the rest of, you know, the world basically, that just a human being. At the end of the day, and actually as human beings, we go through tough times. You know, you don't just go through tough times as an athlete, as individuals. You go through tough times, you go through challenges. Um, yeah. And the fact that she was courageous enough to discuss it again, and, and she was brave enough to, to realize.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "validation",
+      "hope"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong agency signals (speaking_up, sharing_story) and barrier signals (stigma) in the context of a public figure's impact via media.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:01:14.000",
+    "timestamp_end": "00:01:47.000",
+    "paragraph_ids": [
+      "p3_6",
+      "p3_7",
+      "p3_8"
+    ],
+    "moment_text": "And have that self-awareness to be able to, in that competition, which again, it's, we talk about Olympics and, and these multi-sport competitions and in terms of four year cycles, so she would've worked sometimes obviously COVID, there was a five year cycle in there, but she would've worked so hard for four years to get her into a place where, you know, she knew all the pressure around everyone was talking about it. When she going to get the next medal, not if, when. So there was already a level of expectation actually for her to be brave enough to go, look, I know where I am, I know the environment and the situation that I'm in, but actually for my own safety and my own self, I feel like I need to, you know, step away for a second and have a break. You know, not all athletes will be willing to actually make that decision. They'll try and, you know, they'll kind of try and muddle their way through and maybe underperform and then they'll be. You know, that'll create more questions than answers. But actually what she did was, you know, it was really brave.",
+    "moment_type": "system_observation",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "overwhelm",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with exceptionally strong agency signals (self_advocacy, setting_boundaries) in a high-pressure system interaction (media, competition).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:01:48.000",
+    "timestamp_end": "00:02:26.000",
+    "paragraph_ids": [
+      "p3_9",
+      "p3_10",
+      "p3_11"
+    ],
+    "moment_text": "It was, and I think it was one of the first, she was probably one of the first people to actually do that, and that's had such a massive knock on effect with people speaking out about their mental health issues. Just people feeling comfortable enough to talk about it and discuss it, which for us, as you know, that's something that we've been trying to banging the drum or whatever you, however you wanna say it, but that's what we wanna try and encourage all the time, that it's not a scary thing. To to talk about. I think it, I think it, I think it is amazing that she opened that and just by having a celebrity endorse the conversation, if you will. But also I think creating the space for herself to be well and to be able to, and to get, to win all of the, the medals, you know, in the following. Yes, and I think I'm kind, because if I remember, I think she even came back in at that Olympics, like she made the announce because I know that was the previous one she made that announce. And I'm pretty sure she even then came back at that Olympics and like took part in some sort of team event. So even to be able to just take a few days away or whatever to separate herself and kind of figure everything out, then to come back again is it shows the her credentials as a, as an athlete, as a, and as an individual to be able to do that.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "hope",
+      "empowerment",
+      "validation"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by detailing the systemic impact (media, peer_community) of agency signals (speaking_up) overcoming barrier signals (stigma, silence).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment includes a brief interjection from the host which is included for conversational context."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:02:28.000",
+    "timestamp_end": "00:03:03.000",
+    "paragraph_ids": [
+      "p3_12",
+      "p3_13",
+      "p3_14"
+    ],
+    "moment_text": "Yeah, I mean obviously I guess the biggest thing is that she must have realized that there, there was that availability to be able to do that. Because that's a lot of the time with athletes is they don't realize that there is that safe space or that, that there's, there, there is opportunities to share and to discuss and to divulge any information that they feel they need to. Sometimes that's, you know, I have, um. A session, session, um, session with, or a consultation with an athlete. And actually we, you know, we'll come in, we'll sit down and I just have to ask the question, like, how are you, and it's basically then the next 45 minutes is, is I've almost created that safe space because I've built that relationship with them to be able to just, yeah, go off on a tangent or just share what they're feeling and their thoughts and things like that. And I may not then necessarily say anything else, but it just allows them to, they, you know, they realize. Actually there's that, that availability there.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "trust",
+      "relief",
+      "validation"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "lack_of_information",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by describing a direct healthcare provider interaction that overcomes barriers (lack_of_support, silence) by enabling agency (sharing_story).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:03:03.000",
+    "timestamp_end": "00:03:41.000",
+    "paragraph_ids": [
+      "p3_15",
+      "p3_16",
+      "p3_17"
+    ],
+    "moment_text": "And that's kind of, I guess, what we also try and promote, especially when you're working with, you know, whether it be organizations, whether it be part of private practice, whether it just be local teams, grassroots, whatever it is, you know, that's what you wanna also try and promote is that. If you wanna come and speak to someone, there is a safe space to be able to do that. That is also one of the roles that you kind of, I guess you take on a little bit is to just, you know, if you want to, but also, again, I, I remember I was working with the National Squad of Judo, um, and judo is obviously as an individual sport, but the way that they trained, kind of, we were trying to create a culture where it was much more of sort of a team, a togetherness within that environment. And also that was one of the, the things was actually, you know. Of the individual athletes there is still, they can create that safe space together to share things if they wanna. But again, it's encouraging that as well as myself actually talking to each other and, and I'm sure Simone would've felt potentially comfortable with the rest of the US team to also discuss some of those things if she felt it was is necessary. So it's also, yeah, it's about creating that kind of culture as well where people feel like can share and learn and, and help each other.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "belonging",
+      "trust"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by describing the creation of a supportive peer community, a key protective factor, which counters social isolation and encourages agency.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:03:46.000",
+    "timestamp_end": "00:05:00.000",
+    "paragraph_ids": [
+      "p3_18",
+      "p3_19",
+      "p3_20",
+      "p3_21",
+      "p3_22"
+    ],
+    "moment_text": "Um, to be honest, I've worked with a, yeah, with a variety of, I, I work with both genders, males and females. Um. But I have done, so, like for example, I worked with, um, uh, super League women's netball team. Um, I worked with WSL, uh, which is our super league, uh, football. I worked with the women's football team. Um, actually I, ironically the, when I was working with Sports Wales, a lot of the athletes were in the, with the judo. A lot of them were female. I think there was one, one male bless him. Uh, but a lot of them were female. And again, I worked with, I've worked within athletics as well, where again, I worked with long distance runners. Um, a lot of them were, were female, were women as well. Um, and I guess, yeah, uh, I guess talking from my experiences of, of, for example, working with the women's football team, um, WSL, uh, there was a lot of pressure on them, um, to, uh, I guess. Maintain a certain level of performance because they obviously wanted to stay up in that league. They weren't financially, they weren't, you know, the, the, they, they didn't have lots and lots of money. They had backing, you know, but they didn't have lots of money behind them. So they were genuine like players that wanted to play football and wanted to play well. Some of them had come from the academy into the first team, so there was kind of a mixture. So I guess that again, was when I first, um, arrived and I first began supporting them. It was that, how do we. As a team, how do we create these values and how do we create these behaviors that's gonna help them maintain those values? Not just as, yeah, not just as footballers, but actually as individuals so that they're actually just being, for example, just being kind to each other and being supportive of each other and being, you know, when, when they. If someone was going through a hard time, for example, there was a, there was a moment in time where someone, you know, got injured. Um, and it was a, you know, it was a really difficult injury actually. Yes, I was around to support 'em and the coach and the physios, but actually the rest of the team coming around them as well and supporting them, you know, to continue with their rehab or getting them to come out onto the grass and watch the game and all of those sorts of things.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "overwhelm",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "cost_constraint",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by detailing a lived experience within a peer community, highlighting barriers (cost_constraint) and the deliberate creation of a supportive culture.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:00",
+    "timestamp_end": "0:00:11",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "And I guess there is that thing. Being a woman myself, I guess again, it's that empathy part, which is I can understand what they're going through, whether it be developmentally, whether it be, again, puberty, whatever it is, I can understand it because I've lived it myself, so I can kind of, again, empathize with what they're going through.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "connection",
+      "validation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with emotional signals within a system interaction (healthcare_provider), highlighting the role of shared experience in clinical empathy.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:25",
+    "timestamp_end": "0:00:53",
+    "paragraph_ids": [
+      "p3",
+      "p4"
+    ],
+    "moment_text": "I think when I worked in, you know, women's sport, when they knew. My role and what I was doing there, they were very much more, you know, they were like, oh, yes, Sarah, we're gonna book him. We're gonna come and see you. We're gonna talk to you. They were very, they were very much, they were like, oh yeah, we wanna use you. We want you to help us. Whereas sometimes with the males or with the young lads, they're a little bit more reserved or a little bit more hesitant to come and come and have a discussion or, or come and have a, have a conversation. You know? Or I'll say hello on it, for example. With the academy that I work with, and don't get me wrong, they've got a great environment, a great culture, but I'm still, you know, one of the few women that are working in the men in a men's environment.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Sports Psychology",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "seeking_support",
+      "silence"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with both agency and barrier signals, identifying a behavioral pattern related to gender and help-seeking in a sports medicine context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier signal 'stigma' is inferred from the male athletes' hesitation to speak with a female practitioner, which is a common dynamic."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:54",
+    "timestamp_end": "0:01:41",
+    "paragraph_ids": [
+      "p5",
+      "p6",
+      "p7"
+    ],
+    "moment_text": "So actually for the youngsters, it's actually easier for them to go and speak, you know, the young lads to go and speak to the the male coaches, you know, and sometimes they may not feel as comfortable as coming to speak to me, whereas with the women, it's the opposite. With the women and girls, you, they'd see me and they're like, oh yes. Okay. For example, with the, the judo lot, when I came in to the national organization, um, a new coach also came in at the same time, a male coach. So part of my role. Was obviously to build relationships with the group of athletes that I had, that I was working with, but then also part of my role was building a relationship with a coach and then to help the coach then build that relationship with the athletes. Because again, a lot of the athletes were, were females. He had loads of experience of working with females. Previously female judo players, but actually it was then how does he then work together with this group? How does he understand what they're going through? How does he understand how they communicate? And I was kind of, one of my roles was to support him to do that because naturally I saw, I sort of came in and the girls were like, oh yeah, hi, how are you? What's going on? So they naturally gravitated towards me and I was like, that's really cool, but it's also really important that you are not afraid of sharing. If there's something you need to share, sharing that information with your coach as well as with me or, or being comfortable with me and the coach sharing that information.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "Sports Psychology",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "trust",
+      "connection"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by detailing a barrier (fragmented care) and the agency signals used to address it, illustrating a pattern of needing to bridge communication gaps in male-coached female sports.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:50",
+    "timestamp_end": "0:03:08",
+    "paragraph_ids": [
+      "p9",
+      "p10",
+      "p11",
+      "p12"
+    ],
+    "moment_text": "Yes. I think one of the biggest things, and again, we started a project and I think they've continued on, but I unfortunately left the organization. But we started a project where actually, uh, we were trying to promote, you know, the, the, the normalization of, yeah, menstrual cycles, periods, all those sorts of things for males in those different roles, whether it be performance directors, whether it be coaches. Whether it be the sports science practitioners, if they were male, and actually we did a piece of work where it was all around just educating them a little bit in terms of getting them to notice some of the signs and symptoms, if that female athlete maybe wasn't, say for example was underperforming. Maybe some of the signs and symptoms linked to maybe why and if it was linked to her menstrual cycle. And then also just getting them to feel more comfortable talking about it, getting them to. Know the kinds of questions they maybe should be, could be asking, you know, female athletes to kind of, you know, a bit again, a bit like, you know, mental health, trying to de-stigmatize the area and kind of realize that actually it's natural and normal for a female to be experiencing this. Um, so, you know, for male coaches, for them to feel more comfortable talking, talking about it. And we did that through focus groups. We did that through workshop. You know, we got a group of them in, in a room and we just got. Genuinely had con open and honest conversations about what they were scared of, what, you know, why they were so worried about having, having those conversations in the first place. Because I think that's the biggest thing is that if you, you know, if you think about it, if you've got a young girl, bless them, who they're really nervous and worried about it, if you've got that married or matched with a coach who's really nervous. Then that's, you know, together, that's never gonna go well because neither of them are probably gonna wanna start the conversation. But actually, if the coach feels much more comfortable and and knows how to then make the young woman feel much more comfortable about the situation, then hopefully that's gonna be a nicer conversation for everyone to have.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Reproductive Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "fear",
+      "anxiety",
+      "hope"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "silence",
+      "education_gap",
+      "training_gap",
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with a high density of barrier signals and emotional signals, describing a systemic intervention to address a knowledge and communication gap in a medical training context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:03:08",
+    "timestamp_end": "0:03:26",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "I personally still think it's a work in progress. I know again, naturally everyone's different, so I know that some male coaches will feel more comfortable having these conversations over others. I think that they've, now that they've started to being done, and also there's more work now out there showing and realizing that actually if women are on their menstrual cycle, actually that does have an impact on performance. It's not them just being lazy or not wanting to train. Actually, there are physiological reasons for why that has, that may have an impact on their ability to perform at a, you know, at a certain level.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Reproductive Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "symptoms_normalized_without_context",
+      "education_gap",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by identifying a key systemic barrier: the misinterpretation of physiological symptoms as behavioral issues ('being lazy'), which is a significant pattern of dismissal.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:03:36",
+    "timestamp_end": "0:04:30",
+    "paragraph_ids": [
+      "p16",
+      "p17",
+      "p18"
+    ],
+    "moment_text": "Again, I, I, sometimes in certain situations, I've definitely felt sorry, you know, for the young woman who's, you know, going through this experience, um, and she doesn't feel like she can maybe express how she's feeling or if she is expressing how she's feeling, then whoever it is on the other end of that conversation truly is an understanding, you know, where she, where she's coming from. Um. So yeah, I definitely felt, sorry, and I'd like to think that one of my assets as a psychologist is I will try and always develop a relationship with anyone that I'm working with. So whether it be the athlete or and the coaches, I will always try and develop those relationships so that I then feel comfortable to, if I need to kind of. Step in a little bit and just be like, look, I, I can kind of understand what she's, you know, have you ever thought of this? Or I can kind of understand what she's saying and what she's feeling. Do we, this maybe could be what we, what we do moving forward, or we could maybe adjust something to try and help her feel more comfortable. Um, and then most of the time the coaches kind of do, they do take on board and they go, ah, yeah, okay. Or actually, maybe, you know, I'll, I'll let something unfold. I'll let a conversation happen and then I may go up to the coach and say, right, I think we need to just, let's have a bit of a reflection on that. How did that go? You know, have we achieved what we wanna achieve? And then I'll always go to the athlete and just be like, are you okay? You know, are we all okay with this? If not, you can catch me. It's say after, or we can go and have a coffee.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "sadness",
+      "trust"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with clear barrier, agency, and emotional signals, describing a relational strategy to overcome communication breakdowns and lack of validation in a clinical setting.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:04:30",
+    "timestamp_end": "0:05:16",
+    "paragraph_ids": [
+      "p19",
+      "p20",
+      "p21"
+    ],
+    "moment_text": "Now, I love a walk and talk. When it was COVID, I used to go and do a walk and talk, just again, to get people out into the fresh air and allow them to just talk about. Is everything okay? What's going on? Because sometimes, and again, previously when I've worked with sort of younger women, younger females, um, and I was obviously slightly older, but not too detached, but I was obviously older than them and they'd, sometimes they'd say they'd share something with me and I'd say to them, are you happy to go and share that with a coach, for example? And they'd say, oh, can you do it for me? And I'd sort of say to them, I'd say. Well, what if I do it with you? So don't do it for you, but I do it with you. You know, so I can help you to, you know, feel more comfortable to have that conversation. So I, yeah, I would kind of be with them. So I'd almost be like their comfort blanket, as it were. So there's someone there that they feel like if it's, if they start to crumble or they can't get their words out or something, I can kind of say, this is what they're trying to say. But most of the time I say, you go and do it because you know we, you've got this. So give them some confidence and encouragement. But then also be there to kind of be like, actually this is, you know, we're alright here. That is hopefully how I would feel like if I had a, you know, if I had a daughter or you know, when I was younger, that was, that's how I would have been. Yeah. Helped and supported. So.",
+    "moment_type": "reflection",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "trust"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong emotional and agency signals, describing a specific clinical technique ('do it with you, not for you') that acts as a protective factor to overcome barriers like fear and silence.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:30",
+    "paragraph_ids": [
+      "p49",
+      "p50",
+      "p51"
+    ],
+    "moment_text": "Because like often, you know, we can be so caught up in holding back and again, that does affect our ability to perform and, and also you and also I know that. Sometimes, you know, when they initially come to me, the amount of, again, a bit like Simone bars, the amount of courage it's taken them to come and realize that actually they need to, you know, they come and say, Sarah, can we, you know, do you mind if we have a chat? I know the amount of courage that that's taking them. And I know that their heart is probably when we're sat down having that chat beating out of their chest. 'cause they don't, you know, so that's where, again, I try to, that, you know, non-judgmental, positive regard. I try and just sit there and allow them to. Tell their story and give them that voice to then be able to say. Okay. Yeah. We can do something here. Sometimes I say thank you, thank you for sharing, you know, your, your information, your story, your, you know, what's going on, right? Okay, now let's, let's figure out how we can best support and deal, deal with this.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "fear",
+      "trust"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with clear barrier signals (fear_of_judgment, silence) and agency signals (seeking_support, speaking_up) within a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:30",
+    "timestamp_end": "00:00:52",
+    "paragraph_ids": [
+      "p52"
+    ],
+    "moment_text": "What do we need to do? What do we need to do first? And then, yeah, when you then see them going and feeling confident or that they come up to you and go, oh, Sarah, I, you know, I did this. Oh, that's really lovely. Like, well done. You know, really proud. You know, that sense of pride comes through just 'cause they've simply, you know, they're so proud of themselves because they've simply had a conversation or they've simply done something that's outside of their comfort zone and they're not used to doing.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "empowerment",
+      "validation"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with strong emotional signals (confidence, empowerment) and an agency signal (speaking_up) within a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:58",
+    "timestamp_end": "00:01:18",
+    "paragraph_ids": [
+      "p54",
+      "p55"
+    ],
+    "moment_text": "So when I was in, yeah, when I was at universities, when I was getting my degrees and studying and things like that, it was still quite a small area. It wasn't as big, I think, as it is nowadays. I, it was an afterthought. People were talking when they were working with athletes. They were talking physically. Okay. They were even talking to some extent, a little bit about nutrition and fueling and things like that, but psychology was always an afterthought. And performance, lifestyle and player care and mental health and all those sorts of things were always an afterthought, I think when I was at university.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate by identifying clear systemic barriers (education_gap, training_gap) within the context of medical/sports training.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:01:18",
+    "timestamp_end": "00:01:29",
+    "paragraph_ids": [
+      "p56"
+    ],
+    "moment_text": "And then I think there was a big push. Almost like a transition where actually psych, the more that, like we talked about celebrities, those elite level athletes started talking about the need for psychology and the importance of psychology. I think there was then a shift. To then it being more open and acceptable.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "validation",
+      "recognition"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with clear agency signals (sharing_story, speaking_up) and a barrier signal (stigma) within a media system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:01:29",
+    "timestamp_end": "00:02:00",
+    "paragraph_ids": [
+      "p57",
+      "p58"
+    ],
+    "moment_text": "Um, in terms of from a job's perspective, when I was at university, there probably wasn't that many roles out there, uh, other than in lecturing. There wasn't as many applied roles in the organizations at that, at that top level, um, to get into. And then again, there was that, you know, once athletes started to talk about it more and more and talk about the importance of psychology, there was that shift. Um, especially for example, within football, both male and female. Um, the fa, so the football association, they brought in this E Triple P, which was basically to try and promote psychology and make sure that within every academy setup there was some sort of psychology support. So there were those kinds of roles coming out and. Kinds of initiatives moving forward.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "training_gap",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate by identifying systemic barriers (training_gap, education_gap) and the workplace-level initiatives created to address them.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:02:00",
+    "timestamp_end": "00:02:36",
+    "paragraph_ids": [
+      "p59",
+      "p60"
+    ],
+    "moment_text": "And then organizations realized that actually, yes, you know, we need, we need some psychologists, we need more psychology. Um, I was really fortunate when I went to my role at Sport Wales, um, there was five sports psychologists in an organization. I'd never worked in an organization where there was, had been more than one psychologist before. You know, even my role at the University of Birmingham, it went down to just me as the psychologist. So the fact there was more of us within an organization, again, kind of highlights to me that actually this is an area that they were giving a little bit more gravitas to alongside, and they were kind of seeing it now rather than psychology as being an afterthought. And physical was being always important, actually. Kind of coming up to parity in terms of Yes, physically might be said right at the start. Physically, yes. If they're physically. They're and ready and they've got the talent and the skills, brilliant. But if they haven't got them mentally, they're never gonna achieve what they wanna achieve. So actually, you know, you need that support from both angles and both perspectives and holistically to allow them to be able to, you know, reach that optimum level.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "validation",
+      "recognition"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with a clear barrier signal (fragmented_care) being addressed and emotional signals (validation, recognition) within a workplace system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:02:42",
+    "timestamp_end": "00:03:28",
+    "paragraph_ids": [
+      "p62",
+      "p63"
+    ],
+    "moment_text": "Um, so yeah, I guess I, for me, I guess from a, from a mental wellness level, is, is my own approach, I guess from a professional perspective, is that, again, as I've said previously, yes they're an athlete, but they're also an individual. So I think whenever I work with, with athletes or teams or coaches or parents or whoever it is, if that I'm supporting. When I, when I have consultations with them, I will always say to them, you know, how, how are you? I'll just ask the question of how are you, and I'm not asking them if it's an athlete. I'm not asking them in terms of how did you get on in that performance? How did you do? I'm genuinely asking them, you know, how are they, so that I give them, I'm not. That open-ended question to, to say, oh yeah, no, I'm really good, or, Hmm, I'm okay. Or Do you know what I mean? So just allowing them to talk about are, you know, their mood and their, their lifestyle and their life, I guess in general. Um, because I think that's really important because again, if I started talking to them, I went purely down the performance route, but didn't even think about, you know, their life outside of sport and their wellness and their mental wellbeing. Would, there would be gaps or there would be kind of from, from my perspective, I'd be like, well, why isn't this working efficiently? Well, it's probably 'cause I haven't thought about the fact that actually at home. They could be really struggling or they could be going through, through something developmentally, or they could be going through a huge change or, you know, they could be going through GCSEs in a really stressful period in their, in schooling, you know, in life that's actually in influencing their performance.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "trust"
+    ],
+    "agency_signals": [
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with a clear barrier signal (fragmented_care) being addressed through a specific agency signal (asking_questions) within a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:03:28",
+    "timestamp_end": "00:04:16",
+    "paragraph_ids": [
+      "p64",
+      "p65",
+      "p66"
+    ],
+    "moment_text": "So I think for me it's all about, you know, making sure that, um, from a mental wellness perspective is yeah, just treating the individual as a person prior to them thinking about their, them as an athlete and as a performer. And then from a personal perspective, I will always try, you know, I always try and get outside. You know, I, I'm a firm believer, and again, I encourage this with all my athletes as well, but self-care is massively important. So making sure you take care of yourself, making sure you know what makes you happy, whether I be. Going for a walk. Um, whether that be going the gym, whether it be reading a book, whether it be having a bath, whether that be, um, you know, I love people who are very creative and they can just draw, you know, I'm so jealous because I cannot draw for my life. Know it's like a stickman and that's about it. Maybe they like to do a little bit of walk work or some people like to write in their journals, but whatever it is, just making sure, you know, you know, I will always try and have something in there, which is a little bit of self care, even if it's on a lunch break and I go for a quick. Walk or you know, I, I do some sort of Pilates or yoga, or if I can go to the gym, then wonderful. But even if it's something like that during the day, I just say to them, at least have one day out of your week. That's for just rest and recovery and self-care. But I guess that is the biggest thing is that when I push that, I've gotta also then practice what I preach almost. So it's almost, you know, and I know. When I don't do it, I know if there's, you know, a really busy week at work and I've not had the chance to do something, I can feel, I can feel myself getting aggy or I can feel myself getting a little bit, sort of, my partner doesn't like it very much, but I can feel, feel myself getting a little bit, sort of, oh, okay, I need to just go and I need to just go and take half an hour for myself.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "frustration",
+      "calm"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "tracking_symptoms"
+    ],
+    "barrier_signals": [
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with clear emotional signals (frustration), agency signals (setting_boundaries), and a barrier signal (time_constraint).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker uses the term 'aggy' which I've interpreted as frustration."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:04:27",
+    "timestamp_end": "00:04:32",
+    "paragraph_ids": [
+      "p69"
+    ],
+    "moment_text": "Yeah, so I guess in terms of, if we're thinking about it when athletes transition outta the sport, for example, I guess those that do it a little bit more successfully are those that maybe don't see themselves as just athletes.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "This moment is too brief and lacks sufficient emotional, agency, or barrier signals to meet the evidence gate for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment is very short and acts as an introduction to a larger point. It may be combined with the subsequent text in the next part of the transcript."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M021",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "So it's almost that identity piece. They, you know, they've got a little bit of an identity out outside of that, or at least they know what they want to then go into. You know, when I've worked with people who've either they've had a, you know, horrific injury and it's been career ending, for example, or whether it's been just a natural retirement. Those, for example, that, that maybe have a, a really a career ending injury and it's a bit unexpected, that's where you need to do that work on their identity and what out. You know, yes, you're this athlete brilliant, but you are also so much more than that. And actually getting them to work with that and, and getting them to think about all those other things and areas that they're of interest and that they love to do and that they're really, you know, that they're really good at, for example, and maybe tapping into something there.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness & Identity",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency signals (making_decisions) and emotional signals (empowerment) within a healthcare_provider context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M022",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p3",
+      "p4",
+      "p5"
+    ],
+    "moment_text": "And then also those that are naturally transitioning and retiring is also supporting them of, okay, so. What, yeah, what would you like to go into? Some of them like to want to go into coaching. Some of them want to go into something completely different and actually that's fine, but it's, it's how do you, how do you do that? And how do you best, yeah. I'll best then support them, you know, in that journey. Um, some of them, if they are retiring, you know, they, some of them still want to be involved in the sport in some way, shape or form, and that's absolutely fine. Um. Some of them just wanna detach themselves completely and, and do, do something completely different. You know, they may have had 20 years of their life in something, they wanna do something completely different. So it's just, again, figuring out what works for that individual.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness & Identity",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "clarity",
+      "calm"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency signals (making_decisions) and a defined system interaction (healthcare_provider).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M023",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "Well, the work will actually start way, way before they, you know, we get to that point in time where they retire. Um. That must be interesting for you as well, Sarah, because you're probably more focused on getting things out of them as they're performing. All of my children were elite athletes. Child. My daughter Olivia was, was a professional athlete and she just retired. And I think it's really interesting because what I noticed with. Her is she wanted to peak, she wanted to, by the time she retired, have achieved all these things. So I would imagine you as a psychologist, that would be an interesting phase if you're working over time with said, you know, athlete, you know, seeing them.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Career Transition",
+    "system_interaction": "family",
+    "emotional_signals": [],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with an agency signal (making_decisions) and a defined system interaction (family).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker role is host, but she is sharing a lived experience from the perspective of a caregiver/parent."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M024",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p8",
+      "p9",
+      "p10"
+    ],
+    "moment_text": "It's one of those where I'm assuming that she probably would've had certain, yeah. Milestones, goals, targets, whatever it is. And she almost wanted to make sure that she then retired on her terms, right? Where she, you know, and you, you hope for that with, with all the athletes that you see really is that those that are, you know, those that are coming to that age where they, you know, are retiring, is actually like, they're like, yes. Because some people, for example, Andy Murray retired or, or you know, some of the, some, some, you know, he retired. And for me I was like, you're reti, you know? I was like, wow, he's retiring. Okay. But actually for him, it was like he wanted to retire on his terms when he, I felt like he was able to do that, and I felt like, again, Pete. Individuals are much more accepting of something if it's on sort of their terms. If they feel like they're in control of that transition in their life, I feel like they're much more accepting and that, and now, yeah, it'll be a more positive experience for them. Again, it's, I guess it's my job to be aware of, yeah, what's going on around them, not just from a sporting perspective, but from a life perspective to make sure that we can all kind of, you know, marry it up all together and then that experience does actually unfold and happen as they want it to.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness & Identity",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "calm"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional signals (empowerment) and agency signals (making_decisions) within a healthcare_provider context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M025",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "I guess it's just for women of all ages. If they, you know, if they're involved in sport, just make sure you are doing it because you enjoy it. Just have fun, do something that you, that you're enjoying. Um, if you wanna then get better or do more in terms of from a competitive side of things, then fine. But actually, if you don't and you just wanna play or you just wanna take part and participate because it's better for you from a mental wellness perspective than just. Go and do it.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness & Identity",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional signals (empowerment) and agency signals (making_decisions) within a community context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M026",
+    "episode_id": "UTS_S4_PODCAST_004.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_004.docx",
+    "speaker_id": "Sarah",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p13",
+      "p14",
+      "p15"
+    ],
+    "moment_text": "And also don't be afraid to try different sports. Don't think, oh, because for example, you know, there was a time where it's like when you talked about football, it was like a very male dominant sport. But actually female football is ABS in the UK is is flying at the moment. So actually don't be afraid to try any kinds of sport. I said at the start, I used to play golf again. At the start of my journey as a golfer, everyone was like, why are you playing golf? Isn't that for old men? But now there are some female golfers out there that like the quarter twins, for example. That are absolutely flying nearly quarters. Absolutely smashing it. And you know, if she listened to people of like, oh, golf for old men, then she may not have, she may never have got into the sport. So yes. So just make sure you play, if you play sport, do it because you enjoy it. And never be afraid to try something. 'cause you never know. Could be, could be a game changer.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness & Identity",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with a barrier signal (stigma), agency signals (making_decisions), and emotional signals (empowerment).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

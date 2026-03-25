@@ -1,0 +1,1268 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith Gold",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:03:23",
+    "timestamp_end": "00:04:10",
+    "paragraph_ids": [
+      "p9a"
+    ],
+    "moment_text": "So I have, uh, two inflection points that really stood out to me. Uh, when I thought about this question, the first was a very long time ago. I was actually in kindergarten and in music class. Uh, we were being taught America the beautiful, the beautiful song. And I was very upset when the line crown that I good with brotherhood was taught to us over and over, and it's kind of apropos under the sisterhood because I was really upset about why is it brotherhood when they mean everyone? Why isn't it sisterhood or personhood at, you know, five years old? I was outraged about this. And so at a very young age. I recognized o or others recognized in me this sense of fairness and social justice and what was right. And I definitely at that time did have an awareness that some people had more power than others.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "anger"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: has emotional signals ('anger') and a non-none system interaction ('education_system').",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith Gold",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:04:10",
+    "timestamp_end": "00:05:06",
+    "paragraph_ids": [
+      "p9b"
+    ],
+    "moment_text": "That, you know, the, the playing field was not even, and that really got me upset at that young age, many years later. I had a very circuitous route in my formal education and after years of trying to figure out what I was going to be really and study, I was, uh, studying to be a secondary education teacher for math. And there was one course, it was co-taught by a social worker and an educator, and every paper or essay that I submitted came back with. Furious notes about have you ever thought about social work? Do you would make a great social worker? And I, I never really did think about social work or, or understanding the field, but it was at that time that I really began to understand how someone's environment and environmental factors really impact their trajectory, uh, our trajectory and our way of achievement. Certainly physical health, mental health. That access to opportunities and resources could really, really impact someone's life. And so again, it sort of kicked in this innate sense about social justice and fairness. Um, and I think tho that's really when it started for me.",
+    "moment_type": "realization",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: has agency signals ('making_decisions').",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith Gold",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:05:28",
+    "timestamp_end": "00:06:06",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "Well, like I said, I had a very circuitous route and explored lots of different ideas. I thought I would be a camp counselor for the rest of my life and realized also that part of what I loved being in that role was the relationships that I had with my staff who were mostly. You know, young people, college age, high school age, and being a real mentor for them, helping them just sort of sit with their, uh, worries and fears and joy and excitement and, and help sort of organize it with them, with something that. That really was exciting to me and so decided I was gonna go for it.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: has agency signals ('making_decisions').",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith Gold",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:06:06",
+    "timestamp_end": "00:06:53",
+    "paragraph_ids": [
+      "p12a"
+    ],
+    "moment_text": "And when I was, uh, doing my graduate work studying social work, um, I was placed as an intern in domestic abuse services, which was a field that I hadn't really given much thought to. Sure. I had taken some gender studies courses and my social justice fairness, you know, uh, stuff was, was certainly present and I was placed at this agency and didn't really know much about it. Very quickly realized that this was, this was the place for me. This was, um, the work for me, this was the environment for me. And again, that that five-year-old big mouth kid as an intern started saying, huh, maybe we should think about doing things this way. Or what if we had a program that did this? Um, we were very focused on crisis services when I started, and eventually I created a community education and prevention initiative in those, in that program.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Domestic Violence",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "clarity",
+      "confidence"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: has agency signals ('speaking_up', 'making_decisions').",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith Gold",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:06:53",
+    "timestamp_end": "00:07:28",
+    "paragraph_ids": [
+      "p12b"
+    ],
+    "moment_text": "And so. Just sort of really dug in and. 10 years into it became the director, which was amazing. Found myself in that mentoring role again with staff, um, supporting mostly women, younger women in their journeys through their higher education, uh, and figuring out what they wanted to do. But what was. The most meaningful part of that work was my direct work with clients, with victims and survivors of domestic violence and how much I learned from them their resilience and bravery and courage in a way that isn't always recognized or seen from the outside in.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "validation",
+      "recognition"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: has barrier signals ('lack_of_validation').",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith Gold",
+    "speaker_role": "educator",
+    "timestamp_start": "00:08:05",
+    "timestamp_end": "00:09:05",
+    "paragraph_ids": [
+      "p14"
+    ],
+    "moment_text": "Yeah, sure. So I'll, I'll share a story that, um, I often share and, and when I did this, this work, uh, leading the agency, I did a lot of, uh, community events and, and speaking to people who didn't know very much about domestic violence or so they thought. So I like to tell this story that imagine you're having a picnic on the side, uh, you know, in the woods on the, on the side of a river, and you notice that there as the river's flowing, that there are people. Slowing down the river who are having a hard time and drowning and needing help. And so you put your sandwich down and you go to the river and you help this person get out and make sure they're safe, and you give them a blanket and a few minutes later, someone else comes down the river and you go and you help them out. And this continues through the afternoon where you're just fishing people out of the water. And eventually you think, you know what? I'm gonna take a walk to the top of the hill and find out why people are falling in in the first place.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "seeking_care"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: has agency signals ('seeking_information').",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a powerful analogy used for educational purposes."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith Gold",
+    "speaker_role": "educator",
+    "timestamp_start": "00:09:05",
+    "timestamp_end": "00:09:49",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "And so what I realized is that we're always gonna take care of people who need help. We're always going to fish those people out, support them, help them get what they need. If we really wanna make a dent though, in this issue, we have to talk about prevention and we have to talk about it in a couple of different ways. The the first initially is primary prevention, which means really stopping it before it starts. So we launched programs directed at young people at the high school level teaching about teen dating violence. Teaching about healthy relationships, eye-opening, uh, concepts to talk about with teenagers who are so in the moment. Um, I always like to think of them as little amplifiers, whatever. Their feeling or experiences is, is up to an 11.",
+    "moment_type": "advocacy",
+    "life_stage": "adolescence",
+    "health_domain": "Domestic Violence",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: has both agency signals ('making_decisions') and barrier signals ('education_gap').",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:01:01",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3"
+    ],
+    "moment_text": "So, you know, this is the most important relationship. I'll never love this person ever again. I'll never love anyone else, uh, as much as I love this person again, and it's easy to get swept up. So really stepping back and teaching, um, teens about boundaries and consent. And then even at the younger ages, starting as young as kindergarten, we were teaching kids about. Communication, feelings, identification, empathy, uh, conflict negotiation, right? So yeah, you might be on the playground and someone has the swing that you want and that could feel really upsetting and you could be really, really angry and that's okay. But are you gonna go and push them off the swing and take it? Right? So teaching these nuances to children. And then at the middle school level also, when relationships. Start to change as friendships into more romantic relationships, but even healthy relationships within a friend, excuse me, within a friendship, understanding boundaries and consent. So that was a really important piece of the work.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence Prevention",
+    "system_interaction": "education_system",
+    "emotional_signals": [],
+    "agency_signals": [
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier and agency signals related to a specific system interaction (education_system).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment details a preventative education strategy starting from kindergarten through teen years."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "00:01:02",
+    "timestamp_end": "00:01:42",
+    "paragraph_ids": [
+      "p4",
+      "p5"
+    ],
+    "moment_text": "And another aspect of prevention is just educating the community, sort of what we're doing here today. Planting seeds for people to look at this issue in a different way. Start to maybe recognize things that they've experienced themselves that never. Put the label of domestic violence or control, it was just a bad relationship or you know, my last partner was really not that great of a person. And also people recognizing signs in their friends and family training professionals, not domestic violence professionals, but in other fields such as mental health field or attorneys, medical providers, to look for signs in the people that they work with, uh, to recognize if someone might be experiencing this and not. Know how to fix it. Not necessarily know how to intervene, but how to refer to the experts in the field to get people help.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence Prevention",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "clarity",
+      "recognition"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_language",
+      "education_gap",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains multiple barrier, agency, and emotional signals related to community and professional system interactions.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker outlines a multi-pronged approach to prevention through community and professional education, highlighting the need for training outside the domestic violence field."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "00:01:42",
+    "timestamp_end": "00:03:01",
+    "paragraph_ids": [
+      "p6",
+      "p7",
+      "p8"
+    ],
+    "moment_text": "And the, the last part of of prevention or another part of prevention that we really focused on 90% of domestic violence is perpetrated by men and saying that. Most men are not violent. Most men are good and safe and not violent, but out of the number of people who who do perpetrate domestic violence, 90% of are men. And so we need to look at. What's happening with, with men that they are, um, perpetrating these kinds of behaviors. When we think about domestic violence, it's such a gendered issue. We usually think, oh, it's a woman's issue. This is a women's problem. And yes, women are certainly impacted, and we need to look at what's going on with men and try to change fundamental attitudes, beliefs, what socially acceptable behavior. So, as I said, 90% of men are not abusive, are not violent. So let's say one out of 10 men are that one abuser relies on the silence and sort of. Unspoken consent of the other nine men. So as we know, domestic violence lives in the shadows. It lives in secret, and so it takes other people, and in this case that the example I'm talking about right now with social capital, with influence to be able to call out. Behaviors. And that doesn't necessarily only mean intervening when something really terrible is happening in the extreme, but derogatory comments, sexist jokes, these kinds of things.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence Prevention",
+    "system_interaction": "community",
+    "emotional_signals": [],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "silence",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier and agency signals, discussing the role of community silence and the need for men to speak up.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment provides a nuanced take on the gendered nature of domestic violence, focusing on the role of non-violent men in prevention."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "00:03:01",
+    "timestamp_end": "00:04:01",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "And it doesn't also mean that someone needs to be, you know, a superhero running around with a cape. It doesn't mean that they need to stand on a soapbox, but even saying something like, that's not cool. Could totally, um, take the power away from someone. I'm reminded as I'm talking to you now of an initiative that we did that was, I was very, very proud of, which was working with the high school football team in our town, and the head coach really understood the, the social capital and the power that he as a head football coach had in a small suburban town and also his players and saw. Teaching these these players in a way that added to their concept of leadership. And so he dedicated time during their football practice for myself and colleagues to come in and talk to these young boys about the, the role that they can play, not to wag our fingers at them and to say, don't be bad boys, but to help them understand the power that they could have as being. What we called an upstander instead of a bystander, to really, um, set the norm for what's socially acceptable in a positive way.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "Domestic Violence Prevention",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "empowerment"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional and agency signals within a specific system interaction (education_system).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker provides a concrete example of a prevention program ('upstander' vs. 'bystander') with a high school football team, illustrating the concept of using social capital for positive change."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:04:01",
+    "timestamp_end": "00:04:48",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "Wow, wow. I'm just sitting here and there's so much to unpack with prevention, um, the whole experience, you know, 'cause prevention, it's so interesting. As I'm hearing you speak, Meredith, I'm hearing on a community level in education, in school systems, in system levels, and I think it's really tricky. And you can teach the kids at five what is and what isn't socially acceptable as they age and all of that. But what's going on in the home? We know that the that and, and I'd be curious to get your take on this generations of violence. It occur. It's an intergenerational thing. I just applaud you for the work you're doing. I'd love for you to talk a little bit about that because you also see patients, you, you see patients, sorry. You see clients, if you will. On a one-on-one level. When you look at it from that perspective, the, the family dynamic, can you talk a little bit about your experience there and what you've, because you, the one thing you said I thought was really good is for us to, to recognize what it looks like.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence Prevention",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "asking_questions",
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional and agency signals related to a specific system interaction (family).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The host reflects on the complexity of prevention, particularly the tension between systemic education and the influence of the home environment, and pivots the conversation to intergenerational patterns."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "00:04:49",
+    "timestamp_end": "00:05:26",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "So it's really important, again, to emphasize that, well, maybe I haven't said this yet, but most people that do grow up in an abusive home will not necessarily repeat that pattern. Most people there doesn't mean that they won't be impacted by what they experienced or what they've, you know, witnessed, but most people, they're not doomed to repeat this pattern. That being said, the opposite of that stat. Is true that out of the people who are abusive, if you look at that pool, most of them did come from an abusive home or witness violence in some way, interpersonal violence. And so it, that's a, a nuance, but a very important distinction.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence Prevention",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "clarity",
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional signals and a specific system interaction (family), providing a nuanced clarification on intergenerational patterns.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment offers a critical distinction: while most people from abusive homes don't become abusers, most abusers do come from abusive homes. This is a key educational point."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "00:05:26",
+    "timestamp_end": "00:06:30",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "And so absolutely domestic violence, intimate partner violence is, is a learned behavior and certainly what happens in the home can impact. Um, and we also, we have to talk about culturally. At the societal level, pop culture, the lessons that we learn about gender roles, what it means to be in a relationship with someone. What are we taught to be? And you know, we, in our culture, there's a real value being selfless, right? And sacrificing for others and giving. And absolutely we, we need to take care of each other and we need to teach young people to take care of themselves. That being selfish. Is not selfish is that, you know, we need to put ourselves first. And so that I think, gets overlooked. And when we combine that with someone maybe coming from a home where there's very traditional roles, religion, culture, ethnicity can play a factor in the way that people are taught about what is family, what is a relationship, how do we interact, what's okay, what's not okay. Certainly, as I mentioned before, the. The culture of silence around domestic violence. Um, I think there, we've all heard this saying over the years that, you know, we don't air our dirty laundry as a family. That the, what goes on behind closed doors is a private matter. And that's changed a little bit, but generally that's still true. So people come up with the understanding that this is private, this is secret, it's nobody's business, and that there's a lot of shame that gets tied up.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence Prevention",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "shame"
+    ],
+    "agency_signals": [
+      "silence"
+    ],
+    "barrier_signals": [
+      "shame_culture",
+      "silence",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains multiple barrier, agency, and emotional signals related to family and cultural systems.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment connects learned behavior in the home to broader cultural norms, including the value of selflessness and the taboo of airing 'dirty laundry,' which perpetuates silence and shame."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:06:30",
+    "timestamp_end": "00:07:05",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "I mean, I think that that really, I, I'm struck by this part of the conversation and by the, you know, I, I like the distinction between the most people who come from that environment don't do it, but of the people who do do it, they do come from that background. It's so interesting to me because going in and having. Those prevention conversations, when you've come from that environment, like how do you see the integration of like changed behaviors? When you get in younger and you have, you know, these children or say adolescents, teenagers who come from these spaces, are you able to or pivot them from that perspective? Sometimes you put an implement a program and you don't have opportunity to see it down the line, but. I'm curious if you did, if, if you've noticed the trends there.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence Prevention",
+    "system_interaction": "education_system",
+    "emotional_signals": [],
+    "agency_signals": [
+      "asking_questions",
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains agency signals and a specific system interaction (education_system).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The host asks a critical question about the efficacy and measurability of prevention programs for children who come from abusive environments."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "00:07:05",
+    "timestamp_end": "00:07:41",
+    "paragraph_ids": [
+      "p18"
+    ],
+    "moment_text": "Really difficult question. Prevention is so difficult to measure because how do you measure something that hasn't happened? How do you know it's worth it? What you're doing is even making a difference. In some ways we don't know. We can look at overall statistics, we can look at the big picture. The problem with an issue like domestic violence is that we don't talk about it. Most incidents go unreported. So whatever stats we have. And I'll share, some are drastically under-reported, so we know that globally around one in three women and one in 10 men will experience intimate partner violence at some point over their lifetime.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence Prevention",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "frustration",
+      "resignation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_information",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals about the difficulty of measuring prevention due to underreporting and silence.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment highlights a core systemic barrier in addressing domestic violence: the difficulty of measuring prevention and the unreliability of statistics due to widespread underreporting."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "00:07:41",
+    "timestamp_end": "00:08:20",
+    "paragraph_ids": [
+      "p19",
+      "p20"
+    ],
+    "moment_text": "So that's staggering when you think about it. And I'll share, there's a statistic around breast cancer. We know that about one in eight women will experience breast cancer over their lifetime. So when we not to compare these issues, they're both terrible. We don't want anyone that we care about to have to face either of these issues. But when you think about breast cancer awareness, we think pink. We see the ribbons, we see the walks, we see the joy in the fundraising and in the survivors who speak out and share their stories, it's really easy to get behind and support. The issue of breast cancer and there's a really clear enemy, which is cancer.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence Prevention",
+    "system_interaction": "media",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (stigma, shame_culture) by contrasting the public response to domestic violence with that of breast cancer, highlighting a media and community interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker uses the powerful analogy of breast cancer awareness to illustrate the societal stigma and lack of public support surrounding domestic violence, which lacks a 'clear enemy' and is shrouded in shame."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "NA",
+    "timestamp_end": "NA",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3"
+    ],
+    "moment_text": "When we deal with domestic violence, which impacts at least twice, maybe three times as many women. We don't hear about it. It's still uncomfortable to talk about. There's a stigma around it. And so the numbers that we do know are even less are, are probably even more than what's being reported. And so this idea of how do we know there's lots of measures we can look at. Crime, right From the law enforcement perspective. Um, we know though that victims of domestic violence, there are a lot of reasons why they may not want to report to the police, and that could be, uh, because most abusers are not actually held accountable by the criminal justice system. But also somebody, imagine you're walking down the street and someone you know, comes and, and slaps you and steals your pocketbook. Okay. You call the police and maybe they get arrested, or maybe they don't, but then you're probably not gonna see that person ever again. If you're calling the police when somebody in your own home has committed a crime against you, it's a lot more complicated than that.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "fear",
+      "shame"
+    ],
+    "agency_signals": [
+      "silence"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "silence",
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains multiple barrier signals (stigma, silence, fear_of_judgment) and emotional signals within a community system interaction.",
+    "risk_flags": [
+      "violence_abuse"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "NA",
+    "timestamp_end": "NA",
+    "paragraph_ids": [
+      "p4",
+      "p5",
+      "p6"
+    ],
+    "moment_text": "It could elevate the level of danger. If someone goes, let's say they do spend the night in jail. They're coming home the next day. Let's say they do go to, um, court, well, their victim who maybe is their partner is sitting in the same courtroom having to share these intimate details of their life at home. It could be if, if somebody is. Taken by the police and winds up in jail. Well, maybe that person was the, the sole breadwinner at home. And if there's children and now my partner can't work, and now he's mad at me because I called the police and now I'm home. You know, it's, excuse me, it's very, um, complicated and not to mention there's a lot of shame as we discussed. Uh, when someone gets arrested in our town, their name goes in the local paper, so a lot of people don't want. Their partner to be listed in the paper. It doesn't always work. You know, holding some, trying to hold someone accountable doesn't work. Things could actually get worse.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "fear",
+      "shame",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "silence",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment",
+      "shame_culture",
+      "lack_of_support",
+      "cost_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains multiple strong barrier signals (fear_of_judgment, shame_culture, cost_constraint) and emotional signals within a family system interaction.",
+    "risk_flags": [
+      "violence_abuse"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "NA",
+    "timestamp_end": "NA",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "And the most important reason, which I think is often not always acknowledged and hard to understand, is that. Victims often love their abusers. An abusive relationship is not all bad all the time. There are moments where it could be joyful. It could be moments where it's where there's kindness and love, and so. There's a connection to this person. There could be real love underneath, and it's very hard to leave to hold someone accountable. Certainly call the police when it's somebody that you love.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness",
+      "confusion",
+      "connection"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional signals (sadness, confusion) and a barrier signal within a family system interaction, explaining a complex relational dynamic.",
+    "risk_flags": [
+      "violence_abuse"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "NA",
+    "timestamp_end": "NA",
+    "paragraph_ids": [
+      "p8",
+      "p9",
+      "p10"
+    ],
+    "moment_text": "One thing I thought I'd share in, in talking about this is, is the metaphor of the frog in the pot. Um, so many people will look or at a situation and look at a victim and say, how could she. Let herself get in this situation, why does she stay in that situation? And so domestic violence can very often be like a frog in a pot, which I guess this is really true. If you were to take a pot of boiling water and put a baby frog or. Grownup frog in the pot, they would recognize the water's hot and they would jump right out if you were to take a pot of cold water and put a baby frog in the cold water and slowly turn up the heat. Frog doesn't realize that the water is getting hotter and hotter and will not jump out and will often stay till they're burned out. And so this analogy is really important in domestic violence because it is insidious. Nobody goes out on a first date with someone and is called a jerk, or a loser or an idiot, and then decides, oh, I think I'm gonna keep seeing this person. It doesn't start out that way. These behaviors develop slowly over time, and before you know it, you're in the hot water.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Domestic Violence",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "confusion",
+      "resignation"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "symptoms_normalized_without_context",
+      "lack_of_validation",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains multiple barrier signals (symptoms_normalized_without_context, lack_of_validation) that explain a systemic pattern of misunderstanding.",
+    "risk_flags": [
+      "violence_abuse"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "NA",
+    "timestamp_end": "NA",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "I think initially it was this sort of outrage around the, the justice factor. Like, this is so unfair, this is so not right, and doesn't any, why aren't, why aren't we up in the streets screaming this and letting this happen, especially when it impacts so many people? What kept me in it was the. My environment that I was in doing this work with the most incredible team of mostly women but not all, who were so dedicated to this issue as well, who, this is not a job that you clock in and clock out. This is something, it becomes a part of you. It becomes a part of the way you speak and the way you move through the world. And I was so, so fortunate to be surrounded with the most incredible group of. Teachers and mentors and colleagues and friends who really became family and.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Workplace Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "anger",
+      "connection",
+      "belonging"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional and agency signals within a workplace system interaction, highlighting a key protective factor (peer support).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "NA",
+    "timestamp_end": "NA",
+    "paragraph_ids": [
+      "p15",
+      "p16",
+      "p17",
+      "p18"
+    ],
+    "moment_text": "We spent a lot of time supporting our each other in this work. You know, we all know about vicarious trauma and our clients would come in and sometimes talk about the things that they were experiencing as if they were reading a, a grocery list, you know, and, and we would walk out and say, I can't believe what I just heard. And doesn't she realize? And you could go lean up in the doorway of a colleague and say, do you have a minute? I just need to. I just need to put this somewhere. It didn't help. It wasn't the worst thing in the world that we were all trained in, in the social services field also. So we knew how to support each other, but to be able to create time and space for those moments to keep ourselves going, to keep each other going. We, during COVID. Was really interesting time to do this work, um, when we were all at home operating two hotlines through a network of cell phones and a, a shelter and, you know, still maintaining to do all of the work that we had always done. And during that time especially, it became so clear how important it was for us to stay connected to each other. We had our ongoing individual support meetings, our ongoing weekly, sometimes twice a week. All staff meetings, and we always took time to, of course, cover the bases, go through our agenda, do the work we needed to do and save space. That was just about connection on a human level. A colleague of mine invented what she called the she share. We started pretty much every meeting with a she share and she being so creative came up with all kinds of fun prompts. Like, who was your first celebrity crush? You know, how early can you remember? And we'd just be silly together, connect on that human level to be able to put on our suits of armor and go back to the work. So that was a really important piece of it.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Workplace Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "relief",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong agency signals (seeking_support, sharing_story) and emotional signals within a peer_community system interaction, detailing a specific protective factor against burnout.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment is a strong example of a protective factor (peer support rituals) against vicarious trauma in a high-stress work environment."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "NA",
+    "timestamp_end": "NA",
+    "paragraph_ids": [
+      "p20",
+      "p21",
+      "p22"
+    ],
+    "moment_text": "Boundaries is a big trigger word in our field. We have to maintain our boundaries. We have our code of ethics. We, you know, and you know, on that very plain level, we have to maintain our boundaries and we have to be able to connect. With the clients and the people that we work with. Um, and there is some debate in the field about sort of abandoning the traditional Freudian blank slate relationship or lack of, with, with a client that you're working with. I think a more contemporary view is recognizing that it's okay to be a human. With your clients, it's okay to share a laugh. You know, you don't wanna share something that it's, whatever you do share, it has to be in the best interest of your client, right? Your client isn't there to meet your needs of connection. It's really about maintaining, um, the view of serving them. But more and more research is pointing to the fact that the most effective. Part of a therapy of therapy is the therapeutic relationship. So there are a lot of modalities out there now that are evidence-based and amazing and, you know, can really help people. And given all of those modalities, the most important piece is the human connection.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "trust",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment identifies a barrier signal (training_gap) and emotional signals within the medical_training system interaction, highlighting a shift in therapeutic practice.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "educator",
+    "timestamp_start": "NA",
+    "timestamp_end": "NA",
+    "paragraph_ids": [
+      "p23"
+    ],
+    "moment_text": "But to speak to this idea of. Not taking it on is, is really important to practice self care, to practice, you know, finding your own sources of support. It's, it's difficult to balance showing up authentically with someone sitting in their chaos, in their trauma, in their story, and then zipping yourself back up.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains agency signals (setting_boundaries, seeking_support) within the healthcare_provider system interaction, describing a necessary skill for clinicians.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Jo",
+    "speaker_role": "host",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:25.000",
+    "paragraph_ids": [
+      "p_0",
+      "p_1"
+    ],
+    "moment_text": "So, yeah, so self-care is really important. Boundaries are really important. Important and support. You know, I'm lucky enough to continue to work with some of the people that I worked in the past, and that comradery, those friendships are are everything to me and I, I don't think, I think being in private practice can be very isolating and lonely. And you also wanna be able to check in like, am I on the right track with where I'm going with this client? Or I'm really stuck with this client. Do you have any ideas? It, it can be a really important piece of the work.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "isolation",
+      "loneliness",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (social_isolation) and agency signals (seeking_support) within a specific system interaction (workplace), making it eligible for pattern analysis.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is a host but is speaking from her professional experience as a therapist, hence the workplace context."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:41.000",
+    "timestamp_end": "0:01:20.000",
+    "paragraph_ids": [
+      "p_3",
+      "p_4",
+      "p_5"
+    ],
+    "moment_text": "Yes, I, I think so. And you know, you're tapping into something that is crucial that we keep in our minds all the time now of this, you know, we're using this word connection. And in some ways with technology and social media, we are more connected than we've ever been. And we are more disconnected from each other than we've ever been. Um, this idea of loneliness, you know, our surgeon general came out in mental health crisis in our country because of loneliness, where, you know, people are walking around looking at their screens. We absorb most of our information that way about the world and when there are moments for human connection. It can feel scary, especially for young people who you know, are not used to even picking up the phone to order a pizza. You know, making a phone call can be really scary for this younger generation who are so used to everything being digital and texting. So being face-to-face with a therapist can feel.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "loneliness",
+      "isolation",
+      "anxiety",
+      "fear"
+    ],
+    "agency_signals": [
+      "avoidance"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional signals (loneliness, fear) and barrier signals (social_isolation) linked to a system interaction (media), making it eligible for pattern analysis.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:20.000",
+    "timestamp_end": "0:02:05.000",
+    "paragraph_ids": [
+      "p_6",
+      "p_7",
+      "p_8"
+    ],
+    "moment_text": "Really scary, really unsafe and not having the skills. And that sort of loops back to some of the, the, the things I was talking about before about teaching mostly young people, but some adults needs to still learn too how to have a relationship. We, these are things that we don't learn in school. And so one of the examples is, you know, most kids when they come up, they get to a certain grade and they do have sex education, right? They have sex ed. And they're taught a lot of mechanics, taught a lot of like, you know, brass tacks about what to do and what goes where and what happens and all of these things. But nobody's really talking about how, do you have a conversation with your partner about physical intimacy or anything else, right, that matter? How do you make sure that you are able to speak? What your boundaries are, what you're comfortable with, how to make sure that you can recognize what other people's boundaries are. If there is a conflict, how do you get around, how do you negotiate that? And so these are are specific skills that we need to learn and continue to learn.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "education_system",
+    "emotional_signals": [],
+    "agency_signals": [
+      "speaking_up",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_information",
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment identifies clear barrier signals (education_gap, lack_of_information) within the education_system, making it eligible for pattern analysis.",
+    "risk_flags": [
+      "sexual_health"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "0:02:05.000",
+    "timestamp_end": "0:02:20.000",
+    "paragraph_ids": [
+      "p_9"
+    ],
+    "moment_text": "But you, Jo, something that you said earlier, which is, which is the skill of relationship. I mean, I know I had no idea. I came from, you know, my parents were divorced. I didn't know what a good relationship looked like. How would I know how to create a good relationship? I mean, you can try and break the cycle, but certain things are sort of, you know, intergenerational if you will.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "confusion",
+      "self_doubt"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (lack_of_information) and emotional signals (confusion) related to a family system interaction, making it eligible for pattern analysis.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a good example of an intergenerational knowledge gap."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "0:02:20.000",
+    "timestamp_end": "0:03:00.000",
+    "paragraph_ids": [
+      "p_10",
+      "p_11",
+      "p_12"
+    ],
+    "moment_text": "And so I think that, uh, I think that's a really good. Thing if you can, you know, as therapists and, and in your line of, in your space, that goes back to your prevention conversation around educating around what does a relationship look like? And then you made the reference, actually, Meredith, you said, you know, whether it's. You know, different cultures, different backgrounds, ethnicities, you know, those relationships look even different. And so how the domestic violence shows up in that way. But I'm talking about if we look at the positive side of it, how do we just show up in a relationship? And so I think you're, you're right, it is, if we could teach it to young kids, if we could teach it to adults, I mean, it's never. You know, it's never too late to change. It's hard to change, but it is not too late to understand what a good relationship, that exchange and that feeling. Comfortable back to that authenticity as well. Right?",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains a barrier signal (education_gap) and agency signal (seeking_information) within a system interaction (education_system), making it eligible for pattern analysis.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:03:00.000",
+    "timestamp_end": "0:03:35.000",
+    "paragraph_ids": [
+      "p_13",
+      "p_14",
+      "p_15"
+    ],
+    "moment_text": "Absolutely. And I'll tell you in my practice now, which you know, is unfolding in a way that is surprising in, in some ways to me having this, you know, long background in one area and then. Meeting all different kinds of people with different kinds of challenges, but the one common thread is almost everyone is coming because there's some kind of challenge in important relationship. It's always about the relationship and just like you said, whether it's a, a partner. A child, an adult child, a parent, a brother. I mean, that's what makes us human right, is how we relate to each other. And none of this happens in a vacuum. And if there is conflict or discord in one relationship, there's no way that it doesn't impact other areas of our lives. So when people come into therapy or, or seeking help or support, sometimes there isn't a specific identifiable, you know, issue that they wanna work on. And it always comes down to relationships.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "seeking_care",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains agency signals (seeking_care, seeking_support) within a healthcare_provider system interaction, making it eligible for pattern analysis.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:03:50.000",
+    "timestamp_end": "0:04:40.000",
+    "paragraph_ids": [
+      "p_18",
+      "p_19",
+      "p_20"
+    ],
+    "moment_text": "I love the language of marching. Um, for me, mental wellness, because it is. It, it's something that's ongoing, right? It's the active verb of it. It's not how did you do this? Or how it's, it's an ongoing process and it is a little bit of a trek, right? This isn't easy to do and it's something that I think we need to be deliberate about. You know, these concepts that we're trying to support other people with for ourselves, and believe me, none of us have it together. None of us have it. Right? Which is again, brings me that it's ongoing, but to be mindful. I think it is really to me, the core of what all of this is about, to be deliberate, um, to be aware. And I have learned this from my colleagues and, and mentors. You know, we can't control what happens around us. We can't, um, we can't ignore it. Uh, we can't take it on all the time, but if we can. Think about ourselves and developing ourselves to be an anchor or a lighthouse for ourselves to, to, to be able to brave the storm, I think is most important.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "calm",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 evidence gate: While there are agency signals, the system interaction is 'none', and there are no barrier signals. The moment is a personal reflection without a clear link to a systemic pattern.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Meredith",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:04:40.000",
+    "timestamp_end": "0:05:10.000",
+    "paragraph_ids": [
+      "p_21",
+      "p_22"
+    ],
+    "moment_text": "We have to look at it, we have to face it, and then we get to decide what we wanna do. So, so having choice, recognizing that pretty much everything we do is choice. This is a, a really important piece of the empowerment work. We have a saying, and you might have to bleep me out for saying this, but you know, sometimes our choices in life, the options are shitty and shittier. Right, but we're still making a choice and there there's power in that. So that's something that I personally try to remind myself and practice, and also help the clients that I work with focus on as well. You get to be in charge.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "self_advocacy"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong agency signals (making_decisions) and emotional signals (empowerment) within a healthcare_provider context, making it eligible for pattern analysis as a protective factor.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The phrase 'shitty and shittier' is a potentially powerful quote."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "0:05:10.000",
+    "timestamp_end": "0:05:45.000",
+    "paragraph_ids": [
+      "p_23",
+      "p_24",
+      "p_25"
+    ],
+    "moment_text": "There's two things that stick out with me. I love that. Um, one is the agency side of it, the empowerment. Even if the choices are shitty and shittier, you have the agency to decide which direction you wanna go in. And then the other thing that really resonates with me, and I think that doing, doing the work on self and being committed and intentional was what you suggested. And I think that's really important. And you used the word role modeling. Like how you show up. And I think, you know, when we think about it, we don't, we don't realize the impact of our behaviors and even, you know, if we're doing it as a mother, as a colleague, you know, as a therapist, of course you have to role model it. But you're right, you have to put it in practice into everyday life. We're all human. We make miss. Stakes, but if you can be intentional and thoughtful about it, I think that's really great. I love that answer to marching for mental wellness.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "empowerment",
+      "validation"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional signals (empowerment) and agency signals (making_decisions) within a community system interaction, making it eligible for pattern analysis.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "0:05:58.000",
+    "timestamp_end": "0:06:15.000",
+    "paragraph_ids": [
+      "p_29"
+    ],
+    "moment_text": "Well, thank you for that. And it's funny that you just mentioned that because I was thinking as you were describing the whole, you used the metaphor of the river, but as you were describing the whole domestic violence thing and the fact that there's so much shame attached to it and it's not talked about, I think the greatest thing we could do in this community.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "shame"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains clear barrier signals (stigma, shame_culture, silence) and agency signals (sharing_story) within a peer_community interaction, making it highly eligible for pattern analysis.",
+    "risk_flags": [
+      "violence_abuse"
+    ],
+    "notes_for_reviewer": "This is a strong concluding moment that ties personal experience (domestic violence) to the power of community storytelling."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M013",
+    "episode_id": "UTS_S4_PODCAST_015.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_015.docx",
+    "speaker_id": "Guest_Meredith",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4"
+    ],
+    "moment_text": "That's a hard one because my first instinct is to say, who am I to give a message? We all have a message. We all have something to contribute. We all have faults and uh, we all have strengths. And so, you know, I think for me, one of the most important pieces is to recognize the strength, recognize the faults, and accept acceptance. Accept what we can control. Let go of what we can't, doesn't mean we have to be happy about it. Right? Acceptance doesn't mean that you're, is not the same thing as approval, right? So we accept that this is, this is what is, and what can I do about it? How can I continue in a way that's aligned in. With my internal moral compass, with what I wanna achieve with my boundaries, that being really deliberate in how we move through the world. I think it takes work. That would be my message is to be very mindful and aware of how you move through the world and, and make choice. You get to decide. How do you move through the world?",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "self_doubt",
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries",
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (making_decisions, setting_boundaries) and emotional signals (empowerment, confidence), making it valuable for identifying protective factors and behavioral patterns.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is the guest's concluding message to the audience, a strong piece of advice that encapsulates themes of acceptance and personal agency."
+  }
+]

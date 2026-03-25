@@ -1,0 +1,97 @@
+locks_version: v1.0
+name: insight_report_auto_assembly_rules
+principle: "Narrative first, evidence always."
+
+minimum_viable_report:
+  min_insights_total: 5
+  min_high_confidence: 3
+  min_life_stages_covered: 2
+  require_at_least_one_type_any_of: [relational_pattern, protective_factor]
+
+canonical_section_order:
+  - Cover & Framing
+  - Executive Summary
+  - Why This Moment Matters
+  - Key Insights
+  - Life-Stage Patterns
+  - Quotes That Stay With Us
+  - From Voice to Action
+  - What Comes Next
+  - Methodology & Guardrails
+
+executive_summary:
+  select_insights_count_range: [3, 5]
+  priority_order:
+    - confidence_level
+    - episode_coverage
+    - life_stage_coverage
+    - insight_type_mix
+  constraints:
+    one_sentence_each: true
+    no_quotes: true
+    no_statistics: true
+    no_recommendations: true
+
+why_this_moment_matters:
+  include_insights_count_range: [1, 2]
+  require_system_level_focus: true
+  min_cluster_coherence: 0.70
+  constraints:
+    include_why_it_matters_only: true
+    no_ctas: true
+
+key_insights:
+  include_all_promoted: true
+  ordering:
+    - confidence_level
+    - narrative_flow_problem_to_opportunity
+  per_insight_block_order:
+    - Insight Title
+    - Insight Statement
+    - Why It Matters
+    - Supporting Evidence Summary
+    - Quotes (Primary, optional Secondary)
+  quote_limits:
+    max_quotes_per_insight: 2
+
+life_stage_patterns:
+  include_only_if:
+    covers_min_life_stages: 2
+    or_explicit_transition_focus: true
+  headers:
+    - Adolescence
+    - Reproductive Years
+    - Menopause Transition
+    - Post-Menopause & Aging
+  constraint:
+    insight_appears_once_in_section: true
+
+quotes_that_stay:
+  select_quotes_total_range: [4, 6]
+  min_distinct_episodes: 3
+  min_distinct_speaker_roles: 2
+  constraints:
+    verbatim_only: true
+    minimal_attribution: true
+    no_interpretation_text: true
+
+from_voice_to_action:
+  source_field: suggested_calls_to_action
+  max_headers: 3
+  constraints:
+    non_directive_language: true
+    empowering_tone: true
+
+what_comes_next:
+  allowed_sources:
+    - emerging_pool
+    - clustering_gaps
+    - future_questions
+  tone: invitational
+
+methodology_guardrails_required: true
+
+auto_stop_conditions:
+  - contradictory_insights_without_editor_resolution
+  - missing_quote_approvals
+  - skewed_confidence_distribution_all_emerging

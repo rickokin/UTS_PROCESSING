@@ -1,0 +1,1331 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy Burrows Gardner",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:02:01",
+    "timestamp_end": "00:02:50",
+    "paragraph_ids": [
+      "p9",
+      "p10",
+      "p11"
+    ],
+    "moment_text": "Sure. You know, I think about this question a lot because I always wonder how did I end up here? When I first went to medical school, I thought I was going to be an OB GYN, right? I was really excited about women's health. And that's what I was going to do until I realized that OBGYNs are surgeons and I had no place in an operating role, no role there. So I said, okay, that that's clearly not the path for me. And so I was doing my different clinical rotations and they were all exciting, but I was trying to figure out what spoke to me. And then I did an adolescent medicine rotation under my pediatrics and I said, this is great. Oh my gosh, teenagers, they're so much fun. I love this. And I was prepared to apply to pediatrics. And then I realized while I loved working with the teens, pediatrics really didn't speak to me either. So I said, okay, well what is it that I love? What is it about these, these disciplines that has the common thread? And I realized what I enjoyed was the psychosocial elements, the being able to get in there and work with people and really see what was going on in their minds and their hearts and their homes. And it clicked. Psychiatry and I, I've been on that path ever since, and I love it. I absolutely love it.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Career Development",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "clarity",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional signals (clarity) and a system interaction (medical_training).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy Burrows Gardner",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:03:03",
+    "timestamp_end": "00:04:20",
+    "paragraph_ids": [
+      "p13",
+      "p14",
+      "p15"
+    ],
+    "moment_text": "So you go into psychiatry, talk about that journey, um, into that part of your medical training. There's always a little bit of, in the field of medicine, our psychiatrist, real doctors are, is it real medicine? It is. It is very much real medicine. But I, I navigated through some of that. Fortunately, I had a good foundational experience with mental health and psychology even before I got to medical school. Right. My Aunt Dale was one of the first licensed psychologists in the state of California, and you know, I saw her doing the work that she did. So mental health. Was something that was not foreign to me. I had great classes in medical school and then my residency, oh my gosh, university of Maryland, shepherd Pratt is an amazing program for the development of community psychiatrists. Other, other specialty too, too within psychiatry, but absolutely within community psychiatry. And I was fortunate enough to work with some great attendings that helped me fall in love with community, which is interesting 'cause when I first started my residency, I thought I was going to be a psycho analysts. I thought I was going to have this beautiful office in Towson, Maryland, which is one of the suburbs in Baltimore. And I was going to do deep analytic work because again, what I liked about this was getting really deep into the lives of people. But my first rotation in our, one of our state psychiatric hospitals, Carter Centers called Carter Center, it's now closed, helped me to see that there were individuals with severe mental illness in very difficult life circumstances that also had very rich stories. And that the work we did and do, because I still consider myself a community psychiatrist. The work that we did was just life changing. It was absolutely life changing, and I fell in love, fell in love with community psychiatry, and that was what the vast majority of my career was until recently.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Career Development",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "connection",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains a barrier signal (stigma).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy Burrows Gardner",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:04:35",
+    "timestamp_end": "00:05:21",
+    "paragraph_ids": [
+      "p17",
+      "p18"
+    ],
+    "moment_text": "And so lemme, I guess, do a little bit of definition first, because a lot of people may not know what we mean when we say community psychiatry. My understanding of community psychiatry is working with people, many of whom have severe and persistent mental illness. Things like schizophrenia, bipolar disorder, very severe depressions, so individuals with severe, severe and persistent mental illness that are living often in complicated social environments. Right. Urban environments, impoverished environments. So you have the marriage of the complexity of mental illness, which we are still learning about, and the complexity of social factors and, and what a community psychiatrist does is we try to get in there and say, okay, how can I help this person live their best life with the much, as much joy and happiness as they can have given the factors at play? Right. So as a senior psychiatrist, it's not necessarily. My goal to eliminate all of the symptoms, lemme not say that it is my goal. It is my goal. It may not always be possible, but that doesn't mean that people can't have wonderful joy and fulfillment and and enriching lives.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 evidence gate: This moment is primarily definitional/educational and lacks a strong, explicit personal barrier, agency, or emotional signal from the speaker's own experience.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy Burrows Gardner",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:05:21",
+    "timestamp_end": "00:06:11",
+    "paragraph_ids": [
+      "p19",
+      "p20"
+    ],
+    "moment_text": "So as a community psychiatrist, that's always been my mission and I've done that in various ways. I've done assertive community treatment work, which is kind of like a hospital without walls. It's a team with nurses and peer support, so people with lived experience and therapists and supported employment workers. And we all just get out there in the community. Working with people, you know, chicken coops in the middle of the woods, Baltimore Blue Lights where the police are you, that, that's the kind of setting that we practiced in. So it, it was just great. You really were meeting people where they were and when you meet people where they are, which is interesting because that's translated into other parts of my career. When you meet people where they are, you learn so much more about them and you get to figure out how can I help them? Coming into an office is great, it's wonderful, but when I can go into somebody's home and really. Understand who they are as a person, then I can make a difference, and then I'm practicing psychiatry at the highest level.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "connection",
+      "empowerment"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional signals (connection, empowerment) and a system interaction (healthcare_provider).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker describes the barriers her patients face (access, difficult environments), but from her perspective, the moment is about the empowerment of her care model, not her encountering a barrier."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy Burrows Gardner",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:06:30",
+    "timestamp_end": "00:07:20",
+    "paragraph_ids": [
+      "p22",
+      "p23"
+    ],
+    "moment_text": "And, you know, it's a false, um, separation to say, you know, we've got individuals with illness and then there's these systems issues. They are so interwoven. And in the beginning of my career, I worked at healthcare for the homeless in Baltimore City, which is a great shout out to healthcare for the homeless. And what I learned in that setting was we had two types of individuals. One group who had just that kind of organic, severe mental illness that helped lead to their disenfranchisement. But then we also have people who were disenfranchised that the disenfranchisement led to mental illness and mental health concerns, and so they're so interwoven. If you have people living in poverty and you have people with limited or no social supports and you have people without access to resources or, or self-efficacy, it's, it's almost a given that they're going to be depressed. That they're going to be anxious, that they're going to have panic attacks, that they're going to have what we like to call mood swings, which is a whole array of different things.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "anxiety",
+      "hopelessness"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "social_isolation",
+      "access_barrier",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains multiple barrier signals (social_isolation, access_barrier) and describes their direct impact on mental health.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:10.000",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "It's, it's almost expected. And so until, and this is part of the reason why I like going into the homes, because until we start to address the systems issues, or at least acknowledge that the systems issues are there, we are not fully assessing or addressing the concerns of our patients. And you're right.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fragmented_care",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by identifying multiple barrier signals (fragmented_care, system_navigation_difficulty) within a healthcare_provider system interaction, indicating a potential systemic pattern.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:18.000",
+    "timestamp_end": "0:00:30.000",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "It's very difficult work to do if you're trying to do it as a solo practitioner, and I've tried it that way. It's very challenging 'cause you need the team for a couple different reasons. Number one, the mental illness is not just all organic or neurotransmitter based. So there's no magical medication that if I can give this person the Zyprexa, it's gonna make a difference.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fragmented_care",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by identifying barrier signals (fragmented_care, training_gap) that point to a systemic pattern in how mental healthcare is structured and delivered.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:36.000",
+    "timestamp_end": "0:00:58.000",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "We need the supportive employment because what we know about individuals with severe mental illness is that it's often not the mental illness that prevents them from working. It's the not having a, not kind of knowing how to work. You know, you have to clock in, you have to be there on time. You have to wear a uniform. So knowing how to work and then just having the necessary support. Great jobs. One of my favorite patients got employee of the month several times at Johns Hopkins, and he was very ill. He and his wife were both very ill, but with the supports of the team, he was able to maintain a job and do it at a level that got an employee of the month.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with barrier, agency, and emotional signals within a workplace system interaction, highlighting a potential protective factor (supportive employment).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:00.000",
+    "timestamp_end": "0:01:25.000",
+    "paragraph_ids": [
+      "p7",
+      "p8",
+      "p9"
+    ],
+    "moment_text": "It used to be, and I know I'm going down a tangent with this, but it used to be thought that if you have schizophrenia, you will never be able to do anything. You'll never be able to do anything. Just sit in the corner and die, essentially. Well, then we got past that. We said, well, maybe you can work. We'll put you in a place where you can put things in the, in the little bucket, in the little bubble. Right that are in the little toy machines, and you just sit and you put things in the bubbles, and that's the best you can get out of life. Well, what we know is that there's no hope that, of course, you're never going to get any better. You're never gonna have any life fulfillment and enjoyment. Well, now we learn. No, no, no, no. People with severe mental illness are still intelligent. They're not stupid. They just need added support. So when we add those added supports, wonderful things can happen.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hopelessness",
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_validation",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong barrier signals (stigma, lack_of_validation) and emotional signals, describing a systemic pattern related to historical and evolving views of severe mental illness in healthcare.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:32.000",
+    "timestamp_end": "0:01:42.000",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "You were asking how we do this work. So you have to have teams, teams around you to make sure that you're addressing everything, the whole entirety of the person, and to support each other while you're doing it. You need somebody to lean on. This is tough work. It's heavy work. So having a team around you and then paying attention.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "overwhelm",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with barrier, agency, and emotional signals within a peer_community interaction, identifying a protective factor (team support) for clinicians.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:43.000",
+    "timestamp_end": "0:01:58.000",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "So I had to pay attention to myself. Was I getting burnt out? Did I need a break? Were my interest shifting what was going on with me or what is going on with me so that I can always bring my best to the work that I do? And I still do community work. I work in several shelters. In one of the counties right outside of Washington, dc. Um, but that is after I diversified my practice work to give my, give me a little bit more diversity in the work that I was doing so that I could do that community work and that burnout.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with agency and emotional signals within a workplace system interaction, describing a behavioral pattern for managing professional burnout.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:02:03.000",
+    "timestamp_end": "0:02:50.000",
+    "paragraph_ids": [
+      "p14",
+      "p15",
+      "p16",
+      "p17"
+    ],
+    "moment_text": "Yeah. So in addition of course to practicing community psychiatry, I found myself in a position where I own, still do and run a practice. I, I was the medical director. My, my predecessor passed away and the family said, look, Tracy, can you take this on and continue to do the work? And I said, sure, why not? I figure I could do it. I had no idea how to run a business. I've learned. So in that process though, we've had to make shifts and changes and so. We went from being almost an exclusive community mental health center to diversifying into more kind of high functioning, quote unquote, worried. Well, and I use that with quotations because I don't really like the phrase, but I have to be able to differentiate from the prior work that we've been doing. And in doing that, I started working with women who reminded me of my friends, of my family, and of myself, and that opened up an entirely new passion. I still have the compassion, uh, the, the passion for community work. It's still there, but this opened up a whole nother wow, I can really do some cool stuff with that. And I think it coincided with my own beginning of burnout journey. So I was seeing in then what I was experiencing in myself. And so I said, huh, what if I could use my background as a psychiatrist to help people in ways that maybe Prozac or traditional psychotherapy. Can't do. So that is how I've ended up in this new realm of urban wellness society and doing work with life goals, helping high achieving women achieve their life goals, looking at barriers that are blocking that life goal achievement, and how to help them achieve the highest level of life, joy and satisfaction, really the same thing that I do in my community work, right? It's all about life, joy, and satisfaction in the context of whatever your life circumstances are. So really the same type of work, just two different groups of people.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "overwhelm",
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with agency and emotional signals tied to a workplace system interaction, detailing a behavioral pattern of professional adaptation and innovation.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": "Risk flag 'grief_loss' is for the mention of the predecessor passing away."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:02:54.000",
+    "timestamp_end": "0:03:25.000",
+    "paragraph_ids": [
+      "p19",
+      "p20",
+      "p21"
+    ],
+    "moment_text": "Absolutely. So one of the commonalities that I see between both groups of people is that they are groups that are often ignored and their needs are often overlooked. So that's really the common thread that I see and both groups, and I'm really just kinda thinking about this as we're talking about it. Both groups are doing their best just to make it through the day. They're just doing their best to make it through the day in, in environments that are often not, um, understanding or forgiving or accommodating of what their stressors or needs are. So that's one of the commonalities that I see between the two groups. Now, of course, on paper they look very different, right? Socioeconomic differences and severity of illness differences are, are quite there. And of course they make life. Easier or harder, depending on the arena that you're in. But I feel like the skills that I have translate very easily because again, these are people who are in me, who are struggling, who are trying their best, they're trying to figure it out and are often being ignored or misunderstood.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "isolation",
+      "frustration"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong barrier signals (lack_of_validation) and emotional signals, identifying a systemic pattern of patient needs being overlooked across different populations.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:03:38.000",
+    "timestamp_end": "0:04:20.000",
+    "paragraph_ids": [
+      "p23",
+      "p24",
+      "p25"
+    ],
+    "moment_text": "And you know, I think the common goal for both of them is every, and not just them, for all of us, everybody wants to be found. We just want to be happy. We just want life joy. You know, I, um, as part of, again, trying to learn how to be a business owner, I was fortunate enough to, uh, participate in the Goldman Sachs, uh, 10,000 K small business program. It was amazing. Highly recommend. But there was a part where we were talking about how to negotiate, how to enter into negotiations, and I'm very conflict averse, so the whole idea of made me anxious, but our facilitator said almost everybody has the same goal. You know, everyone has the same goal. They may go at it in a different way, but everyone has the same goal. She said, look at, if you were to talk to anybody, they would say they want to have a comfortable, a happy home. They want their children to be healthy and happy. They want their families to be healthy and happy. They want to be fed. Everyone has the same core goals, so when I think about these two groups, everyone just wants to be happy. And so the, the goal with both of these patients, whether I'm working with someone in a men's shelter or I'm working with someone who's meeting with me on her lunch break before she has to go into an executive meeting, what is your, what does happy look like for you?",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with emotional signals (hope, connection) tied to a healthcare system interaction, identifying a potential protective factor or relational pattern in patient care.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:33.000",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "And how do we get you there? How do we get you there? It may be medication, could be, it may be intense psychotherapy. It may be more social activities with your friends. You know, the substance abuse and mental health services administration, and they aren't the only ones that have done this, but I learned about it through them, has something called the Eight Dimensions of Wellness. And the whole concept is if you attend to these eight dimensions in your life, you can help your self achieve joy and happiness and love satisfaction. There are things like social, spiritual, economic, environmental, educational, et cetera. And so it makes sense to me. So of course it was first used with people with severe mental illness, but it translates so easily.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with agency signals (making_decisions) and emotional signals (hope) within a healthcare_provider context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:34.000",
+    "timestamp_end": "0:01:01.000",
+    "paragraph_ids": [
+      "p3",
+      "p4"
+    ],
+    "moment_text": "I've done it myself. I have a spreadsheet because little known sleeping about Tracy. I love good Excel spreadsheet. I have a spreadsheet myself where I have my eight dimensions and I say, what are my global goals for each dimension? And I kind of check in with myself periodically. If I'm having a week or a couple weeks where I'm not, my mood isn't great. I'm really kind of in the dumps, okay, did I attend to my, what dimension haven't I been attending to, and what do I need to do to help lift myself up? Um, I feel like I'm going thrown in circles a little bit, trying to answer the question.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "sadness"
+    ],
+    "agency_signals": [
+      "tracking_symptoms",
+      "making_decisions",
+      "asking_questions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with agency signals (tracking_symptoms, making_decisions) demonstrating a personal wellness strategy.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:02.000",
+    "timestamp_end": "0:01:42.000",
+    "paragraph_ids": [
+      "p5",
+      "p6",
+      "p7",
+      "p8"
+    ],
+    "moment_text": "But what I think is interesting about it, Tracy, as you started talking about everybody just wants to have food, shelter, I started thinking of Maslow's Hierarchy of Needs and I is Happy Self-actualization. I don't think so, but in some, you know what I'm saying? But, but happy is, is feeling like those base level things are being, you know, when you have that. Core level stuff, a sense of security and safety. Right. And I'm not talking just physical. Right, right, right. And it's interesting, and I'm, I'm learning this as I'm working more with my, my clients kind of in both realms. Sometimes the block to happiness is the lack of belief that you deserve patents. And I see that with both sets of my patients. I see that with my high functioning women because somehow throughout childhood, they learn that if they don't do X, Y, and Z, they haven't earned the right to happiness. So they're constantly grinding, grinding, grinding on this hamster world, trying to earn the right to breathe and be happy. So I see that with them.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "self_doubt",
+      "hopelessness"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with a clear barrier signal (lack_of_validation) observed within a clinical (healthcare_provider) context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is observing a pattern in her patients, making this a system_observation. The host initiates the conversation but Dr. Tracy provides the core insight."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:43.000",
+    "timestamp_end": "0:02:14.000",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "But then with my kind of community population, again, false distinction, but my community population, society has told them, well, you've got schizophrenia and you're poor. You don't deserve to be happy. You deserve whatever you get. And so sometimes it's starting with just understanding or allowing the individual to embrace you deserve to be happy. You, you do. And then we can figure out how to get to there. Nobody signs up for it. Nobody signs up to have schizophrenia, to have depression. Nobody wants that. So it's like for anyone on the system, community, whatever level, to think that it's just, it's just, you know. Which by the way, I know that, that it is thought of, but it's just horrifying to hear it, you know?",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "hopelessness",
+      "shame",
+      "anger"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong barrier signals (stigma, lack_of_validation) and emotional signals (anger) in a community context.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:02:15.000",
+    "timestamp_end": "0:02:43.000",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "I chuckle because it's, it's been in my head probably since at least 2017. That's when I found the earliest PowerPoint presentation, probably further back than that. Um, because I also like PowerPoint presentation. I'm a Microsoft Office girl apparently. Together my PowerPoint presentation, and I've been sitting on this idea for years and for all the various reasons I didn't feel like I could do it. I wasn't qualified. I had no idea what I was doing. I'm a psychiatrist, that's all I am.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Career Development",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "self_doubt",
+      "frustration"
+    ],
+    "agency_signals": [
+      "silence",
+      "avoidance"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with clear emotional signals (self_doubt) and agency signals (avoidance) related to a professional barrier.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:02:44.000",
+    "timestamp_end": "0:03:12.000",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "And then finally I reached the point where I was sick and tired of how I was feeling. I was so burnt out and, and I couldn't understand because I love community psychiatry. I love my patients, I love what I do, but I was so burnt out and I said, okay, Tracy. What does happy look like? The same thing that I tell my pa, what does happy look like? What do you need? What do you want to do? And the idea of this wellness, wellness, wellness, I was like, oh, sure, you wanna do that? I do. You know what you're doing with that? And I finally, you know, through, through stepping out on fate. Stepped out there and I've started launching these activities and, and they've been going great.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Burnout",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "overwhelm",
+      "frustration",
+      "confusion"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "asking_questions",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong emotional signals (overwhelm, frustration) and agency signals (self_advocacy) marking a personal turning point related to burnout.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:03:13.000",
+    "timestamp_end": "0:03:36.000",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "I had a handful of my personal patients that I said, Hey guys, you know, I'm trying this new kind of modality where I'm working with people. Would you might, would you be interested? And they all, yes, sign me up, please. I'll be your test dummy. We'll learn together. So that's been great. Um, we're cultivating with a community partner and cocktails and conversations with Dr. Tracy, where we talk about some of these topics and themes, imposter syndrome, joy, happiness, life balance, those types of things.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with emotional signals (validation) and agency signals (seeking_support) in a peer_community context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:03:37.000",
+    "timestamp_end": "0:04:18.000",
+    "paragraph_ids": [
+      "p17",
+      "p18",
+      "p19"
+    ],
+    "moment_text": "We are going to start launching social activities, and that was the one I struggled with the most because I said, I'm a psychiatrist. Why on earth am I trying to. Have social events. That's not what a psychiatrist does. But then it made sense through conversations, through listening to podcasts and talking to experts that one of the best things we can do to help people's mental health and wellness is to give them community and socialization. So it makes perfect sense for a psychiatrist. To do social activities and social events. So we're going to be launching those. And then just some kind of more general educational stress reduction, because we all have stress. We may not all get to burnout, but we all experience stress, so how do we navigate through that? So those are some of the things that Urban Wellness Society is doing right now.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "self_doubt",
+      "clarity",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "training_gap",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with a clear barrier signal (training_gap) and emotional signal (self_doubt) related to professional identity and medical_training.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The moment shows a clinician overcoming the perceived limitations of her professional training and role."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "educator",
+    "timestamp_start": "0:04:19.000",
+    "timestamp_end": "0:04:56.000",
+    "paragraph_ids": [
+      "p20",
+      "p21",
+      "p22"
+    ],
+    "moment_text": "I just love it. And congratulations, by the way. Good, good on you for taking that opportunity to branch out. I think when we talked before, you had mentioned in this particular case, you can work across, is there gonna be virtual opportunities? I think I might have someone for you. So that's, that's the cool thing. So if you've earned behavior as of course, that's my medical practice, that's where my medical license is based in house because I'm doing clinical. Diagnosis based work. And so I am licensed to practice in Maryland, the District of Columbia and Virginia. Currently now what Urban Wellness Society is doing is not diagnosis based, right? So it's not clinical practice, it's not medical work, so that can go across state learning. So yes, I, I can do that work in a lot of different arenas and in a lot of different ways. And I have people doing work with me in, in that, in that setting. So that's in development, but it's so exciting. I'm so jazzed by it.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Healthcare Systems",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with a barrier signal (system_navigation_difficulty) related to medical licensing and an emotional signal (hope) in a healthcare_provider context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is explaining how she navigates the barrier of state-based medical licensing to expand access to her wellness services."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:04:57.000",
+    "timestamp_end": "0:05:28.000",
+    "paragraph_ids": [
+      "p23",
+      "p24"
+    ],
+    "moment_text": "So we're starting off with it in person, but honestly it absolutely can translate to virtual it. Absolutely. We did it during COVID, right? We did. We did it during the pandemic. It absolutely can translate to co, uh, to virtual. And what that will allow us to do is exactly what you all are talking about, that community, not just, okay, everyone kind of socializing, spending time together, but it's really allowing women and people to build community. And community is a protective factor. Communities, a protective factor from trauma, from depression, anxiety, community because we're social creatures. We're communal preaching by nature.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "belonging",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with a clear barrier signal (social_isolation) and agency signal (seeking_support) within a peer_community context.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:05:29.000",
+    "timestamp_end": "0:06:04.000",
+    "paragraph_ids": [
+      "p25",
+      "p26"
+    ],
+    "moment_text": "I am of course in the, what we call the DMV, the DC Maryland, Virginia area. So we are right outside of the nation's capital. A lot of the patients I work with, a lot of my friends and family are federal employees, and so we're, everyone's feeling it hard, but absolutely. In the circles that I'm in, it's, it's, everything's hitting their hard right now, and the, the stressor for all of this is the unknown. No one really knows what direction things are going to go in. So when you don't know, it's hard to prepare. And when you can't prepare, you are floundering.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "anxiety",
+      "fear",
+      "overwhelm"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong emotional signals (anxiety, fear) and a barrier signal (lack_of_information) in a community context.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M012",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:06:05.000",
+    "timestamp_end": "0:06:29.000",
+    "paragraph_ids": [
+      "p27",
+      "p28"
+    ],
+    "moment_text": "And that's what I'm saying. People are scared, people are anxious, people are trying to prepare as best they can for something that we just don't know. And everyone's coming out and, but my patients are coming to me and saying, Dr. Burs, Dr. Tracy, what am I supposed to do about this? Do I need more medicine? Am I going crazy? What's going on? So first I reassure you are having a perfectly normal response to a very abnormal situation, perfectly normal response. And that's just again, to normalize that no one, no one's losing their mind. This is a normal response.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Anxiety",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "anxiety",
+      "validation"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong emotional signals (fear, anxiety), agency signals (seeking_care), and a direct counter to a barrier (lack_of_validation) in a healthcare_provider context.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M013",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "Dr. Tracy",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:06:30.000",
+    "timestamp_end": "0:06:51.000",
+    "paragraph_ids": [
+      "p29",
+      "p30"
+    ],
+    "moment_text": "What do I do about it? Lean into your community. Lean into your community. Lean into your community. You know, when this first started the case, many cultures, I went back to the elders, you know, my, my aunts and uncles. What am I supposed to do about this? What's supposed to happen? They've seen these types of things, right? They were in the sixties and they've seen these types of things, and everyone said, community, we rely on each other.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "connection",
+      "trust"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong agency signals (seeking_support) and emotional signals (hope, connection) within a peer_community and family context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier of social_isolation is implied as the problem that leaning into community solves."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:13.000",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "To get through this. We've gotten through this before. We can get through this again. So I tell my patients, rely on the community. And if you don't feel like you have that community, because not everyone is less fortunate enough to have it, now's the time to start developing them. Reaching out to people or events or activities of like-minded people.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier, agency, and emotional signals, and a system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:15.000",
+    "timestamp_end": "0:00:26.000",
+    "paragraph_ids": [
+      "p2"
+    ],
+    "moment_text": "Develop the community. The second thing is trust in your own decision making. Trust in neuro decision making. I said to, I've said this actually to several patients and it's the mantra I learned by that I have enough faith in my ability to make decisions that when I get credible information, I know that I will act accordingly and do what I need to do.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "confidence",
+      "trust",
+      "calm"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency signals (making_decisions).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:28.000",
+    "timestamp_end": "0:00:36.000",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "And that helps keep the anxieties that they and bad. So those are the things that I'm advising my patients of. Lean into your community trust in neuro decision, and whatever your faith system is, lean into that. And we know that the level of anxiety, Andre, everything's at an all time high. So I get it.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "anxiety",
+      "hope",
+      "validation"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional and agency signals, and a system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:44.000",
+    "timestamp_end": "0:00:55.000",
+    "paragraph_ids": [
+      "p5"
+    ],
+    "moment_text": "So I'm marching for mental health by again, identifying where am I standing and how do I get to happen and, and charting my course to get to happy, and then modeling that. And helping develop a system for my patients to be able to have the same journey, so that way we're all marching to mental health and wellness together as a community.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "empowerment",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional and agency signals, and a system interaction (healthcare_provider).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:08.000",
+    "timestamp_end": "0:01:30.000",
+    "paragraph_ids": [
+      "p8",
+      "p9"
+    ],
+    "moment_text": "Overarching, trying to develop a life with overarching happiness, recognizing that yes, we're going, that sadness is normal, and I have to sometimes tell people that it's normal to be sad when we lose a loved one. It's normal to be sad anger. It is normal. Many of us are angry at what we see happening in our country, in our world right now. That's normal anxiety. Is normal, right? These things are all normal, but the goal is to have an overarching life picture of joy and happiness. And so how do we get there? And then how do we develop the resilience to be able to weather the sad times, the angry times, the anxious times so that it doesn't pull us out?",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "validation",
+      "sadness",
+      "anger",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier, agency, and emotional signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is validating that negative emotions are normal, which pushes back against the stigma of feeling anything other than happy."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:38.000",
+    "timestamp_end": "0:02:05.000",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "And sometimes it's the small joys. We're getting ready for Easter brunch. You know, it's Easter. It's a big time of year, and we have all of our friends and family coming over on Sunday, and we're going to have a wonderful brunch, and that's a spot of joy. Now, it's also a spot of stress because we're getting the house ready, but even in that later this afternoon, I'm meeting a girlfriend for margaritas and Mexican food, and that's the spot of joy. So it's finding the happy spots and allowing yourself permission. To have the happy spots. And again, especially with women, we, we feel like, well, no I shouldn't, I should be working harder. I should be doing more. I should, no, I shouldn't go meet my friend from margaritas. I should really be mopping the floor. I should, the floor will be there tomorrow. It'll be okay. We'll have the mar so it finding those bubbles of Jordan, I love the way that you said those bubbles of joy. If you can't live in a joy landscape at this moment, find the bubbles of joy.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "hope",
+      "relief"
+    ],
+    "agency_signals": [
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier, agency, and emotional signals, and a system interaction (family).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier signal 'stigma' refers to the internal and external pressure on women to always be productive (the 'shoulds'), which can prevent them from seeking joy."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:02:18.000",
+    "timestamp_end": "0:02:36.000",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "One of my first conversations that we're planning is take the S off your chest, letting go of the superwoman syndrome and how embracing that S is really. Blocking us from having joy. And then there are some things, look at what about the S? What does it represent? Why are we keeping it? So there's a lot of things to look at. And I was talking with somebody else and I said, this is what I love about younger women who are very quick to say, I'm, I'm not doing this, I'm not doing that. And I applaud them for it. I applaud them for it. Um. So it's encouraging to see what the next generation of women in that regards our next generation is saying.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier, agency, and emotional signals, and a system interaction (community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The 'superwoman syndrome' is identified as a key barrier (stigma) that blocks joy."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:02:56.000",
+    "timestamp_end": "0:03:13.000",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "I think that's kind of interesting as well, because I think just the notion of the portfolio career concept promotes mental wellness. I don't have to be locked in to this. I can, I can use my gifts and my talent in multiple different ways and as the tide shift. I can adjust and adapt and not feel like, again, the struggle I had. I'm a psychiatrist and this is, this is what I do and I have to do it this way, where a younger version of me might've said, might've come to the conclusion I came to a long time ago.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "hope",
+      "relief",
+      "frustration"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier, agency, and emotional signals, and a system interaction (workplace).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker reflects on the rigidity of her past career path ('the struggle I had') as a barrier, contrasting it with the more flexible 'portfolio career' concept."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:03:20.000",
+    "timestamp_end": "0:03:32.000",
+    "paragraph_ids": [
+      "p19"
+    ],
+    "moment_text": "I would say first there's a couple different things. You're not alone. Whatever you're feeling and experiencing, whatever your circumstances may be, you are not alone. Okay? Even if there's no one around you, trust, you're not alone. And it's okay to say, you know what? I need a little bit of help, need a little bit of support. It's okay to express your needs. And then it's okay to figure out how to get them next.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection",
+      "empowerment",
+      "loneliness"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "silence",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier, agency, and emotional signals, and a system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_018.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_018.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:03:32.000",
+    "timestamp_end": "0:03:44.000",
+    "paragraph_ids": [
+      "p20"
+    ],
+    "moment_text": "It's that I just wanna give women permission to be, and it's okay. It's okay to be, and there are other women out there like you and, and, and not just women. You know, I, if my husband were here, he'd say, I'm Kayla too. Yes, there are wonderful men that care as well. But find your community, find your tribe, find your supports. And it's, it's a okay, you have, you have permission.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "empowerment",
+      "belonging",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional and agency signals, and a system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

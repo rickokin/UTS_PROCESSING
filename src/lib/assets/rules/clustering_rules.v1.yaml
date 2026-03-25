@@ -1,0 +1,70 @@
+locks_version: v1.0
+name: insight_clustering_rules
+principle: "Clusters are built around shared signals + shared context, not keywords."
+
+allowed_moments:
+  require_insight_eligible: true
+  require_evidence_gate: true
+
+moment_membership:
+  max_clusters_per_moment: 2
+  membership_types: [primary, secondary]
+
+similarity_drivers:
+  primary:
+    - barrier_signals_overlap
+    - agency_signals_overlap
+    - system_interaction_match
+  secondary:
+    - life_stage_match
+    - emotional_signals_overlap
+    - health_domain_proximity
+  forbidden:
+    - keyword_overlap_only
+    - sentiment_only
+    - ad_hoc_topics
+
+seeding:
+  min_seed_moments: 2
+  min_distinct_episodes: 2
+  required_shared_any_of:
+    - barrier_signals
+    - agency_signals
+
+growth:
+  require_match:
+    - dominant_barrier_or_agency: true
+    - and_system_interaction_or_life_stage: true
+
+dominant_signature:
+  threshold_pct: 0.60
+
+episode_dominance_cap_pct: 0.50
+
+merge_rules:
+  merge_if:
+    same_dominant_barrier: true
+    same_system_interaction: true
+    min_episode_overlap: 2
+
+split_rules:
+  triggers:
+    S1_dual_signature_conflict_pct_range: [0.40, 0.60]
+    S2_multi_context_incoherence_max_system_interactions_without_dominant: 2
+    S3_life_stage_incoherence_min_stages_without_cross_stage_narrative: 4
+  split_priority_order:
+    - barrier_signals
+    - system_interaction
+    - life_stage
+    - agency_signals
+
+cluster_size:
+  max_moments: 15
+  min_moments_to_persist: 4
+  min_distinct_episodes_to_persist: 2
+
+coherence_score:
+  definition: "Share dominant barrier AND dominant system_interaction (or dominant life_stage if system_interaction is none)"
+  bands:
+    strong_min: 0.70
+    acceptable_min: 0.60

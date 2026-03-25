@@ -1,0 +1,997 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Jean Blasberg",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:02:13",
+    "timestamp_end": "00:02:51",
+    "paragraph_ids": [
+      "p_0005"
+    ],
+    "moment_text": "I have been affected by family members who had struggled with mental health issues, particularly my mother was bipolar and she was an alcoholic. That was a part of my life since I can remember a painful part. I mean, my mother was amazing. She was like the brightest, funnest, nobody loved. As fiercely as my mother, but she just really struggled and so her struggles in some way. Uh, I'm an only child and the. Kind of the closeness we shared. I think, you know, you end up carrying some of that burden for a parent. You are raised in a situation that you don't really know is abnormal and dysfunctional until you become an adult and you hear about how other people were raised, so.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness",
+      "isolation",
+      "confusion"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains barrier signals (lack_of_validation) and emotional signals (sadness, isolation) within a family system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker is describing her childhood, so 'adolescence' is the most appropriate life stage."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Jean Blasberg",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:02:53",
+    "timestamp_end": "00:04:08",
+    "paragraph_ids": [
+      "p_0006"
+    ],
+    "moment_text": "I'd say in my teen and college years, I definitely struggled with issues, control issues, a lot of things that adult children of alcoholics struggle with. It manifested as an eating disorder and other things in me in my life. But then as I got older in my mother's situation became more dire, and at that time I was a young mother and a wife. I really started seeking more support and more therapy for. Trying to navigate my way through this. I mean, the worst thing that can happen, I think for a child of an addict is to become an addict themselves. And that's just such a prevalent pattern. And if you don't become an addict yourself, you sometimes marry an addict or you participate in addictive personality of some sort. So I've always been super aware of that being my predisposition, and I think I've always warned my children that this is something that could skip a generation. And so I think I've just been very vocal with my own kids and sort of, I don't wanna act like I've always been on top of it, but I always know I sort of need. A little extra coaching or help. Sometimes I don't trust what my feelings are. I don't trust my intuition because for so long as a child, I was sort of told, no, everything's fine. Your mother's not an alcoholic. Like every, she's just an, you know. So anyway, I just always need to know whether I'm perceiving things correctly.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "self_doubt",
+      "confusion",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_care",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "symptoms_normalized_without_context",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains strong barrier signals (lack_of_validation) and agency signals (seeking_support) within a family system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment spans from her teen years to being a young mother, making 'cross_life_stage' appropriate."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Jean Blasberg",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:04:08",
+    "timestamp_end": "00:04:28",
+    "paragraph_ids": [
+      "p_0007"
+    ],
+    "moment_text": "Elizabeth that there's like an absolute moment, but there definitely been moments where I'm just so determined this chain of unhealthy mental illness, to the extent I can control it will end with my mother and not be. Passed down any further. So that might have been when I had my own little kids and my mother's life was coming to an end.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains strong agency signals (making_decisions, setting_boundaries) within a family system interaction, representing a clear turning point.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "00:04:30",
+    "timestamp_end": "00:04:53",
+    "paragraph_ids": [
+      "p_0008"
+    ],
+    "moment_text": "Um, my heart is heavy for you right now. That's a lot. It's a lot to hold and I actually share a lot in common. Not alcoholic, but bipolar. And I think that you navigating that as an only child is a lot. And so I just wanna just. Say, wow, I've known you for a long time and I never knew that. And so you show up very, it's interesting how we show up in the world.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "This moment is not eligible for insight promotion as it is a host validation and lacks primary barrier or agency signals from the person with lived experience.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Jean Blasberg",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:05:00",
+    "timestamp_end": "00:06:00",
+    "paragraph_ids": [
+      "p_0010",
+      "p_0011"
+    ],
+    "moment_text": "I think that that sports squash, it definitely played a role in like. Uh, an outlet for me and sort of became my identity. Not that I identified that I was like the greatest player, but you know, I took on all these volunteer and leadership roles in the squash world and I did that for the right reasons. But sometimes I think it was just like everything. I sort of take it to an extreme and, you know, I don't think that's such a bad quality in my life. I've always like. Really tried to excel. I think that's the child of dysfunctional parents trying to prove to the world that everything's fine. Look at me.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "self_doubt"
+    ],
+    "agency_signals": [
+      "enduring",
+      "avoidance"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains agency signals (enduring, avoidance) and a barrier signal (stigma) related to coping with past family trauma.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker reflects on using sports as a coping mechanism, which is a form of enduring and avoidance of the core family issues."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Jean Blasberg",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:06:00",
+    "timestamp_end": "00:06:33",
+    "paragraph_ids": [
+      "p_0011"
+    ],
+    "moment_text": "I'm like, I've turned out great and it definitely fed my writing career. I have a lot of good ability. I have like a really sensitive radar of being able to walk into a room and know if the vibe is safe, if the vibe is a little bit. Like, let's just be careful. Somebody's fuse is about to explode so I can really, I'm like very emotionally tuned in and I think all of the years of sort of observing and wondering what might happen next turned me into. A very good writer because I do like to write about domestic. They call it domestic drama, but it's really just like what goes on in the family situation, whether it's relationships between mothers and daughters, or mothers and sons, or grandparents and grandchildren. That's really what I got excited to write about.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "confidence",
+      "clarity"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains agency signals (sharing_story) and emotional signals within a system interaction (workplace), reflecting on how a trauma response was channeled into a professional skill.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a powerful re-framing of hyper-vigilance (a trauma response) into a professional asset."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Jean Blasberg",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:07:51",
+    "timestamp_end": "00:08:31",
+    "paragraph_ids": [
+      "p_0017",
+      "p_0018"
+    ],
+    "moment_text": "I was in a class in Cambridge called Writing From Your Own Experience and every prompt the teacher gave us. We'd come back the next week having finished the assignment and it mine would undoubtedly, whether she said to go for a walk and notice like the front porches in your neighborhood, mine would always come back to being about my mother. So I definitely use writing as a way to understand and process my relationship both. For its good qualities and its bad qualities, and I really wanted to write a story about four generations of women, which also related to my own family, but I felt like I couldn't write nonfiction. I needed to embellish.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "clarity"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains agency signals (sharing_story, seeking_information) within an education system interaction, demonstrating a method of processing lived experience.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Jean Blasberg",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:08:31",
+    "timestamp_end": "00:09:12",
+    "paragraph_ids": [
+      "p_0018"
+    ],
+    "moment_text": "I wanted to create a setup that wasn't really totally true. But even though the plot isn't totally true, like. The encounters and the feeling of real closeness between a grandmother and a granddaughter was something I could develop over the course of like 250, 300 pages and like the. Struggle that an un someone who felt incredibly misunderstood. I really, that really played out in a woman's relationship with her daughter. Anyway. I really used that first novel as a way to express all these relationships between women and the family. Are filled. That's who you learn from and you have role models and you love these people, yet you can also feel incredibly separate and isolated and different and of a different generation.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "connection",
+      "isolation"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains agency signals (sharing_story, making_decisions) and emotional signals within a system interaction (media), explaining the creative process of translating lived experience into art.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Jean",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "There's this desire to express yourself and maybe find kindred spirits who are out there, who've gone through the same thing or relate to it. And there's no better joy as a writer than having one person write you an email or one person. Write a review and you read it and you're like, oh, they just got it. Like they got it. And I expressed myself, like I expressed myself and someone read it and their reaction was exactly what I was thinking it should be, or they picked up on something that was exactly what I hoped people would pick up on. And to feel that you've expressed yourself. Yeah. The messages come out.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection",
+      "belonging",
+      "relief"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing emotional signals with a non-none system interaction and agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Jean",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p2"
+    ],
+    "moment_text": "And she turned and looked at me and go, you are writing a book, and I don't see you finishing that. So I was like, oh shit. These kids, I swear they hold you to such a high standard. And it wasn't just that one time and there was just this feeling really, I had raised these kids. I had kind of. I was doing a lot of community and volunteer stuff and stuff with us squash, but I had really stepped back from a professional life and I did not want my kids to look at me as someone who wasn't really like accomplishing what they set out to accomplish. So yeah, they pushed me and I'm so grateful for it.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Family Dynamics",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "shame",
+      "embarrassment",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing emotional signals with a non-none system interaction and agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Jean",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "Everything changed for me during COVID Elizabeth, and if you wanna talk about mental health, that was some of the time that I really had suicidal thoughts during COVID, and I was really frightened and I knew I needed to make a really big change in my life because I was disappointed with myself. I was like, if it. If it's all over now, I have not done the things that I would wanna do. I, I haven't, like, lived up to my potential is what I really felt. I felt have always had such a privileged life and I looked at myself and I was like, you're falling into this pattern of like leisure sports and vacationing. And I just felt so disappointed my, with myself, and so depressed. And so depressed about the state of the world, that that was the lowest I ever felt from a mental health standpoint and when I really needed some serious help.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "fear",
+      "hopelessness",
+      "sadness",
+      "self_doubt",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing strong emotional and agency signals.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker explicitly mentions suicidal thoughts."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Jean",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p4"
+    ],
+    "moment_text": "But once I started feeling really badly, my husband did notice that I needed something. He sat with me as I reevaluated everything. Like I was like, if we ever can leave the house, this is, these are the changes I need to make. I can't, there were a lot of relationships I needed to end that were making me feel terrible, and there were a lot of things I wanted to change about where we lived and how I spent my time and he's with me today. Living half the year in Utah and half the year in Wisconsin. And I think five years ago when COVID started, I would've bet you a million dollars. That man wasn't ever gonna leave Boston. So I feel like he supported me. And then I got some professional help and I had a lot of friends. Just say, you know, I had a couple friends who I trusted enough to tell them how badly I felt and you know, just the everyday checking in, like, you'll, you're gonna get through the other side of this.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "relief",
+      "validation",
+      "connection",
+      "hope",
+      "trust"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_care",
+      "making_decisions",
+      "sharing_story",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing strong agency signals and emotional signals with a non-none system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment describes seeking support from family, professionals, and friends."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Jean",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p5"
+    ],
+    "moment_text": "This is temporary. That's when I really started to empathize with like my mother's bipolar situation, because there were the waves that she rode. And I felt like I was riding a wave, but that I'd got sucked under the undertow. And if I could hold my breath long enough, I would like come up to the surface. But that was the first time I felt as low as I really did. And it was really, really scary.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "fear",
+      "overwhelm",
+      "hopelessness",
+      "connection"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing emotional signals with a non-none system interaction and agency signals.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p6"
+    ],
+    "moment_text": "And who are perfect for X amount of time, and you're great friends and you love them with all your heart, and it's not that you wish them on any harm, but you realize that you're going in a different direction and that the relationship no longer serves you. And it doesn't serve them either, but they don't know it. You know it. The difference is awareness.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Social Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "sadness",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 by containing agency signals and emotional signals with a non-none system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "No, exactly. Relationships. It's hard because your daily dynamics change and how you engage changes. I wonder for, from a message for women is understanding that, you know, relationships, you can have a 30 year relationship and it, you just go on, you know, I think I started to try to. Parse it in that the things I really value in a friend are a sense of humor, a certain level of intelligence, and a certain trust that, you know, if that person was in a room and others were belittling you, they'd either leave or they'd stand up for you. But I felt like if you can't check three of those boxes, then they're not that hard. Then I didn't really like. Have the time for it anymore.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains agency signals (making decisions, setting boundaries) within a system interaction (peer community), meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p6"
+    ],
+    "moment_text": "The crowd I thought was, and I guess I just wasn't as intentional and as picky before COVID, after COVID was I was like, my mother died when she was 60. My grandmother died when she was 57. Also with mental illness. Not from mental illness, but suffered a lot. Like I was like, my days could potentially be five years.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "anxiety",
+      "grief"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional signals (anxiety, grief) related to a system interaction (family) and agency signals (making decisions), meeting the evidence gate requirements.",
+    "risk_flags": [
+      "grief_loss",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p7",
+      "p8"
+    ],
+    "moment_text": "I need to like get shit done and I have always loved. Nature, and I've always loved growing things. I mean, farming that I'm doing right now is sort of taking it to a level that I have no business doing. But anyway, I got the idea in my head that it just needed to be living outdoors and I didn't wanna live in a city anymore. And every, my kids were fine and everyone's good. So like I just wanna pick up and. To tell you the truth here on the farm, my community is pretty small, but it's really passionate of people who would throw their body in the road to protect the food system and to protect the planet. And so like living among people with such principles and values and shared purpose, I think that's what I was really looking for.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "hope",
+      "connection",
+      "belonging"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (making decisions) and emotional signals (connection, belonging) within a system interaction (community), meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "You know, also with COVID Elizabeth, I don't know if you felt this. But people really revealed themselves. Like there was the whole who was gonna wear a mask and who wasn't, who was gonna follow the rules and who wasn't, who was gonna like go out and have parties and who wasn't. And my feeling was like, we're all sacrificing and have lost so much. Can we just like follow some of these rules? And for the sake of this thing being fricking over, like there was a point in time where we didn't know how to end it. And I looked around and I, I, I saw a lot of selfishness and that really upset me. And I really just wanted to spend my life and my work around people who were looking out for the world in a little and having less, a self-interest and more awareness of how fragile our environment is and how fragile our health is, and how fragile our food system is.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Public Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "frustration",
+      "sadness",
+      "anger"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains barrier signals (lack of support) and emotional signals (frustration) within a system interaction (community), meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p12",
+      "p13",
+      "p14"
+    ],
+    "moment_text": "I think that's wonderful. It's so interesting how life unfolds. You know, I was such a city person, New York City person, and now I can't even, it's hard for me to go back into the city because of the chaos. I have to be in nature, and I think when I say that, I don't say that in a trite way. Nature's healing. I just got back from Peru and being in the Andes Mountains and the sense of inner calm and peace I felt for those 10 days in the mountains was like, was. It was not only healing, but it was like I was awestruck at the experience. And I think to your comment about, I wanna live, you didn't say it in these words, but basically you said, I wanna live a life of meaning. I don't wanna live a life of small talk. I don't wanna be, you know, I, I've kind of always been that way because I had such a. An intense career. It required so much time and effort and energy. I didn't have capacity to do the other stuff, but I think it's interesting when you recognize that, that it just isn't enough, you know?",
+    "moment_type": "validation",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "validation",
+      "calm",
+      "recognition"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains a barrier signal (time constraint) and emotional signals (validation) within a system interaction (workplace), meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p15"
+    ],
+    "moment_text": "Right. I know. I mean, I got so bad. At one point, we were at somebody's party. And I met someone for the first time and she started asking me like, oh, what do your kids do? Where did they go to college? And then I'm like, you know what? I just met you. I'm probably never gonna see you again. I don't feel like having this effing conversation. Sorry, I'm going to the bar. Like I just started like telling people this is stupid. Are we gonna start having a competition on whose kids are working where, and doing what? Like I just. I don't know, Elizabeth. I just actually lost my manners too and, and got so fed up.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "frustration",
+      "anger"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "setting_boundaries",
+      "withdrawing"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (speaking up, setting boundaries) and barrier signals (social isolation) within a system interaction (peer community), meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p16",
+      "p17"
+    ],
+    "moment_text": "So now I wake up in the morning and I turn on my birding app and I listen for the bird song, and we are attracting so many migratory birds through this farm with what we're doing with our. Farming practices and putting in pollinators and attracting insects and taking care of the prairie, that my view of success isn't necessarily whether this farm breaks even ever, or not. Don't tell my husband 'cause he sort of wants it to break even. But my idea of success is the organic matter in the soil and how many birds I hear in a morning and. That starts to feel pretty antisocial. Like I'm surrounded by these living things, whether it's our cattle or our sheep or the birds, the fireflies at night, the moon. I'm just starting to connect to all of these things and it actually being an only child and being a fiction writer who basically creates imaginary worlds. If I had my husband, my dog, and this farm, I'm fine. It's just like, and I'm happy. I don't feel pressure to have certain clothes or go places or do anything like that. I'm just like, I'm just feeling like I want to grow healthy food for people. I want my crew and the people who work here to have a good livelihood. And to be able to grow food because they love doing it and be able to support their families doing it. And yeah, I, I don't know. I, I've just completely changed.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "calm",
+      "relief",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains agency signals (making decisions), which meets the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p18",
+      "p19"
+    ],
+    "moment_text": "Isn't it interesting how these inflection moments in our life can like wholesale, they can be life changing? I mean, I think I always lived in beautiful places and have had the privilege of a wonderful living situation, but I don't think I was ever like a shopper. So I always felt like I was underdressed wherever I went. And now I just wear my overalls around. I put on a clean t-shirt for this. Zoom call, but, um, I'm literally heading out to get into the mud as soon as this is over, and it's just, I love it. I still have so much privilege because I can be here and we're at a certain age, like, I don't know, I, I don't feel like I'm risking what a typical farmer would be risking day to day. I don't know. I, I, I can't deny that I'm, I'm allowed to do this because of the privilege in my life. But I would also say that I made some choices and I have had to let go of a lot of things in order to do this. We sold a home where we raised our children in order to do this, and I also am living at a distance from them in order to do this.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Life Transitions",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness",
+      "calm"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains agency signals (making decisions) and barrier signals (social isolation) within a system interaction (family), meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p20",
+      "p21"
+    ],
+    "moment_text": "So. I did a lot of DEI training right after George Floyd was murdered, and there's this question that it has to do with racism that really stuck with me, but I think it has to do with anything that's like right or wrong. What are you willing to give up? Like are you willing to give up something? To deal with this injustice, are you willing to like actually sacrifice something or are you just gonna sit around and talk about how bad things are? Gradually since 2022, after we bought this farm, I, I don't think I would've been ready to give up everything when we did buy it. But every year I fall more in love with this place and I become more and more committed to accessible healthy food. That. Yeah, I'm willing to give up just about all of it. Everything I, we, at first we bought this farm and we had a certain budget of what we would put into it, and now I'm like, I'll freaking die making this place a good model for the. A type of farm that can be equitable, pay people well and not use chemicals or, or, um, poisonous fertilizers.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "Public Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (making decisions) and emotional signals (empowerment) within a system interaction (community), meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:00.000",
+    "paragraph_ids": [
+      "p22"
+    ],
+    "moment_text": "It, it's so interesting when you think about like your journey, if you will, with your life and the things you've done and now where you are.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Life Transitions",
+    "system_interaction": "none",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "This moment is not eligible as it is a brief, general reflection from the host and lacks any specific barrier, agency, or emotional signals required to pass the evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:30:05",
+    "timestamp_end": "00:31:30",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4"
+    ],
+    "moment_text": "Um, you made a comment and you started to talk. You did make a choice. Yes, you had the privilege, but you made a choice of giving up a lot of other things to go and experience a farm life, and now you recognize. Not the value of it, the value's, one piece of it, the purpose that you feel in doing it. I say to a lot of people, you know, you should come to the farm, but it's not because, oh, I just, I, I threw it out actually a few weeks ago to my daughter and. Some of her contemporaries or my other kids too. If anybody, you know, anybody in this family or any of your friends ever needs some time to like figure stuff out and get away from the rat race, come here. Because it's not like, oh, I'm gonna put you to work, but just even chopping wood or weeding or being with the animals. Watching 30 es give birth to, I think we had 40 lambs in May. They're so calm about it. They just have a baby. Then they lick everything off and then they start nursing right away and they're just fine. And like they just know how to be. And one of my friends here who I was watching this miracle of all these births with. She just said like, humans don't know how to just be every other animal, just. Knows what to do and knows how to be. And I feel like, you know, we were born with these ultra evolved brains that held, help us create all these amazing things, but it's such a burden to have a brain sometimes, and nature is such a reminder that things will happen and they'll happen on their own schedule and they'll happen kind of on their own time and slowly.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "calm",
+      "clarity",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional signals (overwhelm, calm) and agency signals (seeking_support) within a community context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker reflects on the contrast between the simplicity of nature and the 'burden' of the complex human brain, offering her farm as a place of refuge."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:31:31",
+    "timestamp_end": "00:32:45",
+    "paragraph_ids": [
+      "p5",
+      "p6",
+      "p7"
+    ],
+    "moment_text": "And it's a reminder that everything can just be, you don't have to worry so much because the sun's gonna come up and the birds are gonna sing. And anyway, I, I'm getting all like philosophical, but it's so true. Um, walking is something I really started during COVID. I wasn't a walker, I was always like a runner or blah, treadmill blah, and squash and that. Then I turned into a walker and. Uh, just walking is such a great antidote for like the mental stuff. You can walk and listen to something if you don't wanna listen to the thoughts in your own head, but eventually it's a long enough walk, maybe an hour, hour and a half. You work a lot of things out. And I do that often when I'm outside here. I'll think, I'll think a lot about things and I'll come home and I'll have like figured something out.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "calm",
+      "clarity",
+      "relief"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency signals (making_decisions) and emotional signals (clarity, relief).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "Describes a specific coping mechanism/protective factor (walking) adopted during a period of high stress (COVID)."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Jean",
+    "speaker_role": "patient",
+    "timestamp_start": "00:33:15",
+    "timestamp_end": "00:34:45",
+    "paragraph_ids": [
+      "p9",
+      "p10",
+      "p11"
+    ],
+    "moment_text": "Well, I guess I march for mental wellness by talking about it a lot. I'm very open about being in therapy and talking about a discovery I may have made about myself or a tendency I have when I was in a therapy session, you know, with my close people, but I don't hide it, and I encourage people. I love to seek therapy. I talk a lot about my mother's alcoholism and its effect on me. It's only been recently that I started talking openly about my eating disorder. I felt very embarrassed by that and also nervous about. My kids knowing about that for some reason, I don't know. That was something that I felt, but only recently, I've started the last few years talking more about it, but I guess to March for mental wellness is to acknowledge that we're all on the spectrum somewhere. And even if you're 25 and you're doing great when you're 55 or 60 things could really take a turn. For me, it's about meaningful connections. It, I'd rather have fewer, we, Georgia and I, my daughter Georgia and I talk about you're lucky if you can fit your friends in a cheerio. She says, so, mom, look for the Cheerio.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "embarrassment",
+      "shame",
+      "confidence",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture",
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong barrier signals (stigma, shame_culture), agency signals (sharing_story, speaking_up), and emotional signals (embarrassment, confidence).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker explicitly links talking openly about her struggles (therapy, eating disorder, family alcoholism) as her form of advocacy ('marching for mental wellness')."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_031.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_031.docx",
+    "speaker_id": "Jean",
+    "speaker_role": "patient",
+    "timestamp_start": "00:35:10",
+    "timestamp_end": "00:36:00",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "Well, I think what I would say is as women, we can be awfully hard on ourselves and we can be hard on each other at age. I'm just about to turn 60. I demanded a lot of myself over the years and I think that was my way of proving that. I was just fine, I guess. Not to be so hard on yourself. Don't be hard on your kids, for sure. Practice self-love, be creative, and express yourself. Figure out the way that you're meant to do that. And just do it. Try lots of ways, get messy, but be forgiving, practice self-love and compassion.",
+    "moment_type": "advocacy",
+    "life_stage": "aging",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "confidence",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency signals (making_decisions) and emotional signals (confidence, hope).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a concluding piece of advice, a call to action for self-compassion, rooted in her own life experience of being hard on herself."
+  }
+]

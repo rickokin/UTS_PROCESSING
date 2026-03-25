@@ -1,0 +1,9 @@
+You are segmenting a normalized podcast transcript into atomic Moments and tagging them appropriately.
+
+OUTPUT: JSON array of Moment Objects conforming to moment.schema.v1.json.
+STRICT RULES:
+- moment_text must be verbatim spans from transcript (no paraphrase).
+- Fill required fields. If unsure, use cross_life_stage and system_interaction=none.
+- Use ONLY allowed signal vocabularies for emotional_signals, agency_signals, barrier_signals.
+- Evaluate insight_eligible and provide eligibility_rationale based on the provided promotion rules.
+Return valid JSON only.

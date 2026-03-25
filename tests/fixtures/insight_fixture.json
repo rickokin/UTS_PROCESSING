@@ -1,0 +1,72 @@
+{
+  "locks_version": "v1.0",
+  "insight_id": "INSIGHT_S4_001",
+  "insight_title": "Sample Insight Title",
+  "insight_statement": "Sample insight statement grounded in multiple moments.",
+  "insight_type": "systemic_pattern",
+  "derived_from_episodes": [
+    "UTS_S4_PODCAST_001",
+    "UTS_S4_PODCAST_007"
+  ],
+  "supporting_moments": [
+    {
+      "moment_id": "001_M012",
+      "episode_id": "UTS_S4_PODCAST_001",
+      "speaker_role": "patient",
+      "life_stage": "reproductive_years",
+      "health_domain": "mental_health",
+      "system_interaction": "healthcare_provider",
+      "signal_type": "provider_dismissal",
+      "moment_summary": "Speaker describes being reassured without investigation."
+    },
+    {
+      "moment_id": "007_M004",
+      "episode_id": "UTS_S4_PODCAST_007",
+      "speaker_role": "patient",
+      "life_stage": "menopause_transition",
+      "health_domain": "hormonal_health",
+      "system_interaction": "healthcare_provider",
+      "signal_type": "symptoms_normalized_without_context",
+      "moment_summary": "Speaker recounts symptoms minimized as stress/aging."
+    }
+  ],
+  "life_stages_covered": [
+    "reproductive_years",
+    "menopause_transition"
+  ],
+  "dominant_emotions": [
+    "frustration",
+    "self_doubt"
+  ],
+  "barrier_types": [
+    "provider_dismissal",
+    "symptoms_normalized_without_context"
+  ],
+  "why_it_matters": {
+    "system_level": "Dismissal delays appropriate evaluation and erodes trust.",
+    "human_level": "Women question their own experiences and delay advocacy.",
+    "equity_or_preventive_level": "Dismissal can deepen disparities when specialist access is limited."
+  },
+  "impact_vectors": [
+    "increased_self_advocacy",
+    "care_seeking"
+  ],
+  "representative_quotes": [
+    {
+      "quote_type": "primary",
+      "episode_id": "UTS_S4_PODCAST_001",
+      "speaker_role": "patient",
+      "quote_usage": "anchor_quote",
+      "selection_rationale": "Represents the lived impact of dismissal."
+    }
+  ],
+  "report_section_alignment": [
+    "Why This Moment Matters",
+    "Key Insights"
+  ],
+  "suggested_calls_to_action": [
+    "Encourage symptom tracking over time."
+  ],
+  "confidence_level": "high",
+  "notes_for_editor": "Fixture for schema validation."
+}

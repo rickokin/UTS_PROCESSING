@@ -1,0 +1,1822 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Dr. Andrea Braden",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:02:01.000",
+    "timestamp_end": "00:03:01.000",
+    "paragraph_ids": [
+      "p5",
+      "p6",
+      "p7",
+      "p8"
+    ],
+    "moment_text": "Absolutely. So the journey really began in childhood. Honestly. I come from, you know, it's a little bit of a stereotype, but a long line of medical people as a Filipino American. Both of my grand-parents on my mom's side were physicians. Uh, my grandmother was an anesthesiologist, my grandfather was a surgeon, and they came over in a very interesting political time. Martial law had said in, in the Philippines, immigrated to Alabama from the Philippines. And this. Seventies and started life there. Not really expecting to stay and then they never went back. So I grew up hanging out with my family, Filipino get togethers with very busy doctor grandparents and that was just kind of the norm. And all of us grandkids, you know, grew up, you know, at the same time eating, take out Chinese and singing karaoke. We were all gonna be doctors, every single one of us. Again, a Filipino joke to go into medicine and I was really proud as a little kid too. Be the one who kind of stuck with it. You know, we have doctors in every generation, but I was the one in my generation who went all the way through. And so, honestly, I'll be honest, I, I didn't really think a lot about it when I was younger. I just knew I was gonna be a doctor and that was what I was gonna be little bit of that people pleaser disease, uh, good along there, but never considered anything else. I knew I wanted to be a doctor and probably the only other thing I knew I wanted to be was a mom and my career path kind. Brought the two together.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "General Health",
+    "system_interaction": "family",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "This moment provides personal background and context but lacks the specific barrier, agency, or emotional signals required for insight eligibility.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Dr. Andrea Braden",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:03:01.000",
+    "timestamp_end": "00:04:08.000",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "More to come on that later. Flash forward to medical school. I actually brought my grandmother on my med school interview. She was like my good luck charm. And she traveled with me to my interview where I ended up going, university of South Alabama. And as far as choosing O-B-G-Y-N, I kept hoping it would be something that chose me. I'll be honest, I was one of those like indecisive. I dunno what I want. I like everything. I like all the people. I like everything so much. And. I always tell students and residents my choice to be an ob. GYN was really kind of a non-decision. Uh, it was, it was good for a DHD adrenaline junkies, which is 100% me. The other piece was, it was so broad. I knew I liked talking to people. As you know, I'm a storyteller by nature. I knew I loved hearing people's stories throughout the generations. I loved the idea of getting to know people. Throughout their timeline, throughout their history, throughout having babies and going through menopause, I knew that there was the opportunity to grow within the field that I didn't have to narrow down too much. So O-B-G-Y-N is both surgical and office and delivering babies and up all night and er type emergencies and psych. You know, it's, it's a little bit of everything and I knew if I changed my mind, I could always do a fellowship and. Be an oncologist within women's health, or I could be a minimally invasive surgeon, or I could, you know, be a maternal fetal medicine doctor.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "General Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: has an agency signal (making_decisions) and a system interaction (medical_training).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Dr. Andrea Braden",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:04:08.000",
+    "timestamp_end": "00:05:25.000",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "How I ended up in academic medicine before I left and you know, became a hospitalist where I am now. Was, uh, a bit of an accident as well. I had a baby in my third year of residency, totally planned. Thousands of miles away from home and I was Type A, I got into med school, I got married, I'm gonna have babies. This is the year I'm gonna do it. And it caught me a bit off guard. I had a baby in residency and all of a sudden that desired. To be a mother snuck up on me. I knew it was there, obviously. I knew it was there, but I didn't realize how hard it would be to do both. And it felt like I had to choose between my two loves my first love, which was my career, which was my entire life. As long as I can remember, I wanted to be a doctor, and then suddenly there's this baby annise and she suddenly became my everything. I, I tell her all the time, I, I don't think I knew what love was until I had you and. It really shocked me to the core, to the point that I actually walked out on my job my fourth year of residency, um, because it was so difficult. Breastfeeding, pumping. I didn't even think I would struggle with these things, you know? I, I didn't know what I didn't know. I didn't know these things were important to me and I didn't know the way out. And so I walked out on my job one day with plans to just be a stay-at-home mom and throw the whole career in medicine away.",
+    "moment_type": "lived_experience",
+    "life_stage": "postpartum",
+    "health_domain": "Maternal Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "overwhelm",
+      "confusion",
+      "hopelessness"
+    ],
+    "agency_signals": [
+      "withdrawing"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "time_constraint",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains strong emotional signals (overwhelm, hopelessness), agency signals (withdrawing), and barrier signals (lack_of_support) within a medical training context.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Dr. Andrea Braden",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:05:25.000",
+    "timestamp_end": "00:06:16.000",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "And then I had some great mentors. I had people who were like, don't quit you. We'll hire you. You're a great teacher. You know, you don't know it, but there's this whole field of academic medicine and you'll be perfect. Stay on and teach. So the, the story of how I got into breastfeeding was really, I was a brand new mom with my first new job, and they said, well, you know, it's great that you join the faculty, but you gotta teach something. And I said, I don't know what to teach. I'm just obsessed with my baby. And somebody goes breastfeeding. I was like, oh, I could talk about that all day long because. As an OB, GYN, we weren't taught anything about breastfeeding or postpartum care. Nothing like, we just kind of, you dropped everybody, you know, we were pregnancy doctors and it became my career path to teach America's doctors how to take care of pregnant and postpartum women and how to take care of breastfeeding women. Um, and I became a mentor to my residents as well. So got my I-B-C-L-C, you know, I became. You know, the crunchy O-B-G-Y-N because I, I cared about the experience and, and really learned how much that meant to me when I didn't know that before.",
+    "moment_type": "realization",
+    "life_stage": "postpartum",
+    "health_domain": "Maternal Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "empowerment",
+      "clarity",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: identifies a clear barrier (education_gap, training_gap) within medical training and demonstrates agency (making_decisions) in response to it.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Dr. Andrea Braden",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:06:24.000",
+    "timestamp_end": "00:07:28.000",
+    "paragraph_ids": [
+      "p15",
+      "p16",
+      "p17"
+    ],
+    "moment_text": "Yeah. Oh man. I had kind of a, a wake up call after having a baby, and I, I started to wonder would I have done this if it wasn't the default that I just thought I had to do this now Important piece of, you know, the family legacy is that my grandmother in the family, um, was also an opera singer. She had like a TV show in the Philippines and she performed while she was an anesthesiologist and she had six children, you know, as my therapist would say. Does that sound familiar? Yeah. Uh, I, I was determined not only to be a doctor, but to be a singer and to be, and to have a thousand children and to do it all. 'cause I saw my grandmother do it the way that I have done medicine is quite different from how a lot of people in O-B-G-Y-N have done medicine, and that's what has made it. My unique path, and I do feel like I have ownership of it, but it's because I stopped letting myself be defined by the rules that I thought went with the game. Let me tell you, there were a lot of rules and I was the ultimate rule follower. That's how I got so far. I, it took a, a long time building up that courage to be like, you know what, this is not a fit. And to grieve that loss of identity that I, I had taken on, um, to really find my true self underneath.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "grief"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains clear agency signals (setting_boundaries) and emotional signals (empowerment, grief) related to family system interaction and identity.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier of 'family expectations' is strongly implied by 'the rules that I thought went with the game' but is not an explicit barrier signal in the vocabulary."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Dr. Andrea Braden",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:07:33.000",
+    "timestamp_end": "00:08:10.000",
+    "paragraph_ids": [
+      "p19"
+    ],
+    "moment_text": "So I went from undiagnosed postpartum depression that was not diagnosed until, you know, my baby was 10 months old. And that was a real light bulb moment. You know, I'm about to graduate residency. I walk out, I nearly walk out and someone stops me and says, I think you have postpartum depression. And it was. It's a a bit crazy making 'cause I'm like, wait a second, I diagnosed this. Like, how would I possibly miss this in myself? And, but it was such a relief, you know, it was such a relief to realize this was not who I am. This was something that was treatable and, you know, this cloud that I had over me was not, um, it didn't define the rest of my life.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "postpartum",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "relief",
+      "self_doubt",
+      "confusion"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "delayed_diagnosis",
+      "misdiagnosis"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: describes a clear barrier encounter (delayed_diagnosis) with strong emotional signals (relief, self_doubt) within a healthcare context.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker, a clinician, misdiagnoses (or fails to diagnose) herself, which is a powerful example of how insidious PPD can be."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Dr. Andrea Braden",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:08:10.000",
+    "timestamp_end": "00:08:18.000",
+    "paragraph_ids": [
+      "p20"
+    ],
+    "moment_text": "So as I came out of that, like I said, I had really good mentors. I joined the faculty and they let me work per diem. So I went from 80 hours a week. To three days a week, nine to five.",
+    "moment_type": "realization",
+    "life_stage": "postpartum",
+    "health_domain": "Maternal Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "relief"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: demonstrates agency (seeking_support, making_decisions) and emotional signals (relief) within a workplace system interaction, representing a solution pathway.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment highlights a protective factor: a flexible work environment and supportive mentorship."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:01:01.500",
+    "paragraph_ids": [
+      "p2_1",
+      "p2_2",
+      "p2_3",
+      "p2_4"
+    ],
+    "moment_text": "And it was awesome. And, and, you know, and, and I was a little bored, I'll be honest. I'm not, uh, Martha Stewart. You know, I didn't decorate when I was home and I, I felt like I was kind of programmed to be a doctor. So trying to go out and be social with other moms was actually pretty challenging. I felt like a nerd. I felt like I didn't have the right earrings and everybody had these yoga pants and I wasn't into it. Felt like I didn't know what, how to talk about anything, uh, when I was out with my baby. Um, so that was the year I joined a band. I got on Craigslist, which was a thing back then, and. I, to this day, I am like, I could have been killed, but I answered an ad on Craigslist that was looking for a lead singer van. I'm like, well, I've always wanted to do that, and I, I went and I met friends outside of medicine. And it really, it, it brought me back to who I was before, uh, Dr. Wife, mom. I, I was me. I was a creative person and that fueled me. I would've been happy to just perform in Steve's basement, you know, and just be with my band friends.",
+    "moment_type": "lived_experience",
+    "life_stage": "postpartum",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "self_doubt",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with emotional signals (isolation, self_doubt) and a barrier signal (social_isolation) within a clear system interaction (peer_community), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker identifies as a doctor but is speaking about her personal experience as a new mother, so 'patient' role is most appropriate for this lived experience moment."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:01.500",
+    "timestamp_end": "0:01:51.500",
+    "paragraph_ids": [
+      "p2_5",
+      "p2_6"
+    ],
+    "moment_text": "And you know, as far as how that affected my. My first year as a teacher, I did have to work a little bit to find the balance, and I think what was difficult was I was really happy that I was given the opportunity to work. A schedule that a lot of people didn't have that I didn't even know was available. And I had terrible imposter syndrome. I thought that, you know, people didn't take me seriously because everybody, because of the optics of creating a schedule that worked for me and my family meant that I wasn't as serious about being a doctor and I didn't care. And people would hold meetings and do things that were my job and they wouldn't accommodate, you know, my schedule. And not, not that they necessarily should, but I mean, I remember experiences where. My colleague would take interviews on my behalf or take credit and they, they wouldn't even think about scheduling things when I was going to be there, and they were non-emergent, but it just felt a little passive aggressive.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Professional Wellbeing",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "self_doubt",
+      "frustration"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with clear barrier signals (stigma, lack_of_support) and emotional signals (self_doubt) within a workplace context, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:51.500",
+    "timestamp_end": "0:02:26.500",
+    "paragraph_ids": [
+      "p2_7",
+      "p2_8"
+    ],
+    "moment_text": "I saw some paperwork that had our salaries, me and my partner, and he saw it too. And he was, you know, as infuriated as I was. But we realized as I was trying to negotiate my salary to be paid fairly, that he was being paid for the same job, a hundred thousand more than me. And he only worked one more day a week, but I was working the same hours, just, you know, like spread out differently. And we were both just completely flabbergasted. So I spent a lot of time trying to negotiate my salary and they actually told me that they could only raise me up a certain percent because it was basically my fault for not negotiating the correct salary on the front end.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Professional Wellbeing",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "anger",
+      "frustration"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "cost_constraint",
+      "provider_dismissal"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with strong barrier signals (cost_constraint, provider_dismissal) and agency signals (speaking_up) in a workplace context, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier 'provider_dismissal' is used here to represent the institutional/employer dismissal of her valid concerns about pay equity."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "educator",
+    "timestamp_start": "0:02:26.500",
+    "timestamp_end": "0:03:11.500",
+    "paragraph_ids": [
+      "p2_9",
+      "p2_10"
+    ],
+    "moment_text": "One of the things that drove me to leave that first job, it, it did, you know, take a lot of trial and error to know my worth and to, you know, and, and it became really a part of my career in teaching and academics as I moved to Atlanta and went to Emory. This became a really big part of, you know, teaching residents and young learners through the mistakes that I made, through the stories. Please don't sign anything until you have somebody else walk you through it, because you do have that imposter syndrome. You do feel automatically grateful that anybody would hire you and you know, you feel greedy almost for asking to be paid what you're worth because what are they gonna think of me? They're gonna think, I, I'm asking for too much and you, you don't feel worthy. And that. Probably comes from the way we're trained in medicine, but it, it took a long time to, to grow out of that.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Professional Wellbeing",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "self_doubt",
+      "shame",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "training_gap",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with clear barrier signals (training_gap) and agency signals (sharing_story) within the context of medical training, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:03:11.500",
+    "timestamp_end": "0:04:09.500",
+    "paragraph_ids": [
+      "p2_11",
+      "p2_12",
+      "p2_13"
+    ],
+    "moment_text": "You know, I mean, and there was a way that I, there's stuff that I learned from my personal therapy that has taught me in all different aspects of my life. And I think the best thing to, to make me feel better about choosing myself was to realize that. It's not that there's a right and wrong, you know, my employer has these values and I had to be really honest about my values, and at some point when things change, the values are not aligned. And so that's kind of my saying all the time. Value's not aligned. You know, it's not, it's not that I'm a bad person or you're a bad person, it's just. We do get to this point where maybe I've changed and grown, or maybe the organization has changed and it's not as good of a fit as it used to be, and there's, that's okay. But the hardest part for me has been saying no and going through a lot of breakups in the process of, you know, if these things are not working for me, being okay with the fact that. They just don't align with my values anymore.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "clarity",
+      "confidence",
+      "calm"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries",
+      "self_advocacy"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with strong agency signals (making_decisions, setting_boundaries) and emotional signals within a healthcare provider context (therapy), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is a doctor, but she is talking about what she learned in her own personal therapy, making the 'patient' role most appropriate here."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:04:20.500",
+    "timestamp_end": "0:05:28.500",
+    "paragraph_ids": [
+      "p2_15",
+      "p2_16"
+    ],
+    "moment_text": "it was interesting because I interviewed for very different jobs than what I ended up taking, and that was difficult for me. It was another exercise in saying no to what's not right for me. I've never been in private practice. I've been offered many private practice jobs and there was just something inside that did not feel like a fit for me. And you know, it was so easy to get a private practice job down here and I just didn't feel right. And I had a mentor in academics from, you know, a national conference who I just randomly met with and he said, here's the thing, you know, values, private practices about the bottom line making money. He's like, that's not your thing. Your favorite thing about your job is teaching service. He's like. I mean, you could try to make it work for a little while, but ultimately you're not gonna be happy because that is not what you love about your job, and you're gonna get trapped in a situation where you don't wanna be.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Professional Wellbeing",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "self_doubt",
+      "clarity",
+      "validation"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with strong agency signals (making_decisions, setting_boundaries) and emotional signals within a peer community interaction (mentor), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:05:28.500",
+    "timestamp_end": "0:06:08.500",
+    "paragraph_ids": [
+      "p2_17",
+      "p2_18"
+    ],
+    "moment_text": "So I turned the job down that I got, and I was very pregnant and I, I remember I was on call one night and I just happened to look at the Emory website and I saw that they had an open position. So I emailed the person, they're like, we're not hiring, but. Send us your cb, we'll take a look. And then they called me back and they said, can you come down in a week or two? And I was like, 32 weeks pregnant. I'm like, well, I can. I mean, at least it's an OB GYN practice. So if I have a baby in Atlanta, I will interviewed. Ended up getting the job, and I felt so seen, you know? 'cause within six months of getting that job, they were like, we have this midwifery practice. You have trained in centering pregnancy. You've done all this. You're a lactation consultant. Be the director of the midwifery program, and I'm like, oh my gosh, that sounds so fun. I, I love holistic care and, you know, breastfeeding and all of these things. It really aligned with what I wanted to do, so I grew in that position.",
+    "moment_type": "lived_experience",
+    "life_stage": "pregnancy",
+    "health_domain": "Professional Wellbeing",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "hope",
+      "validation",
+      "recognition"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with strong emotional signals (validation, recognition) and agency signals within a workplace context, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:06:08.500",
+    "timestamp_end": "0:06:51.500",
+    "paragraph_ids": [
+      "p2_19",
+      "p2_20"
+    ],
+    "moment_text": "As far as when I outgrew my position there, it was a culmination of things. It was COVID. I mean, I think we can all say hashtag COVID about our massive changes in the past five years, but that was one of them. COVID. I also went through a divorce around that time and it was just a lot of life changes and I wanted to be, this was really where my need to be a mother in the way I wanted to be a mother started to bubble up. I was working more and more, I mean, you know, my call schedule was kind of taking over my life and I was becoming really resentful about it, and I'm like, I don't wanna, I don't wanna feel resentment about. Taking care of patients. That's what I do this job for and what is going on there? Why do I feel that way?",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Professional Wellbeing",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "overwhelm",
+      "frustration",
+      "confusion"
+    ],
+    "agency_signals": [
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with a clear barrier signal (time_constraint) and emotional signals within a workplace context, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:06:51.500",
+    "timestamp_end": "0:07:44.500",
+    "paragraph_ids": [
+      "p2_21",
+      "p2_22",
+      "p2_23"
+    ],
+    "moment_text": "And I wanted, and, and my husband, my new husband, he worked from home and I found myself being a little envious that he was able to be there at the bus stop and he was able to go there if the kids were sick. And I wanted to do that too. And I was like, by golly, I'm gonna find a way. Um, unfortunately, my. My previous job in Atlanta there, there wasn't a type of position like that. And you know, I tried to see if they would create that for me. And they, they couldn't, that wasn't what they needed. Value's not aligned. And so I left and I became a hospitalist and I have this great job where I, you know, I work 6 24 hour shifts a month, which I know sounds crazy, but it's actually awesome. And the rest of the time is my own. Um, there's. You know, the freedom to work on my company and you know, that began at Emory.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "Professional Wellbeing",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "hope",
+      "empowerment",
+      "relief"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "making_decisions",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with strong agency signals (self_advocacy, making_decisions) and a barrier signal (lack_of_support) within a workplace context, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M030",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "educator",
+    "timestamp_start": "0:12:51.819",
+    "timestamp_end": "0:13:20.199",
+    "paragraph_ids": [
+      "p40",
+      "p41"
+    ],
+    "moment_text": "And they're like, no, no, no, you don't need that. I'm like, well, don't I need an MBA? Don't I need an engineering degree? And they're like, no, no, no, no. We'll teach you everything you need to know. So to me, I was kicking and screaming like, no, no, somebody else, please. I kept trying to give the problem to somebody else to fix. Like, I, I'm not gonna do that. They were like, you don't understand. We need people like you. In the industry like this knowledge that you have, this clinical, both personal experience and clinical experience, you know the problem, you can design something amazing. Um, and so, you know, Libby was born out of that, where I thought I was just gonna get some people to fix a problem for breastfeeding and they kind of pushed me and asked me questions, had me do surveys, had me really define the problem.",
+    "moment_type": "reflection",
+    "life_stage": "postpartum",
+    "health_domain": "Medical Innovation",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "self_doubt",
+      "validation",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "avoidance",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier (education_gap) and agency (avoidance, seeking_information) signals detailing the transition from reluctance to innovation.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M031",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "educator",
+    "timestamp_start": "0:13:21.299",
+    "timestamp_end": "0:13:49.199",
+    "paragraph_ids": [
+      "p42",
+      "p43"
+    ],
+    "moment_text": "To the point that I got lots of grant funding later, it, you know, I got patents later. And now we are creating a wearable, the world's first wearable to continuously monitor milk production in breastfeeding people. And so you wear it all day on your breast tissue and throughout the day you can check your, your app and see. How are your milk productions going and what kind of parameters and behaviors are actually affecting your ability to produce optimally? And you can set goals and, and really it helps inform choices about feeding so you don't have that guilt that is so pervasive. Um, that comes from the fear of not being able to make enough milk.",
+    "moment_type": "education",
+    "life_stage": "postpartum",
+    "health_domain": "Postpartum Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "fear",
+      "shame",
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "tracking_symptoms",
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with clear barrier (lack_of_information), agency (tracking_symptoms), and emotional (fear, shame) signals related to breastfeeding technology.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M032",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:13:50.299",
+    "timestamp_end": "0:14:00.499",
+    "paragraph_ids": [
+      "p44"
+    ],
+    "moment_text": "Now, you know, now you know either you don't need to worry 'cause you are making enough milk or. Maybe there really is an issue and you don't feel as guilty about giving, you know, supplementation, but it's about giving choice back to the people who are suffering these issues right now. So that's, that's where Libby came from.",
+    "moment_type": "advocacy",
+    "life_stage": "postpartum",
+    "health_domain": "Patient Advocacy",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "shame",
+      "relief",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "shame_culture",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier (shame_culture), agency (making_decisions), and emotional (shame, empowerment) signals about restoring choice in infant feeding.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M033",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Jessica",
+    "speaker_role": "host",
+    "timestamp_start": "0:14:01.899",
+    "timestamp_end": "0:14:25.199",
+    "paragraph_ids": [
+      "p45"
+    ],
+    "moment_text": "I think that's amazing. And having had a daughter who just had a baby and understanding the journey that she had in the breastfeeding experience and the amount, um, 'cause I did not breastfeed the amount of stress and anxiety attached to the milk not coming in. Is the baby gonna take to the bottle? She's gonna take back to my nipple. The, there's so many different, so if you can solve for that and give, you know, give women agency in this case or people agency to be able to breastfeed in a way that works for them, or at least understand why it's not working for them. I mean, that's, that's massive.",
+    "moment_type": "validation",
+    "life_stage": "postpartum",
+    "health_domain": "Postpartum Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "anxiety",
+      "overwhelm",
+      "validation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional signals (anxiety, overwhelm) and a non-none system interaction (family), corroborating the core problem.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M034",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:14:46.199",
+    "timestamp_end": "0:15:10.199",
+    "paragraph_ids": [
+      "p49"
+    ],
+    "moment_text": "About 83% of moms initiate breastfeeding. So it's not a problem of trying to get people on board. Most of my patients want to do this. Like it's a no. Nobody even questions it. And then, um, once you get to that six month mark, where we recommend the highest benefit would be if everybody was able to do this exclusively for six months, it's down to 25%, huge drops. You know, some people may partially be breastfeeding, but you know, we see this giant gap from starting. To six months and you know, this has been kind of the healthy People 2020 goal, 2030 goal. It's really just trying to incrementally increase the number of people who are able to reach these milestones.",
+    "moment_type": "system_observation",
+    "life_stage": "postpartum",
+    "health_domain": "Public Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate by identifying a systemic barrier (lack_of_support) evidenced by a significant statistical gap in public health outcomes.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M035",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:15:11.199",
+    "timestamp_end": "0:15:31.199",
+    "paragraph_ids": [
+      "p50"
+    ],
+    "moment_text": "And like I said, it's not because people don't want to, something's not working. Something's not working. And it is a systemic problem. I, I can't solve all of them, but the part that I really. See a lot in my practice. And the part that, the pain point that I would love to tackle is called pims. Um, it's perceived insufficient milk supply, which is really, honestly, it's anxiety, it's food scarcity. It is the fear that drives you to do behaviors that actually could impact your milk supply. So it is a bit of a self-fulfilling prophecy.",
+    "moment_type": "education",
+    "life_stage": "postpartum",
+    "health_domain": "Postpartum Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "fear"
+    ],
+    "agency_signals": [
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate by defining a specific barrier (PIMS) and linking it to emotional signals (anxiety, fear) and a systemic context.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M036",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:15:31.199",
+    "timestamp_end": "0:15:48.199",
+    "paragraph_ids": [
+      "p51"
+    ],
+    "moment_text": "You have a fear and it's very natural, but it is so common that I'm gonna lose my milk. Some people overproduce because of this fear. Some people under produce, you know. Nobody's at the same starting point and they're all kind of operating in the dark. Like, am I doing this right? Am I doing this right? Is this enough? How do I know I'm supposed to just look at my baby and look at the diapers and feel okay? And nobody feels okay.",
+    "moment_type": "system_observation",
+    "life_stage": "postpartum",
+    "health_domain": "Postpartum Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "anxiety",
+      "self_doubt",
+      "isolation"
+    ],
+    "agency_signals": [
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong barrier (lack_of_information), agency (asking_questions), and emotional (anxiety, self_doubt) signals describing the universal uncertainty in breastfeeding.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M037",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "patient",
+    "timestamp_start": "0:16:25.199",
+    "timestamp_end": "0:16:53.199",
+    "paragraph_ids": [
+      "p56"
+    ],
+    "moment_text": "And then, you know, I remember getting to the parking lot. I can't remember if it's this exact day or not. And it was just drops. It was just drops in there. And I'm devastated. I'm crying. I'm like, this is it. It's over my breast milk. You know? Like this is the best I can do. This is the only thing I can do, right for my baby. 'cause I'm working 80 hours a week, I'm outsourcing everything and I can't even do this right. And I'm a freaking doctor and I can't do it right. And so that mom guilt, that messaging, the internal messaging was so strong.",
+    "moment_type": "lived_experience",
+    "life_stage": "postpartum",
+    "health_domain": "Postpartum Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "sadness",
+      "hopelessness",
+      "shame",
+      "self_doubt",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "shame_culture",
+      "time_constraint",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with powerful emotional (hopelessness, shame), agency (self_blame), and barrier (time_constraint) signals within a detailed lived experience.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M038",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "patient",
+    "timestamp_start": "0:17:07.199",
+    "timestamp_end": "0:17:36.199",
+    "paragraph_ids": [
+      "p58"
+    ],
+    "moment_text": "And with my second baby, I talked to a lactation consultant. I'm like, okay, here's the deal. Now I've graduated. What did I do wrong? And she's like, Andrea, of course you had low milk supply. You were exhausted. She's like, you. You didn't sleep at all. You just wore your body out. And then you kept trying to push more milk out like you have to rest. You know, sometimes rest is the best thing you can do. That really made all that one little nugget, man. If I could tell everybody that one. Sometimes you just need a nap. You know, your body needs to recover. And we are so stressed. We're trying to do it all. We're trying to work and pump and, and you know, like if you're not sleeping well, you know it's gonna, it's an uphill battle.",
+    "moment_type": "realization",
+    "life_stage": "postpartum",
+    "health_domain": "Postpartum Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "clarity",
+      "relief",
+      "validation"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "asking_questions",
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate as a realization moment, containing barrier (education_gap), agency (seeking_support), and emotional (relief, clarity) signals that represent a significant shift in understanding.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M039",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "educator",
+    "timestamp_start": "0:17:41.199",
+    "timestamp_end": "0:18:01.199",
+    "paragraph_ids": [
+      "p60"
+    ],
+    "moment_text": "You know, we have our working prototype. We are actually in the process of some testing right now, just to make sure that it is, you know, really designed for equity across the board. You know, this is something breastfeeding products over time have. Really just kind of been a one size fits all, and that is not really what we're looking for here. Um, and we know that the sensor technology, there's a possibility that it might work differently with different skin tones, skin textures, or body habits, you know, like breast sizes.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Health Equity",
+    "system_interaction": "none",
+    "emotional_signals": [],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "access_barrier",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate by identifying a systemic barrier (access_barrier due to one-size-fits-all design) and an agency signal (making_decisions to design for equity).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:25",
+    "paragraph_ids": [
+      "p-001"
+    ],
+    "moment_text": "So this test that we're doing right now is just to really see are there key differences? Do we need to have people set it a certain way if they have one skin tone versus another, or if they have one cup size versus another, just to make sure that the readings. Are accurate and it, it may or may not be the case, but we wanna make sure that we are coming outta the gate thinking of all people who are making milk.",
+    "moment_type": "advocacy",
+    "life_stage": "postpartum",
+    "health_domain": "Lactation Technology",
+    "system_interaction": "none",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "This moment describes a product development process with a focus on inclusivity but lacks specific barrier, agency, or emotional signals tied to a lived experience, failing the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:01:08",
+    "timestamp_end": "00:01:26",
+    "paragraph_ids": [
+      "p-003"
+    ],
+    "moment_text": "We've just gotta, you know, finalize the app and make sure it really, you know, adds a lot of value that we're giving people information that is just mind blowing, um, that like, wow, this opens the window to what's going on inside, and now I understand and now I can make informed decisions about what I do.",
+    "moment_type": "advocacy",
+    "life_stage": "postpartum",
+    "health_domain": "Lactation Technology",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment",
+      "clarity",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the A2 evidence gate as it directly addresses the barrier of 'lack_of_information' and promotes agency signals like 'making_decisions'.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:01:46",
+    "timestamp_end": "00:02:26",
+    "paragraph_ids": [
+      "p-005",
+      "p-006"
+    ],
+    "moment_text": "Doesn't it open up a lot of questions? 'cause I'm just, the more I dig into what research has been done about milk production in humans. There's a lot of white space, you know, even down to what we recommend for calorie intake when you're breastfeeding. Well, it's based on how much energy it takes to digest cow's milk. So it's not even based on anything to do with human milk. We've just extrapolated how much energy it takes to digest, you know? Some milk and it doesn't really have anything to do with the individual or what their protein needs are with this body habitus or that, you know, so I'm so excited to look into, you know, get a peek on the inside, see what's really going on.",
+    "moment_type": "system_observation",
+    "life_stage": "postpartum",
+    "health_domain": "Lactation Science",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "frustration",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the A2 evidence gate by identifying significant systemic barriers ('education_gap', 'training_gap') within the context of medical training and research.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:02:26",
+    "timestamp_end": "00:03:20",
+    "paragraph_ids": [
+      "p-007",
+      "p-008"
+    ],
+    "moment_text": "Like are there illnesses, are there other factors? You know, this is kind of where the OB GYN background has been a real value add to our company. It's like, I know the person making the milk. I know how hard it is. I know what your body's going through. I know. How different it is for somebody who has a nice, unmedicated, natural, you know, midwife birth center delivery, versus somebody who had preeclampsia, preterm delivery, ICU baby, you know, way too many fluids, their kidneys crapped out on them, you know, like. Trying to get both of those people to breastfeed is, is just a whole different ballgame and they can do it, but the amount of support needed, you know, it really takes knowing much more than just right here. You know, this is my cri criticism of the lactation world so far. It's so hyperfocused on the breast. And the baby. Feed your baby. Feed your baby. You know, if you're not feeding your baby enough, your baby's, you know, losing weight, then something's wrong with you and your bad mom.",
+    "moment_type": "system_observation",
+    "life_stage": "postpartum",
+    "health_domain": "Postpartum Care",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "shame"
+    ],
+    "agency_signals": [
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "shame_culture",
+      "lack_of_support",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the A2 evidence gate with strong barrier signals ('fragmented_care', 'shame_culture') and emotional signals ('shame') within a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:03:20",
+    "timestamp_end": "00:03:56",
+    "paragraph_ids": [
+      "p-009"
+    ],
+    "moment_text": "We, we have never really prioritized the whole person, the whole person who is making the milk and, and really tried to understand, and as more diseases have come about, you know, we're, we're really understanding. Wow. You know. Hypothyroidism and diabetes can affect your milk even coming in at the right time. You know, are there different things we need to do to help those patients, you know, to help those moms who, who maybe have a little more challenge on the front end. And, and again, this would give us data for research. This would give us data for the providers, you know, for us to really understand where the challenges are and, and to treat people more effectively so that they, they can meet their goals, you know, whatever those goals are.",
+    "moment_type": "advocacy",
+    "life_stage": "postpartum",
+    "health_domain": "Lactation",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the A2 evidence gate by identifying barriers ('fragmented_care') and proposing agency-oriented solutions ('seeking_care') within a healthcare provider context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:04:48",
+    "timestamp_end": "00:05:38",
+    "paragraph_ids": [
+      "p-013"
+    ],
+    "moment_text": "You have to be, you have to have everything perfectly aligned. You know, I, I tell people it's like. Every pregnant person is a bike rider who has to ride the bike cross country. And you know, assuming that everybody can do it is like assuming, because you have two perfectly good legs that you can ride a bike. But you've got people who have never ridden a bike and you've got people who are like pro bike riders you, and we're like, we'll give you helmets. Everybody gets a free helmet, we're gonna pay for your helmets, but without any direction, you know, and you gotta go cross country. Of course it's, it's not equitable, you know, like nobody is starting off. We are assuming that everybody is able-bodied, that everybody has all the resources, that everybody has the finances to be able to get insurance reimbursement or that they even know how to navigate this crazy system to even get things reimbursed.",
+    "moment_type": "system_observation",
+    "life_stage": "postpartum",
+    "health_domain": "Health Equity",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty",
+      "cost_constraint",
+      "access_barrier",
+      "lack_of_support",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the A2 evidence gate by detailing multiple significant systemic barriers, including 'system_navigation_difficulty' and 'cost_constraint', within the healthcare system.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:05:51",
+    "timestamp_end": "00:06:41",
+    "paragraph_ids": [
+      "p-014",
+      "p-015"
+    ],
+    "moment_text": "The misinformation happens right there though, right? Like. You get calm, but then you, you start to believe that that was the problem when it may have just been a growth spurt, right? And then you're like, my milk is failing and baby clearly was starving and I'm a terrible mom 'cause I've been starving my baby. And then you, this is where people fall off the wagon. They don't know to give that signal back to their body. It is totally fine to supplement. You know, there is a time and a place, and that is a personal choice. However, if you want to maintain your milk supply, you cannot lose that signal to your body. So you have to replace that feed. With pumping or expressing, somehow you have to keep telling your body that your baby is still eating, even if they're eating from a different source. Because as soon as you stop that, your body's like, Hmm, I can take a break. We're gonna like, let some people go out of this operation and, and it's really hard to get it back after a certain amount of time. You know, they start downsizing.",
+    "moment_type": "education",
+    "life_stage": "postpartum",
+    "health_domain": "Lactation",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "self_doubt",
+      "shame",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the A2 evidence gate as it contains strong barrier ('lack_of_information'), agency ('self_blame'), and emotional ('shame', 'self_doubt') signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:06:51",
+    "timestamp_end": "00:08:00",
+    "paragraph_ids": [
+      "p-017",
+      "p-018",
+      "p-019"
+    ],
+    "moment_text": "Oh, common question. Yes. So, you know, when it first started, it's a fairly new field for ob, GYN. Hospitalist medicine kind of started with the medicine field where they, they kind of split off. They're the office internal medicine doctors, and then they're the hospitals. Ones who only work in the hospital. They don't have an office. OB GYN started as. Laborists and then they evolve to hospitalists because we do more than labor and delivery. Um, and so the big difference between what I do now and what I used to do, which was kind of generalist, is that I don't have an office. I only work in the hospital. And at my every hospital's a little different. And the role for our hospitals might be different. Some places have academic roles. Where I work now, it it, my, my job every day is I assist on all the C-sections. So we always have two physicians doing C-sections. So there are a lot of other private practice groups. And it's really fun because I trained a lot of these doctors, so it's almost like I'm back in academia again. I get to still train them, um, and. I assist on difficult deliveries. Say they have twins and you know, they don't have backup who's comfortable. You know, I, I worked at some very high acuity hospitals, so it takes a lot to scare me.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Hospital Medicine",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "This moment is descriptive of a professional role and lacks barrier, agency, or significant patient-focused emotional signals, failing the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4"
+    ],
+    "moment_text": "So I'm, I'm the backup, you know, and I think a lot of hospitalists are trained in emergency care and obstetrics, like we are the go-to. We keep it safe. We're the safety net people. We're there for emergencies. If somebody is not. In the hospital because they're in their office or they're taking a call from home and something comes in, which happens quite frequently. We're there. I, so this is why I spend the night at the hospital because. Sometimes it is very time sensitive, right? Like a uterine rupture or something. If somebody's not there in time to be able to diagnose this and take that patient back for surgery, I can ity split, get somebody back to surgery if I need to, 'cause I'm there. Um, and so you don't have like a traffic situation, a drive. It was very stressful actually for the private practice docs when these things, these rare occasions would happen. And there was nobody in the hospital to help take care of, you know, nobody designated to do that. So one of my primary roles in my job is to be the backup for the private practice docs.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Emergency Obstetric Care",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate: Contains a barrier signal (fragmented_care) related to a healthcare_provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "And then, you know, there are a lot of patients who come to the hospital, maybe they're visiting from out of town, maybe they were never able to establish care with an ob, GYN. So they don't have a doctor, but they know. That they need to be seen. They know they, you know, they're moms, they wanna take care of themselves, and the system can be really difficult. Maybe they didn't know they were pregnant till 34 weeks and now they can't get in anywhere and they can't navigate the insurance system. So they, they will show up at whatever hospital has a labor and delivery, or they call the ambulance and the ambulance just takes them wherever. So these people are unassigned because they don't have a doctor at the hospital.",
+    "moment_type": "system_observation",
+    "life_stage": "pregnancy",
+    "health_domain": "Access to Care",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "access_barrier",
+      "system_navigation_difficulty",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate: Contains barrier signals (access_barrier, system_navigation_difficulty) and an agency signal (seeking_care) related to a healthcare_provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p7",
+      "p8",
+      "p9"
+    ],
+    "moment_text": "So I will take care of any unassigned patients. Uh, maybe they have a doctor somewhere out of the city or somewhere else. And so it's pregnancy related things. So, you know, I'll check on them and triage and just make sure the pregnancy is okay. Or I'll see patients in the emergency room as well. So this is non-pregnant people, you know, sometimes it, it is early pregnancy. Ectopics. We do a lot of ectopic pregnancies. Um, sometimes it's a miscarriage where they're bleeding a lot and they haven't had time to establish care. So it's kind of a lot of people before they establish prenatal care where it's really early pregnancy care and they don't have a doctor, so I'll take care of those. Um, and then a lot of like. 40 something women with fibroids and perimenopause and horrible periods who are hemorrhaging, you know, that kind of thing. Sometimes it's sexually transmitted infections that have gotten really outta control, like to ovarian abscess, people who are really sick and septic from a, you know, a quick infection they didn't even know they had and it turns into something worse.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Emergency Gynecological Care",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate: Contains a barrier signal (fragmented_care) related to a healthcare_provider interaction.",
+    "risk_flags": [
+      "sexual_health"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "Professionally, I speak out on it, you know, and it, it is difficult. But, you know, I recently contributed to an article with the Atlanta Journal of Constitution about mental health resources. It, it is difficult. We have resources, but it feels very siloed. I work with ACOG on a national level, mostly on the breast. Feeding expert work group, but there's so much overlap with mental health and breastfeeding difficulties. So being able to comment on a national and, and, you know, state level Georgia OB GYN society and, and contribute in that way to how can we improve mental health in the postpartum period. For me, my box that I live in is the postpartum period. That's where I see a lot of the mental health issues. Um, and so advocating and supporting when people are trying to make changes, trying to screen and make sure, you know. I have the luxury of time since I don't have an office. You know when, when people show up in my emergency room to be able to really sit down with them and, and introduce them to resources that they may otherwise not know about, because. You know, every practice is different and every patient encounter is different and even the experience of the doctors is different.",
+    "moment_type": "advocacy",
+    "life_stage": "postpartum",
+    "health_domain": "Maternal Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "speaking_up",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate: Contains agency signals (speaking_up) and barrier signals (fragmented_care, lack_of_information) related to a healthcare_provider interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "So, you know, I speak out on my own platforms. Um, and then, you know, on the personal level, it again comes back to what you're doing here at Under the Sisterhood. It's the storytelling, I think, probably is where I have the biggest impact because I have lived it and I think it really. Disarms people and makes them feel like it's okay to disclose things. When I tell them, you know, me too. I, I, I've been there. I mean, I was just recently diagnosed again and I had no idea and I'm like, oh my God, I've done it again. Like, how did I, how did I miss it again? But, you know, it, it really is kind of wild that that disease, there's so much we don't know about postpartum depression and depression in general, and normalizing that. Talking about it in my friend circles, my professional circles, and, and telling people my stories that, you know, I think. It's very easy to get a social media perspective of my life. And you know, I've even had friends who are like, oh, your life's so perfect. You have this like doula photographer for your baby and everything. And I'm like, I, I can't. I refuse to make that, that picture of my life because it's not accurate. You know, I have struggled. I'm on an antidepressant. I have no shame about that, man. I can't believe I waited so long for that, like. I can't believe I waited so long for that. But it, it just, it helps, you know, everybody needs a little something and you know, I have an awesome therapist who I can't quit and she tells me how it is and I quote her every day.",
+    "moment_type": "lived_experience",
+    "life_stage": "postpartum",
+    "health_domain": "Maternal Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "relief",
+      "validation",
+      "shame"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate: Contains strong emotional signals (relief, validation), agency signals (sharing_story), and barrier signals (stigma) within a peer_community interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker explicitly rejects shame ('I have no shame about that'), which is a powerful emotional signal related to overcoming stigma."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "I think mine's more boots on the ground, uh, grassroots type of work with mental health. But for me, in the past, the most impactful thing has been telling them the story of my career. You know, every time I pitch for my company, it starts with the story of postpartum depression. And I can't tell you how many people come to me in tears after I pitch and they're like, I'm still crying 30 years later. You know, even dads, husbands, partners who are get very emotional about it and they're like. Where were you 10 years ago? We suffered so much, you know, and, and it really strikes a chord. So I think for me, tying it together on the entrepreneurial end and really kind of boosting companies that are working on maternal mental health as well has really, you know, kind of been a huge part of my career.",
+    "moment_type": "advocacy",
+    "life_stage": "postpartum",
+    "health_domain": "Maternal Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "grief",
+      "sadness",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate: Contains emotional signals (grief), an agency signal (sharing_story), and barrier signals (lack_of_support) within a workplace context.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p17",
+      "p18"
+    ],
+    "moment_text": "I think it's really important, Andrea, as you tell these stories, it is what connects people. It is they feel seen, they feel heard. They recognize that they're not alone in what they're experiencing. And the other thing I think that's interesting in these sales pitches that you're having with maybe my Libby, is now that you're speaking a lot of the investors are men. You could say, well, did your wife go through this? How did you experience? Did you go through postpartum depression? Because there's a detachment, you know? Mm-hmm. Family dynamic changes in the relationship with the husband and wife. It's a really powerful story and it's the truth. Yeah. And we know that living in this authentic space is really, um, really critical, especially when you're going through so many emotional, so many changes.",
+    "moment_type": "validation",
+    "life_stage": "postpartum",
+    "health_domain": "Maternal Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "recognition",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate: Contains emotional signals (validation, connection) and a barrier signal (social_isolation) within a peer_community interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Andrea",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p19",
+      "p20"
+    ],
+    "moment_text": "I think probably. The, the biggest learning that we've taken away, and you know, now that my husband is on board as our COO, he, he says this all the time, he's like, every time we speak about our product, a dad comes up and says, we went through this. You know, like, we don't even have to ask. We don't, it, it is more rare for me to have investors who are like. What is this really a thing? Like almost everybody's just like, that's what we went through. Like we put a name to the pain. Um, and it, and it really connects people. So part of, you know, our mission with Libby is to create that village and to make people feel less isolated and to know that, you know, to. I, I think of it like a guiding light. You know, there, when I was going through my divorce, I remember posting on some random Facebook group. I was having a really hard night, and I'm in my bathroom, I can't breathe. I'm sobbing so hard, just grieving the loss. And some random woman, I, I don't even know what her name is now, but she said, you know, we are here to light the way for you. We've been there and we've come out the other end, and that's what we're here for. And that phrasing really stuck with me, you know, in that moment, but also in these other moments, I'm like. I feel like I have been through the ringer and I feel like I came out better at the end, but sometimes you gotta drop through the bottom and crash through the floor to realize the potential and you know how strong you are.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "grief",
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 gate: Contains strong emotional signals (grief, hope), agency signals (seeking_support), and barrier signals (social_isolation) within a peer_community interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Dr. Andrea Braden",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:15",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "And it took so many other people telling me their stories and being like, me too, and let me show you the way. Let me tell you about. Sometimes you just have to ride the wave of those emotions and be in it and be present and let it flow through your body so that you can get to the next step. Don't fight it, you know, don't fight that.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection",
+      "relief"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional signals (validation, connection) and agency signals (sharing_story) within a peer_community system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Dr. Andrea Braden",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:16",
+    "timestamp_end": "00:00:30",
+    "paragraph_ids": [
+      "p2"
+    ],
+    "moment_text": "And so for me personally, it's about being that guiding light. However, I can be using my platform as an O-B-G-Y-N and you know, having a national role with ACOG to be able to shine that light for other moms. Um, so, you know, maybe we can actually make a big difference in that way with people suffering.",
+    "moment_type": "advocacy",
+    "life_stage": "postpartum",
+    "health_domain": "Maternal Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with agency signals (sharing_story) and emotional signals (hope) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:31",
+    "timestamp_end": "00:00:41",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "But I think what's interesting about it is, so you're seeing it from all these angles, and so you're highly credentialed, but you're actually a showing and exposing yourself as being vulnerable and human, right?",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "General Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "recognition"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 evidence gate. This is a host observation without strong barrier, agency, or emotional signals from a lived experience perspective.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Dr. Andrea Braden",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:41",
+    "timestamp_end": "00:01:00",
+    "paragraph_ids": [
+      "p3",
+      "p4"
+    ],
+    "moment_text": "Yeah. Yeah. I mean, that's the secret sauce I think, you know, I mean, that's what makes it enjoyable for me. You asked me at the beginning. If I felt like, you know, this was chosen for me and I, you know, I, I honestly, I would've been very happy to be a hairdresser. I think I could have been a bus driver. Like I, I think I could have been happy doing a lot of things, but I found my meaning in my career through those connections, through sitting down with patients and listening to their stories and seeing them.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "General Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "connection",
+      "validation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong emotional signals (connection, validation) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The agency signal of 'sharing_story' is present, but it's about listening to others share, not the speaker's own action, so it was omitted."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Dr. Andrea Braden",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:01:01",
+    "timestamp_end": "00:01:18",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "I don't think everybody is comfortable in the storytelling realm, but I have found that that has made. My career better by being the more honest I am, the more I show up as my very human self with all of my bumps and bruises, you know, all my beautiful parts, the more I connect with people and, you know, so I think it's so important to just, to be human, you know? Like, I'm not up here. We're the same. This is the great, you know, leveling of the playing field. We, we are all going through it.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "General Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "connection",
+      "trust",
+      "validation"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong emotional signals (connection, trust) and agency signals (sharing_story) that address the barrier of lack_of_validation in healthcare.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Dr. Andrea Braden",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:01:19",
+    "timestamp_end": "00:01:58",
+    "paragraph_ids": [
+      "p8",
+      "p9",
+      "p10"
+    ],
+    "moment_text": "I mean, because I was the people pleaser. I wanted to be the one who didn't cause any problems and I, I wanted to be really. Well, like I, I realized that I was kind of sacrificing my own happiness to try to accommodate everybody else. And I think it's okay to slow down to not know the answers and to change your mind. And so I like to think about you. You do the best in this course of your life, wherever you are with whatever information you have now, and that. That you know, you can change course if you get more information. So whatever it is that you're struggling with it, whatever story your life is building, it's okay to not know the answer.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "anxiety",
+      "relief",
+      "calm"
+    ],
+    "agency_signals": [
+      "enduring",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with barrier signals (fear_of_judgment) and agency signals (making_decisions) related to a common behavioral pattern.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Dr. Andrea Braden",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:01:59",
+    "timestamp_end": "00:02:22",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "And it's okay to just sit with yourself if you need to go sit in a closet so it's quiet. You know, I really had to quiet the noise. I had so many pressures, social media, whatever it is, you know, so many people who I felt needed me to be something for them and I wasn't being something for myself. And the moment. I learned to say no to things that were not serving me and not helping me grow was the moment that I, I really kind of held onto myself and gave myself a big hug and accepted the unique person that I am that is not the magazine Kate Moss of the nineties that I grew up.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "overwhelm",
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "withdrawing"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong agency signals (setting_boundaries) and emotional signals (overwhelm, empowerment) in response to media and community pressures.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_019.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_019.docx",
+    "speaker_id": "Dr. Andrea Braden",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:02:23",
+    "timestamp_end": "00:02:45",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "You know, like not liking how my belly looked. 'cause I, you know, didn't look like Kate Moss. I mean, there's a lot of undoing. A lot of undoing and that's okay. And I think take the time. Take the time to be well, and, and if something doesn't feel right, don't minimize that. You know, I think as women we kind of are trained to be like, oh, it's fine. It's no big deal. I'm fine. You know, and I was raised that way and, and to really listen to yourself and to trust your intuition, because for me, the hardest part was being okay with not being happy with everything. Seeing where that road leads me.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "self_doubt",
+      "empowerment",
+      "trust"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "symptoms_normalized_without_context",
+      "shame_culture",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with clear barrier signals (symptoms_normalized_without_context) and agency signals (self_advocacy) related to societal and familial conditioning.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

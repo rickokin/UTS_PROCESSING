@@ -1,0 +1,783 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Kelly Caponi",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:01",
+    "timestamp_end": "00:03:04",
+    "paragraph_ids": [
+      "p006",
+      "p007",
+      "p008"
+    ],
+    "moment_text": "So Mo More recently it was with the passing of my mom, but I've been focusing on my mental health for what feels like a long time now with my high pressure job. I really saw the importance of it as it started to affect my home life. So then when my mom passed away, I really needed to refocus. You know, I started to see honestly what really mattered how. I could take care of myself. You know, I started, I started painting. You know, I, if you see my house, there is coloring books everywhere. I have like every art supply you can imagine. And. I just sat down one day and just started to put that pain on the canvas. My focus like instantly changed all my emotions, all my feelings. I, I just got out on that canvas and I'm like gonna cry 'cause it makes me emotional, don't get me wrong. Going back and forth from the hospital. I would scream in the car. I was angry. I felt all the emotions, but just being able to put that on that canvas was just a totally different feeling.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "grief",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "grief",
+      "anger",
+      "sadness",
+      "relief"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (seeking_support) as the speaker actively uses art to process grief and other strong emotions.",
+    "risk_flags": [
+      "grief_loss",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Kelly Caponi",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:26",
+    "timestamp_end": "00:04:03",
+    "paragraph_ids": [
+      "p010",
+      "p011"
+    ],
+    "moment_text": "Honestly, it felt amazing. You know, coloring was something my mom and I did from a very young age where, you know, we'd go to the food store, the dollar store, wherever, and we were always picking up coloring books. You know, we'd sit at the kitchen table and we would just color. It just felt natural to kind of go back to that during my, my grieving process. Yeah, and it just felt natural to just sit down and just put it on that canvas. You know, you can use every color and it depicts how you're feeling. Mine, you know, mostly are bright colors, you know, 'cause I. Don't wanna always feel that sadness, you know, that was kind of through that whole process, but just getting it out there and,",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "grief",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness",
+      "calm",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (seeking_support) and emotional signals within a family system interaction context.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": "The moment connects a childhood activity with her mother to her current grieving process, making it a cross_life_stage experience."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Kelly Caponi",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:16",
+    "timestamp_end": "00:04:51",
+    "paragraph_ids": [
+      "p013",
+      "p014"
+    ],
+    "moment_text": "Sure. So my husband has been my number one supporter from the beginning. You know, he was the one, he was like, I, this is beautiful, like you should share it. And I was like, I don't think so. Like, I don't know what you're talking about. Like I have no training. Like I never went to art school again. It was just something that I did for myself. So my husband started to share it with some of our friends and they were like, wow, this is really good. And then my friends, I would give them as gifts for birthdays or holidays. And then some of my other friends were like, can you do specific colors? And I was like, yeah, sure. And like. So many of them have them in their homes. Anybody and everybody can see them.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "mental health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "self_doubt",
+      "validation",
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains barrier signals (fear_of_judgment), agency signals (sharing_story), and emotional signals (self_doubt, validation) related to sharing her art.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Kelly Caponi",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:51",
+    "timestamp_end": "00:05:23",
+    "paragraph_ids": [
+      "p015",
+      "p016"
+    ],
+    "moment_text": "I met this person when my husband and I were on a date and they were like, my husband shared it with them 'cause they did tie ding and he was like, wow, like I'd like to carry some of these in my shop. You know, went from there. Like I just needed that first person outside of my group that was like. These are really good. We have a local shop here who carries a few of them. I have a bookshop, another local spot that has them up for the month of June for pride, you know, 'cause of all the colors and rainbows. And then I just started getting into like festivals, different art festivals again. Like it's only been like the last year that I've really been doing this, but they found their home.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "mental health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "validation",
+      "recognition",
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains barrier signals (lack_of_validation) and agency signals (sharing_story) as the speaker gains confidence through community recognition.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Kelly Caponi",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:23",
+    "timestamp_end": "00:06:02",
+    "paragraph_ids": [
+      "p017",
+      "p018"
+    ],
+    "moment_text": "It is when that person comes up, like I'm getting goosebumps right now just talking about it. But when that person comes up and like you just see how it, they connect with it, it was like, just makes it all worth it honestly, to make money. I just wanna bring a smile to somebody's face. You know, that's it. Like I love creating them and all the different ones and I've since branched out to different shape shapes and stuff. Like, I started with circles 'cause I was like, circles are awesome. I've never seen circle canvases. And then just kind of where my mind just has, you know, gone. And it's just been an incredible journey.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "mental health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "connection",
+      "validation",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (sharing_story) and strong emotional signals (connection) within a community interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Kelly Caponi",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:11",
+    "timestamp_end": "00:06:46",
+    "paragraph_ids": [
+      "p020",
+      "p021"
+    ],
+    "moment_text": "Anything bright, you know, just, it gives me that like visceral response where it just puts a smile on my face. So just having that, and like I said, my house, like I have colors everywhere, you know, and again, it's, a lot of it is for my mental health. It just goes back to that. There are times where I'm not, you know, happy and I don't wanna get out of bed, but then I like, look, I have a wall outside my bathroom that is just full of prints from artists all over that have positive affirmations on there. So I've just kind of tried to cultivate that, that positive atmosphere.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "mental health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "sadness",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (seeking_support, making_decisions) related to proactively creating a supportive home environment for mental wellness.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Kelly Caponi",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:00",
+    "timestamp_end": "00:07:32",
+    "paragraph_ids": [
+      "p024"
+    ],
+    "moment_text": "Absolutely. You know, I've been in therapy for years and I love it. I've had different therapists, I've journaled, I've meditated, you know, I've done all different things and I find comfort in different ways, but I always kind of go back to that art. You'll see my, my art table's not very big, but when my mental health is, I don't wanna say struggling because it's not always when it's. Something bad. It could be. When it's something good, it is just full of pieces in progress and it does, it just kind of helps me get it out and I'm dealing, like you said, dealing with the loss of my mom, changing careers after.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "mental health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "calm",
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (seeking_care, seeking_support) and involves a system interaction (healthcare_provider).",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Kelly Caponi",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:32",
+    "timestamp_end": "00:08:41",
+    "paragraph_ids": [
+      "p025",
+      "p026",
+      "p027"
+    ],
+    "moment_text": "Most of my life, kind of trying to refocus and figuring out a way to help that, try to get outside and go for walks because you know, like you said, like caregiving, like I am my grandmom's caregiver and have been. For, for like the last six years, you know? And that's been a lot. I mean, I wouldn't change it for the world and I'm super grateful to have support, you know, from my husband, my brother, my daughter. But it, it does, it takes a toll. 'cause you know, I have a family, I have a full-time job and I also have, have to take care of her. She's wonderful. We're kind of transitioning to, you know, the different stage in her life and kind of figuring all that out. Therapy and, you know, working on my mental health, you know, I need these, I need to take care of myself. And that is one thing that my one therapist told me years ago, and I, we talk about it in this house, my, we all use it is making sure your batteries are charged. Because if your batteries aren't charged, then you are no use to yourself and to anybody around you. You need to take care of yourself first and how important that is. And I wasn't always the case. But once I really started focusing on myself and my mental health, I can do these things. They're not always easy. I'm able to, to do it and take up, you know, take that space and take that time, but also take that time for myself.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "caregiver burnout",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "empowerment",
+      "clarity"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "self_advocacy",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "time_constraint",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong barrier signals (time_constraint), agency signals (setting_boundaries), and emotional signals (overwhelm) related to caregiver burnout.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This is a powerful moment about the realization of the need for self-care as a caregiver, prompted by a therapist. The speaker role is patient, but the context is caregiving."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "Like, we'll sit, we'll color, we'll paint. And now she's at that age though, where she's like. Trying to copy mine. She's 10 trying to copy what I do and I'm like, sweetheart, you do you like what you're creating is amazing, you know, but just trying to, to keep that positivity, like put it out there. Like obviously, you know, she's going through different feelings and you know, learning all this stuff. And I'm like, you can put it on canvas, you can put it on whatever. And it's just amazing and it's something I love doing. It's like our Saturday or Sunday weekend ritual. You know, I say self-care and like we just do it. We put all the art supplies on the table. And we just do it, and my husband will join us sometimes, and it is just amazing.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "connection",
+      "calm"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional signals (connection) and a non-none system interaction (family).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p2"
+    ],
+    "moment_text": "Absolutely. So I identify as pansexual, which is. You know, something I've been wasn't sure about. You know, I always kind of knew I didn't fit into that stereotypical mold and really, as it was honestly, over these last few years after losing my mom, have I really kind of figured out who I was. Like I said, I always knew I was different, but you know, kind of just seeing where this journey takes me. Happens to be where it's kind of always been. So I used to volunteer, um, at an agency down in the city and I would always do the Pride Festivals, volunteer at that and stuff. And then kind of, and now like coming back to that is, has been amazing.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "clarity",
+      "belonging",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional signals (clarity, belonging) and a non-none system interaction (peer_community).",
+    "risk_flags": [
+      "sexual_health",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "Uh, self, you know, self discovery's an amazing thing and, and it's so interesting how we, it's like we have to have these inflection moments grieving your mom, allowing you, giving you that ability to almost like let go. Yes. Take that monkey off the back, that the weights we carry and sometimes we don't even. Think about that. We're carrying it until something happens, and there's that moment where you can pivot your life, transition, you know, reinvent self.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "grief",
+      "relief",
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 evidence gate. While emotional signals are present, the system interaction is 'none'.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p4"
+    ],
+    "moment_text": "My self care and figuring out and like what is important, setting boundaries, learning to say no. That was something I struggle with, as you mentioned, a caregiver. Most of my family would always come to me and be like, well, Kathleen's just gonna do it, you know, we don't worry. You know, she's got it and like just kind of. Stopping and reflecting on that. And it's like, but why? Before I would jump into that role and I'm like, no, no, I can't do it. Or if I, if I have to, there will be a time that I say is it's gonna happen. But again, that took a long, a long time to get there.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "empowerment",
+      "frustration"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "speaking_up",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong barrier signals (lack_of_validation) and agency signals (setting_boundaries).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p5"
+    ],
+    "moment_text": "I want people to know that it's possible. You know, you, you don't have to be stuck. I felt like I was stuck for. You know, almost like 20 years felt like that, you know? And then like you said, when you know, my mom passed it, it did, it shifted something in my brain where it's like, what am I doing? Like I needed to sit and kind of figure out what was important to me, what did I need, what did my mental health need, you know, to move forward.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "hopelessness",
+      "hope",
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional signals (hopelessness, hope) and a non-none system interaction (family).",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p6"
+    ],
+    "moment_text": "And a lot of that was taking time off from work. I go to, I need to be by water. That is one thing my family knows about me, like when I need to kind of reset. I just need to be by the ocean. That brings me joy, you know, putting that shell in my pocket, finding that, you know, so kind of revisiting that and seeing like, okay, this is a different feeling, you know, how do I hold onto that? Oh, and that just kind of. It's just how I live my life and I'm trying to teach my daughter that too. And I will say the one thing that just made me feel like I'm doing something right on my Mother's Day gift, one of the things she wrote was, my mom takes care of me, but she also takes care of herself. And I was like, wow.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "validation",
+      "calm",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong emotional signals (validation, confidence) and a non-none system interaction (family).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "I can relate to having an inflection point. My father died and I wholesale changed my life. And to find out what, what's it all about Alfie? What really matters? The things you're teaching your daughter, the things you're role modeling, when you show up as your best self, when you accept yourself and love yourself, you're giving her permission to like start at a young age doing that. If we can teach our daughters to feel that self-love, that self-acceptance, because we're mirroring that behavior, you know, we're doing really good work there.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional signals (hope, empowerment) and a non-none system interaction (family).",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "Absolutely. And, and being able to say no, like even just like the smallest things, like, no, I don't wanna go there, or, no, I don't wanna do that. And not be like, well, you have to. It's like, okay, I respect that. Obviously some different circumstances, but just being able to recognize, you know, what you're comfortable with and not just, what's the word? Having people, making other people feel better.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with strong agency signals (setting_boundaries, speaking_up).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "It's really just for anybody listening, like just create, do what makes you feel good. Do what brings you joy. I never really thought I would get to this point. Like I said, I would color in coloring books. Oh, and then like one day I started painting, you know, in a notebook or something. I kind of always just doodled, but it's really just finding that peace, whatever it may be that. That brings you that little bit of joy to kind of keep going.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "calm",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional signals (hope, empowerment) and a non-none system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p10"
+    ],
+    "moment_text": "For me, like imposter syndrome is real, you know, like I said, it's still like I still struggle with it. It's a journey. Also. Wherever it goes, I'm ready to go with it. Kind of still just enjoying these moments, you know? Where, like I said, I see it in a shop window. No, I see it in my friend's bathroom or living room. Like it just, it's awesome.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "self_doubt",
+      "hope",
+      "validation"
+    ],
+    "agency_signals": [
+      "enduring",
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate with emotional signals (self_doubt, validation) and a non-none system interaction (peer_community).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Kelly",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "I'm a big believer in the metaphor of planting seeds and then continuing and then watering and. Weeding. And so imagine the seeds are your canvases. It's your art form, your medium, and you just keep building out and things just keep happening. And so I don't think you have to go to art school to get there. Art school might be enabler of it for some people who are whatever. But then, you know, you show up at some point in your life, something happens and suddenly the artist in you is suddenly unleashed. And so I would believe wholeheartedly and lose the imposter syndrome and just. Derive so much joy from it and it'll keep, it'll manifest.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment",
+      "hope",
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with barrier signals (stigma) and emotional signals (empowerment). The moment addresses the common psychological barrier of imposter syndrome.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker encourages listeners to overcome imposter syndrome in their creative pursuits, framing it as unleashing an inner artist."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p3",
+      "p4"
+    ],
+    "moment_text": "Yeah, no, I like what you said, unleashed, like, I'm just like, Kelly Caponi is unleashed. Oh, I talked to so many women. There's a lot of conversations around this imposter syndrome, and I'm like, why do you have that? Like, what is it? I mean, we all have our insecurities, but the imposter syndrome bothers me. Women seem to take that on. Men have no problem being being average. Average as can be. And they're not feeling like they're imposters, but they kind of are. You know, and they just, yeah. Just slide through life and they don't feel it. But women take this on. But I just love what you're doing. I applaud you for using art to heal and using art now as a source to bring other people joy, to give yourself joy.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "frustration",
+      "validation",
+      "recognition"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with barrier signals (stigma) and emotional signals (frustration) tied to a system interaction (community). It identifies a systemic pattern of imposter syndrome being a gendered issue.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The host observes that imposter syndrome is a phenomenon that disproportionately affects women, contrasting it with the unearned confidence she perceives in men."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Kelly",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p5",
+      "p6",
+      "p7"
+    ],
+    "moment_text": "I think that is something that. We don't do enough of, you know, we're too busy trying to take care of, and I speak from experience everyone else around us, but why we are just as important as women and we deserve that love and we, we do whatever you see you need to do to take care of yourself. Going on walks, you know, reading a book, taking that five minutes for yourself and not feeling guilty. Setting boundaries. Saying no stuff can wait. Like that is something, you know, I work from home, you know, so learning to be like, I don't need to do the dishes right now, it will get done. But again, it was like shifting my mindset. I'd rather sit on the couch and watch tv. I'd rather sit outside and read a book and it's okay. And I'm telling every woman listening, it's okay. You deserve that time. You deserve to take care of you and not feel guilty. You are loved, you are seen, and yes, you deserve it all.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "empowerment",
+      "validation",
+      "hope"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "shame_culture",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong agency signals (setting_boundaries) and barrier signals (shame_culture). This is a clear advocacy moment addressing a common behavioral pattern and cultural barrier for women regarding self-care.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment was extracted from a paragraph that began with the host's question. The text was segmented to isolate the guest's coherent message on self-care. The speaker gives women explicit permission to prioritize themselves and release guilt."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_024.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_024.docx",
+    "speaker_id": "Elizabeth",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "I love giving permission to women to take care of self. Yes, that's a brilliant Kelly, thank you so much for getting under the hood with me. I, again, I applaud all the work you're doing on self and how you're bringing your beautiful art form and your healing out into the world and bringing joy. Congratulations.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "recognition"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails evidence gate A2. This moment is a host's closing validation and does not contain substantive barrier or agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "Host's closing remarks, validating the guest's message and journey. Not suitable for insight promotion as it's part of the podcast outro."
+  }
+]

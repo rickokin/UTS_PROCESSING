@@ -1,0 +1,82 @@
+{
+  "locks_version": "v1.0",
+  "enums": {
+    "speaker_role": [
+      "patient",
+      "clinician",
+      "caregiver",
+      "advocate",
+      "educator",
+      "host"
+    ],
+    "moment_type": [
+      "lived_experience",
+      "reflection",
+      "realization",
+      "barrier_encounter",
+      "validation",
+      "advocacy",
+      "education",
+      "system_observation"
+    ],
+    "life_stage": [
+      "adolescence",
+      "reproductive_years",
+      "pregnancy",
+      "postpartum",
+      "menopause_transition",
+      "post_menopause",
+      "midlife",
+      "aging",
+      "cross_life_stage"
+    ],
+    "system_interaction": [
+      "healthcare_provider",
+      "education_system",
+      "peer_community",
+      "family",
+      "workplace",
+      "media",
+      "medical_training",
+      "community",
+      "none"
+    ],
+    "risk_flags": [
+      "none",
+      "mental_health_sensitivity",
+      "medical_trauma",
+      "sexual_health",
+      "grief_loss",
+      "violence_abuse"
+    ],
+    "insight_type": [
+      "systemic_pattern",
+      "relational_pattern",
+      "knowledge_gap_pattern",
+      "behavioral_pattern",
+      "emotional_pattern",
+      "protective_factor",
+      "risk_factor"
+    ],
+    "impact_vectors": [
+      "increased_self_advocacy",
+      "peer_support",
+      "behavior_change",
+      "preventive_action",
+      "health_literacy",
+      "community_building",
+      "policy_awareness",
+      "care_seeking"
+    ],
+    "quote_type": [
+      "primary",
+      "secondary",
+      "contrast"
+    ],
+    "confidence_level": [
+      "high",
+      "medium",
+      "emerging"
+    ]
+  }
+}

@@ -1,0 +1,1115 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy Asuka",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:38",
+    "timestamp_end": "00:05:25",
+    "paragraph_ids": [
+      "p5",
+      "p6",
+      "p7"
+    ],
+    "moment_text": "It was my son and I think that happens for so many of us. My son loved school. He loved life. In fact, his kindergarten teacher said he was the most joyful child she'd ever met. The kind of kid that every day he was just so delighted to learn. But starting in fourth grade. He all of a sudden started to struggle and he was consistently inconsistent. So what that meant is he would get A's and C's and D's and sometimes worse in the same subject in the same week. And so his teachers, and you know, we did as well as his parents thought, what the heck is going on? He must not be trying hard enough. He must not care. This was, you know, I mean, I didn't think this, but I'm sure his teachers thought, oh, character flaw, moral failing. Like, what is wrong with this kid? He's clearly so qualified and has so much aptitude, but he's just not applying himself.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "ADHD",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "confusion",
+      "frustration"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "symptoms_normalized_without_context",
+      "delayed_diagnosis",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains clear barrier signals (symptoms_normalized_without_context) within an education_system interaction, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy Asuka",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:25",
+    "timestamp_end": "00:06:38",
+    "paragraph_ids": [
+      "p8",
+      "p9",
+      "p10",
+      "p11",
+      "p12",
+      "p13"
+    ],
+    "moment_text": "And so for about three years, we took him from one place to another. You know, the occupational therapist, we had some testing done. Um, he had tutors, you know, he had all the support. But nobody could really figure out what was going on. And so finally, and, and he would have these moments where he would do these brilliant things. Like he got himself a leadership scholarship for fifth grade on his own. He filled out the application in pencil on his own, and he had been going to a Catholic school when he got the scholarship. My si my daughter was graduating from eighth grade, and I remember, and she was at a Catholic school too, at the same Catholic school, and he sat down in the pew. We gave him the, the letter that said he had received the leadership scholarship. And he looked at my dad, uh, he looked at my husband and he, my dad, was that a Freudian slip? He looked at my husband and he said. Oh my gosh, but what am I gonna do? I'm a Catholic learner. Like just, you know, things like that. So he would have these moments where he would achieve things that most kids his age, you know, don't, and then other times where he could not get out of his own way.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "ADHD",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "confusion",
+      "frustration"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "delayed_diagnosis",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment details a long journey of seeking care and navigating the system, containing both agency and barrier signals that meet the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy Asuka",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:38",
+    "timestamp_end": "00:07:30",
+    "paragraph_ids": [
+      "p14",
+      "p15"
+    ],
+    "moment_text": "And so finally. He ended up going to this school. It was a country day school. What they told us is they taught to interest and so we thought, okay, that's what would work for him. Well, he went there, fifth grade did great. Sixth grade, he started getting bored again and it was really chaotic compared to the Catholic school, which was really structured. And so we ended up, he went through fifth grade, came back to us at sixth grade and said, I don't wanna go here anymore. I wanna go back to the Catholic school because I need the structure. And the principal was so irate and upset with him instead of sitting down with him and finding out, well, what was his? Issue with the school. He just kept trying to sell 'em, and so Marcus was like, Nope, I'm going back. So that is the summer we finally had him tested and he was. Tested and received a diagnosis of A DHD, and I could have literally fallen off my chair because I didn't know what A DHD was.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "ADHD",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "frustration",
+      "confusion",
+      "relief"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "making_decisions",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "delayed_diagnosis",
+      "stigma",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains strong agency signals (self_advocacy) and barrier signals (stigma, delayed_diagnosis) related to the education and healthcare systems, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy Asuka",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:30",
+    "timestamp_end": "00:08:20",
+    "paragraph_ids": [
+      "p16",
+      "p17",
+      "p18"
+    ],
+    "moment_text": "I thought A DHD meant that you're all over the place. You're not very smart, and you're a problem. And I, I wouldn't have said that was my son at all. And so we went to a psychologist who came highly recommended. In our community as the expert on A DHD to try to understand what A DHD was even about. She had three meetings with, one was with our family, one was just with my son and one was with my husband and me. She came back and she told us that our job as his parents was to reduce his expectations because he was far too ambitious, I guess, for her liking, and she thought. He's gonna be disappointed. You might as well pull him down now, so he's not disappointed. And I remember just thinking, why would anybody say that to any child or to the parents of any child?",
+    "moment_type": "barrier_encounter",
+    "life_stage": "adolescence",
+    "health_domain": "ADHD",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anger",
+      "frustration",
+      "confusion"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "lack_of_validation",
+      "stigma",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This is a classic barrier encounter with a healthcare provider, featuring strong signals of provider dismissal and lack of validation, which meets the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy Asuka",
+    "speaker_role": "patient",
+    "timestamp_start": "00:08:20",
+    "timestamp_end": "00:09:08",
+    "paragraph_ids": [
+      "p19",
+      "p20"
+    ],
+    "moment_text": "So I started to do the research and the more I researched, I discovered that there was a lot of pathology around A DHD. And you know, everybody focused on the weaknesses. But there were a few medical professionals that actually could see that, oh, and they all had a DHD by the way. They could see that, yeah, there were some challenges, but under the hood of every single one of those challenges were so many strengths. And so I started to study those strengths and I started to kind of counsel Marcus, and lo and behold, eight months later, it took me eight months to figure out. Oh my gosh, he got his A DHD from me.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "ADHD",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "hope",
+      "clarity",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment demonstrates a clear agency signal (seeking_information) in response to a barrier (lack_of_information), leading to a significant realization, which meets the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy Asuka",
+    "speaker_role": "patient",
+    "timestamp_start": "00:09:08",
+    "timestamp_end": "00:09:52",
+    "paragraph_ids": [
+      "p21",
+      "p22",
+      "p23"
+    ],
+    "moment_text": "I didn't even understand that. A DHD was highly genetic. And so, you know, the chances that, I mean, if he had a DHD, the chances that one of us, you know, rich or myself had a DHD was really, really strong. And so there were two things that got me to understand that, oh my gosh, he got his a DHD from me and one of them is that, um, drivenness is a form of hyperactivity and I was nothing if not driven. I didn't struggle in school like Marcus. But I had to work harder than everybody else. But when it came to entrepreneurial ventures, I was always out there front and center from the time I was eight years old, you know, trying to build businesses and sometimes being, you know, I was successful at building those businesses, but that was my fun.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "ADHD",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "clarity",
+      "recognition"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment explains a key realization based on overcoming an education gap about ADHD presentation, which contains barrier signals and meets the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy Asuka",
+    "speaker_role": "patient",
+    "timestamp_start": "00:10:10",
+    "timestamp_end": "00:10:50",
+    "paragraph_ids": [
+      "p26",
+      "p27"
+    ],
+    "moment_text": "The second thing was, one of the real strengths, especially for women with A DHD, is often interpersonal intuition. And what that means is you can walk into a room and no one even has to say anything. And it's almost like you can read the energy, you know? You know, the mood people are in, what's going on? You know, we're really, really good at that. And if you think about it, if you can't always rely on your brain that your brain is going to show up and perform for you, you hone other skills. And one of those skills is your intuition. Mm-hmm. And so sometimes we don't even know why the answer is x. We feel it, but because we can't show how we got to that answer, especially in school, we struggle.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "ADHD",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "validation",
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment provides educational content about a specific trait of ADHD in women and connects it to a barrier within the education system, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy Asuka",
+    "speaker_role": "patient",
+    "timestamp_start": "00:11:20",
+    "timestamp_end": "00:12:00",
+    "paragraph_ids": [
+      "p31",
+      "p32"
+    ],
+    "moment_text": "I wanna qualify this by first saying that. I was by no means an expert within eight months. I knew a lot, but there was so much to learn and I never say A DHD is a superpower because I understand that there are certain. Qualities or traits of A DHD can, which can really, um, be a struggle for some people. Typically, it's those people with a lot of trauma because the trauma brain is actually quite similar to the A DHD brain. And so if you have trauma on top of A DHD, those are, I'm gonna say women because that's who I work with. Those are the women who struggle the most.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "ADHD",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "clarity"
+    ],
+    "agency_signals": [
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment addresses the intersection of ADHD and trauma, a significant pattern, and contains barrier signals related to community narratives (stigma), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment explicitly mentions trauma in the context of ADHD, which is a significant point of nuance and potential sensitivity."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:02.050",
+    "timestamp_end": "00:00:31.050",
+    "paragraph_ids": [
+      "p2",
+      "p3",
+      "p4"
+    ],
+    "moment_text": "You wanted to know what were some, what was the, yeah, what was the journey like? So I had always been the kind of person. I was always trying to figure myself out. Um, I was all about self-development, personal development. You know, I did all of the, you know, I took all the exams, I read all the books. I went to the workshops, always trying to figure out. Who was I and what made me tick? I'd been like that my entire life. And so when I discovered, I still remember I was on my computer. I had actually been working with a coach and it really wasn't working, and I thought, oh, it's me. I'm just not coachable. Well, now I know no coaching works. But you need the right coach. You need a coach that understands the A DHD brain because we are not the kind of people if you tell us, oh, go do this. If we don't understand why we have to do it, we are gonna fight you at every turn. We are not those kind of people. And so that particular kind of coaching didn't work, but I'm sitting at my computer and all of a sudden I put two and two together.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "self_doubt",
+      "confusion"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "seeking_support",
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "training_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains barrier signals (training_gap) and agency signals (seeking_information, self_blame) related to a healthcare provider interaction, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker refers to a 'coach' which can be considered a type of provider in the wellness space, hence the system_interaction tag."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:31.050",
+    "timestamp_end": "00:01:28.050",
+    "paragraph_ids": [
+      "p5",
+      "p6",
+      "p7",
+      "p8"
+    ],
+    "moment_text": "And the way I did it was. I discovered I was trying to figure out my values again, I'm always, do you know, I'm, I'm, that's just who I was. What I discovered is my number one value is to challenge the status quo, and once I got that, everything clicked. Wait, I forgot what my values are, but. This is another thing with our A DHD brains. Like I will never forget my number one value, but I'll forget all the other ones. So living to my full potential family, authenticity, connection, right? And those all sounded so sweet and I'm not sweet, but once I put them under the umbrella. Of challenging the status quo. I was like, boom. It all came together and that is literally the next thing was me discovering that I had a DHD and I. Think that if I had not first gotten that challenging, the status quo part, I wouldn't have been able to see the A DHD. Because like a lot of women, we are socialized to be the good girls to work harder than everybody else, you know, to try so hard to. And if you've got the ambition and the drivenness. 'cause I'm so hyperactive, I have so much energy. We are the kind of people that are constantly achieving, but we never feel like we've achieved enough. And so having that all come together under the umbrella of. Challenging the status quo and A DHD. It was just light bulbs and fireworks because I finally understood why I am the way I am and why I do what I do.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "clarity",
+      "relief",
+      "validation"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional signals (clarity, validation) tied to a realization about a health identity, as well as barrier signals (stigma), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The system interaction is tagged as 'media' because the socialization of women to be 'good girls' is a cultural norm often perpetuated by media."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:28.050",
+    "timestamp_end": "00:02:42.050",
+    "paragraph_ids": [
+      "p9",
+      "p10",
+      "p11",
+      "p12"
+    ],
+    "moment_text": "And I hear that story from most A DHD women. And so once you can start beating yourself up about the things that you struggle with and A DHD brains tend we're brains of interest. So we tend to struggle with. The boring day to day like motherhood, you know, it's like Groundhog Day. It never ends. And thankfully, I had a husband, I have a husband who's a complete partner, so he took on a lot of that. But I am telling you, if it was up to me, my kids would never have eaten. I mean, the, and sometimes, you know, he'd have to go to a meeting in San Jose and so he'd be gone for, you know, most of the day. And my kids would literally come up to me and say, mom, I'm starving. And I'd look at my watch and I'd be like, oh my God, it's two o'clock and I forgot to feed my kids lunch. So it's that, you know, monotonous, day to day where. You know, we, we really thrive when we're doing something fun, when we're doing something challenging, when we're doing something social, when we're doing something new. And when there's fear and we gotta get things done. But that's not a way, you know, that's not the right way to live. So it's those day-to-day boring tasks like making sure the house is straightened. Not everybody's like that. I, and I am not, this is not, I, I've almost developed this anxiety around if my external surroundings are a mess, my brain can't function. So. I can be very neurotic about making sure that everything around me is. Perfect so that I'm not dealing with all that visual pollution and I can actually get to my work. But it, it's things like straightening the house. It's things like paying bills, it's things like keeping the car clean and making sure, you know, you get the oil changes. It's things like going to the doctor. It is those everyday things that most people can do that just bore us to tears. We wanna do the really hard stuff that we're interested in, and that is where we excel.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "anxiety",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional signals (anxiety, overwhelm) and a barrier signal within a family system interaction, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The life stage is set to 'reproductive_years' due to the specific context of motherhood and raising children."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:46.050",
+    "timestamp_end": "00:03:21.050",
+    "paragraph_ids": [
+      "p14",
+      "p15",
+      "p16"
+    ],
+    "moment_text": "Well, I remember literally slamming the desk and it was this kind of like, that's it. Oh my gosh. And then I was like, I wanted to learn more about it. Right? That is how our brains work. So I started a Facebook group and people were coming in right and left because obviously there were other women that wanted to be part of a Facebook group that. Learn together. That was my whole intention. I wanna learn with people. A couple months after that, I started a podcast and I was literally learning with the listeners. So I would take a subject every week and I would just explore it and I would do research and I would get the science behind it, and then I would teach it. And that's the best way, you know, we, we excel and learn at anything, right? Is by teaching. And so. It was right before COVID. I guess my timing was right. Everybody was learning about A DHD on social media, and so they wanted to know more, and that is how everything sort of blew up.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "clarity",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "sharing_story",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains multiple agency signals (seeking_information, sharing_story) and barrier signals (lack_of_support) within a peer community context, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker's actions to create a Facebook group and podcast are a direct response to a perceived lack of community support, making this a strong example of advocacy."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:21.050",
+    "timestamp_end": "00:04:06.050",
+    "paragraph_ids": [
+      "p18",
+      "p19",
+      "p20"
+    ],
+    "moment_text": "He really struggled in high school. He went to three high schools in four years. Never socially, it was always the teaching. And I have often said to him and other people that I feel like my son was the arbiter of good teaching. So if you have a child, or if you can relate to this in yourself, where there were certain subjects that you struggled with, with every teacher, like for example, me hated math. I didn't do that bad math, but you know, it was Bs B pluses and I just hated it. And then I remember having one class in trigonometry and I got the highest grade in the class. I got an a plus and I had been telling myself like Barbie all along, I suck at math. I'm like, Barbie, I can't do math. No, it was the teaching. And so if you have a child where you feel like there's certain classes that they shouldn't do well in that class, because, you know, they, they've never done well in that subject, but they take, you know, that class and they do, they just blow it out of the park. To me that is a sign of A DHD.",
+    "moment_type": "system_observation",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "frustration",
+      "validation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "training_gap",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains barrier signals (training_gap, education_gap) directly related to an education system interaction, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is reflecting on her son's experience in high school, making 'adolescence' the appropriate life stage for this moment."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:06.050",
+    "timestamp_end": "00:04:41.050",
+    "paragraph_ids": [
+      "p21",
+      "p22"
+    ],
+    "moment_text": "The other thing is if you have a child who there are certain subjects where they are just so interested in them, that's another kind of a red flag. You don't have the kind of child that just does well across the board. Maybe they do really poorly in everything else, but they're so highly creative because that's one of our biggest traits and creativity is not just creativity in terms of. Design and music and art and dance. Creativity can also be creativity of thought because what goes on with the A DHD brain is there are so many, it's like popcorn. There are so many thoughts popping up all over the place that we can get really distracted from, you know, the things we're supposed to do because we have all these thoughts. But the brilliance of all these thoughts is we also are able to make all these connections that your neurotypical, normal, average brain won't make.",
+    "moment_type": "education",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "education_gap",
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it identifies a barrier signal (education_gap) in the context of the education system, explaining how ADHD traits can be misinterpreted, which meets the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment is framed as educational content for parents or educators trying to understand signs of ADHD in children."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy",
+    "speaker_role": "caregiver",
+    "timestamp_start": "00:04:41.050",
+    "timestamp_end": "00:05:46.050",
+    "paragraph_ids": [
+      "p23",
+      "p24",
+      "p25"
+    ],
+    "moment_text": "So my son and I. I did my A DHD segue, and I'm gonna stick to the point now. He really struggled in high school and it was because of poor teaching. He got himself into trouble. He was playing football. He had a horrible football coach. He really struggled. So he went from that school to, it was a private school and he had all kinds of friends at the big public. I think there were 2,700 kids in the school, and he had come from, you know, always these small little schools. So he struggled there. He struggled at the second school because they promised to teach to interest and they did not at all. It was the same old thing, just it was expensive. And, um, the class sizes were so incredibly small of his junior year. We just looked at him and we sat and he was, he was depressed. We looked at him and he, we said to him, you may choose whatever school you wanna go to. We don't care. All we care is that you're happy and you're smiling. So, you know what he did? He went back to the Catholic high school. He killed it. It was that, and then that summer he went to go visit. He went to Germany and he stayed there for the summer with an exchange student that we had hosted when that kid was 15. And he traveled. My son loves to travel. He traveled all over Europe. By himself at 17 and he got off the plane. He did not wanna go to college. He thought education was a boondoggle. You know, there was nothing we could say he was not going to college. And I was like, okay, as long as you're doing something, I'm not gonna care. I just want you to be happy. You got off the plane. He said, I'm going to college. He had not done the acts, the sat, he didn't have a college counselor, he didn't have anything and.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "sadness",
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "training_gap",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains multiple signal types: emotional (sadness), agency (making_decisions), and barrier (training_gap) within an education system interaction, strongly meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker's role is tagged as 'caregiver' here as she is recounting her son's story from her perspective as his mother. The mention of depression warrants the mental_health_sensitivity flag."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "SPK_01",
+    "speaker_role": "caregiver",
+    "timestamp_start": "0:00:00",
+    "timestamp_end": "0:00:40",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "Literally within two months, he, he was also a rapper. I forgot to tell you this. And an audio engineer and he had taught himself. So what he ended up doing is in two months he took the a CT. He did not want a college counselor. He decided to go on his own to research all the colleges, and he did such an incredible job that the college counselor at a school told us that he was giving her advice on smaller, kind of more liberal arts colleges that she didn't really even know about. And he applied early decision to, NYU did a portfolio on social justice wrap. He's a quarter Japanese and he did it on, um, Korematsu, you know, the Korematsu decision he got in early decision to NYU.",
+    "moment_type": "lived_experience",
+    "life_stage": "adolescence",
+    "health_domain": "ADHD",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains agency signals (seeking_information, making_decisions) and involves a system interaction (education_system).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "SPK_01",
+    "speaker_role": "caregiver",
+    "timestamp_start": "0:00:40",
+    "timestamp_end": "0:01:45",
+    "paragraph_ids": [
+      "p4",
+      "p5",
+      "p6",
+      "p7"
+    ],
+    "moment_text": "He went through three majors in four years as well. Graduated, um, in four years. We still don't know how, you know, again, he, he started out in this, he was at Tisch, started out in this, um, music major. It was it, but it was a lot of writing and. It was about social justice and using the arts. He did really well in that, but wasn't interested, so he ended up applying to their economics program. Like me, he's all about business and building businesses. That's his forte. His math, uh, preparation from high school was so bad that he really struggled, and then we discovered he also had dyslexia. So it, there was something about the numbers and the letters and math, and again, a DHD brain, he could get you the answer, but he couldn't show you his work. So he ended up, um, changing majors again to sociology. Oh my God. That's okay. Which, you know. Again, I thought sociology. What kind of major is that? How do you get a job? He is killing it to the point where, and it's a sales position working with scientists, doctors, and lawyers. He has done so well since October that he's their rookie of the year already and he's going to, um, Switzerland to ski in the Alps in March.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "ADHD",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "frustration",
+      "confidence",
+      "relief"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "delayed_diagnosis",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains barrier signals (delayed_diagnosis, education_gap) and emotional signals within a system interaction (education_system).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "SPK_01",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:01:51",
+    "timestamp_end": "0:02:24",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "Thriving and my whole reason for reciting that story is simply to say if you have a child who is in that, you know, teenage range, just know it gets better and better as long as they are able to focus in an area of interest. Think that as parents to, to recognize that because we are so trained, it's ingrained in US society ingrained. Brains in us, our families do what we come from. And then of course, the system to go, go, go and achieve and be and have these pressures that there's a certain way, but life isn't linear. And if you have an A DHD brain, you have to think differently. So you have to be in faces that appreciate the way you think.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "ADHD",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "hope",
+      "validation"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains barrier, agency, and emotional signals within a system interaction (family).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "SPK_01",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:02:48",
+    "timestamp_end": "0:03:36",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "all we ever hear about is that hyperactive kind of little boy form of A DHD, but there is also an inattentive form of A DHD and women. Tend to be twice as, as much inattention as boys and men, which looks like that little girl that's sitting in the back of the classroom and she's daydreaming and she doesn't even realize she's in school, let alone what class, let alone what's, you know, what, um, lesson they're on until the teacher calls her name and she's like, you know, and she can't pay attention because she's. Her brain. Her brain is constantly moving, so the hyperactivity is actually internal instead of external.",
+    "moment_type": "education",
+    "life_stage": "adolescence",
+    "health_domain": "ADHD",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "isolation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "misdiagnosis",
+      "delayed_diagnosis",
+      "education_gap",
+      "training_gap",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains strong barrier signals (misdiagnosis, delayed_diagnosis) and emotional signals within a system interaction (education_system).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "SPK_01",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:03:41",
+    "timestamp_end": "0:04:06",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "They're actually, they look like really good kids. And those are the kids that nobody even pays attention. They just sort of feel like, oh, well that person must not be very smart, when in fact that's not true at all. So these are the kids that end up going home and trying to teach themselves, you know, the lessons so that they can do the homework and they can study because they could not pay attention in class.",
+    "moment_type": "education",
+    "life_stage": "adolescence",
+    "health_domain": "ADHD",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "isolation",
+      "self_doubt"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "stigma",
+      "education_gap",
+      "lack_of_validation",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains strong barrier, agency, and emotional signals within a system interaction (education_system).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "SPK_01",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:04:11",
+    "timestamp_end": "0:05:18",
+    "paragraph_ids": [
+      "p18",
+      "p19",
+      "p20"
+    ],
+    "moment_text": "I think that for too long, a DHD has been framed as a deficit, a disorder that needs fixing. I've never bought that. I don't buy that. By the way, there is actually a study out of Canada. No one ever talks about it, and it was a very large study that showed that 43% of people with A DHD are actually in excellent mental health. And so my job is to teach women to show women. That they're not disordered. They're just different. Much like Max in a Windows driven world who we just need a different manual and. I know that the A DHD brain comes with incredible strengths. I mean, I have literally worked with thousands of women with A DHD, and I've never met a one that wasn't truly brilliant at something. And so what I also know is when we stop focusing on what's wrong with us and start looking at what's right, everything changes. That's because, you know, whatever you focus on grows, right? It doesn't matter if it's, you know, the, the things that cause positive emotion or the things that cause negative emotion. So my thought is let's focus on the things that generate positive emotion. Because positive emotion actually helps us create dopamine, more dopamine in our brains, which is what we don't make enough of. So I think that shift alone. Of looking at the strengths of A DHD, it reduces shame, it reduces self-doubt, it gets rid of imposter syndrome, and those are the exact things that I believe crush mental wellness, certainly for A DHD brains, but literally for every brain.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "ADHD",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "relief",
+      "hope",
+      "shame"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture",
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains strong barrier, agency, and emotional signals within a system interaction (healthcare_provider).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "SPK_01",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:05:24",
+    "timestamp_end": "0:06:15",
+    "paragraph_ids": [
+      "p22",
+      "p23"
+    ],
+    "moment_text": "No, I wrote the book and I was like, this sucks. Which may be an a DH ADHD thing, right? I was so close to it, I couldn't even see it. I was like, this sucks. You're not a better writer. You're a worse writer than when you started. It really, it took me a whole year. I mean, the book's been out about a year now. It took me a whole year to finally be proud of having written this book. I couldn't even start to consider that I might be there until my editor, I was in New York City and I'm sitting there with my editor. She's like, I'm really proud of this book. And I thought, well, wait a minute. If she's proud of it. And she, I mean, they do hundreds of books like every year. I, I need to be proud of this. I couldn't quite get there though until I started to read the reviews and I started to get the dms and the emails and the, um, messages from women who said, this book changed my life.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "self_doubt",
+      "validation",
+      "relief"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains emotional signals (self_doubt, validation) and agency signals within a system interaction (peer_community).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "SPK_01",
+    "speaker_role": "advocate",
+    "timestamp_start": "0:06:22",
+    "timestamp_end": "0:07:09",
+    "paragraph_ids": [
+      "p25",
+      "p26"
+    ],
+    "moment_text": "But there's always going to be people, especially in this space where, you know, it is so much about the pathology and the weaknesses. Um, people get upset. If you talk about, oh my gosh. But it has these incredible strengths because they're so mired in No, um, you know, this is, um, this is a disability, this is a disorder, and. Unfortunately, if that's what you think, you will never be able to tap into the strengths of A DHD. It's really, it's so sad because then you're unlearned helplessness, right? You feel like you can't do anything, and so you do nothing and you just look around for people to do the stuff for you, which sometimes we have to do that, but. Often we can figure out our own way of doing things just because our way doesn't look like their way. The neurotypical way does not mean that our way of doing things isn't as legitimate.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "ADHD",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "validation",
+      "sadness"
+    ],
+    "agency_signals": [
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "education_gap",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains strong barrier, agency, and emotional signals within a system interaction (peer_community).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "I would say neurodivergence, as far as when we're talking about the brain is. Just a difference in how we receive the world. See the world learn differently. A lot of people that have. Neurodivergence also have a learning challenge. And it's not that they can't learn, it's that they learn differently. And I can't imagine a world where we're all the same. And especially with A DHD, which imparts so much creativity. I really believe that we are the ones that move society forward.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Neurodivergence",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment contains emotional signals (confidence, empowerment) and a system interaction (media), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p7",
+      "p8"
+    ],
+    "moment_text": "I, what I do is foundational work. I really believe that if you are on the highest tree. Who gives a damn if you're in the wrong forest? And I think so many women. Are working so hard in an area that they were told they should be in because it pays really well or it has prestige or, I don't know, their parents were the ones who said, this is what we think you should do. And I think that that is actually what breeds pathology, not being able to live to your potential, not being who you really are. And so my whole premise is I do the foundational work. I work with women on answering the questions of who are they really, what do they value? What are their strengths? What are their passions, talents, and skills that they built into superpowers, and then where is their purpose?",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "frustration",
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment contains multiple agency and emotional signals, along with a system interaction, which passes the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p17",
+      "p18",
+      "p19"
+    ],
+    "moment_text": "Instead of, I'm just thinking right now the way Neurotypicals are taught to manage their finances, like that's never going to work for us. And so what are the strategies that actually will work for you? And the thing is, if you do just a little bit. That's gonna generate positive emotion. Positive emotion generates dopamine, so you're much more likely to then do the next step and the step after that. And so it's kind of like an airplane runway where you know you're doing those little things. First thing I, I don't know about you, but I cannot sit at my desk and do, I can't eat that frog. I can't do the hardest thing, but I can do a bunch of little things that kind of ramp up the dopamine and then they get my plane off the ground.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Neurodivergence",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "frustration",
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment contains barrier, agency, and emotional signals, which meets the A2 evidence gate for promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p22",
+      "p23"
+    ],
+    "moment_text": "I guess what I would say is, and this is for everyone, A DHD or not, you are the expert on you do not abdicate your mental health to anyone. Doctors do not know more than you about what works for you, and the simple reason, I mean, they may know all the medical stuff, right. But bottom line, you are the only one that has that rudder inside yourself. You're the only one that has access to what actually makes you feel good.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "trust"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "making_decisions",
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment contains strong agency and emotional signals coupled with a direct system interaction (healthcare_provider), passing the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p25",
+      "p26",
+      "p28",
+      "p29",
+      "p30"
+    ],
+    "moment_text": "What a lot of women will do, they'll be prescribed medication, whether it's for anxiety, depression or A DHD. They start taking it and they feel worse and worse. But because the doctor said this is what you should take, they keep taking it and they literally lose. Track and sight of what it actually feels like to feel good so your doctor doesn't have access to that rudder, that thermometer inside you that tells you, okay, I'm feeling positive emotion versus negative emotion. So I really. I've met so many women that were on anxiety medication or depression medication for decades, and it never got better. And then lo and behold, they discover that, oh wait. It wasn't actually anxiety and depression at all, or underlay at all, was a DHD. And so when you treat the A DHD, the anxiety and depression also resolve, or at a minimum gets so much better.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "hopelessness",
+      "relief"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "misdiagnosis",
+      "delayed_diagnosis",
+      "lack_of_validation",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is rich with barrier signals (misdiagnosis, delayed_diagnosis) and describes a clear interaction with the healthcare system, making it highly eligible for insight promotion.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_010.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_010.docx",
+    "speaker_id": "Tracy",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p34",
+      "p35",
+      "p36",
+      "p37"
+    ],
+    "moment_text": "I don't care who you are. Focus on your strengths, not your weaknesses. I mean, if you think about it, has anybody moved society, moved the world, achieved greatness in their weaknesses? No. Focus on your strengths, because that's where all the positive emotion is. That's where the dopamine and the motivation and everything you need to be successful are. But I think as a society, you know, certainly in school it's always about like trying to get better at what you. Just naturally are not good at, and I think that's the wrong message.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment contains barrier, agency, and emotional signals and a clear system interaction (education_system), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

@@ -1,0 +1,2319 @@
+[
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C001-barriers-in-medical-training",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_001/M014",
+      "UTS_S4_PODCAST_001/M017",
+      "UTS_S4_PODCAST_002/M002",
+      "UTS_S4_PODCAST_002/M004",
+      "UTS_S4_PODCAST_002/M005",
+      "UTS_S4_PODCAST_003/M005",
+      "UTS_S4_PODCAST_001/M006"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_001.docx",
+      "UTS_S4_PODCAST_002.docx",
+      "UTS_S4_PODCAST_003.docx"
+    ],
+    "dominant_barriers": [
+      "lack_of_support",
+      "stigma",
+      "training_gap"
+    ],
+    "dominant_agency": [
+      "enduring",
+      "self_advocacy",
+      "making_decisions"
+    ],
+    "dominant_system_interaction": "medical_training",
+    "life_stage_coverage": [
+      "reproductive_years",
+      "pregnancy",
+      "cross_life_stage",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "overwhelm",
+      "isolation"
+    ],
+    "cluster_coherence_score": 0.85
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C002-lived-experience-as-clinical-expertise",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_001/M016",
+      "UTS_S4_PODCAST_002/M005",
+      "UTS_S4_PODCAST_002/M006",
+      "UTS_S4_PODCAST_004/M003",
+      "UTS_S4_PODCAST_004/M001",
+      "UTS_S4_PODCAST_002/M028"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_001.docx",
+      "UTS_S4_PODCAST_002.docx",
+      "UTS_S4_PODCAST_004.docx"
+    ],
+    "dominant_barriers": [
+      "fear_of_judgment",
+      "lack_of_validation"
+    ],
+    "dominant_agency": [
+      "sharing_story"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "midlife",
+      "adolescence"
+    ],
+    "dominant_emotions": [
+      "validation",
+      "connection",
+      "trust"
+    ],
+    "cluster_coherence_score": 0.9
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C003-social-isolation-and-community-as-antidote",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_001/M012",
+      "UTS_S4_PODCAST_001/M013",
+      "UTS_S4_PODCAST_002/M007",
+      "UTS_S4_PODCAST_003/M013",
+      "UTS_S4_PODCAST_003/M017",
+      "UTS_S4_PODCAST_004/M007",
+      "UTS_S4_PODCAST_004/M008"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_001.docx",
+      "UTS_S4_PODCAST_002.docx",
+      "UTS_S4_PODCAST_003.docx",
+      "UTS_S4_PODCAST_004.docx"
+    ],
+    "dominant_barriers": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "dominant_agency": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "dominant_system_interaction": "community",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "adolescence",
+      "reproductive_years"
+    ],
+    "dominant_emotions": [
+      "isolation",
+      "loneliness",
+      "connection",
+      "hope"
+    ],
+    "cluster_coherence_score": 0.88
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C004-destigmatizing-mental-health-in-practice",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_001/M012",
+      "UTS_S4_PODCAST_002/M027",
+      "UTS_S4_PODCAST_002/M028",
+      "UTS_S4_PODCAST_002/M029",
+      "UTS_S4_PODCAST_003/M009",
+      "UTS_S4_PODCAST_003/M010"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_001.docx",
+      "UTS_S4_PODCAST_002.docx",
+      "UTS_S4_PODCAST_003.docx"
+    ],
+    "dominant_barriers": [
+      "stigma",
+      "lack_of_language",
+      "fear_of_judgment"
+    ],
+    "dominant_agency": [
+      "seeking_care",
+      "seeking_support",
+      "self_advocacy"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "adolescence"
+    ],
+    "dominant_emotions": [
+      "empowerment",
+      "validation",
+      "hope"
+    ],
+    "cluster_coherence_score": 0.8
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C005-patient-empowerment-and-self-advocacy",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_002/M005",
+      "UTS_S4_PODCAST_003/M006",
+      "UTS_S4_PODCAST_004/M007",
+      "UTS_S4_PODCAST_004/M001",
+      "UTS_S4_PODCAST_003/M003",
+      "UTS_S4_PODCAST_003/M002"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_002.docx",
+      "UTS_S4_PODCAST_003.docx",
+      "UTS_S4_PODCAST_004.docx"
+    ],
+    "dominant_barriers": [
+      "provider_dismissal",
+      "lack_of_validation",
+      "fear_of_judgment"
+    ],
+    "dominant_agency": [
+      "self_advocacy",
+      "speaking_up",
+      "making_decisions"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "reproductive_years",
+      "adolescence"
+    ],
+    "dominant_emotions": [
+      "empowerment",
+      "confidence",
+      "frustration"
+    ],
+    "cluster_coherence_score": 0.92
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C006-public-narratives-shifting-stigma",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_004/M002",
+      "UTS_S4_PODCAST_004/M003",
+      "UTS_S4_PODCAST_004/M004",
+      "UTS_S4_PODCAST_004/M005",
+      "UTS_S4_PODCAST_004/M004",
+      "UTS_S4_PODCAST_002/M006"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_004.docx",
+      "UTS_S4_PODCAST_002.docx"
+    ],
+    "dominant_barriers": [
+      "stigma",
+      "silence"
+    ],
+    "dominant_agency": [
+      "speaking_up",
+      "sharing_story",
+      "self_advocacy"
+    ],
+    "dominant_system_interaction": "media",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "reproductive_years",
+      "adolescence"
+    ],
+    "dominant_emotions": [
+      "validation",
+      "hope",
+      "empowerment"
+    ],
+    "cluster_coherence_score": 0.95
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C007-holistic-vs-fragmented-care-models",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_004/M008",
+      "UTS_S4_PODCAST_004/M003",
+      "UTS_S4_PODCAST_002/M001",
+      "UTS_S4_PODCAST_004/M006",
+      "UTS_S4_PODCAST_004/M007",
+      "UTS_S4_PODCAST_004/M003"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_004.docx",
+      "UTS_S4_PODCAST_002.docx"
+    ],
+    "dominant_barriers": [
+      "fragmented_care",
+      "training_gap"
+    ],
+    "dominant_agency": [
+      "seeking_support",
+      "asking_questions"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "hope",
+      "validation",
+      "trust"
+    ],
+    "cluster_coherence_score": 0.82
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C008-navigating-identity-beyond-professional-roles",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_005/M002",
+      "UTS_S4_PODCAST_005/M003",
+      "UTS_S4_PODCAST_001/M018",
+      "UTS_S4_PODCAST_004/M021",
+      "UTS_S4_PODCAST_004/M024"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_005.docx",
+      "UTS_S4_PODCAST_001.docx",
+      "UTS_S4_PODCAST_004.docx"
+    ],
+    "dominant_barriers": [
+      "lack_of_validation",
+      "stigma"
+    ],
+    "dominant_agency": [
+      "making_decisions",
+      "asking_questions"
+    ],
+    "dominant_system_interaction": "workplace",
+    "life_stage_coverage": [
+      "midlife",
+      "cross_life_stage",
+      "reproductive_years"
+    ],
+    "dominant_emotions": [
+      "confusion",
+      "isolation",
+      "clarity"
+    ],
+    "cluster_coherence_score": 0.75
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C001-mental-health-education-gap",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_005/M006",
+      "UTS_S4_PODCAST_005/M016",
+      "UTS_S4_PODCAST_005/M018",
+      "UTS_S4_PODCAST_005/M019",
+      "UTS_S4_PODCAST_005/M003",
+      "UTS_S4_PODCAST_005/M004",
+      "UTS_S4_PODCAST_005/M010",
+      "UTS_S4_PODCAST_007/M007"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_005.docx",
+      "UTS_S4_PODCAST_007.docx"
+    ],
+    "dominant_barriers": [
+      "education_gap",
+      "stigma"
+    ],
+    "dominant_agency": [
+      "speaking_up"
+    ],
+    "dominant_system_interaction": "education_system",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "adolescence",
+      "reproductive_years"
+    ],
+    "dominant_emotions": [
+      "frustration"
+    ],
+    "cluster_coherence_score": 0.88
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C002-patient-expertise-vs-systemic-dismissal",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_006/M005",
+      "UTS_S4_PODCAST_006/M006",
+      "UTS_S4_PODCAST_006/M002",
+      "UTS_S4_PODCAST_006/M015",
+      "UTS_S4_PODCAST_008/M005"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_006.docx",
+      "UTS_S4_PODCAST_008.docx"
+    ],
+    "dominant_barriers": [
+      "provider_dismissal",
+      "lack_of_validation"
+    ],
+    "dominant_agency": [
+      "self_advocacy",
+      "speaking_up"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "midlife",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "empowerment"
+    ],
+    "cluster_coherence_score": 1
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C003-social-isolation-and-stigma",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_009/M002",
+      "UTS_S4_PODCAST_005/M026",
+      "UTS_S4_PODCAST_005/M028",
+      "UTS_S4_PODCAST_005/M001",
+      "UTS_S4_PODCAST_005/M017",
+      "UTS_S4_PODCAST_006/M005",
+      "UTS_S4_PODCAST_008/M006",
+      "UTS_S4_PODCAST_009/M005"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_009.docx",
+      "UTS_S4_PODCAST_005.docx",
+      "UTS_S4_PODCAST_006.docx",
+      "UTS_S4_PODCAST_008.docx"
+    ],
+    "dominant_barriers": [
+      "social_isolation",
+      "lack_of_support",
+      "stigma"
+    ],
+    "dominant_agency": [
+      "seeking_support"
+    ],
+    "dominant_system_interaction": "community",
+    "life_stage_coverage": [
+      "reproductive_years",
+      "cross_life_stage",
+      "midlife",
+      "adolescence"
+    ],
+    "dominant_emotions": [
+      "isolation",
+      "loneliness"
+    ],
+    "cluster_coherence_score": 0.75
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C004-mental-toll-of-cancer-diagnosis",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_006/M001",
+      "UTS_S4_PODCAST_006/M003",
+      "UTS_S4_PODCAST_006/M004",
+      "UTS_S4_PODCAST_006/M005",
+      "UTS_S4_PODCAST_006/M008"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_006.docx"
+    ],
+    "dominant_barriers": [],
+    "dominant_agency": [
+      "enduring"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "anxiety",
+      "fear",
+      "overwhelm",
+      "sadness"
+    ],
+    "cluster_coherence_score": 0.8
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C005-transforming-trauma-into-peer-support",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_006/M003",
+      "UTS_S4_PODCAST_006/M004",
+      "UTS_S4_PODCAST_009/M003",
+      "UTS_S4_PODCAST_007/M010",
+      "UTS_S4_PODCAST_009/M025",
+      "UTS_S4_PODCAST_005/M020"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_006.docx",
+      "UTS_S4_PODCAST_009.docx",
+      "UTS_S4_PODCAST_007.docx",
+      "UTS_S4_PODCAST_005.docx"
+    ],
+    "dominant_barriers": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "dominant_agency": [
+      "sharing_story",
+      "seeking_support"
+    ],
+    "dominant_system_interaction": "peer_community",
+    "life_stage_coverage": [
+      "midlife",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "empowerment",
+      "connection",
+      "hope"
+    ],
+    "cluster_coherence_score": 1
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C006-practice-of-setting-boundaries",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_005/M009",
+      "UTS_S4_PODCAST_005/M007",
+      "UTS_S4_PODCAST_006/M008",
+      "UTS_S4_PODCAST_008/M025",
+      "UTS_S4_PODCAST_005/M004"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_005.docx",
+      "UTS_S4_PODCAST_006.docx",
+      "UTS_S4_PODCAST_008.docx"
+    ],
+    "dominant_barriers": [
+      "fear_of_judgment"
+    ],
+    "dominant_agency": [
+      "setting_boundaries"
+    ],
+    "dominant_system_interaction": "family",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "empowerment",
+      "confidence"
+    ],
+    "cluster_coherence_score": 0.6
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C007-systemic-training-gaps-in-healthcare",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_008/M003",
+      "UTS_S4_PODCAST_008/M001",
+      "UTS_S4_PODCAST_008/M003",
+      "UTS_S4_PODCAST_008/M010",
+      "UTS_S4_PODCAST_006/M001",
+      "UTS_S4_PODCAST_005/M006"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_008.docx",
+      "UTS_S4_PODCAST_006.docx",
+      "UTS_S4_PODCAST_005.docx"
+    ],
+    "dominant_barriers": [
+      "training_gap",
+      "education_gap"
+    ],
+    "dominant_agency": [],
+    "dominant_system_interaction": "medical_training",
+    "life_stage_coverage": [
+      "reproductive_years",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "frustration"
+    ],
+    "cluster_coherence_score": 0.83
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C008-workplace-stigma-and-health-crises",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_006/M004",
+      "UTS_S4_PODCAST_006/M006",
+      "UTS_S4_PODCAST_005/M020",
+      "UTS_S4_PODCAST_009/M002"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_006.docx",
+      "UTS_S4_PODCAST_005.docx",
+      "UTS_S4_PODCAST_009.docx"
+    ],
+    "dominant_barriers": [
+      "stigma",
+      "fear_of_judgment"
+    ],
+    "dominant_agency": [
+      "speaking_up"
+    ],
+    "dominant_system_interaction": "workplace",
+    "life_stage_coverage": [
+      "midlife",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "empowerment"
+    ],
+    "cluster_coherence_score": 0.75
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-001",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_009/M001",
+      "UTS_S4_PODCAST_009/M002",
+      "UTS_S4_PODCAST_009/M005",
+      "UTS_S4_PODCAST_009/M006",
+      "UTS_S4_PODCAST_009/M008",
+      "UTS_S4_PODCAST_010/M008",
+      "UTS_S4_PODCAST_010/M006",
+      "UTS_S4_PODCAST_010/M008",
+      "UTS_S4_PODCAST_011/M002",
+      "UTS_S4_PODCAST_011/M003",
+      "UTS_S4_PODCAST_011/M006",
+      "UTS_S4_PODCAST_011/M007",
+      "UTS_S4_PODCAST_012/M025",
+      "UTS_S4_PODCAST_012/M001"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_009.docx",
+      "UTS_S4_PODCAST_010.docx",
+      "UTS_S4_PODCAST_011.docx",
+      "UTS_S4_PODCAST_012.docx"
+    ],
+    "dominant_barriers": [
+      "stigma",
+      "shame_culture",
+      "fear_of_judgment"
+    ],
+    "dominant_agency": [
+      "speaking_up",
+      "sharing_story",
+      "making_decisions"
+    ],
+    "dominant_system_interaction": "community",
+    "life_stage_coverage": [
+      "midlife",
+      "cross_life_stage",
+      "menopause_transition"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "empowerment",
+      "hope"
+    ],
+    "cluster_coherence_score": 0.71
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-002",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_009/M026",
+      "UTS_S4_PODCAST_010/M004",
+      "UTS_S4_PODCAST_011/M003",
+      "UTS_S4_PODCAST_011/M004",
+      "UTS_S4_PODCAST_011/M005",
+      "UTS_S4_PODCAST_012/M004",
+      "UTS_S4_PODCAST_012/M006",
+      "UTS_S4_PODCAST_012/M023",
+      "UTS_S4_PODCAST_011/M004"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_009.docx",
+      "UTS_S4_PODCAST_010.docx",
+      "UTS_S4_PODCAST_011.docx",
+      "UTS_S4_PODCAST_012.docx"
+    ],
+    "dominant_barriers": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "dominant_agency": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "dominant_system_interaction": "peer_community",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "midlife",
+      "reproductive_years",
+      "menopause_transition"
+    ],
+    "dominant_emotions": [
+      "hope",
+      "connection",
+      "empowerment",
+      "relief"
+    ],
+    "cluster_coherence_score": 0.89
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-003",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_010/M001",
+      "UTS_S4_PODCAST_010/M004",
+      "UTS_S4_PODCAST_010/M005",
+      "UTS_S4_PODCAST_013/M001",
+      "UTS_S4_PODCAST_013/M002",
+      "UTS_S4_PODCAST_013/M001",
+      "UTS_S4_PODCAST_013/M002",
+      "UTS_S4_PODCAST_013/M001",
+      "UTS_S4_PODCAST_013/M002",
+      "UTS_S4_PODCAST_014/M002",
+      "UTS_S4_PODCAST_014/M023"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_010.docx",
+      "UTS_S4_PODCAST_013.docx",
+      "UTS_S4_PODCAST_014.docx"
+    ],
+    "dominant_barriers": [
+      "training_gap",
+      "education_gap",
+      "lack_of_information"
+    ],
+    "dominant_agency": [],
+    "dominant_system_interaction": "medical_training",
+    "life_stage_coverage": [
+      "midlife",
+      "adolescence",
+      "cross_life_stage",
+      "menopause_transition"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "clarity"
+    ],
+    "cluster_coherence_score": 1
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-004",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_010/M004",
+      "UTS_S4_PODCAST_010/M005",
+      "UTS_S4_PODCAST_011/M001",
+      "UTS_S4_PODCAST_012/M001",
+      "UTS_S4_PODCAST_013/M003",
+      "UTS_S4_PODCAST_013/M002",
+      "UTS_S4_PODCAST_014/M001",
+      "UTS_S4_PODCAST_014/M002",
+      "UTS_S4_PODCAST_014/M022"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_010.docx",
+      "UTS_S4_PODCAST_011.docx",
+      "UTS_S4_PODCAST_012.docx",
+      "UTS_S4_PODCAST_013.docx",
+      "UTS_S4_PODCAST_014.docx"
+    ],
+    "dominant_barriers": [
+      "provider_dismissal",
+      "delayed_diagnosis",
+      "lack_of_validation",
+      "misdiagnosis"
+    ],
+    "dominant_agency": [
+      "seeking_care",
+      "enduring",
+      "self_advocacy"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "adolescence",
+      "midlife",
+      "cross_life_stage",
+      "menopause_transition"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "anger",
+      "anxiety",
+      "confusion"
+    ],
+    "cluster_coherence_score": 0.89
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C001_SystemicGapsInRelationalEducation",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_015/M007",
+      "UTS_S4_PODCAST_015/M001",
+      "UTS_S4_PODCAST_015/M002",
+      "UTS_S4_PODCAST_015/M003",
+      "UTS_S4_PODCAST_015/M004",
+      "UTS_S4_PODCAST_015/M005",
+      "UTS_S4_PODCAST_016/M002",
+      "UTS_S4_PODCAST_016/M004"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_015.docx",
+      "UTS_S4_PODCAST_016.docx"
+    ],
+    "dominant_barriers": [
+      "education_gap",
+      "lack_of_information",
+      "training_gap"
+    ],
+    "dominant_agency": [
+      "speaking_up",
+      "setting_boundaries"
+    ],
+    "dominant_system_interaction": "education_system",
+    "life_stage_coverage": [
+      "adolescence",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "hope",
+      "clarity"
+    ],
+    "cluster_coherence_score": 0.85
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C002_CommunityAsAPotectiveFactorAgainstIsolation",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_018/M010",
+      "UTS_S4_PODCAST_016/M010",
+      "UTS_S4_PODCAST_014/M014",
+      "UTS_S4_PODCAST_015/M006",
+      "UTS_S4_PODCAST_016/M008",
+      "UTS_S4_PODCAST_018/M013",
+      "UTS_S4_PODCAST_018/M001",
+      "UTS_S4_PODCAST_015/M005",
+      "UTS_S4_PODCAST_015/M006"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_018.docx",
+      "UTS_S4_PODCAST_016.docx",
+      "UTS_S4_PODCAST_014.docx",
+      "UTS_S4_PODCAST_015.docx"
+    ],
+    "dominant_barriers": [
+      "social_isolation"
+    ],
+    "dominant_agency": [
+      "seeking_support"
+    ],
+    "dominant_system_interaction": "peer_community",
+    "life_stage_coverage": [
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "hope",
+      "connection",
+      "belonging"
+    ],
+    "cluster_coherence_score": 0.9
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C003_TheBurdenOfSilenceAndShameInTrauma",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_015/M007",
+      "UTS_S4_PODCAST_015/M003",
+      "UTS_S4_PODCAST_015/M009",
+      "UTS_S4_PODCAST_015/M010",
+      "UTS_S4_PODCAST_015/M001",
+      "UTS_S4_PODCAST_015/M002",
+      "UTS_S4_PODCAST_015/M010",
+      "UTS_S4_PODCAST_016/M009",
+      "UTS_S4_PODCAST_017/M001",
+      "UTS_S4_PODCAST_017/M002"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_015.docx",
+      "UTS_S4_PODCAST_016.docx",
+      "UTS_S4_PODCAST_017.docx"
+    ],
+    "dominant_barriers": [
+      "stigma",
+      "silence",
+      "shame_culture"
+    ],
+    "dominant_agency": [
+      "silence",
+      "speaking_up"
+    ],
+    "dominant_system_interaction": "community",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "adolescence"
+    ],
+    "dominant_emotions": [
+      "shame",
+      "fear",
+      "isolation"
+    ],
+    "cluster_coherence_score": 0.7
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C004_ClinicianBurnoutAndTheNecessityOfBoundaries",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_014/M008",
+      "UTS_S4_PODCAST_018/M006",
+      "UTS_S4_PODCAST_014/M009",
+      "UTS_S4_PODCAST_015/M008",
+      "UTS_S4_PODCAST_015/M001",
+      "UTS_S4_PODCAST_018/M005",
+      "UTS_S4_PODCAST_016/M001",
+      "UTS_S4_PODCAST_016/M002"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_014.docx",
+      "UTS_S4_PODCAST_018.docx",
+      "UTS_S4_PODCAST_015.docx",
+      "UTS_S4_PODCAST_016.docx"
+    ],
+    "dominant_barriers": [
+      "lack_of_support",
+      "social_isolation"
+    ],
+    "dominant_agency": [
+      "setting_boundaries",
+      "seeking_support"
+    ],
+    "dominant_system_interaction": "workplace",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "overwhelm",
+      "connection"
+    ],
+    "cluster_coherence_score": 0.8
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C005_SystemicFragmentationInMentalHealthcare",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_016/M002",
+      "UTS_S4_PODCAST_016/M002",
+      "UTS_S4_PODCAST_016/M005",
+      "UTS_S4_PODCAST_016/M007",
+      "UTS_S4_PODCAST_016/M004",
+      "UTS_S4_PODCAST_018/M001",
+      "UTS_S4_PODCAST_016/M005",
+      "UTS_S4_PODCAST_018/M002"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_016.docx",
+      "UTS_S4_PODCAST_018.docx"
+    ],
+    "dominant_barriers": [
+      "fragmented_care",
+      "system_navigation_difficulty"
+    ],
+    "dominant_agency": [],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "confusion"
+    ],
+    "cluster_coherence_score": 0.95
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C006_TheActOfSelfAdvocacyAgainstDismissal",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_014/M015",
+      "UTS_S4_PODCAST_014/M013",
+      "UTS_S4_PODCAST_015/M008",
+      "UTS_S4_PODCAST_016/M002",
+      "UTS_S4_PODCAST_015/M013",
+      "UTS_S4_PODCAST_016/M005"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_014.docx",
+      "UTS_S4_PODCAST_015.docx",
+      "UTS_S4_PODCAST_016.docx"
+    ],
+    "dominant_barriers": [
+      "provider_dismissal",
+      "lack_of_validation"
+    ],
+    "dominant_agency": [
+      "self_advocacy",
+      "making_decisions",
+      "speaking_up"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "adolescence"
+    ],
+    "dominant_emotions": [
+      "empowerment",
+      "hope",
+      "confidence"
+    ],
+    "cluster_coherence_score": 0.75
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C007_TheImpactOfToxicAndMisalignedWorkplaceCultures",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_017/M010",
+      "UTS_S4_PODCAST_017/M009",
+      "UTS_S4_PODCAST_017/M004",
+      "UTS_S4_PODCAST_017/M006",
+      "UTS_S4_PODCAST_017/M007",
+      "UTS_S4_PODCAST_017/M008",
+      "UTS_S4_PODCAST_017/M002",
+      "UTS_S4_PODCAST_017/M003",
+      "UTS_S4_PODCAST_017/M004"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_017.docx"
+    ],
+    "dominant_barriers": [
+      "stigma",
+      "lack_of_support",
+      "training_gap"
+    ],
+    "dominant_agency": [
+      "withdrawing",
+      "enduring"
+    ],
+    "dominant_system_interaction": "workplace",
+    "life_stage_coverage": [
+      "reproductive_years",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "hopelessness"
+    ],
+    "cluster_coherence_score": 0.9
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C008_TheUnspokenBurdenOfHighAchievingWomen",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_018/M003",
+      "UTS_S4_PODCAST_018/M004",
+      "UTS_S4_PODCAST_018/M008",
+      "UTS_S4_PODCAST_017/M008",
+      "UTS_S4_PODCAST_018/M006"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_018.docx",
+      "UTS_S4_PODCAST_017.docx"
+    ],
+    "dominant_barriers": [
+      "lack_of_validation",
+      "stigma",
+      "shame_culture"
+    ],
+    "dominant_agency": [
+      "enduring"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "reproductive_years",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "self_doubt",
+      "hopelessness",
+      "overwhelm"
+    ],
+    "cluster_coherence_score": 0.8
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-20240520-001",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_019/M004",
+      "UTS_S4_PODCAST_020/M002",
+      "UTS_S4_PODCAST_021/M006",
+      "UTS_S4_PODCAST_019/M030",
+      "UTS_S4_PODCAST_019/M003",
+      "UTS_S4_PODCAST_019/M038"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_019.docx",
+      "UTS_S4_PODCAST_020.docx",
+      "UTS_S4_PODCAST_021.docx"
+    ],
+    "dominant_barriers": [
+      "education_gap",
+      "training_gap"
+    ],
+    "dominant_agency": [],
+    "dominant_system_interaction": "medical_training",
+    "life_stage_coverage": [
+      "postpartum"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "self_doubt",
+      "empowerment"
+    ],
+    "cluster_coherence_score": 0.67
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-20240520-002",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_019/M002",
+      "UTS_S4_PODCAST_023/M001",
+      "UTS_S4_PODCAST_019/M008",
+      "UTS_S4_PODCAST_019/M009",
+      "UTS_S4_PODCAST_021/M001",
+      "UTS_S4_PODCAST_021/M013"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_019.docx",
+      "UTS_S4_PODCAST_023.docx",
+      "UTS_S4_PODCAST_021.docx"
+    ],
+    "dominant_barriers": [
+      "lack_of_support"
+    ],
+    "dominant_agency": [],
+    "dominant_system_interaction": "workplace",
+    "life_stage_coverage": [
+      "reproductive_years",
+      "midlife",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "overwhelm",
+      "self_doubt"
+    ],
+    "cluster_coherence_score": 0.67
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-20240520-003",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_018/M009",
+      "UTS_S4_PODCAST_019/M001",
+      "UTS_S4_PODCAST_018/M003",
+      "UTS_S4_PODCAST_018/M010",
+      "UTS_S4_PODCAST_019/M005",
+      "UTS_S4_PODCAST_019/M008",
+      "UTS_S4_PODCAST_019/M001",
+      "UTS_S4_PODCAST_020/M002",
+      "UTS_S4_PODCAST_020/M005",
+      "UTS_S4_PODCAST_021/M015"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_018.docx",
+      "UTS_S4_PODCAST_019.docx",
+      "UTS_S4_PODCAST_020.docx",
+      "UTS_S4_PODCAST_021.docx"
+    ],
+    "dominant_barriers": [],
+    "dominant_agency": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "dominant_system_interaction": "peer_community",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "postpartum",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "validation",
+      "connection",
+      "hope"
+    ],
+    "cluster_coherence_score": 1
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-20240520-004",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_019/M002",
+      "UTS_S4_PODCAST_020/M004",
+      "UTS_S4_PODCAST_019/M006",
+      "UTS_S4_PODCAST_020/M008",
+      "UTS_S4_PODCAST_021/M010"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_019.docx",
+      "UTS_S4_PODCAST_020.docx",
+      "UTS_S4_PODCAST_021.docx"
+    ],
+    "dominant_barriers": [
+      "system_navigation_difficulty",
+      "access_barrier",
+      "fragmented_care"
+    ],
+    "dominant_agency": [],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "pregnancy",
+      "postpartum",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "hopelessness",
+      "overwhelm"
+    ],
+    "cluster_coherence_score": 1
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-20240520-005",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_018/M006",
+      "UTS_S4_PODCAST_019/M005",
+      "UTS_S4_PODCAST_020/M009",
+      "UTS_S4_PODCAST_023/M003",
+      "UTS_S4_PODCAST_021/M014"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_018.docx",
+      "UTS_S4_PODCAST_019.docx",
+      "UTS_S4_PODCAST_020.docx",
+      "UTS_S4_PODCAST_023.docx",
+      "UTS_S4_PODCAST_021.docx"
+    ],
+    "dominant_barriers": [],
+    "dominant_agency": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "dominant_system_interaction": "family",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "empowerment",
+      "relief",
+      "clarity"
+    ],
+    "cluster_coherence_score": 0.6
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C001-Patient-Advocacy-Against-Dismissal",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_028/M001",
+      "UTS_S4_PODCAST_028/M002",
+      "UTS_S4_PODCAST_028/M003",
+      "UTS_S4_PODCAST_028/M004",
+      "UTS_S4_PODCAST_028/M007",
+      "UTS_S4_PODCAST_028/M010",
+      "UTS_S4_PODCAST_027/M027",
+      "UTS_S4_PODCAST_027/M021",
+      "UTS_S4_PODCAST_028/M029"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_028.docx",
+      "UTS_S4_PODCAST_027.docx"
+    ],
+    "dominant_barriers": [
+      "provider_dismissal",
+      "delayed_diagnosis"
+    ],
+    "dominant_agency": [
+      "self_advocacy",
+      "speaking_up"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "reproductive_years",
+      "postpartum",
+      "cross_life_stage",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "empowerment"
+    ],
+    "cluster_coherence_score": 0.9
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C002-Systemic-Gaps-in-Womens-Health-Education",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_028/M005",
+      "UTS_S4_PODCAST_027/M001",
+      "UTS_S4_PODCAST_026/M005",
+      "UTS_S4_PODCAST_026/M003",
+      "UTS_S4_PODCAST_028/M006",
+      "UTS_S4_PODCAST_026/M004",
+      "UTS_S4_PODCAST_026/M006",
+      "UTS_S4_PODCAST_029/M004",
+      "UTS_S4_PODCAST_027/M025"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_028.docx",
+      "UTS_S4_PODCAST_027.docx",
+      "UTS_S4_PODCAST_026.docx",
+      "UTS_S4_PODCAST_029.docx"
+    ],
+    "dominant_barriers": [
+      "education_gap",
+      "training_gap",
+      "lack_of_information"
+    ],
+    "dominant_agency": [],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "menopause_transition",
+      "midlife",
+      "reproductive_years",
+      "postpartum"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "confusion"
+    ],
+    "cluster_coherence_score": 0.85
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C003-Setting-Boundaries-in-the-Workplace",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_023/M008",
+      "UTS_S4_PODCAST_023/M001",
+      "UTS_S4_PODCAST_027/M004",
+      "UTS_S4_PODCAST_025/M004"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_023.docx",
+      "UTS_S4_PODCAST_027.docx",
+      "UTS_S4_PODCAST_025.docx"
+    ],
+    "dominant_barriers": [],
+    "dominant_agency": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "dominant_system_interaction": "workplace",
+    "life_stage_coverage": [
+      "midlife",
+      "postpartum",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "empowerment",
+      "relief",
+      "calm"
+    ],
+    "cluster_coherence_score": 1
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C004-Setting-Boundaries-within-the-Family",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_026/M001",
+      "UTS_S4_PODCAST_024/M004",
+      "UTS_S4_PODCAST_024/M008",
+      "UTS_S4_PODCAST_024/M003"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_026.docx",
+      "UTS_S4_PODCAST_024.docx"
+    ],
+    "dominant_barriers": [
+      "lack_of_support"
+    ],
+    "dominant_agency": [
+      "setting_boundaries",
+      "speaking_up"
+    ],
+    "dominant_system_interaction": "family",
+    "life_stage_coverage": [
+      "reproductive_years",
+      "midlife",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "empowerment",
+      "frustration"
+    ],
+    "cluster_coherence_score": 0.95
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C005-Overcoming-Isolation-through-Community",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_026/M008",
+      "UTS_S4_PODCAST_025/M001",
+      "UTS_S4_PODCAST_029/M006",
+      "UTS_S4_PODCAST_026/M006",
+      "UTS_S4_PODCAST_026/M007",
+      "UTS_S4_PODCAST_028/M022",
+      "UTS_S4_PODCAST_028/M026",
+      "UTS_S4_PODCAST_027/M002",
+      "UTS_S4_PODCAST_024/M005"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_026.docx",
+      "UTS_S4_PODCAST_025.docx",
+      "UTS_S4_PODCAST_029.docx",
+      "UTS_S4_PODCAST_028.docx",
+      "UTS_S4_PODCAST_027.docx",
+      "UTS_S4_PODCAST_024.docx"
+    ],
+    "dominant_barriers": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "dominant_agency": [
+      "sharing_story",
+      "seeking_support"
+    ],
+    "dominant_system_interaction": "peer_community",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "adolescence",
+      "menopause_transition",
+      "reproductive_years",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "validation",
+      "connection",
+      "empowerment"
+    ],
+    "cluster_coherence_score": 0.75
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C006-Navigating-Fragmented-Care-and-System-Failures",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_026/M003",
+      "UTS_S4_PODCAST_028/M008",
+      "UTS_S4_PODCAST_028/M009",
+      "UTS_S4_PODCAST_028/M001",
+      "UTS_S4_PODCAST_028/M020"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_026.docx",
+      "UTS_S4_PODCAST_028.docx"
+    ],
+    "dominant_barriers": [
+      "system_navigation_difficulty",
+      "fragmented_care",
+      "lack_of_information"
+    ],
+    "dominant_agency": [
+      "seeking_care",
+      "seeking_information"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "menopause_transition",
+      "midlife",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "overwhelm"
+    ],
+    "cluster_coherence_score": 0.8
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C001_SeekingProfessionalMentalHealthcare",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_030/M001",
+      "UTS_S4_PODCAST_030/M003",
+      "UTS_S4_PODCAST_030/M006",
+      "UTS_S4_PODCAST_031/M002",
+      "UTS_S4_PODCAST_031/M003",
+      "UTS_S4_PODCAST_033/M006"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_030.docx",
+      "UTS_S4_PODCAST_031.docx",
+      "UTS_S4_PODCAST_033.docx"
+    ],
+    "dominant_barriers": [
+      "lack_of_support",
+      "lack_of_information",
+      "education_gap"
+    ],
+    "dominant_agency": [
+      "seeking_care",
+      "seeking_support"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "reproductive_years",
+      "midlife",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "relief",
+      "hope",
+      "self_doubt"
+    ],
+    "cluster_coherence_score": 0.67
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C002_ChallengingSystemicGapsInHealthcare",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_032/M003",
+      "UTS_S4_PODCAST_030/M004",
+      "UTS_S4_PODCAST_033/M004",
+      "UTS_S4_PODCAST_032/M002",
+      "UTS_S4_PODCAST_032/M003",
+      "UTS_S4_PODCAST_033/M006",
+      "UTS_S4_PODCAST_033/M007"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_032.docx",
+      "UTS_S4_PODCAST_030.docx",
+      "UTS_S4_PODCAST_033.docx"
+    ],
+    "dominant_barriers": [
+      "training_gap",
+      "education_gap",
+      "provider_dismissal",
+      "lack_of_information"
+    ],
+    "dominant_agency": [
+      "seeking_information",
+      "self_advocacy",
+      "speaking_up"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "clarity",
+      "empowerment"
+    ],
+    "cluster_coherence_score": 0.86
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C003_OvercomingSocialIsolationAndFearOfJudgment",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_029/M003",
+      "UTS_S4_PODCAST_029/M004",
+      "UTS_S4_PODCAST_029/M006",
+      "UTS_S4_PODCAST_031/M003",
+      "UTS_S4_PODCAST_032/M001",
+      "UTS_S4_PODCAST_032/M004",
+      "UTS_S4_PODCAST_033/M002"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_029.docx",
+      "UTS_S4_PODCAST_031.docx",
+      "UTS_S4_PODCAST_032.docx",
+      "UTS_S4_PODCAST_033.docx"
+    ],
+    "dominant_barriers": [
+      "fear_of_judgment",
+      "social_isolation",
+      "stigma"
+    ],
+    "dominant_agency": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "dominant_system_interaction": "peer_community",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "relief",
+      "confidence",
+      "empowerment",
+      "isolation"
+    ],
+    "cluster_coherence_score": 0.86
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C004_IdentityLossAndReinventionAfterCareerTransition",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_034/M003",
+      "UTS_S4_PODCAST_030/M001",
+      "UTS_S4_PODCAST_030/M003",
+      "UTS_S4_PODCAST_034/M008",
+      "UTS_S4_PODCAST_034/M009",
+      "UTS_S4_PODCAST_030/M001"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_034.docx",
+      "UTS_S4_PODCAST_030.docx"
+    ],
+    "dominant_barriers": [
+      "stigma"
+    ],
+    "dominant_agency": [
+      "making_decisions",
+      "enduring",
+      "withdrawing"
+    ],
+    "dominant_system_interaction": "workplace",
+    "life_stage_coverage": [
+      "reproductive_years",
+      "midlife",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "sadness",
+      "confusion",
+      "isolation",
+      "grief",
+      "self_doubt"
+    ],
+    "cluster_coherence_score": 0.67
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C005_SharingStoriesForConnectionAndValidation",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_031/M001",
+      "UTS_S4_PODCAST_032/M005",
+      "UTS_S4_PODCAST_033/M005",
+      "UTS_S4_PODCAST_030/M008",
+      "UTS_S4_PODCAST_033/M004",
+      "UTS_S4_PODCAST_033/M005"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_031.docx",
+      "UTS_S4_PODCAST_032.docx",
+      "UTS_S4_PODCAST_033.docx",
+      "UTS_S4_PODCAST_030.docx"
+    ],
+    "dominant_barriers": [
+      "silence"
+    ],
+    "dominant_agency": [
+      "sharing_story"
+    ],
+    "dominant_system_interaction": "media",
+    "life_stage_coverage": [
+      "midlife",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "validation",
+      "connection",
+      "relief"
+    ],
+    "cluster_coherence_score": 0.83
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-001",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_038/M005",
+      "UTS_S4_PODCAST_036/M001",
+      "UTS_S4_PODCAST_038/M006",
+      "UTS_S4_PODCAST_036/M002",
+      "UTS_S4_PODCAST_038/UTS_S4_PODCAST_038_M010",
+      "UTS_S4_PODCAST_038/M003"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_038.docx",
+      "UTS_S4_PODCAST_036.docx"
+    ],
+    "dominant_barriers": [
+      "silence",
+      "stigma",
+      "education_gap"
+    ],
+    "dominant_agency": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "dominant_system_interaction": "peer_community",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "menopause_transition"
+    ],
+    "dominant_emotions": [
+      "connection",
+      "hope",
+      "validation"
+    ],
+    "cluster_coherence_score": 0.9
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-002",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_039/M001",
+      "UTS_S4_PODCAST_039/M003",
+      "UTS_S4_PODCAST_037/M011",
+      "UTS_S4_PODCAST_038/M008",
+      "UTS_S4_PODCAST_038/M009",
+      "UTS_S4_PODCAST_037/M003"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_039.docx",
+      "UTS_S4_PODCAST_037.docx",
+      "UTS_S4_PODCAST_038.docx"
+    ],
+    "dominant_barriers": [
+      "training_gap",
+      "education_gap",
+      "fragmented_care"
+    ],
+    "dominant_agency": [
+      "seeking_information",
+      "asking_questions"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "postpartum",
+      "pregnancy"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "clarity"
+    ],
+    "cluster_coherence_score": 0.85
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-003",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_037/M004",
+      "UTS_S4_PODCAST_037/M005",
+      "UTS_S4_PODCAST_035/M001",
+      "UTS_S4_PODCAST_035/M005",
+      "UTS_S4_PODCAST_036/M006",
+      "UTS_S4_PODCAST_036/M014"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_037.docx",
+      "UTS_S4_PODCAST_035.docx",
+      "UTS_S4_PODCAST_036.docx"
+    ],
+    "dominant_barriers": [
+      "lack_of_support",
+      "time_constraint"
+    ],
+    "dominant_agency": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "dominant_system_interaction": "family",
+    "life_stage_coverage": [
+      "midlife",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "overwhelm",
+      "clarity",
+      "calm"
+    ],
+    "cluster_coherence_score": 0.8
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-004",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_039/M001",
+      "UTS_S4_PODCAST_037/M001",
+      "UTS_S4_PODCAST_037/M002",
+      "UTS_S4_PODCAST_037/M011",
+      "UTS_S4_PODCAST_035/M040",
+      "UTS_S4_PODCAST_038/M005"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_039.docx",
+      "UTS_S4_PODCAST_037.docx",
+      "UTS_S4_PODCAST_035.docx",
+      "UTS_S4_PODCAST_038.docx"
+    ],
+    "dominant_barriers": [
+      "fragmented_care",
+      "system_navigation_difficulty"
+    ],
+    "dominant_agency": [],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "midlife",
+      "cross_life_stage",
+      "menopause_transition"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "overwhelm"
+    ],
+    "cluster_coherence_score": 0.95
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-005",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_036/M001",
+      "UTS_S4_PODCAST_036/M002",
+      "UTS_S4_PODCAST_036/M003",
+      "UTS_S4_PODCAST_034/M007",
+      "UTS_S4_PODCAST_036/M022",
+      "UTS_S4_PODCAST_036/M001"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_036.docx",
+      "UTS_S4_PODCAST_034.docx"
+    ],
+    "dominant_barriers": [
+      "stigma",
+      "silence"
+    ],
+    "dominant_agency": [
+      "seeking_support",
+      "speaking_up"
+    ],
+    "dominant_system_interaction": "peer_community",
+    "life_stage_coverage": [
+      "reproductive_years",
+      "cross_life_stage",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "self_doubt",
+      "clarity",
+      "empowerment"
+    ],
+    "cluster_coherence_score": 0.7
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-006",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_036/M009",
+      "UTS_S4_PODCAST_036/M003",
+      "UTS_S4_PODCAST_036/M006",
+      "UTS_S4_PODCAST_037/M001",
+      "UTS_S4_PODCAST_038/M002",
+      "UTS_S4_PODCAST_035/M005"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_036.docx",
+      "UTS_S4_PODCAST_037.docx",
+      "UTS_S4_PODCAST_038.docx",
+      "UTS_S4_PODCAST_035.docx"
+    ],
+    "dominant_barriers": [
+      "lack_of_support",
+      "social_isolation"
+    ],
+    "dominant_agency": [
+      "seeking_support"
+    ],
+    "dominant_system_interaction": "community",
+    "life_stage_coverage": [
+      "midlife",
+      "cross_life_stage",
+      "adolescence"
+    ],
+    "dominant_emotions": [
+      "hope",
+      "connection",
+      "empowerment"
+    ],
+    "cluster_coherence_score": 0.9
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-007",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_035/M002",
+      "UTS_S4_PODCAST_035/M003",
+      "UTS_S4_PODCAST_035/M004",
+      "UTS_S4_PODCAST_035/M005",
+      "UTS_S4_PODCAST_035/M043",
+      "UTS_S4_PODCAST_035/M044",
+      "UTS_S4_PODCAST_035/M045"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_035.docx"
+    ],
+    "dominant_barriers": [
+      "social_isolation",
+      "education_gap"
+    ],
+    "dominant_agency": [
+      "setting_boundaries"
+    ],
+    "dominant_system_interaction": "media",
+    "life_stage_coverage": [
+      "adolescence",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "isolation",
+      "self_doubt",
+      "frustration"
+    ],
+    "cluster_coherence_score": 0.65
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C001-systemic-dismissal",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_042/M005",
+      "UTS_S4_PODCAST_043/M003",
+      "UTS_S4_PODCAST_042/M003",
+      "UTS_S4_PODCAST_043/M001",
+      "UTS_S4_PODCAST_039/M007",
+      "UTS_S4_PODCAST_040/M003",
+      "UTS_S4_PODCAST_042/M002"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_042.docx",
+      "UTS_S4_PODCAST_043.docx",
+      "UTS_S4_PODCAST_039.docx",
+      "UTS_S4_PODCAST_040.docx"
+    ],
+    "dominant_barriers": [
+      "provider_dismissal",
+      "symptoms_normalized_without_context",
+      "lack_of_validation",
+      "training_gap"
+    ],
+    "dominant_agency": [
+      "seeking_care",
+      "speaking_up"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "reproductive_years",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "anger",
+      "sadness",
+      "validation"
+    ],
+    "cluster_coherence_score": 0.85
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C002-cultural-silence",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_040/M002",
+      "UTS_S4_PODCAST_040/M004",
+      "UTS_S4_PODCAST_040/M005",
+      "UTS_S4_PODCAST_041/M002",
+      "UTS_S4_PODCAST_042/M001",
+      "UTS_S4_PODCAST_043/M006",
+      "UTS_S4_PODCAST_040/M008"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_040.docx",
+      "UTS_S4_PODCAST_041.docx",
+      "UTS_S4_PODCAST_042.docx",
+      "UTS_S4_PODCAST_043.docx"
+    ],
+    "dominant_barriers": [
+      "stigma",
+      "shame_culture",
+      "silence",
+      "social_isolation"
+    ],
+    "dominant_agency": [
+      "silence",
+      "enduring",
+      "self_blame"
+    ],
+    "dominant_system_interaction": "family",
+    "life_stage_coverage": [
+      "reproductive_years",
+      "adolescence",
+      "midlife",
+      "postpartum",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "isolation",
+      "shame",
+      "grief",
+      "sadness",
+      "loneliness"
+    ],
+    "cluster_coherence_score": 0.75
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C003-peer-storytelling-as-lifeline",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_040/M009",
+      "UTS_S4_PODCAST_040/M010",
+      "UTS_S4_PODCAST_040/M013",
+      "UTS_S4_PODCAST_042/M003",
+      "UTS_S4_PODCAST_043/M003",
+      "UTS_S4_PODCAST_042/M001",
+      "UTS_S4_PODCAST_040/M006"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_040.docx",
+      "UTS_S4_PODCAST_042.docx",
+      "UTS_S4_PODCAST_043.docx"
+    ],
+    "dominant_barriers": [
+      "social_isolation",
+      "silence",
+      "lack_of_validation"
+    ],
+    "dominant_agency": [
+      "sharing_story",
+      "speaking_up",
+      "seeking_support"
+    ],
+    "dominant_system_interaction": "peer_community",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "postpartum",
+      "reproductive_years"
+    ],
+    "dominant_emotions": [
+      "validation",
+      "connection",
+      "empowerment",
+      "hope"
+    ],
+    "cluster_coherence_score": 0.9
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C004-navigating-fragmented-care",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_039/M006",
+      "UTS_S4_PODCAST_039/M003",
+      "UTS_S4_PODCAST_040/M003",
+      "UTS_S4_PODCAST_043/M002",
+      "UTS_S4_PODCAST_044/M005",
+      "UTS_S4_PODCAST_039/M005"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_039.docx",
+      "UTS_S4_PODCAST_040.docx",
+      "UTS_S4_PODCAST_043.docx",
+      "UTS_S4_PODCAST_044.docx"
+    ],
+    "dominant_barriers": [
+      "fragmented_care",
+      "system_navigation_difficulty",
+      "education_gap",
+      "lack_of_information"
+    ],
+    "dominant_agency": [
+      "seeking_care",
+      "seeking_information"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "reproductive_years",
+      "aging",
+      "menopause_transition"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "overwhelm",
+      "confusion"
+    ],
+    "cluster_coherence_score": 0.8
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C005-agency-through-self-advocacy",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_043/M002",
+      "UTS_S4_PODCAST_043/M003",
+      "UTS_S4_PODCAST_042/M002",
+      "UTS_S4_PODCAST_041/M014",
+      "UTS_S4_PODCAST_043/M001",
+      "UTS_S4_PODCAST_044/M004"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_043.docx",
+      "UTS_S4_PODCAST_042.docx",
+      "UTS_S4_PODCAST_041.docx",
+      "UTS_S4_PODCAST_044.docx"
+    ],
+    "dominant_barriers": [],
+    "dominant_agency": [
+      "self_advocacy",
+      "making_decisions",
+      "seeking_information",
+      "setting_boundaries"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "reproductive_years",
+      "cross_life_stage",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "empowerment",
+      "confidence",
+      "clarity"
+    ],
+    "cluster_coherence_score": 0.7
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C006-intergenerational-trauma-and-awakening",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_041/M002",
+      "UTS_S4_PODCAST_041/M002",
+      "UTS_S4_PODCAST_041/M006",
+      "UTS_S4_PODCAST_041/M001",
+      "UTS_S4_PODCAST_042/M006",
+      "UTS_S4_PODCAST_044/M003"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_041.docx",
+      "UTS_S4_PODCAST_042.docx",
+      "UTS_S4_PODCAST_044.docx"
+    ],
+    "dominant_barriers": [
+      "education_gap",
+      "silence",
+      "stigma",
+      "lack_of_information"
+    ],
+    "dominant_agency": [
+      "seeking_information",
+      "sharing_story"
+    ],
+    "dominant_system_interaction": "family",
+    "life_stage_coverage": [
+      "midlife",
+      "cross_life_stage",
+      "reproductive_years"
+    ],
+    "dominant_emotions": [
+      "grief",
+      "sadness",
+      "fear",
+      "anxiety"
+    ],
+    "cluster_coherence_score": 0.8
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C007-caregiver-burden-and-resilience",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_044/M001",
+      "UTS_S4_PODCAST_044/M003",
+      "UTS_S4_PODCAST_044/M001",
+      "UTS_S4_PODCAST_044/M002",
+      "UTS_S4_PODCAST_044/M003"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_044.docx"
+    ],
+    "dominant_barriers": [
+      "lack_of_support",
+      "lack_of_validation",
+      "social_isolation"
+    ],
+    "dominant_agency": [
+      "enduring",
+      "making_decisions"
+    ],
+    "dominant_system_interaction": "family",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "reproductive_years",
+      "aging"
+    ],
+    "dominant_emotions": [
+      "sadness",
+      "overwhelm",
+      "grief",
+      "anxiety"
+    ],
+    "cluster_coherence_score": 0.65
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-WORKPLACE-STIGMA-001",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_045/M001",
+      "UTS_S4_PODCAST_045/M029",
+      "UTS_S4_PODCAST_046/M003",
+      "UTS_S4_PODCAST_046/M005",
+      "UTS_S4_PODCAST_046/M008"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_045.docx",
+      "UTS_S4_PODCAST_046.docx"
+    ],
+    "dominant_barriers": [
+      "stigma",
+      "shame_culture"
+    ],
+    "dominant_agency": [],
+    "dominant_system_interaction": "workplace",
+    "life_stage_coverage": [
+      "menopause_transition",
+      "reproductive_years",
+      "cross_life_stage",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "shame",
+      "self_doubt"
+    ],
+    "cluster_coherence_score": 0.9
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-FAMILY-SUPPORT-GAP-001",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_044/M004",
+      "UTS_S4_PODCAST_045/M007",
+      "UTS_S4_PODCAST_044/M001",
+      "UTS_S4_PODCAST_045/M012"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_044.docx",
+      "UTS_S4_PODCAST_045.docx"
+    ],
+    "dominant_barriers": [
+      "lack_of_support"
+    ],
+    "dominant_agency": [
+      "sharing_story"
+    ],
+    "dominant_system_interaction": "family",
+    "life_stage_coverage": [
+      "midlife",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "sadness",
+      "isolation"
+    ],
+    "cluster_coherence_score": 1
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-PEER-SUPPORT-BUFFER-001",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_044/M006",
+      "UTS_S4_PODCAST_044/M002",
+      "UTS_S4_PODCAST_045/M013",
+      "UTS_S4_PODCAST_046/M006",
+      "UTS_S4_PODCAST_046/M015"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_044.docx",
+      "UTS_S4_PODCAST_045.docx",
+      "UTS_S4_PODCAST_046.docx"
+    ],
+    "dominant_barriers": [
+      "lack_of_support"
+    ],
+    "dominant_agency": [
+      "sharing_story"
+    ],
+    "dominant_system_interaction": "peer_community",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "aging"
+    ],
+    "dominant_emotions": [
+      "validation",
+      "connection"
+    ],
+    "cluster_coherence_score": 1
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-HEALTHCARE-ACCESS-BARRIERS-001",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_045/M004",
+      "UTS_S4_PODCAST_045/M005",
+      "UTS_S4_PODCAST_046/M006",
+      "UTS_S4_PODCAST_046/M010"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_045.docx",
+      "UTS_S4_PODCAST_046.docx"
+    ],
+    "dominant_barriers": [
+      "access_barrier",
+      "system_navigation_difficulty",
+      "cost_constraint"
+    ],
+    "dominant_agency": [
+      "speaking_up",
+      "making_decisions"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "cross_life_stage",
+      "menopause_transition"
+    ],
+    "dominant_emotions": [
+      "frustration"
+    ],
+    "cluster_coherence_score": 0.85
+  },
+  {
+    "locks_version": "v1.0",
+    "cluster_id": "C-MENOPAUSE-KNOWLEDGE-GAP-001",
+    "member_moment_ids": [
+      "UTS_S4_PODCAST_045/M002",
+      "UTS_S4_PODCAST_045/M001",
+      "UTS_S4_PODCAST_045/M003",
+      "UTS_S4_PODCAST_045/M023"
+    ],
+    "episode_coverage": [
+      "UTS_S4_PODCAST_045.docx"
+    ],
+    "dominant_barriers": [
+      "lack_of_information",
+      "education_gap"
+    ],
+    "dominant_agency": [
+      "seeking_care",
+      "seeking_information"
+    ],
+    "dominant_system_interaction": "healthcare_provider",
+    "life_stage_coverage": [
+      "menopause_transition",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "confusion"
+    ],
+    "cluster_coherence_score": 0.7
+  }
+]

@@ -1,0 +1,4 @@
+You are clustering eligible moments into candidate clusters.
+Use the clustering_rules.v1.yaml constraints.
+OUTPUT: JSON array of cluster objects matching cluster.schema.v1.json (include coherence score 0-1).
+Return valid JSON only.

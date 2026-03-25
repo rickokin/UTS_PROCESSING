@@ -1,0 +1,1424 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Kanye Alala",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:48",
+    "timestamp_end": "00:04:28",
+    "paragraph_ids": [
+      "p_10",
+      "p_11"
+    ],
+    "moment_text": "I've always been really conscious about. Taking care of my health and preserving not only my physical health, but also my mental health. So I think for me, along that journey, I've always leaned into self-care practices without really being conscious of what they were. And I think back then, we didn't have the language. I don't know about you, but self-care now seems to be a buzzword that everyone is throwing around. But I would say a decade ago, that's not what people perceived as self-care. It wasn't mainstream. I would say, you know, along my career journey and as things started to unfold, I had a moment where I, I like to call it a little pause moment where I was at a crossroads and I had to reflect upon what exactly I wanted to do. With my life and I went to yoga school. I spent a bit of time there, and while I was at yoga school, I obviously did all of the work, or mostly the internal work I would say. And in that process I realized this is knowledge that I can actually bring to people because it's an understanding of that empirical evidence. By observation and also my own experiences and a compilation of understanding holistic practices that I learned within yoga school and also the theoretical knowledge. And that's when I had the idea of trying to combine all of this and putting it into a platform or vehicle that sort of democratizes holistic wellbeing because I don't know about you, but it's not really something that we're taught at school, and that's. Part of my missions is just analyzing systems and structures and us maybe understanding where exactly are we actually supposed to get this knowledge, because if not from our parents, we would expect to get it from the school system. But to me there seems to be an absence of this knowledge, yet it is so important and you and I both know, mental health is very critical, yet it doesn't seem to be, um, given the attention that it needs to in the manner that it needs to be.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "mental_health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_language",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains clear barrier_signals (lack_of_language, education_gap) and agency_signals (making_decisions) related to a system_interaction (education_system).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Kanye Alala",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:38",
+    "timestamp_end": "00:05:30",
+    "paragraph_ids": [
+      "p_14"
+    ],
+    "moment_text": "So when I went to yoga school now, I was not practicing law at that time, so it was a real moment of disconnecting from the whole world, disconnecting from that part of practice that I'd been doing for about a decade. I was in sort of an I in isolation, I would like to say, and it was just me versus myself at that point in time and. Getting to know myself better outside of the law because as I say, I had spent over a decade, obviously, from law school going straight into private practice. I didn't necessarily know who I was outside of that, so I had lots of questions around identity to ask myself, and I do think that yoga school found me at the right time because it's probably the pivotal moment where I needed to ask myself those questions, and I don't think that I would've necessarily. Turned my life around in the way I have and been the contributor to society that I am now. Had I not had that moment,",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "mental_health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "confusion",
+      "isolation",
+      "clarity"
+    ],
+    "agency_signals": [
+      "asking_questions",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional_signals (confusion, isolation) related to a system_interaction (workplace identity) and agency_signals (asking_questions about identity).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker's experience of losing her identity in her profession is a strong theme related to workplace impact on mental health."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Kanye Alala",
+    "speaker_role": "educator",
+    "timestamp_start": "00:05:50",
+    "timestamp_end": "00:06:28",
+    "paragraph_ids": [
+      "p_18"
+    ],
+    "moment_text": "It's something that I realized is probably going to resonate with a lot of people, because I think a lot of us, we identify ourselves based on what we do, but I think when I was disconnected from what I did for the first time, because I mean, even at your infancy, you go to school quite early on, you identify as a student and then as a law student, there's no real. Space to, to self-reflect and also self-identify, which I think is so important. And I would love to loop that into mental health because I do think, uh, the rise in mental health issues is because people are not aligned with purpose. They're aligned with defined purposes and predefined boxes that society's placed, but it's not necessarily aligned with that internal purpose.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains a clear barrier_signal (stigma of 'predefined boxes') and an emotional_signal (frustration) related to a system_interaction (community/societal expectations).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment critiques societal structures that define identity through roles rather than internal purpose, linking it directly to mental health issues."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Kanye Alala",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:06:28",
+    "timestamp_end": "00:07:14",
+    "paragraph_ids": [
+      "p_19",
+      "p_20"
+    ],
+    "moment_text": "And it's uncomfortable because, as you say. Society, especially for women. There's societal structures and expectations that we're expected to maneuver and roles that we're expected to play. But as to whether that aligns with us internally, I don't know. I'm not yet to conclude. Um, and I think you have to be very brave in putting yourself first. The world doesn't always support that. Sometimes not even your family, not even your friends. But at the end of the day, if you want to live. I think an authentic life to yourself. It, it's imperative that you put yourself first. And I will actually argue that once you begin to put yourself first, you are such an invaluable contributor to your community. And once you lean into your strengths as opposed to what the world expects, I think you become an invaluable co contributor. And that's my work that I'm trying to encourage people to. Get to know themselves, align with purpose, and contribute towards community. I do think then a lot of the stress, anxiety, and mental pressures that people are currently experiencing can be alleviated, so it would be great.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong agency_signals (self_advocacy) and a barrier_signal (lack_of_support) within a system_interaction (family/community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Kanye Alala",
+    "speaker_role": "educator",
+    "timestamp_start": "00:07:20",
+    "timestamp_end": "00:08:12",
+    "paragraph_ids": [
+      "p_22",
+      "p_23"
+    ],
+    "moment_text": "You know, you come into this earth and as I say, you are guided into which structure that you will follow, and you sort of find yourself going along that journey. And as the journey unfolds, you will begin to see that there becomes less and less time for you to have moments of. Introspection and moments for you to identify, self-identify, and this is where I think this is the start of what I would like to call mental health issues begins because in you not already cultivating those moments of self-reflection. And self-study. You are already on the the trajectory of really not understanding who you are and what you need to restore, because I think that is the most important thing on one's mental health journey. It's not only about taking care of your mental health at diagnosis, it's about implementing preventative cares and measures before you reach diagnosis and.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "anxiety"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "time_constraint",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains clear barrier_signals (time_constraint, education_gap) related to a system_interaction (community/societal structures).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment clearly articulates a theory that lack of time for introspection is a root cause of mental health issues and advocates for preventative care."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Kanye Alala",
+    "speaker_role": "educator",
+    "timestamp_start": "00:08:12",
+    "timestamp_end": "00:08:50",
+    "paragraph_ids": [
+      "p_24",
+      "p_25"
+    ],
+    "moment_text": "Mental health is something that people don't see as something that needs to be worked on. We've understood physical health. People understand they need to go to gym, and if we intertwine that with the academic system we've got for informal education, you know, I think it's called pe, physical Education. In some countries we've got that embedded in the system, so kids are already concretized to, I need to move my body because it's healthy, but what do we have? For the mind, for the emotional body. I've been studying academic systems across the world. I cannot seem to find a system that's actually formally in place that helps people understand, and I would say kids understand their mental and emotional body at that young age.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "stigma",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains multiple, explicit barrier_signals (education_gap, lack_of_information) directly critiquing a specific system_interaction (education_system).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a very strong articulation of the education gap in mental wellness compared to physical wellness."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M016",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Kanye",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "So you find yourself going along the journey. You're getting great at studying all this technical knowledge that you learn at school. You progress into your career. There's no real moment for you to really know who you are working on your mental health. How do you go about working on your mental health? How do you go about working on your emotional health? What is mental health? What is emotional health? All questions that we have. So if somebody is really self away. Um, studies have shown that people will probably visit a psychologist around the age of 26, and that's best case scenario because they will probably go through some crisis or turbulence in their lives that makes them believe everything is going horribly wrong.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "overwhelm",
+      "confusion"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_information",
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains multiple barrier signals (education_gap, lack_of_information) and an agency signal (seeking_care), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M017",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Kanye",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "I need help, so let me go and consult and speak with somebody else. Some people may never consult with somebody, and then what does that really mean for them on their mental health journey? They may reach 55 and then get dementia. People who do not necessarily understand mental health, don't mitigate, don't participate in self-care practices, may find themselves susceptible to a mental illness a lot later down in their lives, not understanding that it's the compounding effect of ignoring the body, of not listening, of not taking the time out.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "hopelessness"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "avoidance",
+      "silence"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains both barrier signals (education_gap) and agency signals (avoidance, silence), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M018",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "Mm-hmm. If you look at the lifeline, to your point, whether it's a kid and there's a lack of knowledge in the system, or a lack of approach in the system. Or to someone going through say, post menopause, a woman going through post menopause where the hormones are fluctuating coming up and coming, going down. All these things arise. So you, you know, as you're saying, talking about it, preventatively having a sense, I think education, to your point, even in your introduction, education is. Key. But what I like about what you're doing, Kanye, is thinking about it on a system level, and if we can implement something on a system level, it will be able to have impact on an individual level.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "validation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains barrier signals (education_gap) and identifies a system interaction (education_system), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M019",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Kanye",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "I mean, at a system level, it's obviously very difficult to have a formalized academic curricula when it comes to mental health because I think people are still of the view whose health is it? Should it be the school's problem, the parents' problem, the workplace's problem.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "avoidance"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains barrier signals (system_navigation_difficulty) and an agency signal (avoidance), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M020",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Kanye",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p8",
+      "p9"
+    ],
+    "moment_text": "I think that everybody really is passing around the hot potato and not really wanting to take accountability for it. And I think even when it comes to things like workplace trauma or any issues that. Mental health issues arising in the workplace. Workplaces aren't also comfortable taking a hundred percent responsibility for people's mental health because they've also understood there's intergenerational trauma. You c you coming with all of that baggage into the workplace. So it's also not a, a, a fair burden to be placing on the workplaces.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [],
+    "agency_signals": [
+      "avoidance"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains a barrier signal (system_navigation_difficulty) and an agency signal (avoidance), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M021",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Kanye",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p10",
+      "p11"
+    ],
+    "moment_text": "So in my analysis of. The system and how I think some of we can start implementing some solutions. It would be integrating some sort of formal mental health education within curricular. So I've currently been in talks with a few law schools and trying to get a course called a mindfulness in law into integrated into the academic system. And that's just as a start point because obviously for myself being a lawyer, law school is my easiest touch point, but.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains both barrier signals (education_gap) and agency signals (speaking_up), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M022",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Kanye",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "I've seen in the US for example, phenomenal work being done by the Yoga Alliance and having, um, what they call mental health breaks. So I think the, the, the, the students, I think that's at elementary level, they actually have like 15 minutes of, of a break for breathing or just meditation. So they're doing great work. Just getting that mi those mindful moments carved out. Deliberately for students in the day.",
+    "moment_type": "education",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains an agency signal (seeking_support) and identifies a system interaction (education_system), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M023",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Kanye",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "And it's fantastic because once you, you know, develop that good habit when you're young, it's something that you're gonna take into you throughout your life, through all those transitions as you spoke about. And yeah, that's basically the work that I've. I've, I've been trying to do very challenging, as I say, because people are balancing profits, they're balancing deliverables. And now to add on another course, um, resources behind it, testing research, it's not easy, but I still think that it's work, that it's so imperative that it has to be done.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "hope",
+      "confidence"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "cost_constraint",
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains both barrier signals (cost_constraint) and agency signals (speaking_up), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M024",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "And it not only benefits the people in that academic course, but everybody around them, because once you ize one person, they will feel the responsibility to tell other people. You're right. There are so many complex levels that add to this. That being said, when people are coming in, in a healthy, good mental place, they're able to perform and you know, to live a happier and better life. And the effects of all of this. Whether it's in the house, the home environment, whether it's in your community to your, or in your workplace. You just show up in a much better way. And many more things can be done. Happier people or healthier people show up better. And so, and part of doing this is, is mental health.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains an agency signal (sharing_story) and identifies a system interaction (community), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M025",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Kanye",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p19",
+      "p20",
+      "p21"
+    ],
+    "moment_text": "So all of the above, hopefully. Um, but I know it sounds like a very ambitious plan. No, it's not. It's No, no, no, no, it's not. It's a wonderful plan and I mean, I think I just choose those restrictions because it's restrictions that I've been in, and it's easier for me to leverage the networks that I have and the context that I have in those particular restrictions. So I would say yes, I'm working with schools in London, South Africa, and Australia as well.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains an agency signal (making_decisions) and identifies a system interaction (education_system), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The host's interjections are included as they are part of the conversational flow and provide validation."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M026",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Kanye",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p22",
+      "p23"
+    ],
+    "moment_text": "I'm envisioning that, you know, seize the Light Foundation being the multifaceted vehicle that it is, we'll be able to deliver changes in the mental health space at various levels. So structurally, as we've spoken about some sort of for formal programs in schools, and then also being a space that. Communities because for me, as somebody who's, you know, traveled half of the globe and stayed in a lot of these places, isolation is something that's quite close to my heart. I do understand that it's quite difficult to build quality community connections, so we are aiming to. Build sort of wellness communities where people can come together and move and meditate.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains both barrier signals (social_isolation) and agency signals (seeking_support), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M027",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Kanye",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p24"
+    ],
+    "moment_text": "Uh, so that's something that we're also looking to do that's here in the UK and in South Africa. And in those mindful moments, we are also hoping to give those to people at minimum to no cost. So we are hoping to align ourselves with strategic partners that also see mental health as. Important for society as we do, and hoping hopefully that then infiltrates into the broader communities and then people are able to support each other on their mental health journeys.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "cost_constraint",
+      "access_barrier"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains both barrier signals (cost_constraint) and agency signals (seeking_support), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M028",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Kanye",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p26"
+    ],
+    "moment_text": "So we have a hybrid model, which is in person and online because as I say, you know, isolation is something that's very close to my heart. So I appreciate not everybody can meet in person and nor should they have to. We do understand that a lot of people are struggling with things like social anxiety. They may not want to necessarily come out, but that shouldn't be a barrier. So we've curated communities both online and offline. So that we can meet people wherever they are.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "access_barrier"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains both barrier signals (social_isolation) and agency signals (seeking_support), making it eligible for insight promotion.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M029",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Kanye",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p28"
+    ],
+    "moment_text": "I think they are effective, but they shouldn't be relied on. And you know, the argument when it comes to using. Technology to solve mental health issues for me, I think is quite a complex one because on the one side I can see how it does bridge geographical locations. It helps us connect people all across the world, which is amazing. But at the same time, we also need to be conscious that it's not real. Human connection. So we cannot, you know, rely on it solely. It's a, I see it as an enabler vessel, something that we add, but not something that we should be reli relying on.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "clarity"
+    ],
+    "agency_signals": [
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains both barrier signals (social_isolation) and agency signals (setting_boundaries), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M030",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "UTS_S4_PODCAST_005_Kanye",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p29"
+    ],
+    "moment_text": "And if I would further say that, this is why I think for me, I'm a bit apprehensive when it comes to these AI solutions when it comes to solving mental health. Because of already people don't know how to make frames and there's the social, um. Epidemic, uh, sorry. The isolation epidemic. Now, having people having to rely on an app for mental health education, I don't necessarily think that's very effective.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "anxiety"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: This moment contains barrier signals (social_isolation) and an emotional signal (anxiety) within a system interaction (media), making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3"
+    ],
+    "moment_text": "We need people off the screens and more in person learning how to make connections. I grew up at a time where in order to make friends, you had to go to people's houses. We, we were just a more social society at that point in time, however. The younger generation coming after us, they grew up around technology. So for them, their reality is thinking that all the Instagram followers they have are their friends. So it's also about educating them that that's not real life. You need to come away from the screen and into your society. And that's why I also like advocating for how are you going to contribute to your society? Because I think when you ask that question, people will step away from the phone. Social media is kind of a double-edged sword in a way. On one hand it's good because it allows you to find your unique niche community and on on another hand, you aren't making the interpersonal connection. So I think that, I think we're onto something here, the combination.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "isolation",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (social_isolation, education_gap) related to a system interaction (media).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment combines a critique of social media's impact on social skills with an observation about its dual nature."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p4"
+    ],
+    "moment_text": "But technology is enabler to connect people. To your point, I mean, you're in London, I'm in the us. Outside of New York, like it connects, you know, and it brings us all together. But to rely on that alone, you're absolutely right. And I wonder, it's very interesting. What are your thoughts on that? Do you think that you reach a certain, you have a tipping point in your life where you start to think about that?",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "connection"
+    ],
+    "agency_signals": [
+      "asking_questions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains agency signals (asking_questions) and emotional signals (connection) related to a system interaction (media).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p5",
+      "p6",
+      "p7"
+    ],
+    "moment_text": "Um, yeah, I love that. You know, I think about that a lot. Same here. Same here. My general prompt every day. How am I contributing? Um, you know, I actually listened to this podcast the other day, and this, the, the lady who was being interviewed actually made a great point that, uh, a a lot of us are primed into how we are, we are thinking about things like contribution, right? So a lot of people, when they've historically thought about their purpose, it was around. What degree can I study? Because then I want to go and contribute to said organization. But if we shifted the language away from what do you wanna be when you grow, grow up, and rather ask the question, what do you wanna contribute? The answers would be a whole lot different. Right? The, the focus that people have wouldn't so much be, uh, helper individualistic. People would actually shift and see themselves as contributors to a global society and see. Themselves as interconnected with other human beings. So I would definitely advocate that people should see themselves as contributors to an interconnected society as opposed to being an individual contributor.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "empowerment",
+      "connection"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains a barrier signal (education_gap) and agency signals within a specific system interaction (education_system).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p8",
+      "p9",
+      "p10"
+    ],
+    "moment_text": "I mean, it's great to be on your own journey. But I think that true fulfillment comes from when you are able to help others. And as somebody that has been on both sides of the coin, I can absolutely confirm that when you were contributing towards other people, you feel a lot better. And you know, I used to read these self-help books a while ago. This was a decade ago, I'd say maybe even over a decade ago, where they would say, you know, people who are, who have good mental health are people who are helping at. The people. If you help somebody else, it really changes your mood. And I hadn't necessarily appreciated what exactly that meant, how that looks, because in my mind it's just thinking, okay, if you have some extra change, giving it to the person on the side of the street and you move on about your day. But I think. The conversation needs to move a little further from that. You know, it's what long-term sustainable changes can you make? Maybe you don't need to go down a certain path that only benefits you. Maybe you can find a way to benefit yourself and benefit other people. But again, what, what, to our point that we've been talking about, the formal academic system, it's about stop not asking people. What do you wanna be when you grow up? But rather asking the question of what do you wanna contribute? Right.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "validation",
+      "empowerment",
+      "clarity"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (education_gap, lack_of_information) and agency signals related to a system interaction (education_system).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "And I think, you know, to your point, if we could get people thinking about this, you know, back to the earlier comment is the system, the society starts first with family and your family. It's about the parents understanding that without raising your children with a sense of purpose, what really matters at the end of the day, instead of being so focused on what school you go to and you know what career path you take, who are you as human beings? And I think that, I think this is, you've stirred a lot in me today because there's so many ways we can think about it. So yeah. So it starts. The family and then talk about that. Then it goes into the family, the schools, the community, right, and then the workplace and you know, the larger society.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains a barrier signal (education_gap) and emotional signals within a system interaction (family).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker outlines the cascading levels of system interaction from family outwards."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p13",
+      "p14"
+    ],
+    "moment_text": "I love the fact that you're thinking about this individualistically and collectively, so how are you, you know, marching for mental wellness? Because in a way that is what you're suggesting, right? I think that, you know, psychology is an outward focused area. It sort of, uh, depersonalizes and forces us to dissociate ourselves from a lot of the conditions that we read about because you, we've read about anxiety and I'll think Elizabeth has anxiety. I don't, and it's, it's in, in that dissociation that keeps us separate from actually understanding ourselves and where we fit into that condition. Let's say it's anxiety, so.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "isolation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "training_gap",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (training_gap, stigma) and emotional signals related to a system interaction (medical_training).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "It's, I think self-study, understanding yourself first before you can help somebody else. Because you know when you are on an airplane and there's a crash, they always say put on your mask before you can help somebody else. And I think in you being the better version of yourself, you inadvertently inspire other people to become the better versions of themselves. So for me, I'm. Constantly doing a lot of internal work, probably more than I should be because I am very self-aware and where I feel that my cup is empty. I don't, I don't overpour. But that's, you know, our conversation around women's mental health and societal expectations. I don't conform to a lot of those. Expectations anymore. So I only really pour out once my cup is full, but it's about taking care of me and then I'm able to give to other people. So at an individual level, I do a lot of work, a lot of yoga, breath work, self-reflective practices because at the end of the day, if I can't show up for my best self for myself, I won't be able to do that for the foundation and everybody else whose life is gonna impact.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions",
+      "self_advocacy"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong agency signals (setting_boundaries, self_advocacy) and emotional signals within a system interaction (community).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p17",
+      "p18"
+    ],
+    "moment_text": "And I think when you do these self-care practices not to be so. Democra, you know, self-care is what it is. But when you do all these practices, you refer to the yoga, the breathing meditation, the journaling. When you do all of that, you are able, the the feeling, you feel the healthiness. It's just so clean, right? Feels so good and doing that inner work of like really knowing the self-discovery work. The other thing I'm hearing, which I think is very interesting, Kanye, is the notion of boundaries. You said you don't pour from an empty cup. You can't pour from an empty cup. So like knowing what your limit is and what you need to do, do you, have you done like, you know, what are your thoughts on that?",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "calm"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "asking_questions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains agency signals (setting_boundaries) and emotional signals within a system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p19",
+      "p20",
+      "p21"
+    ],
+    "moment_text": "The boundaries perspective. So I'm a recovering people pleaser. And you know, it's interesting because it's actually in my research and in my work that I truly came to understand, you know, dis-ease is your body not being at ease. And when you're not in tune with your body, your mind, and what it's saying to you. You are never gonna know what you actually truly need. And boundaries is a huge part of that because if you're not able to put a boundary and take your annual leave or put a boundary and not help somebody else who needs help because you're not feeling good and you're not too concerned about maybe being a bad sister or a bad daughter because you need a moment. I think that that's quite critical, that that's something that every woman needs to learn. It does become very difficult and when it's things that were not taught, I, you know, a lot of women have told me that it comes with age, it comes with maturing, which I think is probably true to your, to, as you say, like lived experience I think does play a role in it. But I do think that young girls are not really taught how to maintain boundaries because they are primed into being people pleasers and serving and pouring from empty cups. I do think that it comes a lot later in life that you're able to create those healthy boundaries and know when to pour and when not to pour, and when to take the moment to restore and when to give.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "shame"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "fear_of_judgment",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains multiple barrier signals (education_gap, fear_of_judgment) and agency signals related to a system interaction (family).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "Strong moment connecting people-pleasing, lack of boundary education for girls, and the concept of 'dis-ease'."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p22"
+    ],
+    "moment_text": "And I think that goes back to your comments about preventative, like getting into really mental wellness at a very young age so that we're teaching. The girls were teaching the young women to grow up with these habits because then boundaries are naturally formed. They understand that without these practices, they aren't able to show up. And I think a cycle, if you will, that keeps repeating itself if what you're doing. The mission that the, um, sees a light foundation really pursues and gets out there and can bring it into the system at the system level.",
+    "moment_type": "advocacy",
+    "life_stage": "adolescence",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "education_system",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains a barrier signal (education_gap) and agency signals related to a system interaction (education_system).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p23"
+    ],
+    "moment_text": "'cause families are a tough thing to penetrate. I mean, I remember when I got into meditating and I was telling my family, we have all these athletes and everybody was high pressure jobs or sports or whatever. I'm like, yeah, life is a journey. Let's get in. Everybody should meditate. They kind of like poo-pooed me at the time.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "stigma",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment describes a clear barrier encounter (lack_of_validation, stigma) within a system interaction (family).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M012",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p24"
+    ],
+    "moment_text": "Before we get into our last question, do you wanna talk a little bit about your C studio? What you're doing there and what you're offering is. So seize the Light Studio is the online offering, so I'm, I'm hoping to have a few more online resources and classes and hopefully able to go live sometime this year and work with more people online.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 evidence gate: This moment is a promotional description of a service and does not contain the required barrier, agency, or emotional signals tied to a lived experience or systemic observation.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a transitional, promotional moment and not suitable for insight generation."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M015",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Connie",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3"
+    ],
+    "moment_text": "As I said, isolation very close to my heart, so I want to reach people wherever they are so that they always feel like they have. For a friend who's encouraging them to tap into their self-care practices. Um, we also have a newsletter that we publish and we that, that's just a resource where you can learn more about holistic health and we cover all sorts of topics from nutrition to self-care, to feminine energy, anything you can think of. We're trying to cover as much as we can and just be a resource for people just to jump on, read a, read a nice short article, and we've always got some helpful tips and tricks. We also have. Meal plans for people because nutrition is so important. How we eat our gut has such an effect on our overall health, and I don't even think the studies are comprehensive enough to really understand the connection between the gut and overall health. The studies are still evolving and I'm looking forward to seeing what's happening from that perspective, but we've also got those nutrition guides that people can just download, and we've also got an ebook, which is a guide to mindfulness, and that's just a nice. Introduction for anybody who's like, what's mindfulness?",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Holistic Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [],
+    "agency_signals": [
+      "seeking_information",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains barrier signals (social_isolation, lack_of_information) and agency signals (seeking_information) related to providing community resources.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M016",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Connie",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p4",
+      "p5",
+      "p6",
+      "p7"
+    ],
+    "moment_text": "What does it really mean? I've just put together a nice short guide to get people along their journey and it's got a nice 30 day challenge after, where you can just write, how did you spend a few mindful moments every day and you can document your journey. We also sell journals and planners. Because most of that stress and anxiety is caused by either you not expelling some of these negative emotions that you'll be feeling. And when you write it down and have that self conversation, you're able to deal with your mental health a lot better, and maybe when you depersonalize your circumstance from from yourself. You are able to understand what you're going through at a holistic level and not so much feel like it's you and it's just your experience. So I'm a huge fan of journaling and planning of course, because when we don't really crystallize what are our plans, we feel anxious because things feel like they're all over the place. So I'm also quite a big advocate of planning. And what else do we have on the studio? We've got the podcast, of course, the Hampton podcast. Which people can tap into and listen. And we try to bring on guests from different industries and they just talk to their life journeys. A lot of them have had pause in pivot moments and hoping just to normalize that, you know, a lot of people on that podcast have taken time for themselves, have gone in completely different directions, and guess what? Still alive, survived all the, the backlash. They've made it to the other side. So we like to showcase those type of stories. Yeah, I think that's everything that I have in the studio. Oh, the one that I haven't mentioned is the props. Hopefully hoping to add on yoga mats, blogs, straps in the near future. Um, and yeah, we are just hoping that the studio is this online resource that people can just jump on at any time and take what they need.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "anxiety"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional (anxiety), agency (sharing_story), and barrier (stigma) signals related to mental health tools and normalizing life changes.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M017",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Connie",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "First of all, I just wanna hug them all. And say it's gonna be okay. No matter where they find themselves in the journey, it's gonna be okay. Because I think a lot of women feel alone in this journey because they're not really understood, not understood at home, not understood in the academic systems. At a corporate level, it's very isolating. But for anybody who's listening and maybe feeling that way, just know the journey. It's, it's normal. It's normal to feel that way. And as you elevate, you do isolate. Unfortunately, you shed, and that's normal.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "isolation",
+      "loneliness",
+      "validation",
+      "hope"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_validation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong emotional (isolation, validation) and barrier (social_isolation, lack_of_validation) signals related to systemic misunderstanding.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker mentions multiple system interactions (family, education_system, workplace) which are summarized under the broader 'community' tag."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M018",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Connie",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "I think that life, it is what you make of it, but it, it's also cycles. It can't always be good. It can't always be bad. But I think that it's very important that you don't self abandon and you're there for yourself at all times, because if you're not there for you, no one else is gonna be there for you. So I'm a huge advocate of self-love as well. I would also encourage women to definitely carve out moments daily to take care of themselves. Rest and restoration are so important for us as women. We are cyclical creatures. We need more rest. It's not me being anti-feminist. It is the science we do need rest. There's absolutely nothing wrong if you need to take a break. It's good for your mental health, for your physical health and for your emotional health.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [],
+    "agency_signals": [
+      "self_advocacy",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong agency signals (self_advocacy, setting_boundaries) related to self-care and preservation.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M019",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Connie",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p12",
+      "p13",
+      "p14"
+    ],
+    "moment_text": "And lastly, also just there's nothing wrong with emotions. I think the those statement that I've hated. Over these years is that women are so emotional. There's absolutely nothing wrong with emotions. It's just knowing how to manage those emotions. Um. A study show that 80% of autoimmune diseases affect women, and that's due to repressed anger. So I would encourage women to learn how to channel these negative emotions in whatever way suits them. And that's why it's important to get to know you. Forget about what the apps tell you, the studies tell you, and even maybe what we've shared in this podcast, you have a moment to yourself and you sit and you, you self-study. What is it that makes. You feel good and that's what you are going to do for you. It's not a space, it's not a time to judge yourself. I think we get enough judgment from society so you don't add yourself to the judgment list, develop whatever practice it is that works for you, and you give yourself that time because at the end of the day, you are the biggest project that you'll work on, and you are the only perpetual project that you'll work on.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "anger",
+      "validation"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional (anger), agency (self_advocacy), and barrier (stigma) signals related to societal judgment of women's emotions.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M020",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Connie",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "So again. Hugs to all the women out there who are doing absolutely amazing things. I mean, ever since I've transitioned into this space, I've realized women are amazing community builders like yourself, Elizabeth. I mean, it could only be a woman that would decide we're gonna go under the the hood and we're going make sure that it's an intergenerational platform because you want to leave. Your legacy, a resource that women can tap into no matter what age they are. Amazing. So needed because we, some women don't have the stories. They don't have moms and sisters and aunts that they can ask about what happened to you at this age? I'm experiencing this. What about you? Amazing that we have a platform where we can tap into a resource and listen to lived experience because it's so important.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Social Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "social_isolation",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional (validation), agency (sharing_story), and barrier (lack_of_information) signals related to the power of community to fill knowledge gaps.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M021",
+    "episode_id": "UTS_S4_PODCAST_005.docx",
+    "season": "S4",
+    "source_file": "UTS_S4_PODCAST_005.docx",
+    "speaker_id": "Connie",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "We have to start to understand our own bodies, our own minds. The science is great. But it is a snapshot in time. Our body has our own internal engineering. We just need to connect with it. It knows exactly what to do. If you cut yourself, now your body knows it, I'm gonna bleed blood. But after that it heals. It knows how to restore itself. So we do have this internal intelligence that each of us can tap into, and that's a message for men and women. But I think I've said enough to the women out there, I think I'll leave it there.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Body Literacy",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "confidence",
+      "trust"
+    ],
+    "agency_signals": [
+      "self_advocacy"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains emotional (trust, confidence) and agency (self_advocacy) signals related to developing body literacy.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

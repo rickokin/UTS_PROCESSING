@@ -1,0 +1,33 @@
+{
+  "locks_version": "v1.0",
+  "vocab_name": "signals.emotional",
+  "type": "closed_list",
+  "items": [
+    "confusion",
+    "fear",
+    "anxiety",
+    "overwhelm",
+    "frustration",
+    "anger",
+    "sadness",
+    "grief",
+    "shame",
+    "embarrassment",
+    "isolation",
+    "loneliness",
+    "self_doubt",
+    "hopelessness",
+    "resignation",
+    "relief",
+    "validation",
+    "recognition",
+    "connection",
+    "belonging",
+    "confidence",
+    "empowerment",
+    "hope",
+    "calm",
+    "clarity",
+    "trust"
+  ]
+}

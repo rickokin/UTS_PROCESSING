@@ -1,0 +1,847 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren Cutten Baum",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:11",
+    "timestamp_end": "00:03:01",
+    "paragraph_ids": [
+      "p5",
+      "p6",
+      "p7",
+      "p8"
+    ],
+    "moment_text": "Or so, it absolutely was a pivot, but also not because my entire life I've been an advocate for women. I was the president of my high school's women's issues club. I was volunteering at Planned Parenthood and at the Women's Law Center in Philadelphia while in college. And my career path was always destined to be about supporting and empowering women. I took a course in college that was about law and reproductive rights, so I thought that the best way to show up for women would be as a lawyer. And as soon as I got to law school, I thought, I don't really like this. So I simultaneously pursued my master's in social work, and then I did finish both. I worked in law, but over the course of over a decade in the legal industry becoming a mom, the pandemic, I realized I wanted to focus on mental health. And so that's when I started my private practice as a therapist.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "education_system",
+    "emotional_signals": [],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains agency signals (making decisions about career path) and involves a system interaction (education system).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren Cutten Baum",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:26",
+    "timestamp_end": "00:04:22",
+    "paragraph_ids": [
+      "p10",
+      "p11"
+    ],
+    "moment_text": "Thank you for acknowledging that because I also think, and I tell many of the women that I work with, that it is so important to find fulfillment. And many of the women and the moms that I work with say, well, I pursued this path, or. I need to start, I finish, I need to finish something I started or what will people think of me? And at the end of the day, you have to do what makes you happy. Sometimes that's a job that maybe isn't your passion, but pays the bills. But it definitely shouldn't be a job that you have dread when you wake up in the morning. And for me, I enjoyed a lot of what I did as a lawyer and then as a law firm professional. But I noticed, especially during the pandemic and then before that, when I was practicing as a very new mother and running on very little sleep, I noticed that I wasn't happy and I noticed that I was struggling with my mental health and I thought, well, if I'm very privileged, very aware. Very resourceful and have so many amazing resources in my life, and I'm struggling. What does that mean for everybody else? And I really set out to provide the support that I wish I had had for young women, new moms, and all women.",
+    "moment_type": "realization",
+    "life_stage": "postpartum",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "sadness",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (lack of support, stigma around changing paths), emotional signals (sadness, overwhelm), and a system interaction (workplace).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren Cutten Baum",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:11",
+    "timestamp_end": "00:05:48",
+    "paragraph_ids": [
+      "p14"
+    ],
+    "moment_text": "And I think a lot of my desire and passion in this area came from two places. One is my parents who instilled in me values of empathy and generosity, and always the desire to give back. The other is my love of reading and reading women's stories and reading about women from very different parts of the world or in different times, but feeling like that sense of empathy again. And what if it were me? And I am so privileged. I grew up in New York City. I had a very healthy family in many ways, and I always wanted to give back to those who weren't as fortunate as I.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "General Wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains an emotional signal (connection) and involves a system interaction (family).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren Cutten Baum",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:16",
+    "timestamp_end": "00:07:00",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "Becoming a mother, like for many of us, was such a transitional moment, and I never intended to leave my job once I became my mom. In fact, I, I had a lot of feelings about that, about proving myself, but ultimately, like I said earlier, it wasn't making me happy and I didn't feel that billing hours and being required to be staying late in the office. By late, I mean till 3:00 AM multiple nights a week with a 14 week week old at home, it wasn't doing it for me. Right. And I gave myself permission to put boundaries to say my family's important to me and I am not going to, you know, do the doc review. In the office on Sunday or whatever it was, and I let myself pivot and go into personnel roles, which didn't have big billable targets, which really makes a difference.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "postpartum",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "frustration",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "time_constraint",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong barrier signals (time constraint) and agency signals (setting boundaries) within a workplace system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren Cutten Baum",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:00",
+    "timestamp_end": "00:07:42",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "But I still had that passion and compassion, and I wanted to make a difference for women. And when I decided to work for myself, which I never thought I would be a founder, I never thought I would be an entrepreneur because I like structure and rules and, you know, predictability. I again felt that pull because I said this. This is not really working for me. Again, I wanna help people the way I see that they need help. That I needed help. And so I did additional training in perinatal mental health. At the time my children were young, now they're six and nine, so we're a little bit out of that postpartum phase. But you know, once you're postpartum, I think you're always postpartum and, and also focusing very much on perimenopause.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (lack of support), agency signals (seeking information), and a system interaction (medical training).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren Cutten Baum",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:08:01",
+    "timestamp_end": "00:08:40",
+    "paragraph_ids": [
+      "p19",
+      "p20"
+    ],
+    "moment_text": "I don't want to avoid answering this, but honestly, I love all. Quote unquote kinds of clients I have, most of my clients are mothers of young children, and most of them are in their thirties, but I also have a. Few in their twenties and a few in their forties. Some are not moms, and I love that my work is diverse in that way because I can have a very just interesting day, right? Dealing with someone's. Pain point as their boss or their in-laws, or should they go off of their mental health medications while pregnant and what would that look like and and perimenopause. So it's so interesting and at the end of the day, all women need and deserve support.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "validation"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (implied lack of support), agency signals (seeking care), emotional signals (validation), and a system interaction (healthcare provider).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren Cutten Baum",
+    "speaker_role": "patient",
+    "timestamp_start": "00:09:10",
+    "timestamp_end": "00:09:48",
+    "paragraph_ids": [
+      "p22"
+    ],
+    "moment_text": "Yes, and I, I totally agree. And by my own admission, I am not a science person. I am a, a writer, a words person, so I didn't know so much about medication, hormones, things like that. And part of my own experience in my motherhood journey was learning more about. Psychiatric medications and how they impact one's hormones and how one's hormones during pregnancy can impact one's moods, et cetera. And I learned a ton and I kept learning. And then certainly as I was researching menopause, I learned an incredible amount, and that's why I wrote it all down to share what I learned.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Hormonal Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong barrier signals (lack of information, education gap) and agency signals (seeking information).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:03:35",
+    "timestamp_end": "00:04:28",
+    "paragraph_ids": [
+      "p6",
+      "p7",
+      "p8"
+    ],
+    "moment_text": "We don't talk about it with our healthcare providers, largely because they're not taught about things like this. Way too many providers still think that you do have to get off SSRIs while pregnant, you know, and that's, uh, generally not correct. So I was invited to attend a networking event on women's health, and I got to choose the breakout session topic. That I wanted to participate in and I chose to attend one on menopause just 'cause I was curious and I didn't know anything about it. And I thought, that's a little funny. You know, I'm very in tune with women's health. I read a lot. I, I I pay attention and yet I knew nothing. And the event was with Anne Filler, who is the co-founder of Alloy. And the whole discussion just blew me away and I really was. Tingling with excitement to share what I learned to learn more. And I wrote a blog for an online magazine called Mama Beast, and a few months later I got approached to basically turn that into a book.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Menopause",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "clarity",
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "training_gap",
+      "education_gap",
+      "silence",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment identifies a systemic barrier (training_gap in healthcare) and a personal realization of an education_gap, which directly led to an act of agency (seeking_information, sharing_story). It passes the evidence gate with strong barrier and agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:05:38",
+    "timestamp_end": "00:06:25",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "At the end of the day, as a lawyer, as a therapist, as a writer, I read and hear and tell women's stories much like yourself. And so it was work and time consuming, but it was such a natural, beautiful opportunity to hear stories and then tell them in a way that, you know, made sense for the structure. Currently is in the same tone as the book the article was called. Are you there? Menopause? It's me, a millennial mom, and it's very conversational. For the article, I had interviewed three professionals in this space who are also featured in the book, and. Really shared my inner most thoughts. My reflections on this and the book itself is, is like that as well. And I include a lot of pop culture references. And it's a really fun book in which you feel like you're talking to a girlfriend, but a well-informed friend who also has connections to the most informed experts. And it's a guide and everyone will go through menopause differently. But my book provides resources as to how to go about it in a way that's right for you.",
+    "moment_type": "education",
+    "life_stage": "menopause_transition",
+    "health_domain": "Menopause",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "empowerment",
+      "connection",
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment details a specific strategy (storytelling, conversational tone) to overcome common barriers like lack_of_information and social_isolation, making it a strong example of a solution pathway. It passes the evidence gate with both barrier and agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:07:10",
+    "timestamp_end": "00:08:20",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "There is, so I, I probably shouldn't say this, but I will say that this book was such a heart of my heart that even if no one reads it, I'm happy I did it because I learned so much. I connected with so many amazing people, and I've been able to provide information and resources to friends, clients. I've been able to better treat clients now that I'm seeing what some of their mood disorders are related to. And just the professional network that I built it. It honestly so far has been all worth it. That being said, go buy the book. I hope that it reaches, of course, as many women and the men in their lives as possible. There's a whole chapter dedicated to men for them to specifically read as to learning how to support the women in their lives going through menopause. Because everybody knows a woman who will or has been through menopause, and I hope that women feel empowered, prepared, less scared, and much more in community. My generation has become more comfortable with talking about postpartum issues, fertility struggles, mental health in general. But menopause remains this mystery, and it's partly because of our healthcare system, of our politics, et cetera. And it's time for change. And I really hope that that is the message that is received and that we collectively change the, the world for women.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Menopause",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "empowerment",
+      "connection",
+      "confidence"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "silence",
+      "stigma",
+      "lack_of_support",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment connects personal and professional growth from creating a resource to a broader advocacy mission, identifying systemic barriers (silence, stigma) and proposing solutions (education, community). It strongly passes the evidence gate with multiple barrier and agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment combines personal reflection on the professional impact of writing the book with a broader advocacy mission. The speaker role could be 'clinician' due to the line 'better treat clients', but 'advocate' was chosen as it better reflects the overall thrust of the moment."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:09:58",
+    "timestamp_end": "00:10:29",
+    "paragraph_ids": [
+      "p21"
+    ],
+    "moment_text": "I do a lot too with companies, especially around work in parenthood and when I go in for events or workshops, you know, it's, it's often billed as a parenting event and or gender equity and you know who shows up. Of course, it's women. But men should be there too, because we can't just keep preaching to the choir and coming up with strategies to alleviate the mental load without the other people in our lives, in our households. So I am a big believer in that. I, like I said, I have a chapter specifically for men, but I, I think it concludes with. By the way, you should read this whole book.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment identifies a clear behavioral pattern within a system (men's non-participation in workplace parenting events) and links it to a barrier (lack of support for women's mental load). It passes the evidence gate with barrier and agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M021",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00:12.000",
+    "timestamp_end": "0:01:0.000",
+    "paragraph_ids": [
+      "p27",
+      "p28",
+      "p29"
+    ],
+    "moment_text": "I know what it was. So a few different ways. I think in general, high achieving women, which is. A label that I identify with, a label that many of my clients and friends would fall under. We don't give ourselves permission to rest. We don't give ourselves permission to leave jobs that maybe we had committed to or to pursue medications based on what we've been told, which might be based on misinformation, whether that's the psychiatric meds while pregnant or hormone therapy. We often don't give ourselves permission to ask questions or to push back, and that is something that I. I'm very happy to guide and support them through, because being assertive and advocating for yourself is not a bad thing. Confrontation is not a bad thing. It's you have to advocate for yourself. You have to ask to get what you want. If you don't ask, you don't get, as my mother always says, and it's okay to ask, and that's what I help.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "asking_questions",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2. The moment contains multiple strong agency signals (self_advocacy, asking_questions) and barrier signals (lack_of_information) within a healthcare and workplace context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M022",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:01:3.000",
+    "timestamp_end": "0:01:26.000",
+    "paragraph_ids": [
+      "p31",
+      "p32"
+    ],
+    "moment_text": "But you also referred to something else that struck me, which is women feeling like they care about what other. People think mm-hmm. If they were to leave or were to make a change, something, I appreciate if the work you're doing is really helping give them agency. Mm-hmm. And I, I'm not saying you yourself are giving them agency, you're teaching them the importance of owning theirselves.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "validation",
+      "recognition"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2. The moment identifies a key barrier (fear_of_judgment) that impacts women's agency within a workplace and community context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M023",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:26.000",
+    "timestamp_end": "0:02:18.000",
+    "paragraph_ids": [
+      "p33",
+      "p34"
+    ],
+    "moment_text": "Agency can mean so many things. I think financial independence is really important. I think having a job or a career that's in line with your values is also really important. Sometimes those things don't always align. Like I mentioned earlier, one might not find that their soul is lit on fire by their corporate job. I'm not saying you have to leave it as long as you're not dreading it. I, you know, it's fine. But I do think that women should. Allow themselves, give themselves that permission to pursue what does make them happy, whether that's in work or outside of work, whether that's a dance class for exercise, whether that's getting together and traveling with girlfriends, whatever it is, giving back to the community. That's something that. Really important to me personally.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2. The moment contains strong agency signals (making_decisions, seeking_support) and discusses system interactions like workplace and community.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M024",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:02:24.000",
+    "timestamp_end": "0:02:40.000",
+    "paragraph_ids": [
+      "p36"
+    ],
+    "moment_text": "They, my values include empathy, authenticity, integrity, kindness, and lightheartedness. I think it's important to be silly. I think it's important to have fun. Life is going to give us problems. The, you know, there's a lot to be worried about and to be sad about, but sometimes it makes all the difference If you can be with people that you love and you can laugh with.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "hope",
+      "calm"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2. The moment contains multiple emotional signals (connection, hope) and an agency signal (seeking_support) within a peer community context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M025",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:02:49.000",
+    "timestamp_end": "0:03:20.000",
+    "paragraph_ids": [
+      "p39",
+      "p40"
+    ],
+    "moment_text": "I am marching for mental wellness, truly in everything that I do, and especially with this book coming out, which certainly gives my perspective as a mental health professional, I learned and spreading the message of the way the menopause transition impacts women's mental health, but also midlife in general, right? All of the external stressors that are pulling at us, whether it's caring for aging parents, navigating career shifts. And not to mention the overlap between postpartum and perimenopause, which we're seeing increasingly often because women are having babies in their late thirties and early forties more and more.",
+    "moment_type": "advocacy",
+    "life_stage": "postpartum",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2. The moment identifies a critical barrier (education_gap) concerning the overlap of postpartum and perimenopause, which has significant implications for healthcare.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker mentions menopause_transition and midlife, but the core new insight is the postpartum/perimenopause overlap, so I've prioritized postpartum as the primary life_stage."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M026",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:03:24.000",
+    "timestamp_end": "0:04:4.000",
+    "paragraph_ids": [
+      "p42"
+    ],
+    "moment_text": "But I did hear one story where she had her child and she said, I think she said, I don't know if she was 35 or 37, and she talked about having profound depression in at postpartum, and she didn't realize that depression lasted for many years because there was an overlap of. Perimenopause and she created a menopause company. She was inspired by that, but when she finally got out of it, so I think you're onto something really big and really getting the word out and the message out. I mean, the more educated we are and the more informed we are, the more we can go and ask the right questions, get the help we need.",
+    "moment_type": "validation",
+    "life_stage": "postpartum",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "sadness",
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "asking_questions",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "delayed_diagnosis",
+      "misdiagnosis",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2. This moment provides a clear lived experience example of multiple barriers (delayed_diagnosis, lack_of_information) and the agency signals required to overcome them.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M027",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:04:4.000",
+    "timestamp_end": "0:04:36.000",
+    "paragraph_ids": [
+      "p43"
+    ],
+    "moment_text": "I mean, ding, ding, ding. Talk about agency, because so many of the women that I work with, that I know that I interviewed, they have been dismissed by their healthcare providers. Oh, you're just postpartum. What kind of answer is that, and I love healthcare providers. I'm not knocking them, but they haven't been educated and the ones that aren't seeking further education are problematic. So I think that it's so important to recognize that it could be perimenopause, which really. Equals hormone fluctuations, and so that means that hormone therapy might be an option and that resource, that treatment option, might not be available to someone who's told it's quote unquote just postpartum.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "postpartum",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "anger"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "provider_dismissal",
+      "symptoms_normalized_without_context",
+      "misdiagnosis",
+      "education_gap",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2. This is a powerful moment detailing multiple, significant barriers within the healthcare system, including provider dismissal and training gaps, which directly impact patient care.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M028",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:04:36.000",
+    "timestamp_end": "0:04:54.000",
+    "paragraph_ids": [
+      "p44"
+    ],
+    "moment_text": "All that being said, I diagnose as a licensed clinical social worker, but I'm not about the diagnosis. I'm about the symptoms and helping a woman feel better, whatever it is. So it is important to know what the treatment options are, whether it's postpartum only or perimenopause, but also to really hear her and show up for her and listen to her and empower her to ask those questions and use her agency to get what she needs.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "validation",
+      "empowerment",
+      "trust"
+    ],
+    "agency_signals": [
+      "asking_questions",
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2. The moment describes a clinical approach that acts as a protective factor against the barrier of dismissal, containing clear emotional and agency signals within a healthcare context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M029",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:05:2.000",
+    "timestamp_end": "0:05:44.000",
+    "paragraph_ids": [
+      "p46",
+      "p47"
+    ],
+    "moment_text": "I would say that the most common emotions that I help women navigate relate to sadness, overwhelm, anxiety, loneliness, and fortunately, I think one of my biggest skills, and that's why I do what I do, is connecting and that connection piece is so powerful and. That psychoeducation that the book provides that I provide even in one session, can really make a woman feel less alone and that can do so much for their emotional wellbeing. And then in therapy, we work on modifying their cognitions and their behaviors and their coping mechanisms and their communication strategies. And that is all to alleviate whatever negative emotion they're feeling. But as I always tell my therapy clients, our goal is not to get rid of quote unquote, negative feelings because we're not robots, right? We're, we're still here. AI hasn't totally taken over, and so it's okay to have negative feelings sometimes, and, and we're built that way and we are allowed to cry or be angry or whatever it is. But it's about coping with those emotions in an effective way and not letting them consume us. And so really just showing up and learning tools and being a support for them is what I do.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "sadness",
+      "overwhelm",
+      "anxiety",
+      "loneliness",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2. The moment details common emotional patterns (sadness, overwhelm, anxiety) and a barrier (social_isolation) within the context of a healthcare interaction (therapy).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M030",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:05:48.000",
+    "timestamp_end": "0:06:14.000",
+    "paragraph_ids": [
+      "p49"
+    ],
+    "moment_text": "I'm CBT oriented, so as you said, so that, you know, reflecting on what is their interpretation of the situation, I also incorporate ACT and DBT skills. So there's a big, I'm a big fan of doing the stop technique, which is when your emotions are elevated. Take a pause so that you can respond effectively instead of reactive as a reaction. And so that's something that I like and just self-compassion and radical acceptance of. I feel crappy right now. I feel overwhelmed. And giving yourself the grace and talking to yourself the way a friend would is a favorite tool of mine.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "calm"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2. The moment describes specific therapeutic tools that foster agency (making_decisions) and emotional regulation within a healthcare (therapy) context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "I can see that you talk like a friend. So I would imagine you would be fantastic to be on the other side of the couch, the, the chair, whatever, in the room. So it's a hard thing to open up about these things and it's a hard thing to let go. And so to really help support women to do that, to gain that agency, to get mentally well, I think just wonderful.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "trust",
+      "validation"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with barrier signals (stigma, fear_of_judgment) related to the difficulty of opening up about mental health, and it highlights a protective factor in the therapeutic relationship.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment is the host's reflection on the guest's therapeutic approach, occurring at the start of the episode's conclusion."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "UTS_S4_PODCAST_027.docx",
+    "season": "4",
+    "source_file": "UTS_S4_PODCAST_027.docx",
+    "speaker_id": "Lauren",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p2",
+      "p3"
+    ],
+    "moment_text": "I am always happy to chat with anyone and everyone, as you mentioned in the intro. I live in New York and I provide therapy to clients in New York, New Jersey, Connecticut, and Florida. But if you need me, I will point you in the right direction. I will do my best to do that and set you up for success and the right resources. And I really believe in the power of women coming together in sisterhood.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with agency signals (seeking_support) and barrier signals (system_navigation_difficulty), highlighting a clinician's role in facilitating access and building community.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment captures the guest's offer of support and belief in community, bridging her professional role with broader advocacy."
+  }
+]

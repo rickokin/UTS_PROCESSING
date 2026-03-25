@@ -1,0 +1,23 @@
+{
+  "locks_version": "v1.0",
+  "vocab_name": "signals.agency",
+  "type": "closed_list",
+  "items": [
+    "self_advocacy",
+    "speaking_up",
+    "asking_questions",
+    "seeking_information",
+    "seeking_care",
+    "seeking_support",
+    "tracking_symptoms",
+    "sharing_story",
+    "setting_boundaries",
+    "making_decisions",
+    "changing_providers",
+    "avoidance",
+    "silence",
+    "withdrawing",
+    "enduring",
+    "self_blame"
+  ]
+}

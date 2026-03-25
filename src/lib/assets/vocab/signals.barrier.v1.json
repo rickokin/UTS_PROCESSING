@@ -1,0 +1,27 @@
+{
+  "locks_version": "v1.0",
+  "vocab_name": "signals.barrier",
+  "type": "closed_list",
+  "items": [
+    "provider_dismissal",
+    "symptoms_normalized_without_context",
+    "misdiagnosis",
+    "delayed_diagnosis",
+    "lack_of_information",
+    "lack_of_language",
+    "lack_of_validation",
+    "access_barrier",
+    "time_constraint",
+    "cost_constraint",
+    "stigma",
+    "shame_culture",
+    "silence",
+    "fear_of_judgment",
+    "education_gap",
+    "training_gap",
+    "system_navigation_difficulty",
+    "fragmented_care",
+    "social_isolation",
+    "lack_of_support"
+  ]
+}

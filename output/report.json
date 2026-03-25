@@ -1,0 +1,182 @@
+{
+  "locks_version": "v1.0",
+  "report_id": "RPT-20240521-01",
+  "report_title": "The Unspoken Work: How Women Navigate a Fragmented Healthcare System and Forge Paths to Wellness",
+  "insight_ids_included": [
+    "C001-systemic-dismissal-reframe",
+    "C-002-fragmented-care-and-education-gaps",
+    "C001-Patient-Advocacy-Against-Dismissal-j8k9l",
+    "INS-002",
+    "C003-peer-storytelling-as-lifeline",
+    "C-003-self-care-as-foundation"
+  ],
+  "excluded_insights": [
+    "INS-001",
+    "INS-003",
+    "INS-004",
+    "INS-005",
+    "INS-006",
+    "INS-007",
+    "INS-008",
+    "C-001-defying-societal-norms",
+    "C-002-community-as-antidote-to-isolation",
+    "C-003-medical-training-gaps",
+    "C-004-patients-as-experts",
+    "C001-relational-skills-education-gap",
+    "C002-collective-healing-through-community",
+    "C003-shame-enforces-silence",
+    "C004-clinician-burnout-and-boundaries",
+    "C005-mental-healthcare-fragmentation",
+    "C006-self-advocacy-as-self-preservation",
+    "C008-pressure-to-endure",
+    "C-20240520-001-lived-experience-in-postpartum-innovation",
+    "C-20240520-002-misaligned-workplace-values",
+    "C-20240520-003-a1b2c",
+    "C-20240520-004-d4e5f",
+    "C-20240520-005-g6h7i",
+    "C002-Systemic-Gaps-in-Womens-Health-Education-m1n2o",
+    "C003-Setting-Boundaries-in-the-Workplace-p3q4r",
+    "C004-Setting-Boundaries-within-the-Family-s5t6u",
+    "C005-Overcoming-Isolation-through-Community-v7w8x",
+    "C006-Navigating-Fragmented-Care-and-System-Failures-y9z0a",
+    "C001_SeekingProfessionalMentalHealthcare-b1c2d",
+    "C002_ChallengingSystemicGapsInHealthcare-e3f4g",
+    "C003_OvercomingSocialIsolationAndFearOfJudgment-h5i6j",
+    "C004_IdentityLossAndReinventionAfterCareerTransition-k7l8m",
+    "C005_SharingStoriesForConnectionAndValidation-n9o0p",
+    "C-001-q1r2s",
+    "C-004-navigating-fragmented-care-systems",
+    "C-005-vulnerability-as-a-catalyst-for-connection",
+    "C-006-community-as-an-antidote-to-isolation",
+    "C002-cultural-silence-and-isolation",
+    "C004-navigating-multifactorial-health-issues",
+    "C005-agency-through-self-advocacy",
+    "C006-intergenerational-awakening",
+    "C-WORKPLACE-STIGMA-001-health-disclosure-risk",
+    "C-FAMILY-SUPPORT-GAP-001-invisible-labor-of-care",
+    "I-PROTECTIVE-PEER-SUPPORT-001",
+    "I-SYSTEMIC-ACCESS-BARRIERS-001"
+  ],
+  "life_stage_coverage": [
+    "adolescence",
+    "reproductive_years",
+    "postpartum",
+    "menopause_transition",
+    "post_menopause",
+    "midlife",
+    "aging",
+    "cross_life_stage"
+  ],
+  "confidence_distribution": {
+    "high": 25,
+    "medium": 10,
+    "emerging": 0
+  },
+  "assembly_notes": "Report assembled by selecting six high-confidence insights to create a narrative arc from systemic problems to patient responses and community-based solutions. Executive summary highlights five key themes across the dataset.",
+  "title": "The Unspoken Work: How Women Navigate a Fragmented Healthcare System and Forge Paths to Wellness",
+  "subtitle": "An Insight Report on Systemic Barriers, Patient Advocacy, and the Power of Community",
+  "executive_summary": [
+    "Women are finding empowerment by reframing medical dismissal as a systemic failure rather than a personal flaw, shifting from self-blame to advocacy.",
+    "A pervasive culture of silence around women's health fosters profound isolation and shame, creating a significant risk factor that prevents women from seeking care.",
+    "Medical training often lacks mentorship and burnout prevention, creating a cycle of unwellness where providers struggle to care for themselves, let alone their patients.",
+    "Clinicians find that integrating their personal lived experiences into their practice deepens empathy and builds stronger, more trusting relationships with patients.",
+    "Sharing personal stories in a supportive community serves as a powerful antidote to isolation, providing the validation and connection needed to navigate health challenges."
+  ],
+  "key_insights": [
+    {
+      "insight_statement": "When faced with a healthcare system that dismisses their symptoms or labels them as emotional, women are finding empowerment by reframing the experience not as a personal failing (e.g., being 'crazy' or 'dramatic'), but as evidence of a broken system, which shifts the focus from self-blame to seeking validation and advocating for change.",
+      "quotes": [
+        {
+          "quote": "Your moods and your hormonal chaos is not a character flaw. It's a biological sign. So first of all, I always say this, you're not crazy, you're not dramatic, and you're not overreacting, right? You are just overdue for supports and overdue to be seen as to be understood.",
+          "speaker_role": "patient",
+          "episode_id": "UTS_S4_PODCAST_042.docx"
+        },
+        {
+          "quote": "it's no need to fix what's not broken because you are not broken. The system is so, healing is more about being seen.",
+          "speaker_role": "patient",
+          "episode_id": "UTS_S4_PODCAST_042.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "Clinicians and patients express frustration with a healthcare system characterized by inconsistent standards of care across different regions and specialties, stemming from historical gaps in women's health research and medical training.",
+      "quotes": [
+        {
+          "quote": "I find it unique that people op that we operate differently across state lines. It could really help if we took what this state was doing well and what this state was doing well, and we just did that, it will really, really, really help.",
+          "speaker_role": "clinician",
+          "episode_id": "UTS_S4_PODCAST_037.docx"
+        },
+        {
+          "quote": "We have a systemic issue. You know, women's health isn't understood. We've been treated like we're men. I mean, it wasn't until until 1993 that they started doing research on women conducting, bringing them into clinical trials and for a host of reasons.",
+          "speaker_role": "host",
+          "episode_id": "UTS_S4_PODCAST_038.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "When patients experience dismissal or a lack of answers from the healthcare system, they are compelled to take on the role of researcher and advocate for their own health. This often involves meticulously tracking symptoms, educating themselves on complex medical topics, and learning to persistently question providers and change doctors to overcome diagnostic delays and receive necessary care.",
+      "quotes": [
+        {
+          "quote": "After when you've been for three years and nobody's helping you. You need to do your own research. You need to advocate and learn and educate yourself.",
+          "speaker_role": "patient",
+          "episode_id": "UTS_S4_PODCAST_028.docx"
+        },
+        {
+          "quote": "so many of the women that I work with, that I know that I interviewed, they have been dismissed by their healthcare providers. Oh, you're just postpartum. What kind of answer is that",
+          "speaker_role": "clinician",
+          "episode_id": "UTS_S4_PODCAST_027.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "Clinicians find that integrating their personal lived experiences, such as being a parent or managing their own anxiety, into their practice deepens their empathy and builds stronger, more trusting relationships with patients. This contrasts with traditional training that often encourages emotional distance, highlighting that personal vulnerability can be a clinical asset.",
+      "quotes": [
+        {
+          "quote": "But being a parent and helping parents, it is a whole different experience. It is so nice that I could say to them, you know, I, I, I get it, and I, I'm telling you to do something and sometimes I forget to do it. So it's, it's, you know, I've been there. I know, I understand. It's hard.",
+          "speaker_role": "clinician",
+          "episode_id": "UTS_S4_PODCAST_002.docx"
+        },
+        {
+          "quote": "The people who are privileged enough and who go into that. Space to sort of help other people often to have the empathy and compassion you have to live through some of it.",
+          "speaker_role": "host",
+          "episode_id": "UTS_S4_PODCAST_001.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "Sharing personal stories and listening to the lived experiences of other women serves as a powerful antidote to isolation, providing the validation, connection, and sense of shared humanity needed to navigate health challenges and systemic failures.",
+      "quotes": [
+        {
+          "quote": "healing is more about being seen. So what you need is find a place that you know you can feel validated. Connect with other women. You know, listen to other women's stories and don't stay stuck",
+          "speaker_role": "patient",
+          "episode_id": "UTS_S4_PODCAST_042.docx"
+        },
+        {
+          "quote": "why are we, if, if half of our population is having this, why don't we ever talk about it? Why are we so isolated and why do we struggle in silence?",
+          "speaker_role": "patient",
+          "episode_id": "UTS_S4_PODCAST_040.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "Women, especially those in caregiving roles, are increasingly recognizing that prioritizing their own mental and physical health is not selfish but a necessary foundation for creating stronger families and communities.",
+      "quotes": [
+        {
+          "quote": "On planes, they say, put your mask on first, and we've been doing it wrong this entire time. We take care. We deliver these babies, we get married, and we take care of everybody but ourselves. But we have to put our mask on first.",
+          "speaker_role": "educator",
+          "episode_id": "UTS_S4_PODCAST_037.docx"
+        },
+        {
+          "quote": "I think one of the things I would say that I'm doing for, for marching. For my own mental wellness within all of this is to make space to take care of myself through this and learning to be able to ask for help and learning to make space for myself and model that.",
+          "speaker_role": "advocate",
+          "episode_id": "UTS_S4_PODCAST_036.docx"
+        }
+      ]
+    }
+  ],
+  "methodology": {
+    "episodes_analyzed": 45,
+    "moments_segmented": 179,
+    "confidence_threshold": "High confidence insights require evidence from a minimum of 3 distinct episodes and demonstrate strong pattern coherence (>= 0.70) across multiple speakers."
+  }
+}

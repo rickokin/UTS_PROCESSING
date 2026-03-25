@@ -1,0 +1,241 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "moment.schema.v1.json",
+  "title": "UTS Moment Object Schema (v1.0)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "locks_version",
+    "moment_id",
+    "episode_id",
+    "season",
+    "source_file",
+    "speaker_id",
+    "speaker_role",
+    "timestamp_start",
+    "timestamp_end",
+    "paragraph_ids",
+    "moment_text",
+    "moment_type",
+    "life_stage",
+    "health_domain",
+    "system_interaction",
+    "emotional_signals",
+    "agency_signals",
+    "barrier_signals",
+    "insight_eligible",
+    "eligibility_rationale",
+    "risk_flags",
+    "notes_for_reviewer"
+  ],
+  "properties": {
+    "locks_version": {
+      "type": "string",
+      "const": "v1.0"
+    },
+    "moment_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "episode_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "season": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_file": {
+      "type": "string",
+      "minLength": 1
+    },
+    "speaker_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "speaker_role": {
+      "type": "string",
+      "enum": [
+        "patient",
+        "clinician",
+        "caregiver",
+        "advocate",
+        "educator",
+        "host"
+      ]
+    },
+    "timestamp_start": {
+      "type": "string",
+      "minLength": 1
+    },
+    "timestamp_end": {
+      "type": "string",
+      "minLength": 1
+    },
+    "paragraph_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "moment_text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "moment_type": {
+      "type": "string",
+      "enum": [
+        "lived_experience",
+        "reflection",
+        "realization",
+        "barrier_encounter",
+        "validation",
+        "advocacy",
+        "education",
+        "system_observation"
+      ]
+    },
+    "life_stage": {
+      "type": "string",
+      "enum": [
+        "adolescence",
+        "reproductive_years",
+        "pregnancy",
+        "postpartum",
+        "menopause_transition",
+        "post_menopause",
+        "midlife",
+        "aging",
+        "cross_life_stage"
+      ]
+    },
+    "health_domain": {
+      "type": "string",
+      "minLength": 1
+    },
+    "system_interaction": {
+      "type": "string",
+      "enum": [
+        "healthcare_provider",
+        "education_system",
+        "peer_community",
+        "family",
+        "workplace",
+        "media",
+        "medical_training",
+        "community",
+        "none"
+      ]
+    },
+    "emotional_signals": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "confusion",
+          "fear",
+          "anxiety",
+          "overwhelm",
+          "frustration",
+          "anger",
+          "sadness",
+          "grief",
+          "shame",
+          "embarrassment",
+          "isolation",
+          "loneliness",
+          "self_doubt",
+          "hopelessness",
+          "resignation",
+          "relief",
+          "validation",
+          "recognition",
+          "connection",
+          "belonging",
+          "confidence",
+          "empowerment",
+          "hope",
+          "calm",
+          "clarity",
+          "trust"
+        ]
+      }
+    },
+    "agency_signals": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "self_advocacy",
+          "speaking_up",
+          "asking_questions",
+          "seeking_information",
+          "seeking_care",
+          "seeking_support",
+          "tracking_symptoms",
+          "sharing_story",
+          "setting_boundaries",
+          "making_decisions",
+          "changing_providers",
+          "avoidance",
+          "silence",
+          "withdrawing",
+          "enduring",
+          "self_blame"
+        ]
+      }
+    },
+    "barrier_signals": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "provider_dismissal",
+          "symptoms_normalized_without_context",
+          "misdiagnosis",
+          "delayed_diagnosis",
+          "lack_of_information",
+          "lack_of_language",
+          "lack_of_validation",
+          "access_barrier",
+          "time_constraint",
+          "cost_constraint",
+          "stigma",
+          "shame_culture",
+          "silence",
+          "fear_of_judgment",
+          "education_gap",
+          "training_gap",
+          "system_navigation_difficulty",
+          "fragmented_care",
+          "social_isolation",
+          "lack_of_support"
+        ]
+      }
+    },
+    "insight_eligible": {
+      "type": "boolean"
+    },
+    "eligibility_rationale": {
+      "type": "string"
+    },
+    "risk_flags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "none",
+          "mental_health_sensitivity",
+          "medical_trauma",
+          "sexual_health",
+          "grief_loss",
+          "violence_abuse"
+        ]
+      }
+    },
+    "notes_for_reviewer": {
+      "type": "string"
+    }
+  }
+}
