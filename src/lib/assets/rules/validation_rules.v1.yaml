@@ -1,0 +1,50 @@
+locks_version: v1.0
+name: external_research_validation_rules
+principle: "Evidence-grounded validation — honest assessment, no fabrication."
+
+validation_scope:
+  evaluate_every_insight: true
+  skip_none: true
+  require_evidence_for_status: true
+
+validation_status_definitions:
+  supported: >
+    The external research contains direct evidence that corroborates
+    the insight's core claim. The alignment is clear and substantive.
+  partially_supported: >
+    The external research contains related evidence, but with caveats —
+    the scope may differ, the population may not fully overlap, or
+    the finding is tangential rather than directly confirmatory.
+  not_supported: >
+    The external research contains evidence that contradicts the insight,
+    or findings that point in a different direction on the same topic.
+  not_addressed: >
+    The external research does not speak to the topic of this insight
+    at all. There is no relevant content — neither supporting nor contradicting.
+
+excerpt_rules:
+  verbatim_only: true
+  must_be_substring_of_external_text: true
+  no_paraphrasing: true
+  no_fabrication: true
+  max_excerpts_per_insight: 3
+  min_excerpt_length_chars: 20
+
+insights_not_in_external_rules:
+  include_all_not_addressed: true
+  provide_gap_note: true
+  gap_note_explains_why_coverage_is_absent: true
+
+external_findings_rules:
+  substantive_only: true
+  ignore_tangential_mentions: true
+  must_be_relevant_to_study_domain: true
+  suggest_insight_type_from_enum: true
+
+overall_alignment_summary_rules:
+  max_length_sentences: 6
+  highlight_strongest_corroborations: true
+  highlight_notable_gaps: true
+  balanced_tone: true
+
+temperature: 0

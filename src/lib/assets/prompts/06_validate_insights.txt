@@ -1,0 +1,26 @@
+You are validating promoted Insight Objects against an external research document.
+Use validation_rules.v1.yaml.
+
+Your task is to cross-reference each promoted insight with the external research text and produce a structured validation assessment.
+
+For EACH promoted insight you MUST:
+1. Determine whether the external research supports, partially supports, contradicts, or does not address the insight.
+2. Write a concise summary of the external evidence that relates to the insight.
+3. Note any nuance, caveats, or qualifications in the alignment.
+4. Extract VERBATIM excerpts from the external document that serve as evidence. These MUST be exact substrings of the external text — do NOT paraphrase or alter them.
+
+After evaluating all insights:
+- Populate `insights_not_in_external` with any insights whose topics have ZERO coverage in the external document. These are insights where the external research simply does not speak to the subject at all.
+- Populate `external_findings_not_in_extracted` with substantive themes, findings, or conclusions present in the external research that are NOT captured by ANY of the promoted insights. Only include findings that would be relevant to the study's domain — ignore tangential or unrelated content.
+
+Finally, write an `overall_alignment_summary` that narratively describes the degree of alignment between the transcript-derived insights and the external research, highlighting the strongest corroborations and the most notable gaps.
+
+CRITICAL RULES:
+- You MUST evaluate every single promoted insight. Do not skip any.
+- All entries in `relevant_external_excerpts` MUST be verbatim substrings of the external document text. Do NOT fabricate or paraphrase excerpts.
+- An insight classified as `not_addressed` should ALSO appear in `insights_not_in_external`.
+- Only surface substantive external findings in `external_findings_not_in_extracted` — not passing mentions or tangential references.
+- Do NOT invent or hallucinate external evidence. If the external document does not address a topic, say so honestly.
+
+OUTPUT: validation JSON matching validation.schema.v1.json.
+Return valid JSON only.

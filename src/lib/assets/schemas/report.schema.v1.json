@@ -83,6 +83,71 @@
     },
     "assembly_notes": {
       "type": "string"
+    },
+    "participant_demographics": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "total_participants": { "type": "integer", "minimum": 0 },
+        "age": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "min": { "type": "number" },
+            "max": { "type": "number" },
+            "mean": { "type": "number" },
+            "median": { "type": "number" }
+          },
+          "required": ["min", "max", "mean", "median"]
+        },
+        "age_brackets": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "bracket": { "type": "string" },
+              "count": { "type": "integer", "minimum": 0 }
+            },
+            "required": ["bracket", "count"]
+          }
+        },
+        "ethnicity_breakdown": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "group": { "type": "string" },
+              "count": { "type": "integer", "minimum": 0 },
+              "pct": { "type": "number" }
+            },
+            "required": ["group", "count", "pct"]
+          }
+        },
+        "geographic_scope": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "domestic_count": { "type": "integer", "minimum": 0 },
+            "international_count": { "type": "integer", "minimum": 0 },
+            "regions": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "region": { "type": "string" },
+                  "count": { "type": "integer", "minimum": 0 }
+                },
+                "required": ["region", "count"]
+              }
+            }
+          },
+          "required": ["domestic_count", "international_count", "regions"]
+        }
+      },
+      "required": ["total_participants", "age", "age_brackets", "ethnicity_breakdown", "geographic_scope"]
     }
   }
 }

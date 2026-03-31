@@ -1,0 +1,641 @@
+{
+  "locks_version": "v1.0",
+  "validation_id": "ext-val-s4-20240521",
+  "external_source_summary": "The external research document is a summary review of existing literature from sources like Springer, PMC, KFF, and Catalyst, designed to validate findings from a primary research report (referred to as 'the PDF'). The document assesses alignment on key themes in women's health, including symptom dismissal, medical education gaps, fragmented care, cost barriers, the necessity of self-advocacy, the role of peer support, and workplace stigma. It also identifies topics that are more prominent in the external literature (e.g., research underinvestment, racial disparities) and those that appear more original to the primary research (e.g., first-generation clinician struggles, clinician lived experience as an asset).",
+  "insight_validations": [
+    {
+      "insight_id": "INS-001",
+      "insight_title": "Medical Training Lacks Mentorship and Burnout Prevention, Disproportionately Affecting First-Generation Doctors",
+      "validation_status": "partially_supported",
+      "external_evidence_summary": "The external research supports the general themes of clinician burnout and the importance of mentorship for physician well-being and retention. However, it explicitly states that the specific focus on the challenges faced by first-generation doctors is not strongly replicated in the broader literature reviewed and may be a novel finding from the source material.",
+      "alignment_notes": "The alignment is strong on the general issues of burnout and mentorship gaps. The 'partial' support comes from the lack of external evidence specifically corroborating the unique struggles of first-generation clinicians, which the external source labels as a more qualitative or original insight.",
+      "relevant_external_excerpts": [
+        "Clinician burnout, isolation, and mentorship gapsPartially supported.",
+        "There is good support for mentorship as important to physician well-being and retention, and broad support for physician burnout as a serious problem.",
+        "But the PDF’s more specific framing - especially around first-generation doctors and lack of success models - appears more original to the interview data than something I found strongly replicated in broader women’s-health literature."
+      ]
+    },
+    {
+      "insight_id": "INS-002",
+      "insight_title": "Lived Experience Enhances Clinical Empathy and Patient Trust",
+      "validation_status": "partially_supported",
+      "external_evidence_summary": "The external research offers moderate, indirect support. It acknowledges that empathy and therapeutic alliance improve patient outcomes, which aligns with the insight's theme. However, it finds less direct, generalizable evidence for the specific claim that a clinician's own parallel life experiences (like parenting or anxiety) directly improve women's health outcomes.",
+      "alignment_notes": "The support is partial because the external evidence is for the general concepts of empathy and therapeutic alliance, not the specific mechanism of a clinician's personal lived experience being a transferable clinical asset. The external source frames this as a 'promising qualitative insight rather than a settled evidence-based conclusion.'",
+      "relevant_external_excerpts": [
+        "Clinicians’ personal lived experience as a clinical assetModerately supported, but less directly.",
+        "There is broader evidence that empathy and therapeutic alliance improve patient experience and outcomes, and psychotherapy literature supports intentional use of the therapist’s self.",
+        "But I found less direct external evidence for the specific claim that a clinician’s own parenting, anxiety, or parallel life experience improves women’s-health outcomes in a generalizable way."
+      ]
+    },
+    {
+      "insight_id": "INS-003",
+      "insight_title": "Community and Shared Experience Are Powerful Antidotes to Widespread Loneliness",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It consistently finds that peer and social support are linked to validation, coping, belonging, and improved emotional outcomes, particularly in contexts like postpartum care and cancer survivorship. The document affirms that community and shared stories serve as a counterweight to isolation.",
+      "alignment_notes": "The alignment is very strong. The external evidence directly corroborates the role of community as a protective factor against isolation.",
+      "relevant_external_excerpts": [
+        "Peer community and storytelling as protective factorsStrongly supported.",
+        "Postpartum and cancer-survivorship literature consistently links social support and peer support with validation, coping, belonging, and better emotional outcomes.",
+        "The PDF’s framing of community and shared stories as a counterweight to isolation aligns well with this body of evidence."
+      ]
+    },
+    {
+      "insight_id": "INS-004",
+      "insight_title": "Clinicians Actively Destigmatize Mental Health by Normalizing Emotional Experiences",
+      "validation_status": "not_addressed",
+      "external_evidence_summary": "The external research document does not specifically address the clinical practice of destigmatizing mental health by normalizing emotional experiences or using specific language choices (e.g., 'sadness' vs. 'depression'). While it acknowledges workplace stigma around mental health, it does not evaluate this particular clinician-led behavioral pattern.",
+      "alignment_notes": "There is no content in the external document that either supports or contradicts this insight. The topic is not covered.",
+      "relevant_external_excerpts": []
+    },
+    {
+      "insight_id": "INS-005",
+      "insight_title": "Patients Must Act as Self-Advocates in Healthcare Settings",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research supports the insight that patients are often forced into self-advocacy and self-education. The literature connects provider dismissal and diagnostic delays directly with the necessity for women to persist, navigate the system themselves, and compensate for systemic blind spots.",
+      "alignment_notes": "The alignment is strong. The external document confirms the behavior of self-advocacy as a response to system failures. It also notes that the source material (the 'PDF') better captures the emotional burden and labor involved, which is a nuance.",
+      "relevant_external_excerpts": [
+        "Patients are pushed into self-advocacy, self-education, and “doing their own research”Supported.",
+        "The external literature repeatedly links dismissal and diagnostic delay with the need for women to persist, self-advocate, and navigate systems themselves.",
+        "Research confirms behavior, but your report better captures emotional burden + labor"
+      ]
+    },
+    {
+      "insight_id": "INS-006",
+      "insight_title": "Identity Crisis Arises When Professional Roles Overshadow Personal Self",
+      "validation_status": "not_addressed",
+      "external_evidence_summary": "The external research document does not address the topic of identity crisis resulting from an over-identification with a professional role. The provided text focuses on systemic healthcare issues and does not delve into this specific emotional or psychological pattern.",
+      "alignment_notes": "There is no relevant content in the external document to validate this insight.",
+      "relevant_external_excerpts": []
+    },
+    {
+      "insight_id": "INS-007",
+      "insight_title": "Social Stigma and Isolation Create Significant Barriers to Connection and Mental Wellness",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports the idea that stigma creates barriers to wellness. It specifically validates the existence of workplace silence and stigma around women's health issues like menopause, fertility, and mental health. The document also corroborates the concept of isolation as a key problem that peer support and community can counteract.",
+      "alignment_notes": "The alignment is strong. The external document confirms that stigma around women's health issues is a significant barrier in various settings, which directly supports the premise of this insight.",
+      "relevant_external_excerpts": [
+        "Workplace silence and stigma around menopause, fertility, and mental healthStrongly supported.",
+        "Catalyst found that 84% of respondents wanted more menopause support at work, and some had declined job opportunities because of the lack of it.",
+        "The PDF’s framing of community and shared stories as a counterweight to isolation aligns well with this body of evidence."
+      ]
+    },
+    {
+      "insight_id": "INS-008",
+      "insight_title": "Transforming Personal Hardship into Peer Support Creates Purpose and Community",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports the core components of this insight. It consistently identifies peer support and storytelling as protective factors that provide validation, improve coping, and foster better emotional outcomes, particularly in cancer survivorship and postpartum contexts. This aligns with the idea of transforming personal hardship into a resource for others.",
+      "alignment_notes": "The alignment is very strong. The external evidence directly validates the power of peer community and shared stories, which is the mechanism described in the insight for transforming hardship into support.",
+      "relevant_external_excerpts": [
+        "Peer community and storytelling as protective factorsStrongly supported.",
+        "Postpartum and cancer-survivorship literature consistently links social support and peer support with validation, coping, belonging, and better emotional outcomes.",
+        "Your “collective trauma → collective healing” framing is compelling + ownable"
+      ]
+    },
+    {
+      "insight_id": "C-001-defying-societal-norms",
+      "insight_title": "Defying Societal Norms Through Storytelling and Self-Definition",
+      "validation_status": "partially_supported",
+      "external_evidence_summary": "The external research provides partial support. It strongly corroborates the existence of stigma around women's health issues (e.g., menopause, fertility) and the power of storytelling as a protective factor. However, it does not specifically address the act of defying broader societal norms like marriage or motherhood as a theme.",
+      "alignment_notes": "The alignment is partial. The evidence supports the components of stigma and storytelling but doesn't directly mention the specific context of challenging life-path norms (marriage, children). The support is for the mechanism, not the specific application described in the insight.",
+      "relevant_external_excerpts": [
+        "Workplace silence and stigma around menopause, fertility, and mental healthStrongly supported.",
+        "Peer community and storytelling as protective factorsStrongly supported."
+      ]
+    },
+    {
+      "insight_id": "C-002-community-as-antidote-to-isolation",
+      "insight_title": "Community and Shared Experience as an Antidote to Isolation",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It consistently finds that peer and social support are linked to validation, coping, belonging, and improved emotional outcomes, particularly in contexts like postpartum care and cancer survivorship. The document affirms that community and shared stories serve as a counterweight to isolation.",
+      "alignment_notes": "The alignment is very strong. The external evidence directly corroborates the role of community as a protective factor against isolation.",
+      "relevant_external_excerpts": [
+        "Peer community and storytelling as protective factorsStrongly supported.",
+        "Postpartum and cancer-survivorship literature consistently links social support and peer support with validation, coping, belonging, and better emotional outcomes.",
+        "The PDF’s framing of community and shared stories as a counterweight to isolation aligns well with this body of evidence."
+      ]
+    },
+    {
+      "insight_id": "C-003-medical-training-gaps",
+      "insight_title": "Systemic Gaps in Medical Training Lead to Misdiagnosis and Patient Harm",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It explicitly identifies substantial unmet needs for education on menopause and women's health in medical training. It also corroborates that the dismissal of women's symptoms, which stems from these gaps, leads to downstream diagnostic delays and harm.",
+      "alignment_notes": "The alignment is very strong and direct. The external document validates both the existence of training gaps and their negative consequences on diagnosis.",
+      "relevant_external_excerpts": [
+        "Medical education and training gaps around menopause, hormones, and women’s healthAlso strongly supported.",
+        "Recent literature points to a substantial unmet need for menopause education and support, and broader policy summaries continue to identify major women’s-health research and training gaps.",
+        "Recent reviews and framework papers describe women’s symptoms as more likely to be dismissed, with downstream diagnostic delay"
+      ]
+    },
+    {
+      "insight_id": "C-004-patients-as-experts",
+      "insight_title": "Patients Must Become Their Own Experts to Counteract Medical Dismissal",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research supports the insight that patients are often forced into self-advocacy and self-education as a direct result of medical dismissal. The literature links provider dismissal and diagnostic delays with the necessity for women to persist, conduct their own research, and navigate the system themselves.",
+      "alignment_notes": "The alignment is strong. The external document confirms this behavioral pattern as a response to system failures.",
+      "relevant_external_excerpts": [
+        "Patients are pushed into self-advocacy, self-education, and “doing their own research”Supported.",
+        "The external literature repeatedly links dismissal and diagnostic delay with the need for women to persist, self-advocate, and navigate systems themselves."
+      ]
+    },
+    {
+      "insight_id": "C001-relational-skills-education-gap",
+      "insight_title": "Formal Education Lacks Curriculum on Essential Relational Skills",
+      "validation_status": "not_addressed",
+      "external_evidence_summary": "The external research document does not address the topic of relational skills curriculum within the formal K-12 education system. Its scope is focused on medical training and the healthcare delivery system.",
+      "alignment_notes": "There is no content in the external document relevant to this insight.",
+      "relevant_external_excerpts": []
+    },
+    {
+      "insight_id": "C002-collective-healing-through-community",
+      "insight_title": "Collective Healing: Community as a Primary Defense Against Trauma and Isolation",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It validates that peer support and community are protective factors that lead to better emotional outcomes and help counteract isolation. The document specifically notes that the framing of 'collective trauma → collective healing' is a compelling concept from the source material that aligns well with the evidence.",
+      "alignment_notes": "The alignment is very strong. The external evidence confirms the mechanism, and the summary even praises the specific 'collective healing' framing.",
+      "relevant_external_excerpts": [
+        "Peer community and storytelling as protective factorsStrongly supported.",
+        "Postpartum and cancer-survivorship literature consistently links social support and peer support with validation, coping, belonging, and better emotional outcomes.",
+        "Your “collective trauma → collective healing” framing is compelling + ownable"
+      ]
+    },
+    {
+      "insight_id": "C003-shame-enforces-silence",
+      "insight_title": "Shame and Stigma Enforce a Culture of Silence Around Mental Health and Trauma",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It explicitly validates the existence of workplace silence and stigma around women's health issues, including mental health. This directly corroborates the idea that stigma enforces a culture of silence which acts as a barrier.",
+      "alignment_notes": "The alignment is strong. The external document confirms that stigma and silence around women's health are significant, well-documented issues.",
+      "relevant_external_excerpts": [
+        "Workplace silence and stigma around menopause, fertility, and mental healthStrongly supported.",
+        "Catalyst + McKinsey: menopause + caregiving + health issues impact advancement"
+      ]
+    },
+    {
+      "insight_id": "C004-clinician-burnout-and-boundaries",
+      "insight_title": "Clinicians and Caregivers Must Set Rigorous Boundaries to Prevent Burnout and Vicarious Trauma",
+      "validation_status": "partially_supported",
+      "external_evidence_summary": "The external research provides partial support. It broadly confirms that physician burnout is a serious, well-documented problem. However, it does not go into detail about the specific behavioral strategies clinicians use to cope, such as setting rigorous boundaries, focusing more on the systemic problem and mentorship gaps.",
+      "alignment_notes": "The alignment is partial because the external text validates the problem (burnout) but does not discuss the solution (boundary-setting) presented in the insight.",
+      "relevant_external_excerpts": [
+        "Clinician burnout, isolation, and mentorship gapsPartially supported.",
+        "broad support for physician burnout as a serious problem."
+      ]
+    },
+    {
+      "insight_id": "C005-mental-healthcare-fragmentation",
+      "insight_title": "Mental Healthcare is Systemically Fragmented, Hindering Effective and Holistic Treatment",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research supports this insight. It identifies fragmentation, especially the separation of medical and behavioral health, as a source of clinical and operational inefficiency. The document also highlights the difficulty of coordinating perinatal mental health care across different providers and settings.",
+      "alignment_notes": "The alignment is strong. The external document explicitly names fragmentation as a key systemic issue, particularly in the context of mental and behavioral health.",
+      "relevant_external_excerpts": [
+        "Fragmented care for complex, multifactorial issues like postpartum mental health and “brain fog”Supported.",
+        "AHRQ notes that fragmentation - especially separation of medical and behavioral health - creates clinical and operational inefficiency.",
+        "Perinatal mental-health safety work also highlights the difficulty of coordinating care across settings, providers, and records"
+      ]
+    },
+    {
+      "insight_id": "C006-self-advocacy-as-self-preservation",
+      "insight_title": "Self-Advocacy as a Necessary Act of Self-Preservation in Healthcare",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research supports this insight. The literature repeatedly connects provider dismissal and diagnostic delays with the necessity for women to persist and self-advocate to get the care they need, framing it as a response to system failures.",
+      "alignment_notes": "The alignment is strong, confirming that self-advocacy is a behavior forced upon patients by the healthcare system's shortcomings.",
+      "relevant_external_excerpts": [
+        "The external literature repeatedly links dismissal and diagnostic delay with the need for women to persist, self-advocate, and navigate systems themselves.",
+        "This is especially visible in women’s heart-health and cancer/survivorship discussions, where patients often compensate for system blind spots."
+      ]
+    },
+    {
+      "insight_id": "C008-pressure-to-endure",
+      "insight_title": "The Pressure to Endure: Women Feel Compelled to Work Harder and Suppress Discomfort",
+      "validation_status": "not_addressed",
+      "external_evidence_summary": "The external research document does not specifically address the internal, emotional pattern of women feeling a pressure to endure struggles in silence or work harder to suppress discomfort. While it discusses external workplace pressures, it does not validate this particular internal experience.",
+      "alignment_notes": "There is no content in the external document that directly speaks to this insight.",
+      "relevant_external_excerpts": []
+    },
+    {
+      "insight_id": "C-20240520-001-lived-experience-in-postpartum-innovation",
+      "insight_title": "Lived Experience is a Critical, Untapped Resource in Postpartum Medical Innovation",
+      "validation_status": "partially_supported",
+      "external_evidence_summary": "The external research provides partial, indirect support. It moderately supports the idea that a clinician's lived experience can be a clinical asset through enhanced empathy and therapeutic alliance. However, it does not specifically address the role of lived experience as a driver of medical innovation in the postpartum space, and it notes that the general claim is less empirically established.",
+      "alignment_notes": "The support is partial and indirect. The evidence is for lived experience in clinical practice, not innovation, and it comes with the caveat of being a more qualitative finding rather than a broadly established conclusion.",
+      "relevant_external_excerpts": [
+        "Clinicians’ personal lived experience as a clinical assetModerately supported, but less directly.",
+        "But I found less direct external evidence for the specific claim that a clinician’s own parenting, anxiety, or parallel life experience improves women’s-health outcomes in a generalizable way."
+      ]
+    },
+    {
+      "insight_id": "C-20240520-002-misaligned-workplace-values",
+      "insight_title": "Misaligned Workplace Values Force Women to Choose Between Career and Family Wellbeing",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It cites findings that women want more menopause support at work and have declined job opportunities due to the lack of it. It also references reports showing women face less support and fewer opportunities for advancement, which aligns with the argument that health-related challenges and lack of flexibility intersect with career progression, forcing difficult choices.",
+      "alignment_notes": "The alignment is strong. The external evidence directly confirms that workplace environments lacking support for women's health and life stages negatively impact their careers.",
+      "relevant_external_excerpts": [
+        "Workplace silence and stigma around menopause, fertility, and mental healthStrongly supported.",
+        "Catalyst found that 84% of respondents wanted more menopause support at work, and some had declined job opportunities because of the lack of it.",
+        "McKinsey’s 2025 Women in the Workplace report also shows women still face less support and fewer opportunities to advance, which fits the PDF’s argument that health-related silence intersects with career progression."
+      ]
+    },
+    {
+      "insight_id": "C-20240520-003-a1b2c",
+      "insight_title": "Peer Community and Storytelling as a Vital Support System",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It consistently finds that peer support and storytelling are linked with validation, coping, belonging, and better emotional outcomes in contexts like postpartum care and cancer survivorship.",
+      "alignment_notes": "The alignment is very strong and direct.",
+      "relevant_external_excerpts": [
+        "Peer community and storytelling as protective factorsStrongly supported.",
+        "Postpartum and cancer-survivorship literature consistently links social support and peer support with validation, coping, belonging, and better emotional outcomes."
+      ]
+    },
+    {
+      "insight_id": "C-20240520-004-d4e5f",
+      "insight_title": "Clinicians Act as Navigators and Advocates Against a Fragmented Healthcare System",
+      "validation_status": "not_addressed",
+      "external_evidence_summary": "The external research document does not address the specific role of clinicians acting as navigators or advocates for their patients against a fragmented system. While it confirms the existence of fragmentation and the burden of self-advocacy on patients, it does not discuss this particular clinician behavior.",
+      "alignment_notes": "The topic of clinician-as-advocate is not covered in the provided text.",
+      "relevant_external_excerpts": []
+    },
+    {
+      "insight_id": "C-20240520-005-g6h7i",
+      "insight_title": "Prioritizing Self-Wellness Through Intentional Boundary-Setting in Personal and Family Life",
+      "validation_status": "not_addressed",
+      "external_evidence_summary": "The external research document does not address the behavioral pattern of women setting intentional boundaries within their personal and family lives to prioritize self-wellness. The scope of the document is on interactions with the healthcare and workplace systems.",
+      "alignment_notes": "This topic is not covered in the external document.",
+      "relevant_external_excerpts": []
+    },
+    {
+      "insight_id": "C001-Patient-Advocacy-Against-Dismissal-j8k9l",
+      "insight_title": "Provider Dismissal Forces Patients into Self-Advocacy and Independent Research",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research supports this insight. It directly links the dismissal of women's symptoms with the subsequent need for patients to engage in self-advocacy, persistence, and their own research to compensate for diagnostic delays and system blind spots.",
+      "alignment_notes": "The alignment is strong, as the external text explicitly identifies dismissal as the catalyst for patient self-advocacy.",
+      "relevant_external_excerpts": [
+        "Women’s symptoms being dismissed, minimized, or psychologizedThis is strongly supported.",
+        "The external literature repeatedly links dismissal and diagnostic delay with the need for women to persist, self-advocate, and navigate systems themselves."
+      ]
+    },
+    {
+      "insight_id": "C002-Systemic-Gaps-in-Womens-Health-Education-m1n2o",
+      "insight_title": "Gaps in Medical Education on Women's Health Lead to Fragmented Care and Misdiagnosis",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It confirms a substantial unmet need for medical education in women's health, particularly menopause, and links these gaps to fragmented care and diagnostic delays resulting from symptom dismissal.",
+      "alignment_notes": "The alignment is very strong. The external document validates all components of the insight: the education gaps, the resulting fragmentation, and the consequence of misdiagnosis/delay.",
+      "relevant_external_excerpts": [
+        "Medical education and training gaps around menopause, hormones, and women’s healthAlso strongly supported.",
+        "Fragmented care for complex, multifactorial issues like postpartum mental health and “brain fog”Supported.",
+        "women’s symptoms as more likely to be dismissed, with downstream diagnostic delay"
+      ]
+    },
+    {
+      "insight_id": "C003-Setting-Boundaries-in-the-Workplace-p3q4r",
+      "insight_title": "Redefining Professional Success by Prioritizing Personal Well-being and Setting Workplace Boundaries",
+      "validation_status": "partially_supported",
+      "external_evidence_summary": "The external research provides partial support. It strongly validates the existence of workplace stigma and lack of support for women's health issues, which creates the pressure for this behavioral shift. It cites evidence of women declining job opportunities due to lack of support, which is a form of boundary setting. However, it does not explicitly discuss the broader trend of redefining professional success.",
+      "alignment_notes": "The alignment is partial. The evidence supports the underlying problem and gives examples of actions (declining jobs) that align with the insight, but it doesn't cover the full scope of 'redefining professional success.'",
+      "relevant_external_excerpts": [
+        "Workplace silence and stigma around menopause, fertility, and mental healthStrongly supported.",
+        "Catalyst found that 84% of respondents wanted more menopause support at work, and some had declined job opportunities because of the lack of it."
+      ]
+    },
+    {
+      "insight_id": "C004-Setting-Boundaries-within-the-Family-s5t6u",
+      "insight_title": "Women Reclaim Personal Time and Well-being by Setting Boundaries Within the Family",
+      "validation_status": "not_addressed",
+      "external_evidence_summary": "The external research document does not address the behavioral pattern of women setting intentional boundaries within their personal and family lives. The scope of the document is on interactions with the healthcare and workplace systems.",
+      "alignment_notes": "This topic is not covered in the external document.",
+      "relevant_external_excerpts": []
+    },
+    {
+      "insight_id": "C005-Overcoming-Isolation-through-Community-v7w8x",
+      "insight_title": "Sharing Personal Stories in a Community Fosters Connection and Combats Isolation",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It consistently finds that peer support and storytelling are linked with validation, coping, belonging, and better emotional outcomes, which directly combat social isolation.",
+      "alignment_notes": "The alignment is very strong and direct.",
+      "relevant_external_excerpts": [
+        "Peer community and storytelling as protective factorsStrongly supported.",
+        "Postpartum and cancer-survivorship literature consistently links social support and peer support with validation, coping, belonging, and better emotional outcomes."
+      ]
+    },
+    {
+      "insight_id": "C006-Navigating-Fragmented-Care-and-System-Failures-y9z0a",
+      "insight_title": "Patients Face an 'Odyssey' to Find Coordinated Care in a Fragmented Healthcare System",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research supports this insight. It explicitly identifies fragmentation of care as a key systemic issue, noting that it creates clinical inefficiency and difficulty for patients in coordinating care across different providers and settings, especially for complex issues.",
+      "alignment_notes": "The alignment is strong. The external document directly validates the problem of a fragmented system that is difficult for patients to navigate.",
+      "relevant_external_excerpts": [
+        "Fragmented care for complex, multifactorial issues like postpartum mental health and “brain fog”Supported.",
+        "AHRQ notes that fragmentation - especially separation of medical and behavioral health - creates clinical and operational inefficiency."
+      ]
+    },
+    {
+      "insight_id": "C001_SeekingProfessionalMentalHealthcare-b1c2d",
+      "insight_title": "The Journey of Seeking Mental Healthcare Involves Unlearning Harmful Narratives and Redefining Self-Worth",
+      "validation_status": "not_addressed",
+      "external_evidence_summary": "The external research document does not address the internal, emotional journey of unlearning harmful societal narratives (e.g., 'hustle for your worthiness') as part of the mental healthcare process. Its focus is on systemic barriers and patterns, not the specifics of therapeutic transformation.",
+      "alignment_notes": "This topic is not covered in the external document.",
+      "relevant_external_excerpts": []
+    },
+    {
+      "insight_id": "C002_ChallengingSystemicGapsInHealthcare-e3f4g",
+      "insight_title": "Advocacy is Required to Counter 'One-Size-Fits-All' Medicine and Systemic Gaps in Women's Healthcare",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research supports this insight. It notes that women's symptoms are often filtered through 'male-centered pathways' and that a major root cause of system failure is 'inadequate sex-disaggregated evidence' due to research underinvestment. This validates the premise of a 'one-size-fits-all' system. The document also confirms that these failures force women into self-advocacy.",
+      "alignment_notes": "The alignment is strong. The external document identifies the male-centric bias and research gaps that create the 'one-size-fits-all' problem and validates the need for patient advocacy in response.",
+      "relevant_external_excerpts": [
+        "women’s symptoms as more likely to be dismissed, with downstream diagnostic delay, especially when symptoms are psychologized or filtered through male-centered pathways.",
+        "women’s health is also constrained by research underinvestment, underrepresentation, and inadequate sex-disaggregated evidence."
+      ]
+    },
+    {
+      "insight_id": "C003_OvercomingSocialIsolationAndFearOfJudgment-h5i6j",
+      "insight_title": "Speaking Up and Sharing Stories Breaks the Cycle of Stigma and Social Isolation",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It validates that peer support and storytelling are protective factors that foster validation and belonging, directly countering the effects of stigma and social isolation.",
+      "alignment_notes": "The alignment is very strong. The external document confirms that community and shared stories are an effective response to isolation.",
+      "relevant_external_excerpts": [
+        "Peer community and storytelling as protective factorsStrongly supported.",
+        "Postpartum and cancer-survivorship literature consistently links social support and peer support with validation, coping, belonging, and better emotional outcomes."
+      ]
+    },
+    {
+      "insight_id": "C004_IdentityLossAndReinventionAfterCareerTransition-k7l8m",
+      "insight_title": "Career Transitions Trigger an Identity Crisis, Leading to a Painful but Necessary Reinvention of Self",
+      "validation_status": "not_addressed",
+      "external_evidence_summary": "The external research document does not address the topic of identity crisis resulting from career transitions. The provided text focuses on systemic healthcare issues and does not delve into this specific emotional or psychological pattern.",
+      "alignment_notes": "There is no relevant content in the external document to validate this insight.",
+      "relevant_external_excerpts": []
+    },
+    {
+      "insight_id": "C005_SharingStoriesForConnectionAndValidation-n9o0p",
+      "insight_title": "Using Media Platforms to Share Personal Stories Creates a 'Release Valve' and Fosters Universal Connection",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports the core of this insight. It validates that storytelling is a protective factor that fosters connection, validation, and belonging. While it doesn't specify 'media platforms,' the underlying principle of sharing stories to create connection is well-corroborated.",
+      "alignment_notes": "The alignment is strong. The external evidence supports the power of storytelling, which is the central mechanism of the insight.",
+      "relevant_external_excerpts": [
+        "Peer community and storytelling as protective factorsStrongly supported.",
+        "Narrative medicine + peer-support research strongly supports this"
+      ]
+    },
+    {
+      "insight_id": "C-001-q1r2s",
+      "insight_title": "Open Conversation and Storytelling Are Key to Closing Gaps in Women's Health Awareness",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It validates that storytelling and peer support are protective factors that create validation and belonging. This aligns with the idea that open conversation is a key mechanism for raising awareness and closing knowledge gaps.",
+      "alignment_notes": "The alignment is strong. The external document confirms that peer support and storytelling are effective tools for validation and countering isolation, which directly supports the premise that conversation closes awareness gaps.",
+      "relevant_external_excerpts": [
+        "Peer community and storytelling as protective factorsStrongly supported.",
+        "Narrative medicine + peer-support research strongly supports this",
+        "The PDF’s framing of community and shared stories as a counterweight to isolation aligns well with this body of evidence."
+      ]
+    },
+    {
+      "insight_id": "C-002-fragmented-care-and-education-gaps",
+      "insight_title": "Fragmented Care and Gaps in Medical Education Create Inconsistent Standards for Women's Health",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It explicitly identifies both fragmented care and medical education gaps as major systemic problems. It also highlights the historical under-research of women's health as a root cause for these inconsistent standards.",
+      "alignment_notes": "The alignment is very strong. The external document directly corroborates the key pillars of this insight: fragmentation, education gaps, and the resulting inconsistent care.",
+      "relevant_external_excerpts": [
+        "Fragmented care for complex, multifactorial issues like postpartum mental health and “brain fog”Supported.",
+        "Medical education and training gaps around menopause, hormones, and women’s healthAlso strongly supported.",
+        "women’s health is also constrained by research underinvestment, underrepresentation, and inadequate sex-disaggregated evidence."
+      ]
+    },
+    {
+      "insight_id": "C-003-self-care-as-foundation",
+      "insight_title": "Prioritizing Self-Care is a Foundational Act for Family and Community Well-being",
+      "validation_status": "not_addressed",
+      "external_evidence_summary": "The external research document does not address the topic of self-care practices or their impact on family and community well-being. Its scope is focused on interactions with the healthcare and workplace systems.",
+      "alignment_notes": "This topic is not covered in the external document.",
+      "relevant_external_excerpts": []
+    },
+    {
+      "insight_id": "C-004-navigating-fragmented-care-systems",
+      "insight_title": "Navigating Fragmented Healthcare Systems Places a Heavy Burden on Patients and Caregivers",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It explicitly identifies fragmented care as a systemic issue that creates inefficiency and difficulty for patients in coordinating their care across different providers and settings.",
+      "alignment_notes": "The alignment is strong. The external document directly validates the problem of a fragmented system that is difficult for patients to navigate, placing a heavy burden on them.",
+      "relevant_external_excerpts": [
+        "Fragmented care for complex, multifactorial issues like postpartum mental health and “brain fog”Supported.",
+        "AHRQ notes that fragmentation - especially separation of medical and behavioral health - creates clinical and operational inefficiency."
+      ]
+    },
+    {
+      "insight_id": "C-005-vulnerability-as-a-catalyst-for-connection",
+      "insight_title": "Vulnerability and Storytelling Dismantle Stigma and Build Community",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It validates that storytelling and peer support are protective factors that create validation and belonging, which directly aligns with the idea that vulnerability dismantles stigma and builds community.",
+      "alignment_notes": "The alignment is strong. The external document's support for storytelling and peer support as a counterweight to isolation directly corroborates this insight's premise.",
+      "relevant_external_excerpts": [
+        "Peer community and storytelling as protective factorsStrongly supported.",
+        "Narrative medicine + peer-support research strongly supports this",
+        "The PDF’s framing of community and shared stories as a counterweight to isolation aligns well with this body of evidence."
+      ]
+    },
+    {
+      "insight_id": "C-006-community-as-an-antidote-to-isolation",
+      "insight_title": "Community and Coalition-Building Are Essential Antidotes to Social Isolation and Burnout",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It consistently finds that peer and social support are linked to validation, coping, belonging, and improved emotional outcomes, which directly serve as an antidote to social isolation.",
+      "alignment_notes": "The alignment is very strong and direct.",
+      "relevant_external_excerpts": [
+        "Peer community and storytelling as protective factorsStrongly supported.",
+        "Postpartum and cancer-survivorship literature consistently links social support and peer support with validation, coping, belonging, and better emotional outcomes."
+      ]
+    },
+    {
+      "insight_id": "C001-systemic-dismissal-reframe",
+      "insight_title": "Women Reframe Medical Dismissal as a Systemic Failure, Not a Personal Flaw",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It explicitly validates that women's symptoms are more likely to be dismissed or psychologized. The document's overall systems-level framing aligns perfectly with the idea of reframing individual experiences as systemic failures.",
+      "alignment_notes": "The alignment is very strong. The external document confirms the premise (dismissal) and praises the conclusion (systemic failure framing), stating, 'The PDF is strongest where it argues that women’s-health problems are...about system design.'",
+      "relevant_external_excerpts": [
+        "Women’s symptoms being dismissed, minimized, or psychologizedThis is strongly supported.",
+        "Recent reviews and framework papers describe women’s symptoms as more likely to be dismissed, with downstream diagnostic delay, especially when symptoms are psychologized or filtered through male-centered pathways.",
+        "The PDF is strongest where it argues that women’s-health problems are not just about single conditions; they are about system design: dismissal, fragmentation, affordability, and stigma interacting with one another."
+      ]
+    },
+    {
+      "insight_id": "C002-cultural-silence-and-isolation",
+      "insight_title": "Cultural and Familial Silence Breeds Isolation and Shame in Women's Health Journeys",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research supports this insight, particularly in the context of the workplace. It confirms that silence and stigma around women's health issues like menopause, fertility, and mental health are significant problems. This aligns with the core idea that a culture of silence leads to isolation.",
+      "alignment_notes": "The alignment is strong. While the external document focuses on the workplace, its findings on 'silence and stigma' directly corroborate the mechanism described in the insight.",
+      "relevant_external_excerpts": [
+        "Workplace silence and stigma around menopause, fertility, and mental healthStrongly supported.",
+        "The PDF’s framing of community and shared stories as a counterweight to isolation aligns well with this body of evidence."
+      ]
+    },
+    {
+      "insight_id": "C003-peer-storytelling-as-lifeline",
+      "insight_title": "Peer Storytelling is a Lifeline for Validation and Connection",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It consistently finds that peer support and storytelling are linked with validation, coping, belonging, and better emotional outcomes, which directly function as a lifeline against isolation.",
+      "alignment_notes": "The alignment is very strong and direct.",
+      "relevant_external_excerpts": [
+        "Peer community and storytelling as protective factorsStrongly supported.",
+        "Postpartum and cancer-survivorship literature consistently links social support and peer support with validation, coping, belonging, and better emotional outcomes."
+      ]
+    },
+    {
+      "insight_id": "C004-navigating-multifactorial-health-issues",
+      "insight_title": "Fragmented Care Fails to Address Multifactorial Health Issues",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research supports this insight. It explicitly identifies fragmented care for complex, multifactorial issues like postpartum mental health and 'brain fog' as a key systemic problem. It notes that the separation of medical and behavioral health creates inefficiency and that menopause literature frames symptoms as intertwined, not siloed.",
+      "alignment_notes": "The alignment is strong. The external document directly validates that fragmented care is particularly problematic for the kind of multifactorial health issues described.",
+      "relevant_external_excerpts": [
+        "Fragmented care for complex, multifactorial issues like postpartum mental health and “brain fog”Supported.",
+        "AHRQ notes that fragmentation - especially separation of medical and behavioral health - creates clinical and operational inefficiency.",
+        "menopause literature continues to frame cognition, mood, sleep, and hormonal symptoms as intertwined rather than siloed problems."
+      ]
+    },
+    {
+      "insight_id": "C005-agency-through-self-advocacy",
+      "insight_title": "Women Cultivate Agency by Listening to Their Inner Voice and Advocating for Their Needs",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research supports the advocacy component of this insight. It confirms that patients are pushed into self-advocacy due to system failures like dismissal and diagnostic delay. While it doesn't address the internal process of 'listening to their inner voice,' it validates the resulting behavior.",
+      "alignment_notes": "The alignment is strong on the behavioral outcome (self-advocacy) but does not address the internal mechanism (trusting intuition). The external document confirms the necessity of the action.",
+      "relevant_external_excerpts": [
+        "Patients are pushed into self-advocacy, self-education, and “doing their own research”Supported.",
+        "The external literature repeatedly links dismissal and diagnostic delay with the need for women to persist, self-advocate, and navigate systems themselves."
+      ]
+    },
+    {
+      "insight_id": "C006-intergenerational-awakening",
+      "insight_title": "Witnessing a Mother's Health Struggle Catalyzes Intergenerational Change",
+      "validation_status": "not_addressed",
+      "external_evidence_summary": "The external research document does not address the topic of intergenerational family dynamics or how witnessing a parent's health struggle motivates individuals to become advocates. Its scope is focused on broader healthcare and workplace systems.",
+      "alignment_notes": "This topic is not covered in the external document.",
+      "relevant_external_excerpts": []
+    },
+    {
+      "insight_id": "C-WORKPLACE-STIGMA-001-health-disclosure-risk",
+      "insight_title": "Fear of Stigma and Discrimination Creates a Culture of Health Secrecy in the Workplace",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It explicitly confirms the existence of workplace silence and stigma around women's health issues like menopause, fertility, and mental health. It cites evidence that these issues impact career advancement and that women have declined job opportunities due to a lack of support, which aligns with the fear of negative consequences from disclosure.",
+      "alignment_notes": "The alignment is very strong. The external document directly validates the core premise of workplace stigma creating a culture of silence.",
+      "relevant_external_excerpts": [
+        "Workplace silence and stigma around menopause, fertility, and mental healthStrongly supported.",
+        "Catalyst found that 84% of respondents wanted more menopause support at work, and some had declined job opportunities because of the lack of it.",
+        "McKinsey’s 2025 Women in the Workplace report also shows women still face less support and fewer opportunities to advance, which fits the PDF’s argument that health-related silence intersects with career progression."
+      ]
+    },
+    {
+      "insight_id": "C-FAMILY-SUPPORT-GAP-001-invisible-labor-of-care",
+      "insight_title": "The Invisible Labor of Family Caregiving is Compounded by Grief and Estrangement",
+      "validation_status": "not_addressed",
+      "external_evidence_summary": "The external research document does not address the topic of family caregiving, the concept of 'invisible labor,' or the compounding factors of grief and family estrangement. The scope of the document is focused on interactions with the healthcare and workplace systems.",
+      "alignment_notes": "This topic is not covered in the external document.",
+      "relevant_external_excerpts": []
+    },
+    {
+      "insight_id": "I-PROTECTIVE-PEER-SUPPORT-001",
+      "insight_title": "Peer Support and Story Sharing Create a Vital Buffer Against Isolation",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It consistently finds that peer support and storytelling are linked with validation, coping, belonging, and better emotional outcomes, which directly serve as a buffer against social isolation.",
+      "alignment_notes": "The alignment is very strong and direct.",
+      "relevant_external_excerpts": [
+        "Peer community and storytelling as protective factorsStrongly supported.",
+        "Postpartum and cancer-survivorship literature consistently links social support and peer support with validation, coping, belonging, and better emotional outcomes."
+      ]
+    },
+    {
+      "insight_id": "I-SYSTEMIC-ACCESS-BARRIERS-001",
+      "insight_title": "Systemic Inequities and Insurance Instability Create Significant Barriers to Continuous Care",
+      "validation_status": "supported",
+      "external_evidence_summary": "The external research strongly supports this insight. It cites evidence that women are more likely to postpone care due to cost and that employer-based coverage often involves high deductibles and affordability strain. The document also notes that coverage instability and policy churn affect continuity of care, which directly aligns with the insight's claims.",
+      "alignment_notes": "The alignment is very strong. The external document validates cost, insurance instability, and continuity of care as major access barriers.",
+      "relevant_external_excerpts": [
+        "Cost, insurance, and continuity barriers are major drivers of poor accessStrongly supported.",
+        "KFF reports that women are more likely than men to skip or postpone needed care because of cost, and employer-based coverage still leaves many women facing rising premiums, deductibles, and affordability strain.",
+        "External evidence suggests this belongs in a larger policy frame: affordability challenges, remaining uninsured gaps, and potential marketplace instability all affect continuity."
+      ]
+    }
+  ],
+  "insights_not_in_external": [
+    {
+      "insight_id": "INS-004",
+      "insight_title": "Clinicians Actively Destigmatize Mental Health by Normalizing Emotional Experiences",
+      "gap_note": "The external document focuses on systemic barriers and patterns, not on specific clinical techniques or behavioral strategies used by providers to destigmatize care."
+    },
+    {
+      "insight_id": "INS-006",
+      "insight_title": "Identity Crisis Arises When Professional Roles Overshadow Personal Self",
+      "gap_note": "The external document's scope is on healthcare and workplace systems, and it does not address this specific emotional pattern related to personal identity and career."
+    },
+    {
+      "insight_id": "C001-relational-skills-education-gap",
+      "insight_title": "Formal Education Lacks Curriculum on Essential Relational Skills",
+      "gap_note": "The external document's focus is on medical education and healthcare, not the K-12 education system or its curriculum."
+    },
+    {
+      "insight_id": "C008-pressure-to-endure",
+      "insight_title": "The Pressure to Endure: Women Feel Compelled to Work Harder and Suppress Discomfort",
+      "gap_note": "The external document discusses external workplace pressures but does not cover the specific internal, emotional experience of feeling a 'pressure to endure'."
+    },
+    {
+      "insight_id": "C-20240520-004-d4e5f",
+      "insight_title": "Clinicians Act as Navigators and Advocates Against a Fragmented Healthcare System",
+      "gap_note": "While the external document confirms system fragmentation, it does not discuss the specific role of clinicians acting as advocates against that system on behalf of patients."
+    },
+    {
+      "insight_id": "C-20240520-005-g6h7i",
+      "insight_title": "Prioritizing Self-Wellness Through Intentional Boundary-Setting in Personal and Family Life",
+      "gap_note": "The external document's scope does not include personal or family dynamics; it focuses on interactions with the healthcare and workplace systems."
+    },
+    {
+      "insight_id": "C004-Setting-Boundaries-within-the-Family-s5t6u",
+      "insight_title": "Women Reclaim Personal Time and Well-being by Setting Boundaries Within the Family",
+      "gap_note": "The external document's scope does not include personal or family dynamics; it focuses on interactions with the healthcare and workplace systems."
+    },
+    {
+      "insight_id": "C001_SeekingProfessionalMentalHealthcare-b1c2d",
+      "insight_title": "The Journey of Seeking Mental Healthcare Involves Unlearning Harmful Narratives and Redefining Self-Worth",
+      "gap_note": "The external document does not cover the internal, therapeutic process of unlearning societal narratives; its focus is on systemic barriers to care."
+    },
+    {
+      "insight_id": "C004_IdentityLossAndReinventionAfterCareerTransition-k7l8m",
+      "insight_title": "Career Transitions Trigger an Identity Crisis, Leading to a Painful but Necessary Reinvention of Self",
+      "gap_note": "The external document's scope is on healthcare and workplace systems, and it does not address this specific emotional pattern related to personal identity and career."
+    },
+    {
+      "insight_id": "C-FAMILY-SUPPORT-GAP-001-invisible-labor-of-care",
+      "insight_title": "The Invisible Labor of Family Caregiving is Compounded by Grief and Estrangement",
+      "gap_note": "The external document does not address the topic of family caregiving, grief, or estrangement."
+    },
+    {
+      "insight_id": "C-003-self-care-as-foundation",
+      "insight_title": "Prioritizing Self-Care is a Foundational Act for Family and Community Well-being",
+      "gap_note": "The external document does not address self-care practices or their impact on family and community well-being."
+    },
+    {
+      "insight_id": "C006-intergenerational-awakening",
+      "insight_title": "Witnessing a Mother's Health Struggle Catalyzes Intergenerational Change",
+      "gap_note": "The external document does not cover intergenerational family dynamics as a motivator for health advocacy."
+    }
+  ],
+  "external_findings_not_in_extracted": [
+    {
+      "finding_title": "Women's Health Research Underinvestment as a Root Cause",
+      "finding_summary": "External sources indicate a significant upstream issue not fully captured in the insights: women's health is constrained by historical research underinvestment, underrepresentation in trials, and a lack of sex-disaggregated evidence. This research gap is a root cause of downstream failures in education and care delivery.",
+      "relevance_to_study": "This provides a crucial root cause analysis that explains why many of the identified systemic patterns, like education gaps and misdiagnosis, exist in the first place.",
+      "suggested_insight_type": "systemic_pattern"
+    },
+    {
+      "finding_title": "Explicit Racial and Ethnic Disparities in Care",
+      "finding_summary": "The external research is more explicit about racial inequities in women's healthcare. For example, data shows minority women experience less symptom documentation and receive less treatment (e.g., hormone therapy) compared to white women. This theme of systemic inequity is underemphasized in the promoted insights.",
+      "relevance_to_study": "This adds a critical equity dimension, highlighting that the systemic failures identified are not experienced equally across all populations.",
+      "suggested_insight_type": "systemic_pattern"
+    },
+    {
+      "finding_title": "The Need for Integrated Behavioral and Medical Care Models",
+      "finding_summary": "While the insights identify care fragmentation, the external research points more strongly to a specific solution: the integration of behavioral and medical care is a recurring, evidence-based systems-level recommendation. This is framed not just as a preference but as a necessary solution.",
+      "relevance_to_study": "This finding moves beyond problem identification to offer a concrete, evidence-backed solution that would strengthen the overall analysis.",
+      "suggested_insight_type": "systemic_pattern"
+    },
+    {
+      "finding_title": "Administrative Burden and Navigation Complexity as a Primary Barrier",
+      "finding_summary": "The external research elevates the complexity of navigating the healthcare system—finding providers, getting insurance approvals, coordinating specialists—as a primary system failure in itself, not just a side effect. This administrative burden is a major barrier to care.",
+      "relevance_to_study": "While implied in insights about fragmentation, explicitly naming administrative burden as a core systemic failure would sharpen the critique of the current system's design.",
+      "suggested_insight_type": "systemic_pattern"
+    }
+  ],
+  "overall_alignment_summary": "The alignment between the promoted insights and the external research is very strong on core systemic failures within women's healthcare. There is robust corroboration for themes of symptom dismissal, medical education gaps, fragmented care, cost and insurance barriers, the resulting burden of self-advocacy, the protective power of peer support, and workplace stigma. The most notable gaps in coverage are insights focused on specific emotional patterns (e.g., identity crisis), interpersonal dynamics outside of the clinic (e.g., family boundaries), and specific clinical behaviors, which the high-level external review did not address. Conversely, the external research highlights critical systemic issues—namely research underinvestment and explicit racial disparities—that are underemphasized in the promoted insights, representing a key opportunity for deeper analysis.",
+  "validation_notes": "The validation process revealed a high degree of thematic overlap among the promoted insights, with many insights representing slight variations on core themes such as 'peer support,' 'self-advocacy,' and 'fragmented care.' All were evaluated independently as requested. The external document was highly effective for validating broad systemic patterns but lacked the granularity to address more specific behavioral or emotional insights."
+}

@@ -1,17 +1,20 @@
 {
   "locks_version": "v1.0",
-  "report_id": "RPT-20240521-01",
-  "report_title": "The Unspoken Work: How Women Navigate a Fragmented Healthcare System and Forge Paths to Wellness",
+  "report_id": "UTS-S4-REPORT-2024-05-21",
+  "report_title": "The Unspoken Journey: Systemic Gaps and Protective Factors in Women's Healthcare",
   "insight_ids_included": [
     "C001-systemic-dismissal-reframe",
-    "C-002-fragmented-care-and-education-gaps",
+    "C002-Systemic-Gaps-in-Womens-Health-Education-m1n2o",
+    "C004-navigating-multifactorial-health-issues",
+    "I-SYSTEMIC-ACCESS-BARRIERS-001",
+    "INS-001",
     "C001-Patient-Advocacy-Against-Dismissal-j8k9l",
     "INS-002",
+    "C002-collective-healing-through-community",
     "C003-peer-storytelling-as-lifeline",
-    "C-003-self-care-as-foundation"
+    "C-WORKPLACE-STIGMA-001-health-disclosure-risk"
   ],
   "excluded_insights": [
-    "INS-001",
     "INS-003",
     "INS-004",
     "INS-005",
@@ -23,7 +26,6 @@
     "C-003-medical-training-gaps",
     "C-004-patients-as-experts",
     "C001-relational-skills-education-gap",
-    "C002-collective-healing-through-community",
     "C003-shame-enforces-silence",
     "C004-clinician-burnout-and-boundaries",
     "C005-mental-healthcare-fragmentation",
@@ -34,7 +36,6 @@
     "C-20240520-003-a1b2c",
     "C-20240520-004-d4e5f",
     "C-20240520-005-g6h7i",
-    "C002-Systemic-Gaps-in-Womens-Health-Education-m1n2o",
     "C003-Setting-Boundaries-in-the-Workplace-p3q4r",
     "C004-Setting-Boundaries-within-the-Family-s5t6u",
     "C005-Overcoming-Isolation-through-Community-v7w8x",
@@ -45,42 +46,40 @@
     "C004_IdentityLossAndReinventionAfterCareerTransition-k7l8m",
     "C005_SharingStoriesForConnectionAndValidation-n9o0p",
     "C-001-q1r2s",
+    "C-002-fragmented-care-and-education-gaps",
+    "C-003-self-care-as-foundation",
     "C-004-navigating-fragmented-care-systems",
     "C-005-vulnerability-as-a-catalyst-for-connection",
     "C-006-community-as-an-antidote-to-isolation",
     "C002-cultural-silence-and-isolation",
-    "C004-navigating-multifactorial-health-issues",
     "C005-agency-through-self-advocacy",
     "C006-intergenerational-awakening",
-    "C-WORKPLACE-STIGMA-001-health-disclosure-risk",
     "C-FAMILY-SUPPORT-GAP-001-invisible-labor-of-care",
-    "I-PROTECTIVE-PEER-SUPPORT-001",
-    "I-SYSTEMIC-ACCESS-BARRIERS-001"
+    "I-PROTECTIVE-PEER-SUPPORT-001"
   ],
   "life_stage_coverage": [
-    "adolescence",
-    "reproductive_years",
-    "postpartum",
+    "cross_life_stage",
     "menopause_transition",
-    "post_menopause",
     "midlife",
+    "postpartum",
+    "reproductive_years",
     "aging",
-    "cross_life_stage"
+    "adolescence"
   ],
   "confidence_distribution": {
-    "high": 25,
-    "medium": 10,
+    "high": 8,
+    "medium": 2,
     "emerging": 0
   },
-  "assembly_notes": "Report assembled by selecting six high-confidence insights to create a narrative arc from systemic problems to patient responses and community-based solutions. Executive summary highlights five key themes across the dataset.",
-  "title": "The Unspoken Work: How Women Navigate a Fragmented Healthcare System and Forge Paths to Wellness",
-  "subtitle": "An Insight Report on Systemic Barriers, Patient Advocacy, and the Power of Community",
+  "assembly_notes": "This report was assembled from a pool of 32 promoted insights. Insights were consolidated based on thematic overlap to create a focused narrative. The 10 selected insights represent the core patterns of systemic failure, patient and clinician responses, and community-driven protective factors. Redundant insights covering similar ground (e.g., multiple variations on 'community as an antidote to isolation') were excluded to ensure clarity.",
+  "title": "The Unspoken Journey",
+  "subtitle": "An Insight Report on Systemic Gaps and Protective Factors in Women's Healthcare",
   "executive_summary": [
-    "Women are finding empowerment by reframing medical dismissal as a systemic failure rather than a personal flaw, shifting from self-blame to advocacy.",
-    "A pervasive culture of silence around women's health fosters profound isolation and shame, creating a significant risk factor that prevents women from seeking care.",
-    "Medical training often lacks mentorship and burnout prevention, creating a cycle of unwellness where providers struggle to care for themselves, let alone their patients.",
-    "Clinicians find that integrating their personal lived experiences into their practice deepens empathy and builds stronger, more trusting relationships with patients.",
-    "Sharing personal stories in a supportive community serves as a powerful antidote to isolation, providing the validation and connection needed to navigate health challenges."
+    "Across 45 participants spanning 17 ethnic backgrounds and multiple countries, a clear narrative emerges about the challenges and resilience inherent in women's health journeys.",
+    "Women consistently reframe medical dismissal not as a personal flaw but as a systemic failure, a crucial shift that moves them from self-blame to advocacy.",
+    "This advocacy becomes necessary due to significant gaps in medical education and fragmented care systems, which often fail to address the complex, multifactorial nature of women's health issues from postpartum care to menopause.",
+    "In response to these systemic gaps and the isolation they create, peer storytelling and community connection serve as powerful lifelines, providing the validation and shared experience necessary for collective healing.",
+    "Finally, in the workplace, a pervasive fear of stigma around health disclosures creates a culture of silence, hindering women's career advancement and access to support."
   ],
   "key_insights": [
     {
@@ -99,17 +98,62 @@
       ]
     },
     {
-      "insight_statement": "Clinicians and patients express frustration with a healthcare system characterized by inconsistent standards of care across different regions and specialties, stemming from historical gaps in women's health research and medical training.",
+      "insight_statement": "Significant gaps in medical education and training, particularly around hormonal health, menopause, and survivorship care, result in fragmented and inadequate support for women. Patients find their symptoms are often misunderstood or misattributed, such as hormonal issues being treated solely as mental health conditions, forcing them to navigate a system that lacks a holistic understanding of their health.",
       "quotes": [
         {
-          "quote": "I find it unique that people op that we operate differently across state lines. It could really help if we took what this state was doing well and what this state was doing well, and we just did that, it will really, really, really help.",
-          "speaker_role": "clinician",
-          "episode_id": "UTS_S4_PODCAST_037.docx"
+          "quote": "I was putting together puzzle pieces, but not just puzzle pieces. It was almost like someone had dumped a box of puzzle pieces. On me. I didn't have the top of what that puzzle looked like, and I didn't know what was survivorship, what was menopause, what was just, you know, uh, mourning the future that I thought that I was gonna have.",
+          "speaker_role": "patient",
+          "episode_id": "UTS_S4_PODCAST_026.docx"
         },
         {
-          "quote": "We have a systemic issue. You know, women's health isn't understood. We've been treated like we're men. I mean, it wasn't until until 1993 that they started doing research on women conducting, bringing them into clinical trials and for a host of reasons.",
-          "speaker_role": "host",
-          "episode_id": "UTS_S4_PODCAST_038.docx"
+          "quote": "I believe that psychologists and psychiatrists should be educated in hormones because they will be a much better doctors for their patients.",
+          "speaker_role": "patient",
+          "episode_id": "UTS_S4_PODCAST_028.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "Complex, multifactorial health issues common to women, such as brain fog or postpartum mental health, are poorly managed by a fragmented healthcare system, forcing patients to navigate siloed specialties and leaving clinicians without clear, integrated treatment protocols.",
+      "quotes": [
+        {
+          "quote": "It's not like getting a list. Of mental health providers that you now need to call and find out if they're taking your patients, because nobody who's struggling with mental health is going to make that five calls, wait for it, and then go back.",
+          "speaker_role": "advocate",
+          "episode_id": "UTS_S4_PODCAST_040.docx"
+        },
+        {
+          "quote": "So brain fog, I would say, is one of the hardest things to nail. Like I said, hormone therapy can be helpful, but it often requires us to think a little harder about our nervous system and look a little harder sometimes at what's going on in our life",
+          "speaker_role": "clinician",
+          "episode_id": "UTS_S4_PODCAST_039.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "Patients face significant, systemic barriers to accessing consistent and affordable healthcare, driven by factors like high-deductible plans for low-income individuals, provider shortages due to low reimbursement rates, and insurance plan changes that disrupt established patient-provider relationships. These issues create a fragmented and frustrating care experience, particularly for those managing chronic conditions or life-stage transitions like menopause.",
+      "quotes": [
+        {
+          "quote": "you'd put somebody in a high deductible healthcare plan. Who's making $40,000 a year who basically can't seek care and didn't have salary to defer. And so some of these things just felt so broken.",
+          "speaker_role": "advocate",
+          "episode_id": "UTS_S4_PODCAST_046.docx"
+        },
+        {
+          "quote": "if my employer changes a carrier every year and I have to change physicians, it's really hard for me to seek the right type of mental health care...maybe I've just gotten all my menopause on track and now I've gotta switch physicians.",
+          "speaker_role": "advocate",
+          "episode_id": "UTS_S4_PODCAST_046.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "Clinicians, particularly those who are first-generation doctors, experience significant burnout and isolation during their medical training due to a lack of mentorship, financial resources, and formal education on self-care and success beyond clinical skills. This training gap creates a cycle of unwellness where providers struggle to care for themselves, let alone their patients.",
+      "quotes": [
+        {
+          "quote": "I think by the time I finished medical school, I was already burned out. Like life had been hitting me up inside, you know, I was already burned out. Uh, but no one had, no one told me what success looked like, right? I hadn't seen what success looked like... And if I had a mentor, maybe I would've learned some of those things. But unfortunately, there were no mentors.",
+          "speaker_role": "clinician",
+          "episode_id": "UTS_S4_PODCAST_001.docx"
+        },
+        {
+          "quote": "'cause you do learn in school. There are some practitioners who are very, you know, strictly psychoanalytic and we're a mirror and we don't show any emotion or whatever, but. You know, I feel like if you're on the ride with me, um, you know, for some people I am a sister, you know, I'm playing a role of a sister.",
+          "speaker_role": "clinician",
+          "episode_id": "UTS_S4_PODCAST_003.docx"
         }
       ]
     },
@@ -144,6 +188,21 @@
       ]
     },
     {
+      "insight_statement": "In the face of both individual and collective trauma, actively building and leaning into a peer community is a primary protective factor, fostering a sense of belonging and shared strength that enables collective healing.",
+      "quotes": [
+        {
+          "quote": "collective trauma leads to collective healing. Which in a way I like that. I like that. I like that a lot. That's good. We look at each other here and we're all in it. And sometimes we forget, but most of the time when you slow down, you realize we're all in it together and we are gonna heal together. We got hurt together, we're gonna heal together.",
+          "speaker_role": "advocate",
+          "episode_id": "UTS_S4_PODCAST_016.docx"
+        },
+        {
+          "quote": "Lean into your community. Lean into your community. Lean into your community. You know, when this first started the case, many cultures, I went back to the elders, you know, my, my aunts and uncles. What am I supposed to do about this? What's supposed to happen? They've seen these types of things, right? They were in the sixties and they've seen these types of things, and everyone said, community, we rely on each other.",
+          "speaker_role": "clinician",
+          "episode_id": "UTS_S4_PODCAST_018.docx"
+        }
+      ]
+    },
+    {
       "insight_statement": "Sharing personal stories and listening to the lived experiences of other women serves as a powerful antidote to isolation, providing the validation, connection, and sense of shared humanity needed to navigate health challenges and systemic failures.",
       "quotes": [
         {
@@ -159,17 +218,17 @@
       ]
     },
     {
-      "insight_statement": "Women, especially those in caregiving roles, are increasingly recognizing that prioritizing their own mental and physical health is not selfish but a necessary foundation for creating stronger families and communities.",
+      "insight_statement": "Women perceive a significant risk in disclosing health issues—particularly those related to menopause, fertility, or mental health—at work, fearing it could negatively impact their career advancement, leading to a culture of silence that prevents them from seeking necessary accommodations and support.",
       "quotes": [
         {
-          "quote": "On planes, they say, put your mask on first, and we've been doing it wrong this entire time. We take care. We deliver these babies, we get married, and we take care of everybody but ourselves. But we have to put our mask on first.",
-          "speaker_role": "educator",
-          "episode_id": "UTS_S4_PODCAST_037.docx"
+          "quote": "I would say there's a majority of employers that are not safe spaces for them to know your healthcare outcomes. And if those leaders know you're seeking, you're currently accessing care for cancer. Maybe you're not up for promotion. If they know you're currently accessing in vitro services, they know you're planning for a baby.",
+          "speaker_role": "advocate",
+          "episode_id": "UTS_S4_PODCAST_046.docx"
         },
         {
-          "quote": "I think one of the things I would say that I'm doing for, for marching. For my own mental wellness within all of this is to make space to take care of myself through this and learning to be able to ask for help and learning to make space for myself and model that.",
+          "quote": "it's no coincidence, right? Because you get to an age where you're ready to advance in leadership and you're confronted with these transitional symptoms that menopause and, and other things can bring.",
           "speaker_role": "advocate",
-          "episode_id": "UTS_S4_PODCAST_036.docx"
+          "episode_id": "UTS_S4_PODCAST_045.docx"
         }
       ]
     }
@@ -177,6 +236,254 @@
   "methodology": {
     "episodes_analyzed": 45,
     "moments_segmented": 179,
-    "confidence_threshold": "High confidence insights require evidence from a minimum of 3 distinct episodes and demonstrate strong pattern coherence (>= 0.70) across multiple speakers."
+    "confidence_threshold": "Medium and High confidence insights were included in this report."
+  },
+  "participant_demographics": {
+    "total_participants": 45,
+    "age": {
+      "min": 24,
+      "max": 65,
+      "mean": 43.1,
+      "median": 43
+    },
+    "age_brackets": [
+      {
+        "bracket": "18-24",
+        "count": 1
+      },
+      {
+        "bracket": "25-34",
+        "count": 6
+      },
+      {
+        "bracket": "35-44",
+        "count": 22
+      },
+      {
+        "bracket": "45-54",
+        "count": 9
+      },
+      {
+        "bracket": "55-64",
+        "count": 6
+      },
+      {
+        "bracket": "65+",
+        "count": 1
+      }
+    ],
+    "ethnicity_breakdown": [
+      {
+        "group": "Caucasian",
+        "count": 19,
+        "pct": 42.2
+      },
+      {
+        "group": "WOC",
+        "count": 8,
+        "pct": 17.8
+      },
+      {
+        "group": "Indian",
+        "count": 3,
+        "pct": 6.7
+      },
+      {
+        "group": "Mexican",
+        "count": 2,
+        "pct": 4.4
+      },
+      {
+        "group": "South Africa",
+        "count": 1,
+        "pct": 2.2
+      },
+      {
+        "group": "Canadian",
+        "count": 1,
+        "pct": 2.2
+      },
+      {
+        "group": "Japanese",
+        "count": 1,
+        "pct": 2.2
+      },
+      {
+        "group": "Carribean",
+        "count": 1,
+        "pct": 2.2
+      },
+      {
+        "group": "Israeli",
+        "count": 1,
+        "pct": 2.2
+      },
+      {
+        "group": "Afghani",
+        "count": 1,
+        "pct": 2.2
+      },
+      {
+        "group": "Filipino",
+        "count": 1,
+        "pct": 2.2
+      },
+      {
+        "group": "Latino",
+        "count": 1,
+        "pct": 2.2
+      },
+      {
+        "group": "Australian",
+        "count": 1,
+        "pct": 2.2
+      },
+      {
+        "group": "Trinidadian",
+        "count": 1,
+        "pct": 2.2
+      },
+      {
+        "group": "Pakistani",
+        "count": 1,
+        "pct": 2.2
+      },
+      {
+        "group": "Chinese",
+        "count": 1,
+        "pct": 2.2
+      },
+      {
+        "group": "Nigerian",
+        "count": 1,
+        "pct": 2.2
+      }
+    ],
+    "geographic_scope": {
+      "domestic_count": 33,
+      "international_count": 12,
+      "regions": [
+        {
+          "region": "PA",
+          "count": 4
+        },
+        {
+          "region": "CT",
+          "count": 3
+        },
+        {
+          "region": "CA",
+          "count": 3
+        },
+        {
+          "region": "MA",
+          "count": 3
+        },
+        {
+          "region": "Canada",
+          "count": 2
+        },
+        {
+          "region": "NY",
+          "count": 2
+        },
+        {
+          "region": "AZ",
+          "count": 2
+        },
+        {
+          "region": "NJ",
+          "count": 2
+        },
+        {
+          "region": "New York",
+          "count": 2
+        },
+        {
+          "region": "MO",
+          "count": 2
+        },
+        {
+          "region": "Maryland",
+          "count": 1
+        },
+        {
+          "region": "SC",
+          "count": 1
+        },
+        {
+          "region": "United Kingdom",
+          "count": 1
+        },
+        {
+          "region": "London",
+          "count": 1
+        },
+        {
+          "region": "New Jersey",
+          "count": 1
+        },
+        {
+          "region": "TX",
+          "count": 1
+        },
+        {
+          "region": "",
+          "count": 1
+        },
+        {
+          "region": "Israel",
+          "count": 1
+        },
+        {
+          "region": "Kingsway",
+          "count": 1
+        },
+        {
+          "region": "MD",
+          "count": 1
+        },
+        {
+          "region": "GA",
+          "count": 1
+        },
+        {
+          "region": "RHODE ISLAND",
+          "count": 1
+        },
+        {
+          "region": "QLD",
+          "count": 1
+        },
+        {
+          "region": "Wisconsin",
+          "count": 1
+        },
+        {
+          "region": "Pakistan",
+          "count": 1
+        },
+        {
+          "region": "FL",
+          "count": 1
+        },
+        {
+          "region": "Singapore",
+          "count": 1
+        },
+        {
+          "region": "Cross River State",
+          "count": 1
+        },
+        {
+          "region": "TEXAS",
+          "count": 1
+        },
+        {
+          "region": "Pawtucket RI",
+          "count": 1
+        }
+      ]
+    }
   }
 }

@@ -1,9 +1,10 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import UploadUI, { FileState } from "@/components/UploadUI";
 import ResultsUI from "@/components/ResultsUI";
-import { Loader2 } from "lucide-react";
+import ValidationUI from "@/components/ValidationUI";
+import { Loader2, UploadCloud, CheckCircle, FileSearch } from "lucide-react";
 
 export default function Home() {
   const [phase1Files, setPhase1Files] = useState<FileState[]>([]);
@@ -20,6 +21,20 @@ export default function Home() {
   const [hasPromoted, setHasPromoted] = useState(false);
   const [isScanningDir, setIsScanningDir] = useState(false);
 
+  const [demographicsStatus, setDemographicsStatus] = useState<
+    { state: "idle" } | { state: "uploading" } | { state: "done"; filename: string; rowCount: number } | { state: "error"; message: string }
+  >({ state: "idle" });
+  const demographicsInputRef = useRef<HTMLInputElement>(null);
+
+  const [researchStatus, setResearchStatus] = useState<
+    { state: "idle" } | { state: "uploading" } | { state: "done"; filename: string; charCount: number } | { state: "error"; message: string }
+  >({ state: "idle" });
+  const researchInputRef = useRef<HTMLInputElement>(null);
+  const [hasExternalResearch, setHasExternalResearch] = useState(false);
+  const [hasValidation, setHasValidation] = useState(false);
+  const [validationResults, setValidationResults] = useState<any>(null);
+  const [isValidating, setIsValidating] = useState(false);
+
   const [isMounted, setIsMounted] = useState(false);
   useEffect(() => {
     setIsMounted(true);
@@ -30,17 +45,25 @@ export default function Home() {
       setIsScanningDir(true);
       setHasMoments(false);
       setHasPromoted(false);
+      setHasExternalResearch(false);
+      setHasValidation(false);
       setPromotedClusters(null);
+      setValidationResults(null);
       setReport(null);
 
       try {
-        const [momentsRes, promotedRes] = await Promise.all([
+        const [momentsRes, promotedRes, validationRes] = await Promise.all([
           fetch("/api/phase2/read-moments", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ outputDir }),
           }),
           fetch("/api/phase2/read-promoted", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ outputDir }),
+          }),
+          fetch("/api/phase2/read-validation", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ outputDir }),
@@ -60,6 +83,16 @@ export default function Home() {
             setHasMoments(true);
           }
         }
+
+        if (validationRes.ok) {
+          const data = await validationRes.json();
+          if (data.validation) {
+            setHasValidation(true);
+          }
+          if (data.hasExternalResearch) {
+            setHasExternalResearch(true);
+          }
+        }
       } catch (e) {
         console.error("Failed to scan output directory", e);
       } finally {
@@ -75,6 +108,90 @@ export default function Home() {
 
     return () => clearTimeout(timer);
   }, [outputDir]);
+
+  const handleDemographicsUpload = async (file: File) => {
+    setDemographicsStatus({ state: "uploading" });
+    try {
+      const formData = new FormData();
+      formData.append("file", file);
+      formData.append("outputDir", outputDir);
+
+      const res = await fetch("/api/upload-demographics", {
+        method: "POST",
+        body: formData,
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || "Upload failed");
+
+      setDemographicsStatus({ state: "done", filename: file.name, rowCount: data.rowCount });
+    } catch (err: any) {
+      setDemographicsStatus({ state: "error", message: err.message });
+    }
+  };
+
+  const handleResearchUpload = async (file: File) => {
+    setResearchStatus({ state: "uploading" });
+    try {
+      const formData = new FormData();
+      formData.append("file", file);
+      formData.append("outputDir", outputDir);
+
+      const res = await fetch("/api/upload-research", {
+        method: "POST",
+        body: formData,
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || "Upload failed");
+
+      setResearchStatus({ state: "done", filename: file.name, charCount: data.charCount });
+      setHasExternalResearch(true);
+    } catch (err: any) {
+      setResearchStatus({ state: "error", message: err.message });
+    }
+  };
+
+  const runValidation = async () => {
+    setIsValidating(true);
+    setError(null);
+    try {
+      const validateRes = await fetch("/api/phase2/validate", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ insights: promotedClusters, outputDir }),
+      });
+      if (!validateRes.ok) throw new Error("Failed to validate");
+      const validateData = await validateRes.json();
+      if (validateData.error) throw new Error(validateData.error);
+      setValidationResults(validateData.validation);
+    } catch (err: any) {
+      setError(err.message);
+    } finally {
+      setIsValidating(false);
+    }
+  };
+
+  const loadExistingValidation = async () => {
+    setIsValidating(true);
+    setError(null);
+    try {
+      const res = await fetch("/api/phase2/read-validation", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ outputDir }),
+      });
+      if (!res.ok) throw new Error("Failed to read validation");
+      const data = await res.json();
+      if (data.validation) {
+        setValidationResults(data.validation);
+      } else {
+        throw new Error("No validation data found");
+      }
+    } catch (err: any) {
+      setError(err.message);
+    } finally {
+      setIsValidating(false);
+    }
+  };
 
   const handlePhase1Complete = (files: FileState[]) => {
     setPhase1Files(files);
@@ -201,7 +318,7 @@ export default function Home() {
       const assembleRes = await fetch("/api/phase2/assemble", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ insights: promotedClusters }),
+        body: JSON.stringify({ insights: promotedClusters, outputDir }),
       });
       if (!assembleRes.ok) throw new Error("Failed to assemble");
       const assembleData = await assembleRes.json();
@@ -271,6 +388,88 @@ export default function Home() {
                   </p>
                 </div>
               </div>
+
+              <div className="mt-6">
+                <label className="text-sm font-medium text-gray-700">Participant Demographics (CSV)</label>
+                <div className="mt-2 flex items-center gap-4">
+                  <input
+                    ref={demographicsInputRef}
+                    type="file"
+                    accept=".csv,text/csv"
+                    className="hidden"
+                    onChange={(e) => {
+                      const file = e.target.files?.[0];
+                      if (file) handleDemographicsUpload(file);
+                    }}
+                  />
+                  <button
+                    type="button"
+                    onClick={() => demographicsInputRef.current?.click()}
+                    disabled={demographicsStatus.state === "uploading"}
+                    className="flex items-center gap-2 bg-white border border-gray-300 hover:bg-gray-50 text-gray-700 px-4 py-2 rounded-md text-sm font-medium disabled:opacity-50"
+                  >
+                    {demographicsStatus.state === "uploading" ? (
+                      <Loader2 className="w-4 h-4 animate-spin" />
+                    ) : (
+                      <UploadCloud className="w-4 h-4" />
+                    )}
+                    {demographicsStatus.state === "uploading" ? "Uploading..." : "Upload CSV"}
+                  </button>
+                  {demographicsStatus.state === "done" && (
+                    <span className="flex items-center gap-1.5 text-sm text-green-700">
+                      <CheckCircle className="w-4 h-4" />
+                      {demographicsStatus.filename} — {demographicsStatus.rowCount} participants saved to {outputDir}/demographics.json
+                    </span>
+                  )}
+                  {demographicsStatus.state === "error" && (
+                    <span className="text-sm text-red-600">{demographicsStatus.message}</span>
+                  )}
+                </div>
+                <p className="text-xs text-gray-500 mt-1">
+                  Optional: Upload a CSV with participant demographics to enrich the report with diversity context. If omitted, the report will be generated without demographic data.
+                </p>
+              </div>
+
+              <div className="mt-6">
+                <label className="text-sm font-medium text-gray-700">External Research Document (PDF, DOCX, or TXT)</label>
+                <div className="mt-2 flex items-center gap-4">
+                  <input
+                    ref={researchInputRef}
+                    type="file"
+                    accept=".pdf,.docx,.txt,application/pdf,application/vnd.openxmlformats-officedocument.wordprocessingml.document,text/plain"
+                    className="hidden"
+                    onChange={(e) => {
+                      const file = e.target.files?.[0];
+                      if (file) handleResearchUpload(file);
+                    }}
+                  />
+                  <button
+                    type="button"
+                    onClick={() => researchInputRef.current?.click()}
+                    disabled={researchStatus.state === "uploading"}
+                    className="flex items-center gap-2 bg-white border border-gray-300 hover:bg-gray-50 text-gray-700 px-4 py-2 rounded-md text-sm font-medium disabled:opacity-50"
+                  >
+                    {researchStatus.state === "uploading" ? (
+                      <Loader2 className="w-4 h-4 animate-spin" />
+                    ) : (
+                      <FileSearch className="w-4 h-4" />
+                    )}
+                    {researchStatus.state === "uploading" ? "Processing..." : "Upload Research Document"}
+                  </button>
+                  {researchStatus.state === "done" && (
+                    <span className="flex items-center gap-1.5 text-sm text-green-700">
+                      <CheckCircle className="w-4 h-4" />
+                      {researchStatus.filename} — {researchStatus.charCount.toLocaleString()} characters extracted
+                    </span>
+                  )}
+                  {researchStatus.state === "error" && (
+                    <span className="text-sm text-red-600">{researchStatus.message}</span>
+                  )}
+                </div>
+                <p className="text-xs text-gray-500 mt-1">
+                  Optional: Upload external research to validate extracted insights against published findings. If omitted, the validation step will be skipped.
+                </p>
+              </div>
             </section>
 
             <section>
@@ -328,11 +527,70 @@ export default function Home() {
               </section>
             )}
 
-            {promotedClusters && (
+            {promotedClusters && !validationResults && (
               <section className="bg-white p-8 rounded-xl shadow border border-gray-200 flex flex-col items-center">
-                <h2 className="text-xl font-bold mb-4">Phase 2b: Review & Assemble</h2>
+                <h2 className="text-xl font-bold mb-4">Phase 2b: Validate Against External Research</h2>
                 <p className="text-gray-500 mb-6 text-center max-w-lg">
-                  Successfully clustered and promoted! Results saved to <strong>{outputDir}/promoted_clusters.json</strong> and <strong>{outputDir}/insights.json</strong>. You can review them in your editor now, then click below to generate the final report.
+                  {hasExternalResearch || researchStatus.state === "done"
+                    ? "External research document is ready. You can now validate your insights against it, or skip to report assembly."
+                    : "No external research document uploaded. You can upload one in the Configuration section above, or skip validation and proceed to report assembly."}
+                </p>
+                {error && <p className="text-red-500 mb-4">{error}</p>}
+                <div className="flex flex-col sm:flex-row gap-4 mt-4">
+                  <button
+                    onClick={runValidation}
+                    disabled={!isMounted || isValidating || (!hasExternalResearch && researchStatus.state !== "done")}
+                    suppressHydrationWarning
+                    className="bg-brand-600 hover:bg-brand-700 text-white px-6 py-3 rounded-lg font-medium shadow-sm disabled:opacity-50 flex items-center justify-center min-w-[240px]"
+                  >
+                    {isValidating && <Loader2 className="w-5 h-5 animate-spin mr-2" />}
+                    {isValidating ? "Validating..." : "Validate Insights"}
+                  </button>
+                  {hasValidation && (
+                    <button
+                      onClick={loadExistingValidation}
+                      disabled={!isMounted || isValidating}
+                      suppressHydrationWarning
+                      className="bg-white hover:bg-gray-50 text-brand-600 border border-brand-600 px-6 py-3 rounded-lg font-medium shadow-sm disabled:opacity-50 flex items-center justify-center"
+                    >
+                      Load Existing Validation
+                    </button>
+                  )}
+                  <button
+                    onClick={() => setValidationResults("skipped")}
+                    disabled={!isMounted || isValidating}
+                    suppressHydrationWarning
+                    className="bg-white hover:bg-gray-50 text-gray-600 border border-gray-300 px-6 py-3 rounded-lg font-medium shadow-sm disabled:opacity-50 flex items-center justify-center"
+                  >
+                    Skip Validation
+                  </button>
+                </div>
+              </section>
+            )}
+
+            {promotedClusters && validationResults && validationResults !== "skipped" && (
+              <section className="mt-8">
+                <h2 className="text-xl font-bold mb-4">Phase 2b: Validation Results</h2>
+                <ValidationUI validation={validationResults} />
+                <div className="flex justify-center mt-6">
+                  <button
+                    onClick={generateReport}
+                    disabled={!isMounted || isAssembling}
+                    suppressHydrationWarning
+                    className="bg-brand-600 hover:bg-brand-700 text-white px-6 py-3 rounded-lg font-medium shadow-sm disabled:opacity-50 flex items-center justify-center"
+                  >
+                    {isAssembling && <Loader2 className="w-5 h-5 animate-spin mr-2" />}
+                    {isAssembling ? "Assembling Report..." : "Proceed to Generate Report"}
+                  </button>
+                </div>
+              </section>
+            )}
+
+            {promotedClusters && validationResults === "skipped" && (
+              <section className="bg-white p-8 rounded-xl shadow border border-gray-200 flex flex-col items-center">
+                <h2 className="text-xl font-bold mb-4">Phase 2c: Review & Assemble</h2>
+                <p className="text-gray-500 mb-6 text-center max-w-lg">
+                  Successfully clustered and promoted! Results saved to <strong>{outputDir}/promoted_clusters.json</strong> and <strong>{outputDir}/insights.json</strong>. Validation was skipped. Click below to generate the final report.
                 </p>
                 {error && <p className="text-red-500 mb-4">{error}</p>}
                 <div className="flex flex-col sm:flex-row gap-4 mt-4">
@@ -361,6 +619,7 @@ export default function Home() {
                 onClick={() => {
                   setReport(null);
                   setPromotedClusters(null);
+                  setValidationResults(null);
                   setPhase1Files([]);
                 }}
                 className="text-brand-600 hover:text-brand-800 font-medium"

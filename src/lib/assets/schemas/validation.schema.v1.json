@@ -1,0 +1,150 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "validation.schema.v1.json",
+  "title": "UTS External Research Validation Output Schema (v1.0)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "locks_version",
+    "validation_id",
+    "external_source_summary",
+    "insight_validations",
+    "insights_not_in_external",
+    "external_findings_not_in_extracted",
+    "overall_alignment_summary",
+    "validation_notes"
+  ],
+  "properties": {
+    "locks_version": {
+      "type": "string",
+      "const": "v1.0"
+    },
+    "validation_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "external_source_summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "insight_validations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "insight_id",
+          "insight_title",
+          "validation_status",
+          "external_evidence_summary",
+          "alignment_notes",
+          "relevant_external_excerpts"
+        ],
+        "properties": {
+          "insight_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "insight_title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "validation_status": {
+            "type": "string",
+            "enum": [
+              "supported",
+              "partially_supported",
+              "not_supported",
+              "not_addressed"
+            ]
+          },
+          "external_evidence_summary": {
+            "type": "string",
+            "minLength": 1
+          },
+          "alignment_notes": {
+            "type": "string"
+          },
+          "relevant_external_excerpts": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "insights_not_in_external": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "insight_id",
+          "insight_title",
+          "gap_note"
+        ],
+        "properties": {
+          "insight_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "insight_title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "gap_note": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "external_findings_not_in_extracted": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "finding_title",
+          "finding_summary",
+          "relevance_to_study",
+          "suggested_insight_type"
+        ],
+        "properties": {
+          "finding_title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "finding_summary": {
+            "type": "string",
+            "minLength": 1
+          },
+          "relevance_to_study": {
+            "type": "string",
+            "minLength": 1
+          },
+          "suggested_insight_type": {
+            "type": "string",
+            "enum": [
+              "systemic_pattern",
+              "relational_pattern",
+              "knowledge_gap_pattern",
+              "behavioral_pattern",
+              "emotional_pattern",
+              "protective_factor",
+              "risk_factor"
+            ]
+          }
+        }
+      }
+    },
+    "overall_alignment_summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "validation_notes": {
+      "type": "string"
+    }
+  }
+}

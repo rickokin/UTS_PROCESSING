@@ -1,13 +1,13 @@
-import { loadPrompts, loadSchemas, loadAllVocabText, loadAllRulesText } from '@/lib/assets/loader';
+import { loadPrompts, loadSchemas, loadAllVocabText, loadAllRulesText, loadDemographicsFromOutput, computeDemographicsSummary, loadValidationFromOutput } from '@/lib/assets/loader';
 import { callGeminiWithRetry, cleanGeminiSchema } from '@/lib/gemini';
-import { Document, Packer, Paragraph, TextRun, HeadingLevel } from 'docx';
+import { Document, Packer, Paragraph, TextRun, HeadingLevel, ImageRun, AlignmentType } from 'docx';
 import fs from 'fs';
 import path from 'path';
 import { generatePDF } from '@/lib/pdfGenerator';
 
 export async function POST(req: Request) {
   try {
-    const { insights } = await req.json();
+    const { insights, outputDir } = await req.json();
     if (!insights || !Array.isArray(insights)) return new Response(JSON.stringify({ error: 'No insights provided' }), { status: 400 });
 
     // Calculate actual distinct episodes and moments from the insights payload
@@ -49,6 +49,55 @@ export async function POST(req: Request) {
     const vocab = await loadAllVocabText();
     const rules = await loadAllRulesText();
 
+    // Load demographics only if the user uploaded a CSV (saved as demographics.json)
+    let demographicsSummary = null;
+    let demographicsPromptBlock = '';
+    try {
+      const demoRows = outputDir ? await loadDemographicsFromOutput(outputDir) : null;
+      if (demoRows && demoRows.length > 0) {
+        demographicsSummary = computeDemographicsSummary(demoRows, distinctEpisodes);
+        const ds = demographicsSummary;
+        const ethnicGroups = ds.ethnicity_breakdown.map(e => e.group).join(', ');
+        const topRegions = ds.geographic_scope.regions.slice(0, 5).map(r => `${r.region} (${r.count})`).join(', ');
+        demographicsPromptBlock = `
+PARTICIPANT DEMOGRAPHICS CONTEXT (computed from source data — do NOT fabricate numbers):
+- Total participants represented: ${ds.total_participants}
+- Age range: ${ds.age.min}–${ds.age.max} (mean ${ds.age.mean}, median ${ds.age.median})
+- Ethnic backgrounds represented: ${ds.ethnicity_breakdown.length} groups (${ethnicGroups})
+- Geographic scope: ${ds.geographic_scope.domestic_count} domestic (US), ${ds.geographic_scope.international_count} international
+- Top regions: ${topRegions}
+You may weave this diversity context into the Executive Summary narrative. The participant_demographics JSON field will be injected by the system — do NOT generate it.
+`;
+      }
+    } catch (e) {
+      console.warn('Demographics CSV not available, proceeding without:', e);
+    }
+
+    // Load validation results if they exist
+    let validationPromptBlock = '';
+    let validationData = null;
+    try {
+      validationData = outputDir ? await loadValidationFromOutput(outputDir) : null;
+      if (validationData) {
+        const supported = validationData.insight_validations?.filter((v: any) => v.validation_status === 'supported').length || 0;
+        const partial = validationData.insight_validations?.filter((v: any) => v.validation_status === 'partially_supported').length || 0;
+        const notSupported = validationData.insight_validations?.filter((v: any) => v.validation_status === 'not_supported').length || 0;
+        const notAddressed = validationData.insight_validations?.filter((v: any) => v.validation_status === 'not_addressed').length || 0;
+        const novelFindings = validationData.external_findings_not_in_extracted?.length || 0;
+
+        validationPromptBlock = `
+EXTERNAL RESEARCH VALIDATION CONTEXT (from validation against external research — reference this in the narrative):
+- Validation completed: ${supported} insights supported, ${partial} partially supported, ${notSupported} not supported, ${notAddressed} not addressed by external research.
+- ${novelFindings} novel finding(s) identified in external research not captured by transcript insights.
+- Overall alignment: ${validationData.overall_alignment_summary || 'N/A'}
+You may reference external corroboration in the Executive Summary or assembly notes. Note which insights are well-supported by external literature.
+The external_validation_summary field in the output will capture this context for the reader.
+`;
+      }
+    } catch (e) {
+      console.warn('Validation data not available, proceeding without:', e);
+    }
+
     const systemPrompt = `
 SYSTEM INSTRUCTIONS:
 ${prompts.assembleReport}
@@ -58,7 +107,8 @@ ${vocab}
 
 RULES:
 ${rules}
-
+${demographicsPromptBlock}
+${validationPromptBlock}
 Assemble the final Insight Report based on the Insight Objects provided. 
 Produce an object that includes the report metadata as well as a full structured presentation of the report content (executive summary, key insights with verbatim quotes, and methodology).
 
@@ -106,6 +156,18 @@ CRITICAL: Do NOT generate or extract new quotes. You MUST strictly use the exact
             confidence_threshold: { type: "string" }
           },
           required: ["episodes_analyzed", "moments_segmented", "confidence_threshold"]
+        },
+        external_validation_summary: {
+          type: "object",
+          properties: {
+            overview: { type: "string" },
+            supported_count: { type: "number" },
+            partially_supported_count: { type: "number" },
+            not_supported_count: { type: "number" },
+            not_addressed_count: { type: "number" },
+            novel_external_findings_count: { type: "number" }
+          },
+          required: ["overview", "supported_count", "partially_supported_count", "not_supported_count", "not_addressed_count", "novel_external_findings_count"]
         }
       },
       required: [
@@ -153,14 +215,49 @@ CRITICAL: Do NOT generate or extract new quotes. You MUST strictly use the exact
             result.report.methodology.episodes_analyzed = actualEpisodesCount;
             result.report.methodology.moments_segmented = actualMomentsCount;
           }
+
+          // Inject deterministically computed demographics (never LLM-generated)
+          if (result.report && demographicsSummary) {
+            result.report.participant_demographics = demographicsSummary;
+          }
+
+          // Inject deterministically computed validation summary (never LLM-generated)
+          if (result.report && validationData) {
+            const supported = validationData.insight_validations?.filter((v: any) => v.validation_status === 'supported').length || 0;
+            const partial = validationData.insight_validations?.filter((v: any) => v.validation_status === 'partially_supported').length || 0;
+            const notSupported = validationData.insight_validations?.filter((v: any) => v.validation_status === 'not_supported').length || 0;
+            const notAddressed = validationData.insight_validations?.filter((v: any) => v.validation_status === 'not_addressed').length || 0;
+            const novelFindings = validationData.external_findings_not_in_extracted?.length || 0;
+            result.report.external_validation_summary = {
+              overview: validationData.overall_alignment_summary || '',
+              supported_count: supported,
+              partially_supported_count: partial,
+              not_supported_count: notSupported,
+              not_addressed_count: notAddressed,
+              novel_external_findings_count: novelFindings,
+            };
+          }
           
           // Generate Word Document
           const report = result.report;
           if (report) {
+            const logoPath = path.join(process.cwd(), 'public', 'logo.png');
+            const logoBuffer = fs.readFileSync(logoPath);
+
             const doc = new Document({
               sections: [{
                 properties: {},
                 children: [
+                  new Paragraph({
+                    alignment: AlignmentType.RIGHT,
+                    children: [
+                      new ImageRun({
+                        data: logoBuffer,
+                        transformation: { width: 120, height: 120 },
+                        type: 'png',
+                      }),
+                    ],
+                  }),
                   new Paragraph({
                     text: report.title || "Insights Report",
                     heading: HeadingLevel.TITLE,
@@ -176,6 +273,35 @@ CRITICAL: Do NOT generate or extract new quotes. You MUST strictly use the exact
                   ...(report.executive_summary || []).map((summaryItem: string) => 
                     new Paragraph({ text: summaryItem })
                   ),
+                  ...(report.participant_demographics ? [
+                    new Paragraph({
+                      text: "Participant Demographics",
+                      heading: HeadingLevel.HEADING_2,
+                    }),
+                    new Paragraph({
+                      text: `Total Participants: ${report.participant_demographics.total_participants}`,
+                    }),
+                    new Paragraph({
+                      text: `Age Range: ${report.participant_demographics.age.min}–${report.participant_demographics.age.max} (Mean: ${report.participant_demographics.age.mean}, Median: ${report.participant_demographics.age.median})`,
+                    }),
+                    new Paragraph({
+                      text: "Age Distribution:",
+                      children: [],
+                    }),
+                    ...(report.participant_demographics.age_brackets || []).map((b: any) =>
+                      new Paragraph({ text: `  ${b.bracket}: ${b.count} participants` })
+                    ),
+                    new Paragraph({
+                      text: "Ethnicity:",
+                      children: [],
+                    }),
+                    ...(report.participant_demographics.ethnicity_breakdown || []).map((e: any) =>
+                      new Paragraph({ text: `  ${e.group}: ${e.count} (${e.pct}%)` })
+                    ),
+                    new Paragraph({
+                      text: `Geographic Scope: ${report.participant_demographics.geographic_scope.domestic_count} US-based, ${report.participant_demographics.geographic_scope.international_count} international`,
+                    }),
+                  ] : []),
                   new Paragraph({
                     text: "Key Insights",
                     heading: HeadingLevel.HEADING_2,

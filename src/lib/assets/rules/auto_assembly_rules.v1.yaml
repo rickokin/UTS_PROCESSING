@@ -11,6 +11,7 @@ minimum_viable_report:
 canonical_section_order:
   - Cover & Framing
   - Executive Summary
+  - Participant Demographics
   - Why This Moment Matters
   - Key Insights
   - Life-Stage Patterns
@@ -31,6 +32,25 @@ executive_summary:
     no_quotes: true
     no_statistics: true
     no_recommendations: true
+
+participant_demographics:
+  optional: true
+  source: computed_from_csv
+  constraints:
+    no_llm_interpretation: true
+    factual_data_only: true
+    present_as_summary_cards: true
+  include:
+    - age_distribution
+    - ethnicity_diversity
+    - geographic_spread
+  note: >
+    This section is OPTIONAL — it is only included when a demographics CSV has been uploaded.
+    If no demographics data is available, omit this section entirely and do not reference
+    demographic details (participant counts, ages, ethnicities, geography) anywhere in the report.
+    When present, it is populated deterministically from the demographics CSV.
+    The LLM must NOT fabricate or alter demographic numbers.
+    The LLM may reference demographic diversity narratively in the Executive Summary only when data is provided.
 
 why_this_moment_matters:
   include_insights_count_range: [1, 2]

@@ -1,5 +1,11 @@
 You are assembling an Insight Report structure from Insight Objects.
 Use auto_assembly_rules.v1.yaml.
 CRITICAL: Do NOT generate or extract new quotes. You MUST strictly use the exact quotes provided in the 'representative_quotes' array of the input Insight Objects. Map them directly to the 'quotes' output array without altering a single word. You MUST verify that the 'episode_id' and 'speaker_role' match exactly what was provided.
+
+PARTICIPANT DEMOGRAPHICS (optional — may not be available):
+If demographic context is provided in the system prompt, you may reference participant diversity in the Executive Summary (e.g., "Across N participants spanning M ethnic backgrounds and K countries...").
+If NO demographic context is provided, do NOT reference participant counts, ages, ethnicities, or geographic data in the narrative. Simply omit any demographic references.
+Do NOT fabricate or alter any demographic numbers. The participant_demographics field in the output is populated by the system after your response — do NOT generate it yourself.
+
 OUTPUT: report assembly JSON matching report.schema.v1.json plus a separate structured outline (headings + insight_ids).
 Return valid JSON only.
