@@ -1,0 +1,1074 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Ang",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:06.588",
+    "timestamp_end": "00:01:31.158",
+    "paragraph_ids": [
+      "p4"
+    ],
+    "moment_text": "I am a third generation breast cancer survivor. Um, my grandmother had cancer in her sixties. My mom's mother, my mom had breast cancer in her thirties, and because of that family history, which potentially even goes back for their generations because of that family history. I qualified for early breast cancer screenings. I started receiving mammograms shortly after turning 30, and when I was 33, 1 of those early mammograms had some suspicious results, and that's ultimately what led to my breast cancer diagnosis.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains an agency signal (seeking_care) and involves a system interaction (healthcare_provider).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Ang",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:34.298",
+    "timestamp_end": "00:02:06.018",
+    "paragraph_ids": [
+      "p6"
+    ],
+    "moment_text": "When I was diagnosed with breast cancer, my husband and I were newlyweds. We had just started trying to conceive, start a family, and I felt healthy. I was exercising regularly. I was in a really good place in life. Just married, doing well in my career, traveling, just enjoying life, and so getting diagnosed was a complete shock. I always knew that there was a risk because of the family history. I just didn't think that it would, it would happen because I was living a very healthy, non-toxic lifestyle. I felt like I was doing everything that I could to avoid breast cancer impacting me. Maybe I would get it when I was much older, but I certainly did not think it would happen to me at 33.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "overwhelm",
+      "self_doubt"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional signals (overwhelm, self_doubt) and involves a system interaction (family).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Ang",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:12.098",
+    "timestamp_end": "00:03:31.918",
+    "paragraph_ids": [
+      "p8",
+      "p9"
+    ],
+    "moment_text": "Once I was diagnosed, I felt like my entire world. I was turned upside down. Upside. I am someone who is very organized. I would say I'm Type A and for the first time in my life I felt like I had absolutely no control or even an understanding of what would come next because we were trying to conceive and start a family. There were, there were also a lot of decisions that we had to make amidst cancer treatment decisions. I was initially diagnosed with stage zero ductal carcinoma in C two, which meant that it was non-invasive cancer. And my initial care plan was to have a lumpectomy quick surgery and go back to work in two weeks, or I'm sorry, go back to work within a few days. And I thought this is just a little blip in the timeline and I would get back to normal programming. It turned out that after my diagnosis and after the surgery, my stage advanced to stage one invasive ductal carcinoma. And along with that, the type of cancer that the, along with that, the type of cancer cells that I had were both estrogen positive and HER two positive. So when my care team looked at my age, my. Type of cancer, my family history, the aggressive nature that comes with her two estrogen positive breast cancer. My entire plan then got elevated to the full gamut of treatment. I went in for additional surgery. I had 12 rounds of chemo, 20 rounds of radiation. I was in the cancer center every three weeks for over a year to treat the HER two positive piece. Um. Extensive long-term hormone suppression, medication and injection. So it was just, it was really upsetting because suddenly cancer turned, from what I thought would've been a minor, convenient inconvenience into just. Taking over my life. That's really what it felt like and all of my plans for trying to have a family were indefinitely put on hold. So that was just something that brought a lot of grief, a lot of loss, a lot of trauma that even today I feel like I'm still processing.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "hopelessness",
+      "frustration",
+      "grief",
+      "sadness"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "misdiagnosis"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong emotional signals (overwhelm, grief), an agency signal (enduring), and a barrier signal (misdiagnosis) within a healthcare provider interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": "The initial diagnosis of stage zero which was later advanced to stage one could be considered a form of misdiagnosis or at least a significant diagnostic evolution that dramatically changed the care plan."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Ang",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:35.398",
+    "timestamp_end": "00:04:23.118",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "I don't know if my options would have been clearly explained had I not asked immediately. So because cancer came up in a time of my life where that was all I was thinking about was how to get pregnant. That was the first question I asked every single doctor, nurse care team representative I met with. I'm also fortunate because my sister works as a nurse in the labor and delivery field, and she previously worked at a fertility clinic and so she came to most of my appointments, was asking a lot of questions due to me having early stage breast cancer. We were able to convince my care team to allow me a break to do. Uh, egg preservation and embryo preservation. And so those were options that I fortunately was provided. I recognize that some patients are, are not even given that gift of time to do fertility preservation, but I don't, I, I think as I've been sharing my story and meeting other patients, fertility sometimes is not even brought. To the patient in these conversations. And that's so frustrating because sometimes that is an option. Fertility preservation is an option, but by the time the patient finds out about it, it's too late and they've already had chemo or surgery or some other sort of treatment that then has impacted their fertility.",
+    "moment_type": "advocacy",
+    "life_stage": "reproductive_years",
+    "health_domain": "Fertility",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "asking_questions",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap",
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains multiple strong agency signals (self_advocacy, asking_questions) and barrier signals (lack_of_information, education_gap) within a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Ang",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:23.118",
+    "timestamp_end": "00:04:28.998",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "So I do think that fertility is something that really needs to start coming up more and being volunteered proactively by our care teams.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Fertility",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains an agency signal (speaking_up) and barrier signals (education_gap, training_gap) related to a system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Ang",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:33.818",
+    "timestamp_end": "00:05:10.118",
+    "paragraph_ids": [
+      "p15",
+      "p16"
+    ],
+    "moment_text": "I, I feel like for most cancer patients, the entire experience is so heavily focused on self-advocacy, and I quickly learned that, and I don't think this is any, I, I don't think there's any blame on care teams or hospital systems. I think what we're seeing is that the rates of cancer diagnoses are. Escalating so quickly, especially among young people. But in general, the cancer centers here in the state of Hawaii are constantly overbooked, full waiting rooms, so busy for people coming in and outta treatment, in and out of appointments. And I see that paralleled in a lot of communities across the states and beyond. And I think because of that, because. These systems, our healthcare systems are so busy and overwhelmed. Sometimes individualized patient care is not always prioritized or even something that a care team has the capacity for.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Healthcare Access",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "time_constraint",
+      "access_barrier",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains an agency signal (self_advocacy) and multiple barrier signals (time_constraint, fragmented_care) within a healthcare system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Ang",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:10.118",
+    "timestamp_end": "00:06:09.918",
+    "paragraph_ids": [
+      "p17",
+      "p18"
+    ],
+    "moment_text": "When you think about making sure that as a patient you are getting the best care possible, you're getting all of your questions answered. Self-advocacy is such a key tool in. Making sure that you are getting what you need and what you want as a patient. And the other piece is that for young patients, especially for young patients, especially, cancer really does impact not just your fertility, but things like your sexual function, your general quality of life, and for patients who are put on long-term medications like hormone suppression, you're looking at. The quality of life for five, 10 years, possibly longer, but you're also looking at a longer runaway, right? If you're diagnosed in your thirties, you're hoping that you're gonna be like the rest of your peers and you're gonna live into your eighties and nineties. But with that comes a lot more mindfulness and intention and care that you need to think about to maintain that quality of life. So, to answer the question, I think I have found. Myself needing to advocate for my own care many, many times throughout the cancer experience, from asking for support for, um, the impacts that treatment had on my sexual function, you know, requesting a physical therapist, um. Requesting a estrogen cream that I could take to combat vaginal dryness, but also things like asking for, um, for an order for care because I have chronic pain that originated from my breast biopsies. It's a lot of little things that I think doctors aren't always thinking about because they don't have the time, or maybe these are just unique patient experiences, but I think I have found myself needing to. Find information, research information, and then bring it to my care team to get those concerns addressed.",
+    "moment_type": "advocacy",
+    "life_stage": "reproductive_years",
+    "health_domain": "Patient Advocacy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "self_advocacy",
+      "asking_questions",
+      "seeking_information",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "time_constraint",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains multiple strong agency signals (self_advocacy, asking_questions) and barrier signals (lack_of_information, time_constraint) within a healthcare provider interaction.",
+    "risk_flags": [
+      "sexual_health"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Ang",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:14.718",
+    "timestamp_end": "00:06:46.118",
+    "paragraph_ids": [
+      "p20"
+    ],
+    "moment_text": "Well, when I was initially diagnosed, I had a very ular cancer experience. I did have a first cousin who had just completed treatment as an ovarian cancer patient, and so fortunately she was able to guide me. Along my, my treatment experiences, but my family really wanted to keep my cancer diagnosis private. I think this is something that is really common in Asian communities. I think there was an element of shame and needing to preserve. Pride. And, and also I think what's also, what's really common in Asian communities is not wanting to inconvenience others and have others worry about me or my family.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "isolation",
+      "shame"
+    ],
+    "agency_signals": [
+      "silence"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture",
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong emotional signals (isolation, shame) and barrier signals (stigma, shame_culture) within a family system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker uses the word 'ular' which seems to be a transcription error for 'isolated' or 'insular'. The context strongly supports this interpretation."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3"
+    ],
+    "moment_text": "But what happened is the more that I kept this experience close to me and, and the more that I didn't share it, the harder it became and. The worst my mental health became, I grew increasingly depressed, lonely, and this was all while I was going through the 12 rounds of chemo, which is also devastating for your, your body, physically and, and mentally. And so towards the end of my chemo treatments, I decided to start sharing my story on social media and in doing so. I was at that point able to truly connect with other young patients who were actually going through treatment at the same time that I was. And that shift from an individual experience alone in my community, that shift to really being able to connect and talk to people in real time about what I was going through, who were also having similar experiences. It was transformative. It. Suddenly I felt like I wasn't alone, that people truly understood me and that I had a, a resource where I could ask questions and get help and ask things that I felt maybe embarrassed or, um, uncomfortable asking my care team.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "loneliness",
+      "sadness",
+      "relief",
+      "connection",
+      "validation",
+      "embarrassment"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support",
+      "fear_of_judgment",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains multiple barrier signals (social_isolation, lack_of_support), agency signals (sharing_story, seeking_support), and emotional signals (isolation, connection) linked to a system interaction (peer_community).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "I think the most manageable aspect of my treatment journey was staying organized. I mean, this is a tool that I, a skill that I had exercised and learned and working and, and going to school over the years. And so when it came to. Showing up for appointments, keeping a schedule, knowing what medications I was on, staying on track with those meds. I do feel like that was a part of treatment that was manageable and in some ways, that was where I felt like I had a sense of control, is I. I knew where everything was and where I needed to be on what dates, and that I think allowed me to have some ownership in an experience where I felt like a lot of that was taken away from me.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "tracking_symptoms",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains agency signals (tracking_symptoms) and emotional signals (empowerment, confidence) linked to a system interaction (healthcare_provider).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p7",
+      "p8"
+    ],
+    "moment_text": "And what I found is that once I finished treatment and was in. I guess what we call survivorship. That's actually when I started to feel more lost because I didn't have a milestone date to look forward to. I didn't have, you know, X appointments a week to be checked in on by my team. I wasn't constantly going in for blood draws and, and. Recurring scans. I, I still doing, I'm still doing some of those things, but in some ways survivorship is a no man's land where you kind of have to choose your own adventure and figure out how to, to then process and heal. And once I entered that phase, I was sort of like, wait, who am I? Where am I? Um, why am I not at the cancer center all the time? How do I figure this out?",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confusion",
+      "isolation",
+      "anxiety",
+      "loneliness"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support",
+      "fragmented_care",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains multiple barrier signals (lack_of_support, fragmented_care) and emotional signals (confusion, isolation) linked to a system interaction (healthcare_provider).",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "For me, cancer has irrevocably changed me in so many ways, and the person that I am today is a person that I never would have expected, um, to become prior to my diagnosis. I think cancer has altered. So much of how I view the world of what my priorities are, what's important to me, and I think I, uh, I would never say that I'm grateful to be a cancer survivor or a cancer patient, but I am truly grateful for the person that I've become and the connections that I've made in this community.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "clarity",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains emotional signals (clarity, connection) linked to a system interaction (peer_community).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p13",
+      "p14",
+      "p15"
+    ],
+    "moment_text": "Survivorship is absolutely not what I expected. I, um, I think I imagined when I was in treatment that once I completed all of my treatments, the hardest parts of the cancer experience would be behind me, but I was not expecting. Perhaps naively that once you're done with treatment, there's a whole nother mountain to face, which is the trauma and the grief. The toll that cancer really takes, not just on you mentally and spiritually, but also on your body. Um, I have osteoporosis as a result of being in medical menopause, so I'm managing that. I still have chronic pain, um, that originated from my biopsies. I still carry a lot of grief and I'm trying to figure that out. Um. And then of course there are lingering side effects for those of us who are in hormone suppression. There are a lot of day-to-day things that we manage and deal with. I'm actually on a, a little break from my hormone suppression medication right now because there was a study that I found that showed, um, that it was possible for. Patients to take a break from hormone suppression to conceive, and then resume the medication after about 18 months to 24 months of being on it. So I'm on a break, and being on this break has really opened my eyes up to how much hormone suppression was impacting my day-to-day life and my quality of life. And I don't think I truly realized that until detoxing the meds and. Feeling? Feeling an extreme difference in my wellbeing.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "grief",
+      "overwhelm",
+      "sadness",
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains barrier signals (lack_of_information), agency signals (seeking_information), and strong emotional signals (grief, overwhelm) related to the healthcare provider interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "medical_trauma",
+      "sexual_health",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p17",
+      "p18",
+      "p19"
+    ],
+    "moment_text": "I think that as cancer patients, we endure so much. We, we just. And, and it's not because we're brave or we're warriors or we're strong, it's because we have no choice but to, and I often say that courage and strength is not in, you know, fighting cancer and beating the disease. It's showing up even when every cell in your body is screaming at you not to go. To me, that is where the true courage and, um. And strength lies. It's, it's really just. The resilience and the willingness to try and to show up, whether that is going to your appointments or going to your scans or going to treatment, or simply taking a small little pill every single day, uh, to prevent the risk of recurrence and hopefully guarantee ultimately a longer, better, healthier life. I think how I would define quality of life. Is not necessarily the absence of pain or the absence of suffering. I think it is feeling like you have full agency over your decisions. I think it is being able to, to release some of that worry and that fear. Some of that anxiety that comes with being a cancer patient and really be able to do the things that bring you joy, that bring you fulfillment. I think what I've realized coming off of the medication for this little break is that. Many of us cancer patients get used to a lower quality of life, and we are in some ways forced to accept that as normal. And I think another way that I have tried to show up for myself through self-advocacy is. Looking at different options for these long-term medications that were prescribed. I was on a much lower dose of my daily medication, and even though that came with a higher risk of recurrence, to me it was, it was worth it because I think sometimes. Sometimes if you're on a high dose medication and you are suffering from insomnia every single night, or pain, you know, painful joints every single day, hot flashes, every hour. Ultimately that stress that it has on your mind and your body could also contribute to recurrence. So I think there's this balance, right? It's sometimes, as cancer patients, we are trained or expected to just follow every single prescription or treatment plan that a doctor gives us. But I think when you're trying to figure out what quality life means for you and how to have that, it can look different for each patient.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "clarity",
+      "hope",
+      "anxiety",
+      "fear"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "making_decisions",
+      "enduring",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains a strong barrier signal (symptoms_normalized_without_context) and multiple agency signals (self_advocacy, making_decisions) in a healthcare provider context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p24",
+      "p25",
+      "p26"
+    ],
+    "moment_text": "I don't know if I can generalize the support that young patients get. You know, across the nation. I think some, I think that some hospital systems or some cancer centers do a better job of providing that holistic care and support in survivorship. There are even some hospitals that have a an a y, A counselor or, um. A sex therapist that they can refer young cancer patients to during or post-treatment. But I think I have, in my experience, connecting with fellow young patients, my sense is that most of us do not get enough support in. In all the ways that cancer impacts our life outside of the treatment room. Right? So when you think about the impacts of medical menopause, when you think about mental health impacts, when you think about, um, physical strength, you know, trying to get back into exercise and, and sexual function, sexual health. All of those pieces, I think, you know, the resources may be there if we ask for it, but they're not being brought to the table immediately or proactively by the care team. I think where I have found the most support and the most resources is through the online cancer community. It's being able to connect with other patients, but also following some, you know, science-based medical voices. There are some doctors, there are some nurse practitioners, some PTs who have a presence online and have really tried to normalize some of these conversations that are not happening in the hospital room.",
+    "moment_type": "system_observation",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "connection",
+      "validation"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_information",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "fragmented_care",
+      "education_gap",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: contains multiple strong barrier signals (lack_of_support, fragmented_care, education_gap) describing a systemic issue within the healthcare provider interaction, and highlights peer community as a solution.",
+    "risk_flags": [
+      "sexual_health",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M020",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "speaker_2",
+    "speaker_role": "patient",
+    "timestamp_start": "0:18:11.8",
+    "timestamp_end": "0:18:45.8",
+    "paragraph_ids": [
+      "p29",
+      "p30"
+    ],
+    "moment_text": "After I finished treatment, I had a survivorship meeting with my nurse practitioner and she went over, you know, all of my treatments that I had. There was a document printout and then my scan, my recurring scan schedule, the medications that I was on and how often I would see the doctor. But what I wish happened is that there would be a list of, of resources of people that I can, could connect to. For certain common concerns, right? So things like physical therapy, exercise, community support, mental health support, things like that. I think perhaps that is happening in other patient experiences, but it's also, you know, why do we not have insurance coverage for these things? You know, I, there are so many studies that show that.",
+    "moment_type": "system_observation",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "lack_of_information",
+      "cost_constraint",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains multiple barrier signals (fragmented_care, cost_constraint) and agency signals (seeking_support) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M021",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "speaker_2",
+    "speaker_role": "patient",
+    "timestamp_start": "0:18:46.8",
+    "timestamp_end": "0:19:39.8",
+    "paragraph_ids": [
+      "p31",
+      "p32"
+    ],
+    "moment_text": "Weekly daily exercise. I think it's 150 minutes a week of, you know, cardio, exercise, strength, back building exercise, that these types of exercise literally combat. Cancer recurrence. They also support the impacts that medical menopause can have on patients. Right? I am proof that medical menopause literally deteriorates your bones. I am in my thirties and I have osteoporosis, a sentence I never thought that I would say. And so my doctor had suggested some bone building, bone treating medications, one of which would be an infusion at the cancer center. But these treatments. Impact your fertility. And so the compromise was that I would do strength building exercise, you know, try to conceive when I do this break, and then potentially I would need to go on that treatment later.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "frustration"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (making_decisions) and emotional signals (overwhelm) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "sexual_health"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M022",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "speaker_2",
+    "speaker_role": "patient",
+    "timestamp_start": "0:19:39.8",
+    "timestamp_end": "0:20:14.8",
+    "paragraph_ids": [
+      "p33",
+      "p34"
+    ],
+    "moment_text": "But being able to do strength building exercises, I takes money, right? So I think there are so many things that insurance is not covering. Or that is not being offered through nonprofit organizations because some of these concerns are just not the first things that come to mind when you're thinking about cancer. The first things that come to mind are chemo, are radiation, are the things when you envision a cancer patient in your head, they're not necessarily the aftermath, which for patients who are in their thirties or forties are decades long pieces of their life that they need to manage and deal with.",
+    "moment_type": "system_observation",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "cost_constraint",
+      "education_gap",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains multiple barrier signals (cost_constraint, education_gap) and an emotional signal (frustration) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M023",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "speaker_2",
+    "speaker_role": "patient",
+    "timestamp_start": "0:20:41.8",
+    "timestamp_end": "0:21:49.8",
+    "paragraph_ids": [
+      "p38",
+      "p39",
+      "p40"
+    ],
+    "moment_text": "The most overwhelming aspect of life post-diagnosis for me has been. Dealing with the long-term impacts that cancer has had on my health. I have chronic pain that flares up. I have, um, osteoporosis as I mentioned before, and I also have long-term trauma that I'm still processing and facing. And you know, I think there are just. As much as I feel like I have made progress in dealing with my anxiety and supporting my mental health, I think, and, and maybe it's because I'm not, I, I'm three years out, right? It's still relatively recent in my history. It's still feels fresh. You know, just a, a few years ago I was sitting in a chemo chair. I didn't have any hair. I think, um, I still. Face this fear of recurrence and the fear that cancer will somehow come back and maybe, perhaps not in recurrence, but in some other way impact my life.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "overwhelm",
+      "anxiety",
+      "fear",
+      "sadness"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails A2 evidence gate: While it has strong emotional and agency signals, the system_interaction is 'none'.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M024",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "speaker_2",
+    "speaker_role": "patient",
+    "timestamp_start": "0:21:49.8",
+    "timestamp_end": "0:22:21.8",
+    "paragraph_ids": [
+      "p40",
+      "p41",
+      "p42"
+    ],
+    "moment_text": "I still have anxiety for every scan. I am still dealing with physical side effects and things like that, but it's almost like when you are a survivor. Always waiting for the other shoe to drop just because, you know, I would say that for pretty much every patient, there are so many ups and downs and so many instances that were not expected. So many obstacles that you didn't think were going to be there, and so being conditioned to that experience, sometimes I. I find myself trapped in that cycle and, and that's something that can feel very overwhelming at times.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "fear",
+      "overwhelm",
+      "hopelessness"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains strong emotional signals (anxiety, fear, overwhelm) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M025",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "speaker_2",
+    "speaker_role": "patient",
+    "timestamp_start": "0:22:21.8",
+    "timestamp_end": "0:23:11.8",
+    "paragraph_ids": [
+      "p43",
+      "p44",
+      "p45"
+    ],
+    "moment_text": "On the flip side, the most manageable piece, I think finding support, I think, um. I just feel so lucky and grateful that I have found my people and that if I ever am going through something or have a question, if I'm ever going through something or have a question, I know that I have a safety net that I can reach out to, and that ultimately. I can through some connection or another, find someone who can help or vice versa, help someone else. I think being a part of the community has really. In some ways given me a purpose and found, allowed me to find meaning in my cancer diagnosis because now I'm able to help others who are in similar situations. And if I can help even just one person feel less alone or more supportive, then in some ways that does make this experience worth having.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Community Support",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "relief",
+      "connection",
+      "belonging",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (seeking_support) and emotional signals (connection) within a peer_community system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M026",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "speaker_2",
+    "speaker_role": "patient",
+    "timestamp_start": "0:23:40.8",
+    "timestamp_end": "0:24:31.8",
+    "paragraph_ids": [
+      "p49",
+      "p50"
+    ],
+    "moment_text": "Well, one of the reasons that I started sharing my story online is because I actually did not feel like my experience was represented in the cancer community, both online and offline. I, I think that the tides are turning. I think that there have been more. I think that there's been more priority placed on diversifying voices and cancer experiences from, you know, hospital systems to pharmaceutical companies, nonprofits, et cetera. But I think I have learned that the cancer experience in the Asian community especially is still very private. There's still something that is not being talked about enough. And you know, a friend of of mine, and I have talked about this before, where it's, we don't want to be the poster children for the Asian cancer experience, but if doing so makes other Asian cancer patients feel. More seen and understood and more supportive, then it's worth it. And hopefully at some point there will be more than a few of us who are sharing their stories.",
+    "moment_type": "advocacy",
+    "life_stage": "reproductive_years",
+    "health_domain": "Health Equity",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "validation",
+      "hope"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "stigma",
+      "silence",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains multiple barrier signals (stigma, silence) and agency signals (sharing_story, speaking_up) within a peer_community system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M027",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "speaker_2",
+    "speaker_role": "patient",
+    "timestamp_start": "0:24:31.8",
+    "timestamp_end": "0:25:21.8",
+    "paragraph_ids": [
+      "p51",
+      "p52",
+      "p53"
+    ],
+    "moment_text": "I think community, to me is, is just a safe place. It's, it's. Feeling like you are not the only person or the black sheep in the room. It is having shared experiences and like I said, a safety net that you can count on. And I think there are so many different ways that you can show up in the cancer community, and I think it's easy to just. Look at someone sharing their, their story on social media and assume that that is the way. But what I have seen is that the power of community is actually not what you're seeing on the screen. It's what's happening behind the scenes. It. Instagram message or text message exchanges. It's having a WhatsApp group where you can pose a question. It's being able to tag someone in a comment. It's all the things that are happening. It's, it's in, in-person meetups, right? It's going to coffee with a fellow patient or having a, a group lunch with fellow community members. I think it's all these things that are happening that people sometimes don't even see where the magic happens.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Community Support",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "belonging",
+      "validation"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (seeking_support) and emotional signals (connection) within a peer_community system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M028",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "speaker_2",
+    "speaker_role": "patient",
+    "timestamp_start": "0:25:40.8",
+    "timestamp_end": "0:26:34.8",
+    "paragraph_ids": [
+      "p55",
+      "p56",
+      "p57"
+    ],
+    "moment_text": "I think advocacy is important because that's one of the strongest ways that we can make sure patients are heard. One of the experiences that I had as a patient was I quickly realized that. While a treatment may be right for one kind of person, it may not be right for every person. I had to challenge my care team to lower a a dose of one of the chemo lines that I received. I pushed back on my dosage of my daily hormone suppression medication, and I think I just. Have started to question whether or not minorities are always represented when care plans are are being developed, when medications are being developed. You know who, who really comprises the, the test sample in these clinical trials, in these studies that they're doing for these treatments.",
+    "moment_type": "advocacy",
+    "life_stage": "reproductive_years",
+    "health_domain": "Patient Advocacy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "frustration"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains multiple strong agency signals (self_advocacy, speaking_up) and a barrier signal (training_gap) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M029",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "speaker_2",
+    "speaker_role": "patient",
+    "timestamp_start": "0:26:34.8",
+    "timestamp_end": "0:27:22.8",
+    "paragraph_ids": [
+      "p58",
+      "p59"
+    ],
+    "moment_text": "With advocacy, we can really start to help systems to rethink who their patients are and how to best care for those patients. As someone who has a family history of breast cancer, but no genetic mutations, I think it's also important for minority communities to advocate and have our voices heard. I think for a long time it was. Easy to just generalize all cancer patients into, you know, one big group. But what studies are showing is that. Cancer is climbing more quickly among minority communities than any other community, and I see that all the time here in Hawaii. The majority of patients who come to my local meetups are Asian or Pacific Islander, and the majority of patients that I even see in the hospital at the clinic. Are a majority Asian, and that may be a representation of the demographics here, but I also think that is something that we're seeing in the statistics nationally as well.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Health Equity",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: Contains agency signals (self_advocacy, speaking_up) and a barrier signal (symptoms_normalized_without_context) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_011_M013",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Vanessa",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:05.059",
+    "timestamp_end": "0:00:40.059",
+    "paragraph_ids": [
+      "p39",
+      "p40",
+      "p41"
+    ],
+    "moment_text": "There's not a lot of genetic markers among minority communities for cancer, and so that's why it's so important to know family history, but at the same time, family history is something that's not always talked about within these minority communities. Right. I have heard from other friends in the, in the Hispanic community, in the black community that similarly to Asians, it's. It's something that families, that parents, that older generations are really uncomfortable talking about. They don't wanna talk about how people died, who had cancer, when they had cancer. And I think without that information, sometimes it's, it's too late when people are diagnosed, right? In the US the age of starting mammograms is usually around 40.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Oncology",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "frustration",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "silence",
+      "education_gap",
+      "delayed_diagnosis",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment identifies a significant systemic and cultural barrier (silence around family history in minority communities) that directly leads to negative health outcomes (delayed diagnosis), which meets the evidence gate for a barrier signal.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_011_M014",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Vanessa",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:40.059",
+    "timestamp_end": "0:01:01.059",
+    "paragraph_ids": [
+      "p42",
+      "p43"
+    ],
+    "moment_text": "For me, that would've been seven years after my diagnosis. And because I had an aggressive form of breast cancer, who, who knows, sometimes I think that maybe I wouldn't even be alive by the time that I would get my first mammogram. So I do think I, I, there's no way I would've gotten that mammogram if I hadn't known and then disclosed my family history. But this is something that unfortunately is not a common experience among minority. Women and around minority patients. So that's part, that's also where advocacy comes in. It's like we need to normalize having these conversations. We need to make sure that that communities are aware of the risks that they have to their health.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Oncology",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "delayed_diagnosis",
+      "education_gap",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment provides a powerful lived experience that directly illustrates the life-or-death consequences of a systemic issue (standard screening ages failing high-risk individuals). It passes the evidence gate with clear barrier and agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_011_M015",
+    "episode_id": "BH_011.docx",
+    "season": "1",
+    "source_file": "BH_011.docx",
+    "speaker_id": "Vanessa",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:14.059",
+    "timestamp_end": "0:02:44.059",
+    "paragraph_ids": [
+      "p46",
+      "p47",
+      "p48",
+      "p49",
+      "p50",
+      "p51"
+    ],
+    "moment_text": "Three things. I think every three things I think every patient should know post-diagnosis. The first is you are your best advocate, so it's. Actually, lemme rephrase that. The first is to speak up. Don't be afraid to ask for what you need to advocate for what you need. Don't be afraid to be an inconvenience. I think if you can really think about and feel comfortable with sharing. What, what you don't understand, what you want to know more about and how to get help, then that can really ensure that you're getting the best care possible. The second is find community. This can be in so many different ways. It doesn't necessarily have to be on social media. It could be through a support group. It could be through a nonprofit organization. It could be through a faith-based organization. Um, it could even just be through a, a club, like a running club or a pottery club. But find support. I think sometimes we feel after diagnosis that we have to be. Heroic and figure out how to go at this alone. But the more that you can have people who support you and who can love you and be there for you, the easier the process is. It's a, it's, it's definitely a marathon and not a sprint. I think for many of us, we realize that cancer doesn't end when treatment ends, and so if you have the right people in your corner, it will really make the experience feel. Worthwhile and something that you cannot navigate with the support of others. And the third is to, I think the third is to prioritize your quality of life. Quality of life can look different or feel different for everyone, but ultimately it's thinking about. How you can live with ease and live with joy. So think about your physical surroundings, think about what your day looks like, what your routines look like, how medications or treatments are making you feel. Are there any adjustments that you can make? I think as young cancer patients. You wanna make sure that your quality of life is something that you're happy with long term. And so that might take making some changes, but I do feel like once you figure that out, it can really be something that allows you to just realize this, this goal that so many of us are thinking about from the moment that we're diagnosed.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Oncology",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "hope",
+      "connection"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "asking_questions",
+      "seeking_support",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment provides clear, actionable advice based on lived experience, highlighting multiple agency signals (self_advocacy, seeking_support) as protective factors against common barriers (social_isolation). It passes the evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

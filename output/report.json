@@ -1,430 +1,225 @@
 {
   "locks_version": "v1.0",
-  "report_id": "UTS-S4-REPORT-2024-05-21",
-  "report_title": "The Unspoken Journey: Systemic Gaps and Protective Factors in Women's Healthcare",
+  "report_id": "BC_SURVIVORSHIP_2024_V1",
+  "report_title": "Voices of Survivorship: Navigating the Gaps in Breast Cancer Care",
   "insight_ids_included": [
-    "C001-systemic-dismissal-reframe",
-    "C002-Systemic-Gaps-in-Womens-Health-Education-m1n2o",
-    "C004-navigating-multifactorial-health-issues",
-    "I-SYSTEMIC-ACCESS-BARRIERS-001",
-    "INS-001",
-    "C001-Patient-Advocacy-Against-Dismissal-j8k9l",
-    "INS-002",
-    "C002-collective-healing-through-community",
-    "C003-peer-storytelling-as-lifeline",
-    "C-WORKPLACE-STIGMA-001-health-disclosure-risk"
+    "C001_ProviderDismissalOfYoungWomensSymptoms",
+    "C003-survivorship-cliff-and-isolation",
+    "C-003",
+    "C005_Financial_Toxicity",
+    "C004-peer-community-as-protective-factor",
+    "C005_TheEmotionalAftermathOfSurvivorship"
   ],
   "excluded_insights": [
-    "INS-003",
-    "INS-004",
-    "INS-005",
-    "INS-006",
-    "INS-007",
-    "INS-008",
-    "C-001-defying-societal-norms",
-    "C-002-community-as-antidote-to-isolation",
-    "C-003-medical-training-gaps",
-    "C-004-patients-as-experts",
-    "C001-relational-skills-education-gap",
-    "C003-shame-enforces-silence",
-    "C004-clinician-burnout-and-boundaries",
-    "C005-mental-healthcare-fragmentation",
-    "C006-self-advocacy-as-self-preservation",
-    "C008-pressure-to-endure",
-    "C-20240520-001-lived-experience-in-postpartum-innovation",
-    "C-20240520-002-misaligned-workplace-values",
-    "C-20240520-003-a1b2c",
-    "C-20240520-004-d4e5f",
-    "C-20240520-005-g6h7i",
-    "C003-Setting-Boundaries-in-the-Workplace-p3q4r",
-    "C004-Setting-Boundaries-within-the-Family-s5t6u",
-    "C005-Overcoming-Isolation-through-Community-v7w8x",
-    "C006-Navigating-Fragmented-Care-and-System-Failures-y9z0a",
-    "C001_SeekingProfessionalMentalHealthcare-b1c2d",
-    "C002_ChallengingSystemicGapsInHealthcare-e3f4g",
-    "C003_OvercomingSocialIsolationAndFearOfJudgment-h5i6j",
-    "C004_IdentityLossAndReinventionAfterCareerTransition-k7l8m",
-    "C005_SharingStoriesForConnectionAndValidation-n9o0p",
-    "C-001-q1r2s",
-    "C-002-fragmented-care-and-education-gaps",
-    "C-003-self-care-as-foundation",
-    "C-004-navigating-fragmented-care-systems",
-    "C-005-vulnerability-as-a-catalyst-for-connection",
-    "C-006-community-as-an-antidote-to-isolation",
-    "C002-cultural-silence-and-isolation",
-    "C005-agency-through-self-advocacy",
-    "C006-intergenerational-awakening",
-    "C-FAMILY-SUPPORT-GAP-001-invisible-labor-of-care",
-    "I-PROTECTIVE-PEER-SUPPORT-001"
+    "C001-provider-dismissal-and-patient-advocacy",
+    "C002-knowledge-gaps-and-self-education",
+    "C005-dismissal-of-quality-of-life",
+    "C002_IsolationAndTheSearchForPeerSupport",
+    "C003_FragmentedCareAndInformationGaps",
+    "C004_SelfAdvocacyInHealthcare",
+    "C001_Survivorship_Gap",
+    "C002_Peer_Community_Lifeline",
+    "C003_Advocacy_Against_Dismissal",
+    "C004_Cultural_Familial_Silence",
+    "C-001",
+    "C-002",
+    "C-004",
+    "C001_Peer_Support_as_Lifeline",
+    "C005_Diagnosis_Tornado",
+    "C006_Education_Gaps_in_Young_Women"
   ],
   "life_stage_coverage": [
-    "cross_life_stage",
-    "menopause_transition",
-    "midlife",
-    "postpartum",
     "reproductive_years",
-    "aging",
-    "adolescence"
+    "midlife",
+    "menopause_transition",
+    "post_menopause",
+    "cross_life_stage"
   ],
   "confidence_distribution": {
-    "high": 8,
-    "medium": 2,
+    "high": 6,
+    "medium": 0,
     "emerging": 0
   },
-  "assembly_notes": "This report was assembled from a pool of 32 promoted insights. Insights were consolidated based on thematic overlap to create a focused narrative. The 10 selected insights represent the core patterns of systemic failure, patient and clinician responses, and community-driven protective factors. Redundant insights covering similar ground (e.g., multiple variations on 'community as an antidote to isolation') were excluded to ensure clarity.",
-  "title": "The Unspoken Journey",
-  "subtitle": "An Insight Report on Systemic Gaps and Protective Factors in Women's Healthcare",
+  "assembly_notes": "This report was assembled by consolidating 18 high-confidence insights into 6 core themes that represent the breast cancer survivorship journey. The narrative flows from initial systemic barriers (dismissal, information gaps), to the post-treatment reality (the 'survivorship cliff', financial toxicity), to the patient-driven solution (peer support), and finally to the long-term emotional impact. This structure highlights the key problems and the primary protective factor that emerges in response.",
+  "title": "Voices of Survivorship",
+  "subtitle": "Navigating the Gaps in Breast Cancer Care",
   "executive_summary": [
-    "Across 45 participants spanning 17 ethnic backgrounds and multiple countries, a clear narrative emerges about the challenges and resilience inherent in women's health journeys.",
-    "Women consistently reframe medical dismissal not as a personal flaw but as a systemic failure, a crucial shift that moves them from self-blame to advocacy.",
-    "This advocacy becomes necessary due to significant gaps in medical education and fragmented care systems, which often fail to address the complex, multifactorial nature of women's health issues from postpartum care to menopause.",
-    "In response to these systemic gaps and the isolation they create, peer storytelling and community connection serve as powerful lifelines, providing the validation and shared experience necessary for collective healing.",
-    "Finally, in the workplace, a pervasive fear of stigma around health disclosures creates a culture of silence, hindering women's career advancement and access to support."
+    "Across 24 participants spanning diverse ages, ethnic backgrounds, and geographic locations, a clear narrative emerges of a healthcare system that excels at acute treatment but often fails to support the long-term, holistic needs of breast cancer survivors.",
+    "Younger women consistently face dangerous diagnostic delays due to the persistent dismissal of their symptoms by providers who tell them they are 'too young' for breast cancer.",
+    "After active treatment, patients experience a 'survivorship cliff,' where structured medical and community support abruptly disappears, leaving them isolated and unequipped to manage the long-term aftermath.",
+    "Significant gaps in information regarding quality-of-life issues like fertility, medical menopause, and mental health force patients into the second job of exhaustive self-education during a time of crisis.",
+    "In response to these systemic failures, patients build and rely on peer communities as an essential lifeline for validation, practical information, and a unique form of healing that formal healthcare does not provide.",
+    "These lived experiences are strongly corroborated by external research, which confirms the prevalence of diagnostic delays for young women, the challenges of the post-treatment phase, and the critical role of peer support."
   ],
   "key_insights": [
     {
-      "insight_statement": "When faced with a healthcare system that dismisses their symptoms or labels them as emotional, women are finding empowerment by reframing the experience not as a personal failing (e.g., being 'crazy' or 'dramatic'), but as evidence of a broken system, which shifts the focus from self-blame to seeking validation and advocating for change.",
+      "insight_statement": "Younger women consistently report being dismissed by healthcare providers with variations of 'you're too young for that,' which normalizes their symptoms, delays critical diagnoses, and necessitates persistent self-advocacy to receive appropriate medical imaging and care.",
       "quotes": [
         {
-          "quote": "Your moods and your hormonal chaos is not a character flaw. It's a biological sign. So first of all, I always say this, you're not crazy, you're not dramatic, and you're not overreacting, right? You are just overdue for supports and overdue to be seen as to be understood.",
+          "quote": "And one of the things we hear, so we, many of us have heard so much, is, oh, you're too young and oh, it can't be. And oh, you have nothing to worry about. And, uh, one mother, uh, at who was in my cabin at, at a breast cancer camp last year was like, you know, they're gaslighting us.",
           "speaker_role": "patient",
-          "episode_id": "UTS_S4_PODCAST_042.docx"
+          "episode_id": "BH_009.docx"
         },
         {
-          "quote": "it's no need to fix what's not broken because you are not broken. The system is so, healing is more about being seen.",
+          "quote": "when I found that lump, the doctor dismissed me. She's like, you're so young, you have no family history. Like, what are you, what are you doing back at this appointment? I just saw you a couple weeks ago. Um, so definitely had to advocate to get that imaging to ultimately get a diagnosis.",
           "speaker_role": "patient",
-          "episode_id": "UTS_S4_PODCAST_042.docx"
+          "episode_id": "BH_008.docx"
         }
       ]
     },
     {
-      "insight_statement": "Significant gaps in medical education and training, particularly around hormonal health, menopause, and survivorship care, result in fragmented and inadequate support for women. Patients find their symptoms are often misunderstood or misattributed, such as hormonal issues being treated solely as mental health conditions, forcing them to navigate a system that lacks a holistic understanding of their health.",
+      "insight_statement": "Patients report a sharp decline in structured medical and community support after active treatment concludes, creating a 'survivorship cliff' or 'no man's land' that leaves them feeling isolated and unequipped to manage the ongoing physical, mental, and emotional challenges of recovery.",
       "quotes": [
         {
-          "quote": "I was putting together puzzle pieces, but not just puzzle pieces. It was almost like someone had dumped a box of puzzle pieces. On me. I didn't have the top of what that puzzle looked like, and I didn't know what was survivorship, what was menopause, what was just, you know, uh, mourning the future that I thought that I was gonna have.",
+          "quote": "That is the time when we need the most support. Because now we don't have the structure of that act, active treatment. We don't have the structure of people helping on a daily basis, people checking in. It's a lonely time.",
           "speaker_role": "patient",
-          "episode_id": "UTS_S4_PODCAST_026.docx"
+          "episode_id": "BH_002.docx"
         },
         {
-          "quote": "I believe that psychologists and psychiatrists should be educated in hormones because they will be a much better doctors for their patients.",
+          "quote": "in some ways survivorship is a no man's land where you kind of have to choose your own adventure and figure out how to, to then process and heal.",
           "speaker_role": "patient",
-          "episode_id": "UTS_S4_PODCAST_028.docx"
+          "episode_id": "BH_011.docx"
         }
       ]
     },
     {
-      "insight_statement": "Complex, multifactorial health issues common to women, such as brain fog or postpartum mental health, are poorly managed by a fragmented healthcare system, forcing patients to navigate siloed specialties and leaving clinicians without clear, integrated treatment protocols.",
+      "insight_statement": "Patients frequently encounter significant information gaps from their healthcare providers regarding diagnosis, treatment side effects, and long-term quality of life—including fertility, menopause, and mental health—compelling them to undertake exhaustive self-education and turn to peer networks for practical advice.",
       "quotes": [
         {
-          "quote": "It's not like getting a list. Of mental health providers that you now need to call and find out if they're taking your patients, because nobody who's struggling with mental health is going to make that five calls, wait for it, and then go back.",
-          "speaker_role": "advocate",
-          "episode_id": "UTS_S4_PODCAST_040.docx"
-        },
-        {
-          "quote": "So brain fog, I would say, is one of the hardest things to nail. Like I said, hormone therapy can be helpful, but it often requires us to think a little harder about our nervous system and look a little harder sometimes at what's going on in our life",
-          "speaker_role": "clinician",
-          "episode_id": "UTS_S4_PODCAST_039.docx"
-        }
-      ]
-    },
-    {
-      "insight_statement": "Patients face significant, systemic barriers to accessing consistent and affordable healthcare, driven by factors like high-deductible plans for low-income individuals, provider shortages due to low reimbursement rates, and insurance plan changes that disrupt established patient-provider relationships. These issues create a fragmented and frustrating care experience, particularly for those managing chronic conditions or life-stage transitions like menopause.",
-      "quotes": [
-        {
-          "quote": "you'd put somebody in a high deductible healthcare plan. Who's making $40,000 a year who basically can't seek care and didn't have salary to defer. And so some of these things just felt so broken.",
-          "speaker_role": "advocate",
-          "episode_id": "UTS_S4_PODCAST_046.docx"
-        },
-        {
-          "quote": "if my employer changes a carrier every year and I have to change physicians, it's really hard for me to seek the right type of mental health care...maybe I've just gotten all my menopause on track and now I've gotta switch physicians.",
-          "speaker_role": "advocate",
-          "episode_id": "UTS_S4_PODCAST_046.docx"
-        }
-      ]
-    },
-    {
-      "insight_statement": "Clinicians, particularly those who are first-generation doctors, experience significant burnout and isolation during their medical training due to a lack of mentorship, financial resources, and formal education on self-care and success beyond clinical skills. This training gap creates a cycle of unwellness where providers struggle to care for themselves, let alone their patients.",
-      "quotes": [
-        {
-          "quote": "I think by the time I finished medical school, I was already burned out. Like life had been hitting me up inside, you know, I was already burned out. Uh, but no one had, no one told me what success looked like, right? I hadn't seen what success looked like... And if I had a mentor, maybe I would've learned some of those things. But unfortunately, there were no mentors.",
-          "speaker_role": "clinician",
-          "episode_id": "UTS_S4_PODCAST_001.docx"
-        },
-        {
-          "quote": "'cause you do learn in school. There are some practitioners who are very, you know, strictly psychoanalytic and we're a mirror and we don't show any emotion or whatever, but. You know, I feel like if you're on the ride with me, um, you know, for some people I am a sister, you know, I'm playing a role of a sister.",
-          "speaker_role": "clinician",
-          "episode_id": "UTS_S4_PODCAST_003.docx"
-        }
-      ]
-    },
-    {
-      "insight_statement": "When patients experience dismissal or a lack of answers from the healthcare system, they are compelled to take on the role of researcher and advocate for their own health. This often involves meticulously tracking symptoms, educating themselves on complex medical topics, and learning to persistently question providers and change doctors to overcome diagnostic delays and receive necessary care.",
-      "quotes": [
-        {
-          "quote": "After when you've been for three years and nobody's helping you. You need to do your own research. You need to advocate and learn and educate yourself.",
+          "quote": "and it's exhausting and you're already exhausted and you're already traumatized trying to figure out like you're a cancer diagnosis and to ex. Just the curve that you have to get educated and make decisions is steep and it's, it feels like a very impossible climb when it's overwhelming information.",
           "speaker_role": "patient",
-          "episode_id": "UTS_S4_PODCAST_028.docx"
+          "episode_id": "BH_001.docx"
         },
         {
-          "quote": "so many of the women that I work with, that I know that I interviewed, they have been dismissed by their healthcare providers. Oh, you're just postpartum. What kind of answer is that",
-          "speaker_role": "clinician",
-          "episode_id": "UTS_S4_PODCAST_027.docx"
+          "quote": "in the beginning of my journey, I was not told about IVF or fertility preservation. Um, so I didn't find out about that until my sixth, until I was in my sixth round. Yeah, and I text my nurse navigator and I literally only found out because of Instagram",
+          "speaker_role": "patient",
+          "episode_id": "BH_007.docx"
         }
       ]
     },
     {
-      "insight_statement": "Clinicians find that integrating their personal lived experiences, such as being a parent or managing their own anxiety, into their practice deepens their empathy and builds stronger, more trusting relationships with patients. This contrasts with traditional training that often encourages emotional distance, highlighting that personal vulnerability can be a clinical asset.",
+      "insight_statement": "Patients face the overwhelming burden of 'financial toxicity,' where the high cost of healthcare, medication co-pays, and the inability to work during treatment create a secondary crisis of financial stress and instability on top of their health battle.",
       "quotes": [
         {
-          "quote": "But being a parent and helping parents, it is a whole different experience. It is so nice that I could say to them, you know, I, I, I get it, and I, I'm telling you to do something and sometimes I forget to do it. So it's, it's, you know, I've been there. I know, I understand. It's hard.",
-          "speaker_role": "clinician",
-          "episode_id": "UTS_S4_PODCAST_002.docx"
+          "quote": "I don't work because of the pain, because of the treatment... But I have to pay for healthcare, which costs me. A good $14,000 a year. I have $2,000 copay for medication and I don't work. So, um, that is the hardest part to manage is getting people to understand like, where's this money gonna come from?",
+          "speaker_role": "patient",
+          "episode_id": "BH_014.docx"
         },
         {
-          "quote": "The people who are privileged enough and who go into that. Space to sort of help other people often to have the empathy and compassion you have to live through some of it.",
+          "quote": "he literally asked me if I had $20,000 in the bank and I said no... And he's like, then I don't know what you're doing sitting here because you can't afford this.",
+          "speaker_role": "patient",
+          "episode_id": "BH_013.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "In the face of systemic gaps and social isolation, patients actively build and rely on peer communities as a vital lifeline, finding a unique sense of validation, belonging, and practical healing that is missing from formal healthcare interactions.",
+      "quotes": [
+        {
+          "quote": "I did not realize the level of healing that I was still missing until I got involved in community and it's a different type of healing and it's so sacred and special.",
           "speaker_role": "host",
-          "episode_id": "UTS_S4_PODCAST_001.docx"
-        }
-      ]
-    },
-    {
-      "insight_statement": "In the face of both individual and collective trauma, actively building and leaning into a peer community is a primary protective factor, fostering a sense of belonging and shared strength that enables collective healing.",
-      "quotes": [
-        {
-          "quote": "collective trauma leads to collective healing. Which in a way I like that. I like that. I like that a lot. That's good. We look at each other here and we're all in it. And sometimes we forget, but most of the time when you slow down, you realize we're all in it together and we are gonna heal together. We got hurt together, we're gonna heal together.",
-          "speaker_role": "advocate",
-          "episode_id": "UTS_S4_PODCAST_016.docx"
+          "episode_id": "BH_002.docx"
         },
         {
-          "quote": "Lean into your community. Lean into your community. Lean into your community. You know, when this first started the case, many cultures, I went back to the elders, you know, my, my aunts and uncles. What am I supposed to do about this? What's supposed to happen? They've seen these types of things, right? They were in the sixties and they've seen these types of things, and everyone said, community, we rely on each other.",
-          "speaker_role": "clinician",
-          "episode_id": "UTS_S4_PODCAST_018.docx"
-        }
-      ]
-    },
-    {
-      "insight_statement": "Sharing personal stories and listening to the lived experiences of other women serves as a powerful antidote to isolation, providing the validation, connection, and sense of shared humanity needed to navigate health challenges and systemic failures.",
-      "quotes": [
-        {
-          "quote": "healing is more about being seen. So what you need is find a place that you know you can feel validated. Connect with other women. You know, listen to other women's stories and don't stay stuck",
+          "quote": "just having people who can sit in that space with you, they know what it feels like. They know how monumental this is. Um, like that has been second to none because you don't really have to explain yourself, you know?",
           "speaker_role": "patient",
-          "episode_id": "UTS_S4_PODCAST_042.docx"
-        },
-        {
-          "quote": "why are we, if, if half of our population is having this, why don't we ever talk about it? Why are we so isolated and why do we struggle in silence?",
-          "speaker_role": "patient",
-          "episode_id": "UTS_S4_PODCAST_040.docx"
+          "episode_id": "BH_020.docx"
         }
       ]
     },
     {
-      "insight_statement": "Women perceive a significant risk in disclosing health issues—particularly those related to menopause, fertility, or mental health—at work, fearing it could negatively impact their career advancement, leading to a culture of silence that prevents them from seeking necessary accommodations and support.",
+      "insight_statement": "Contrary to the celebratory image of 'ringing the bell,' the end of active treatment often initiates a prolonged and challenging emotional aftermath, where survivors grapple with persistent fear of recurrence, grief, and environmental triggers, long after physical treatment has ceased.",
       "quotes": [
         {
-          "quote": "I would say there's a majority of employers that are not safe spaces for them to know your healthcare outcomes. And if those leaders know you're seeking, you're currently accessing care for cancer. Maybe you're not up for promotion. If they know you're currently accessing in vitro services, they know you're planning for a baby.",
-          "speaker_role": "advocate",
-          "episode_id": "UTS_S4_PODCAST_046.docx"
+          "quote": "I think the first few years post active treatment were definitely the hardest for me, just because of that fear of recurrence... I was just scared, like every single sensation. I was worried about, and you know, it impacted my mental health, it impacted my relationships, it impacted, you know, everything. Like, it was all I could think about.",
+          "speaker_role": "patient",
+          "episode_id": "BH_008.docx"
         },
         {
-          "quote": "it's no coincidence, right? Because you get to an age where you're ready to advance in leadership and you're confronted with these transitional symptoms that menopause and, and other things can bring.",
-          "speaker_role": "advocate",
-          "episode_id": "UTS_S4_PODCAST_045.docx"
+          "quote": "I thought, oh, I'll be going back to how I would be feeling, you know, I'd be back to myself, but that was totally. Not it, I was a new self... there are things that still trigger, even though I'm gonna be, you know, this August will be seven years out, but still, it's still triggering.",
+          "speaker_role": "patient",
+          "episode_id": "BH_010.docx"
         }
       ]
     }
   ],
   "methodology": {
-    "episodes_analyzed": 45,
-    "moments_segmented": 179,
-    "confidence_threshold": "Medium and High confidence insights were included in this report."
+    "episodes_analyzed": 24,
+    "moments_segmented": 96,
+    "confidence_threshold": "This report exclusively features insights that have achieved a 'High' confidence level, indicating they are strongly supported by coherent evidence from a minimum of three distinct episodes."
+  },
+  "external_validation_summary": {
+    "overview": "The alignment between the promoted insights and the external research review is exceptionally strong. The vast majority of insights are either fully or partially supported by authoritative literature. The strongest corroborations are on the topics of the 'survivorship cliff' after treatment, significant information gaps forcing self-education, the protective role of peer communities, the prevalence of financial toxicity, and the persistent fear of recurrence. The most notable gaps are the lack of external evidence for 'breaking generational silences' and the nuance that provider dismissal of young women is more often framed as 'diagnostic delay' in literature. Overall, the insights accurately reflect major, well-documented themes in breast cancer survivorship.",
+    "supported_count": 18,
+    "partially_supported_count": 3,
+    "not_supported_count": 0,
+    "not_addressed_count": 1,
+    "novel_external_findings_count": 1
   },
   "participant_demographics": {
-    "total_participants": 45,
+    "total_participants": 24,
     "age": {
-      "min": 24,
-      "max": 65,
-      "mean": 43.1,
-      "median": 43
+      "min": 33,
+      "max": 63,
+      "mean": 42.5,
+      "median": 40.5
     },
     "age_brackets": [
       {
-        "bracket": "18-24",
-        "count": 1
-      },
-      {
         "bracket": "25-34",
-        "count": 6
+        "count": 2
       },
       {
         "bracket": "35-44",
-        "count": 22
+        "count": 13
       },
       {
         "bracket": "45-54",
-        "count": 9
+        "count": 8
       },
       {
         "bracket": "55-64",
-        "count": 6
-      },
-      {
-        "bracket": "65+",
         "count": 1
       }
     ],
     "ethnicity_breakdown": [
       {
-        "group": "Caucasian",
-        "count": 19,
-        "pct": 42.2
-      },
-      {
         "group": "WOC",
+        "count": 16,
+        "pct": 66.7
+      },
+      {
+        "group": "Caucasian",
         "count": 8,
-        "pct": 17.8
-      },
-      {
-        "group": "Indian",
-        "count": 3,
-        "pct": 6.7
-      },
-      {
-        "group": "Mexican",
-        "count": 2,
-        "pct": 4.4
-      },
-      {
-        "group": "South Africa",
-        "count": 1,
-        "pct": 2.2
-      },
-      {
-        "group": "Canadian",
-        "count": 1,
-        "pct": 2.2
-      },
-      {
-        "group": "Japanese",
-        "count": 1,
-        "pct": 2.2
-      },
-      {
-        "group": "Carribean",
-        "count": 1,
-        "pct": 2.2
-      },
-      {
-        "group": "Israeli",
-        "count": 1,
-        "pct": 2.2
-      },
-      {
-        "group": "Afghani",
-        "count": 1,
-        "pct": 2.2
-      },
-      {
-        "group": "Filipino",
-        "count": 1,
-        "pct": 2.2
-      },
-      {
-        "group": "Latino",
-        "count": 1,
-        "pct": 2.2
-      },
-      {
-        "group": "Australian",
-        "count": 1,
-        "pct": 2.2
-      },
-      {
-        "group": "Trinidadian",
-        "count": 1,
-        "pct": 2.2
-      },
-      {
-        "group": "Pakistani",
-        "count": 1,
-        "pct": 2.2
-      },
-      {
-        "group": "Chinese",
-        "count": 1,
-        "pct": 2.2
-      },
-      {
-        "group": "Nigerian",
-        "count": 1,
-        "pct": 2.2
+        "pct": 33.3
       }
     ],
     "geographic_scope": {
-      "domestic_count": 33,
-      "international_count": 12,
+      "domestic_count": 21,
+      "international_count": 3,
       "regions": [
         {
-          "region": "PA",
+          "region": "CA",
           "count": 4
         },
         {
-          "region": "CT",
+          "region": "FL",
           "count": 3
-        },
-        {
-          "region": "CA",
-          "count": 3
-        },
-        {
-          "region": "MA",
-          "count": 3
-        },
-        {
-          "region": "Canada",
-          "count": 2
-        },
-        {
-          "region": "NY",
-          "count": 2
-        },
-        {
-          "region": "AZ",
-          "count": 2
-        },
-        {
-          "region": "NJ",
-          "count": 2
         },
         {
           "region": "New York",
           "count": 2
         },
         {
-          "region": "MO",
+          "region": "GA",
           "count": 2
         },
         {
-          "region": "Maryland",
+          "region": "WA",
           "count": 1
         },
         {
-          "region": "SC",
-          "count": 1
-        },
-        {
-          "region": "United Kingdom",
-          "count": 1
-        },
-        {
-          "region": "London",
-          "count": 1
-        },
-        {
-          "region": "New Jersey",
-          "count": 1
-        },
-        {
-          "region": "TX",
+          "region": "OHIO",
           "count": 1
         },
         {
@@ -432,55 +227,43 @@
           "count": 1
         },
         {
-          "region": "Israel",
+          "region": "NJ",
           "count": 1
         },
         {
-          "region": "Kingsway",
+          "region": "SC",
           "count": 1
         },
         {
-          "region": "MD",
+          "region": "HAWAII",
           "count": 1
         },
         {
-          "region": "GA",
+          "region": "MARYLAND",
           "count": 1
         },
         {
-          "region": "RHODE ISLAND",
+          "region": "PA",
           "count": 1
         },
         {
-          "region": "QLD",
+          "region": "TX",
           "count": 1
         },
         {
-          "region": "Wisconsin",
+          "region": "OK",
           "count": 1
         },
         {
-          "region": "Pakistan",
+          "region": "I didn’t include it in the form",
           "count": 1
         },
         {
-          "region": "FL",
+          "region": "Grand Rapids MI",
           "count": 1
         },
         {
-          "region": "Singapore",
-          "count": 1
-        },
-        {
-          "region": "Cross River State",
-          "count": 1
-        },
-        {
-          "region": "TEXAS",
-          "count": 1
-        },
-        {
-          "region": "Pawtucket RI",
+          "region": "NY",
           "count": 1
         }
       ]

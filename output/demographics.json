@@ -1,338 +1,170 @@
 [
   {
-    "filename": "UTS_S4_PODCAST_001",
-    "name": "Dr. Kimbery Gordon",
-    "age": 44,
-    "location": "Maryland",
-    "ethnicity": "WOC"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_002",
-    "name": "Dr. Cara Reeves",
-    "age": 50,
-    "location": "Greenville, SC",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_003",
-    "name": "Leslie Coplin",
-    "age": 59,
-    "location": "Stamford,CT",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_004",
-    "name": "Sarah Carvell",
-    "age": 35,
-    "location": "Swindon, United Kingdom",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_005",
-    "name": "Khanyi Tsabalala",
-    "age": 40,
-    "location": "London",
-    "ethnicity": "South Africa"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_006",
-    "name": "Ellyn Winters-Robinson",
-    "age": 59,
-    "location": "Ontario, Canada",
-    "ethnicity": "Canadian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_007",
-    "name": "Dr. Priyanka Upadhyaya",
-    "age": 45,
-    "location": "New Jersey",
-    "ethnicity": "Indian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_008",
-    "name": "Lucy Coplin",
-    "age": 29,
-    "location": "Jackson Heights, NY",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_009",
-    "name": "Sidnee Peck",
-    "age": 42,
-    "location": "Phoeniz, AZ",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_010",
-    "name": "Tracy Otsuka",
-    "age": 37,
-    "location": "Penngrove, CA",
-    "ethnicity": "Japanese"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_011",
-    "name": "Monique Cupid",
+    "filename": "BH_001",
+    "name": "Lisa Malia Norman",
     "age": 54,
-    "location": "Montclair, NJ",
-    "ethnicity": "Carribean"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_012",
-    "name": "Shubra Sharma",
-    "age": 43,
-    "location": "Austin, TX",
-    "ethnicity": "Indian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_013",
-    "name": "Dr. Mitzi Krockover",
-    "age": 65,
-    "location": "Scottsdale, AZ",
+    "location": "Seattle, WA",
     "ethnicity": "Caucasian"
   },
   {
-    "filename": "UTS_S4_PODCAST_014",
-    "name": "Sabrina Sarro",
-    "age": 30,
-    "location": "Glen Oaks, NY,",
-    "ethnicity": "WOC"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_015",
-    "name": "Meredith Gold",
-    "age": 49,
-    "location": "Greenwich, CT",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_016",
-    "name": "Gila Tolub",
+    "filename": "BH_002",
+    "name": "Asha Miller",
     "age": 42,
-    "location": "Israel",
-    "ethnicity": "Israeli"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_017",
-    "name": "Meral Alizada",
-    "age": 27,
-    "location": "Kingsway",
-    "ethnicity": "Afghani"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_018",
-    "name": "Dr. Tracee Burroughs-Gardner",
-    "age": 46,
-    "location": "Upper Marlboro, MD",
+    "location": "Columbus, Ohio",
     "ethnicity": "WOC"
   },
   {
-    "filename": "UTS_S4_PODCAST_019",
-    "name": "Dr. Andrea Braden",
-    "age": 44,
-    "location": "Decatur, GA",
-    "ethnicity": "Filipino"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_020",
-    "name": "Dr. Nicole Christian-Brathwaite, MD",
-    "age": 44,
-    "location": "MA",
+    "filename": "BH_003",
+    "name": "Jasmine Dionne",
+    "age": 35,
+    "location": "Jacksonville, FL",
     "ethnicity": "WOC"
   },
   {
-    "filename": "UTS_S4_PODCAST_021",
-    "name": "Katie Isaacs",
-    "age": 55,
-    "location": "New York",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_022",
-    "name": "Dr, Z Colette Edwards",
-    "age": 51,
-    "location": "New Jersey",
-    "ethnicity": "WOC"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_023",
-    "name": "Denielle Finklestein",
-    "age": 42,
-    "location": "Providence, Rhode Island",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_024",
-    "name": "Kelly Capponi",
-    "age": 41,
-    "location": "Glenside, PA",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_025",
-    "name": "XTine",
-    "age": 25,
-    "location": "Devon, PA",
-    "ethnicity": "Latino"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_026",
-    "name": "Teyonna Bowman",
-    "age": 43,
-    "location": "Dublin, CA",
-    "ethnicity": "WOC"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_027",
-    "name": "Lauren Tetenbaum",
-    "age": 40,
-    "location": "Scarsdale, NY",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_028",
-    "name": "Maria Lence",
+    "filename": "BH_004",
+    "name": "Shirin Aryanpour",
     "age": 52,
-    "location": "San Francisco, CA",
-    "ethnicity": "Mexican"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_029",
-    "name": "Demi Jenkins",
-    "age": 32,
-    "location": "Brisbane, QLD",
-    "ethnicity": "Australian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_030",
-    "name": "Shelina Ramnarine",
-    "age": 37,
-    "location": "Philadelphia, PA",
-    "ethnicity": "Trinidadian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_031",
-    "name": "Jeanne Blasberg",
-    "age": 61,
-    "location": "Wisconsin",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_032",
-    "name": "Dr. Anila Khan",
-    "age": 35,
-    "location": "Pakistan",
-    "ethnicity": "Pakistani"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_033",
-    "name": "Dayna Dorsey",
-    "age": 36,
-    "location": "Tampa, FL",
+    "location": "Mill Valley, CA",
     "ethnicity": "WOC"
   },
   {
-    "filename": "UTS_S4_PODCAST_034",
-    "name": "Dani Reardon",
-    "age": 35,
-    "location": "Marstons Mills, MA",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_035",
-    "name": "Larissa Mils",
-    "age": 28,
-    "location": "Canada",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_036",
-    "name": "Stephanie Vincent",
-    "age": 45,
-    "location": "King of Prussia, PA",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_037",
-    "name": "Dr. Eboni January",
-    "age": 44,
-    "location": "Creve Coeur, MO",
-    "ethnicity": "WOC"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_038",
-    "name": "Mayra Hurtado",
-    "age": 43,
-    "location": "Singapore",
-    "ethnicity": "Mexican"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_039",
-    "name": "Jackie Gianelli",
-    "age": 45,
-    "location": "Ridgefield, CT",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_040",
-    "name": "Smitha Gudapakkam",
-    "age": 44,
-    "location": "Shrewsbury, MA",
-    "ethnicity": "Indian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_041",
-    "name": "Ej Kim",
-    "age": 35,
-    "location": "New York",
-    "ethnicity": "Chinese"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_042",
-    "name": "Muiji Beckomson",
-    "age": 24,
-    "location": "Calabar, Cross River State",
-    "ethnicity": "Nigerian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_043",
-    "name": "Dominique Debroux",
-    "age": 60,
-    "location": "Cliffside Park, NJ",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_044",
-    "name": "Dr. Michelle Rankine",
-    "age": 42,
-    "location": "Corinth, Texas",
-    "ethnicity": "WOC"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_045",
-    "name": "Senator Lori Urso",
-    "age": 61,
-    "location": "Pawtucket RI",
-    "ethnicity": "Caucasian"
-  },
-  {
-    "filename": "UTS_S4_PODCAST_046",
-    "name": "Brandy Thompson",
+    "filename": "BH_005",
+    "name": "Jess Isomoto",
     "age": 49,
-    "location": "Kansas City, MO",
+    "location": "Rosemead, CA",
+    "ethnicity": "WOC"
+  },
+  {
+    "filename": "BH_006",
+    "name": "Jovonsia Guidry",
+    "age": 39,
+    "location": "Yorkville, IL,",
+    "ethnicity": "WOC"
+  },
+  {
+    "filename": "BH_007",
+    "name": "Jeanelle Adams",
+    "age": 37,
+    "location": "Newark, NJ",
+    "ethnicity": "WOC"
+  },
+  {
+    "filename": "BH_008",
+    "name": "Allie Brumel",
+    "age": 37,
+    "location": "Bluffton, SC",
     "ethnicity": "Caucasian"
   },
   {
-    "filename": "UTS_S4_PODCAST_047",
-    "name": "Jen Brown",
-    "age": 53,
-    "location": "NYC",
+    "filename": "BH_009",
+    "name": "Athena Jones",
+    "age": 49,
+    "location": "New York",
+    "ethnicity": "WOC"
+  },
+  {
+    "filename": "BH_010",
+    "name": "Sandra Curitore",
+    "age": 46,
+    "location": "Los Angeles, CA",
+    "ethnicity": "WOC"
+  },
+  {
+    "filename": "BH_011",
+    "name": "Anj Oto",
+    "age": 37,
+    "location": "Honolulu, Hawaii",
+    "ethnicity": "WOC"
+  },
+  {
+    "filename": "BH_012",
+    "name": "Kristin Bublitz",
+    "age": 37,
+    "location": "Tampa, FL",
     "ethnicity": "Caucasian"
   },
   {
-    "filename": "UTS_S4_PODCAST_048",
-    "name": "Wendy Battles",
-    "age": 60,
-    "location": "Woodbridge, CT",
+    "filename": "BH_013",
+    "name": "Jessenia Cisneros",
+    "age": 34,
+    "location": "Ocoee,FL",
+    "ethnicity": "Caucasian"
+  },
+  {
+    "filename": "BH_014",
+    "name": "Tameka Johnson",
+    "age": 44,
+    "location": "Laurel, Maryland",
+    "ethnicity": "WOC"
+  },
+  {
+    "filename": "BH_015",
+    "name": "Silvia Garcia",
+    "age": 37,
+    "location": "Mableton, GA",
+    "ethnicity": "WOC"
+  },
+  {
+    "filename": "BH_016",
+    "name": "Eshaana Sheth",
+    "age": 33,
+    "location": "Pasadena, CA",
+    "ethnicity": "WOC"
+  },
+  {
+    "filename": "BH_017",
+    "name": "Nancie Steinberg",
+    "age": 63,
+    "location": "New York",
+    "ethnicity": "Caucasian"
+  },
+  {
+    "filename": "BH_018",
+    "name": "Julie Parana",
+    "age": 45,
+    "location": "Philadelphia, PA",
+    "ethnicity": "Caucasian"
+  },
+  {
+    "filename": "BH_019",
+    "name": "Dr. Jaclyn Piasta",
+    "age": 39,
+    "location": "Marietta, GA",
+    "ethnicity": "Caucasian"
+  },
+  {
+    "filename": "BH_020",
+    "name": "Dr. Cynthia Johnson",
+    "age": 47,
+    "location": "Houston, TX",
+    "ethnicity": "WOC"
+  },
+  {
+    "filename": "BH_021",
+    "name": "Aisha Patterson",
+    "age": 35,
+    "location": "Beggs, OK",
+    "ethnicity": "WOC"
+  },
+  {
+    "filename": "BH_022",
+    "name": "Amanda Butler",
+    "age": 38,
+    "location": "I didn’t include it in the form",
+    "ethnicity": "WOC"
+  },
+  {
+    "filename": "BH_023",
+    "name": "Jen Delvaux",
+    "age": 42,
+    "location": "Grand Rapids MI",
+    "ethnicity": "Caucasian"
+  },
+  {
+    "filename": "BH_024",
+    "name": "Michelle Hobgood",
+    "age": 48,
+    "location": "Brooklyn, NY",
     "ethnicity": "WOC"
   }
 ]

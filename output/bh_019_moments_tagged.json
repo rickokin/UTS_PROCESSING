@@ -1,0 +1,1197 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Jacqueline PSA",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:01:11",
+    "timestamp_end": "0:03:08",
+    "paragraph_ids": [
+      "p4",
+      "p5",
+      "p6"
+    ],
+    "moment_text": "So I was always drawn to women's health. My mom actually works in the fertility space and I kind of was always like a little duckling right on her heels. It was, you know, I remember being in the fertility labs, you know, as a young kid throwing the scrubs on. They were way too big for me. And, uh, so I always wanted to be in women's health. And then, you know, I, I went to school to be a women's health nurse practitioner. I really liked the relationships that you were able to form with women over this man of their life. And then when it comes to menopause, you know, honestly I really just fell into that. I, I say I was sort of destined to be a women's health just from, you know, nepotism. But, uh, I sort of fell into the menopause space and it came on the heels of me going through a very difficult hormonal time in my postpartum journey of coming off a very challenging pregnancy. Having taken a, having taken a year off from work, moved to a new city. And so there was some identity crises going on in my life on top of a lot of the hormonal upheaval that was happening. And I really wanted to get back into the career space, um, and to see if I could kind of get, get some of that back. And, uh, an opportunity to came up to work with a gynecologist who had left obstetrical practice and had been working primarily in the women's midlife space for several years. And, you know, honestly I thought it was, is kind of silly. I, I, you know, it's just not something a lot of people, I think we hear a lot about it now. We really don't receive hardly any education in midlife care. I know we can beat that dead horse, but it just doesn't happen. And so the thought of working within a women's health clinic and only seeing women in mid-life was so foreign to me. Um, but I actually, I was really excited. It gave me a lot of flexibility. I only had to work, you know, one to two days a week, so I could still, my husband had a very demanding job where he traveled a lot, and so it gave me balance and I sort of just jumped in head first. I really liked the physician, uh, that was hiring for the job. And really the rest is history. I, I say once, don't you start taking care of midlife and menopausal patients. It's very addictive because you get a lot of wins and you don't always get a lot of wins in a lot of areas of medicine. Uh, and you get to see that immediate, that immediate gratification of. Help. Right. Um, so that's a, that's a long-winded answer, but it's kind of a, there's a storyline to it.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Menopause & Midlife Health",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with barrier signals (education_gap, training_gap) related to a system interaction (medical_training), highlighting a systemic knowledge gap.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Jacqueline PSA",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:03:21",
+    "timestamp_end": "0:04:48",
+    "paragraph_ids": [
+      "p8",
+      "p9"
+    ],
+    "moment_text": "So I see many women who are either in the throes of their treatment, well, let me back up in the throes of their diagnoses. So maybe we've been seeing them and been treating them for. Some sort of menopause or perimenopausal concern or reproductive, you know, hormonal concern for our young, our young, um, survivors, and they're in the throes of their diagnosis. I saw a patient last week, actually, she was 44. 43, and we had been talking about her premature menopause onset and we were treating her with hormones and she was feeling miserable, uh, because she had her diagnosis of breast cancer and she had to come off of all of her hormones and she was just absolutely thrown into the depths of her symptoms. She had already been having symptoms. We were somewhat adequately treating them with hormone therapy and then the breast cancer diagnosis. So I see a lot of people in the throes sort of having the rug ripped out from under them and not really knowing where to go because they don't wanna compromise their treatments when it's. When we're looking at the cancer diagnosis, but at the same time, they don't know how they're gonna get through, you know, the next 30, 60, 90 days and beyond because they're so miserable. And then on the flip side, we see patients who are past their diagnosis and they're beyond that. They've been discharged, they've been graduated from their oncology team and not necessarily kicked out the door, but in, in so many a manner of speaking, you know, it's like we're kind of finished here other than, you know, the, the, um, maintenance, uh, and the, and the, and the follow up. And so they don't know what to do in, in the after like what active treatment's over, uh, and now they feel a certain way their quality of life is being impaired in other domains and there's not a lot of support and information for what now? There's a lot of like, what I shouldn't be doing. Not a lot of information for what can I do and how do I navigate this next phase?",
+    "moment_type": "system_observation",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "confusion",
+      "hopelessness"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "lack_of_information",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong barrier signals (fragmented_care, lack_of_information) within a healthcare_provider system interaction, identifying a critical gap in care.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Jacqueline PSA",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:05:18",
+    "timestamp_end": "0:05:51",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "Certainly. I think the diagnoses are happening sooner. Our technology and our screening procedures are getting. So good that we are now diagnosing these cancers so much younger than we ever did, and I think women are, you know, we've always been aware of it. Breast cancer has sort of always been this looming and we're very afraid of it as women 'cause it just hits very close to home. But yes, I mean, we're seeing earlier and earlier diagnoses whether this is because cancer is occurring earlier or we're just getting better at catching it. I think it's more of the latter.",
+    "moment_type": "education",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer Diagnosis",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "Fails evidence gate A2. The moment is educational but lacks explicit barrier, agency, or strong emotional signals tied to a system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Jacqueline PSA",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:05:51",
+    "timestamp_end": "0:07:49",
+    "paragraph_ids": [
+      "p13",
+      "p14",
+      "p15"
+    ],
+    "moment_text": "But regardless now we have women that are left in a very critical stage in their life. You know, this midlife, thirties, forties, and fifties is a very challenging time. Not to say that other times aren't challenging, but oftentimes women in these decades, they're battling. Sandwich generation, aging parents, young children, job, uh, career escalations where there's more demands from them. From a professional standpoint. Marriages often, if you've been married 10, 15 years, anyone who's been married that long knows that it oftentimes becomes more of a roommate than a, you know, a romantic relationship at certain ebbs and flows. And that can put strain and, um, and then fertility, right? Maybe we're in our thirties and forties and we haven't had a family yet, or we want a family, or we wanna continue. And so when you have a diagnosis like cancer, it puts all of these things into, uh, a magnifying jo, you know, a magnifying glass very quickly to say, I have to make a lot of decisions very quickly, but I already have so many elements of my life that feel so constrained that it's very challenging. You know, there's a, there's a statue, uh, or a, um. Sculpture, uh, going around the internet, a picture of it going around the internet of a woman and she's carrying, um, it's like an iron statue and she's got kids hanging on her and she's got a laundry basket on top and she's got groceries and she's got bills. And it, it's, it's very, um, it's such great imagery for how much women, the mental load that women carry around every single day. And then to think about adding a life-threatening diagnosis to that, a cancer diagnosis, uh, is just sometimes it is literally the straw that will break the camel's back. And so much of that focus goes to okay, funneling everything into that. And I think that we need to provide space for women to be able to take a deep breath, acknowledge all of these coexisting factors in their life, and somehow build a support model that is sensitive to all of these things. And. We're certainly not there. Um, you know, there are some, some cancer centers, some medical facilities have, you know, better, uh, systems in place to take care of or to, to at least address all of these factors. Uh, but I think it's okay for women listening to this to be, to feel overwhelmed and to say, I need a deep breath. I need to take a deep breath and, and assess everything because oftentimes there is just a lot coexisting at one time.",
+    "moment_type": "system_observation",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health & Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong emotional signals (overwhelm) and barrier signals (lack_of_support) within a healthcare system interaction, detailing the psychosocial burden on patients.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Clinician_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:07.890",
+    "timestamp_end": "00:00:40.890",
+    "paragraph_ids": [
+      "p2",
+      "p3"
+    ],
+    "moment_text": "So with natural menopause, your body has that long runway typically to adjust to the hormone changes over time. And there's a variability, a significant variability and severity of symptoms, onset of symptoms and duration of symptoms with natural menopause. But with induced menopause medically, chemically surgically, it is literally like falling off of a cliff. It is an immediate abrupt. Cessation of any hormone production within your body. And that not only has immediate symptom impacts and immediate quality of life impacts, but it directly affects the trajectory of your long-term health as well. From a brain standpoint, a bone standpoint, a cardiovascular standpoint, I mean, those are the big heavy hitters.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Menopause",
+    "system_interaction": "medical_training",
+    "emotional_signals": [],
+    "agency_signals": [],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with barrier signals. This moment highlights a significant knowledge gap among both patients and clinicians regarding the severity and immediacy of induced menopause symptoms, which is a pattern.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Clinician_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:42.890",
+    "timestamp_end": "00:01:18.890",
+    "paragraph_ids": [
+      "p4",
+      "p5"
+    ],
+    "moment_text": "But then, you know, we also have symptoms that impair your quality of life and your function. We say, oh, what is the cheapest, best drug for longevity? Well, it's exercise, right? But if I just put into surgically or chemically induced menopause and I have no hormones, which greatly influence my ske musculoskeletal system, and I wake up and I'm 36 years old and waking up every morning feeling like I'm 90 and I haven't done anything for the last, you know, however many years. How easy is it gonna be for me to be able to go out and just take a walk around the block, let alone go to an orange theory class or, you know, whatever fitness routine is your cup of tea. And so I think we, we oftentimes, as healthcare professionals, can throw these recommendations at women to say, this is what you should be doing, or this is what you have to be doing. Or, but we have to understand who we're making those recommendations for. Um, and a lot of times clinicians miss that context.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Menopause",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "symptoms_normalized_without_context",
+      "lack_of_validation",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with multiple barrier signals and an emotional signal within a healthcare provider interaction. It describes a systemic pattern of clinicians providing advice without understanding the patient's context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Clinician_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:01:18.890",
+    "timestamp_end": "00:02:12.890",
+    "paragraph_ids": [
+      "p6",
+      "p7",
+      "p8"
+    ],
+    "moment_text": "They, I see this happen and, and not to continue to just mutter on, but I do see this happen a lot with sexual health in this space is they'll say, well, is sex really that important? Or do you need it that much? Or, you are not gonna die if you don't have sex. You know, just these flippant comments that really are oftentimes made in jest. They're not meant to be malignant. They're not meant, you know. This is another thing. It's like most people in medicine go into medicine or nursing to take care of people, but sometimes the way that the system is built, it, it's not, uh, the empathy is not always, um, there. And, and we see it and we hear it every day. And it's like, well, yes, sex is a very important part of my life and my quality of life and my relationships and how I show up in my world. It may not be to you, but it is to me. And so a lot of people don't understand that. They sort of put their own clinicians, put their own biases on their patients in terms of what they should deem is important when faced with a cancer diagnosis.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Sexual Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "anger"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "lack_of_validation",
+      "stigma",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong barrier signals and emotional signals in a healthcare provider context. It details a specific and impactful pattern of provider dismissal regarding sexual health.",
+    "risk_flags": [
+      "sexual_health"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Host_1",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:14.890",
+    "timestamp_end": "00:02:42.890",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "It, it does resonate that there's no intention of, of doing harm, but sometimes. The, the symptoms that get minimized can really, you know, be important, you know, to me and really touch it at my own, you know, hearts, strings. And when they are minimized, then it kind of creates this emotional loop for me where it's like, okay, well maybe I shouldn't place such a high value on, you know, sexual health and, and reconnecting with my husband. Maybe I need to just focus on preventing recurrence and, you know, just changing my lifestyle. And, and that's, that opens a whole other like, mental health element, um, to it.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "self_doubt",
+      "anxiety",
+      "sadness"
+    ],
+    "agency_signals": [
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with clear barrier, agency, and emotional signals. This is a powerful first-person account of the psychological harm caused by provider dismissal, making it highly eligible for insight generation.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "sexual_health"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Clinician_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:03:05.890",
+    "timestamp_end": "00:03:50.890",
+    "paragraph_ids": [
+      "p14",
+      "p15",
+      "p16"
+    ],
+    "moment_text": "So. I think that, that we, we all can kind of recognize the obvious, right? Anytime you're faced with a diagnosis, there's a lot of anxiety associated with it, mainly just from the unknown or what's to come. A lot of uncertainty. Uh, sometimes we do see depression. If somebody's has coex, preexisting depression, that can get worse. Same with anxiety. And then along those, those lines too can come insomnia from the anxiety. So we see that too. And I think that sometimes it can even be, uh, more tragic than that as well. We can see grief happening, uh, what, and guilt, uh, what did I do wrong? What did I do to cause this? What if I had done something differently? Uh, and, and second, guessing yourself and your own reality and, and loss of trust in your own body is really hard, uh, not feeling safe. In your own body is something I think that a lot of people can't always put words to. And it's just kind of a general feeling.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "anxiety",
+      "grief",
+      "fear",
+      "self_doubt",
+      "sadness"
+    ],
+    "agency_signals": [
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with multiple emotional and agency signals. It describes a common emotional pattern (grief, guilt, loss of trust in body) that is often hard for patients to articulate, representing a knowledge gap.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Clinician_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:03:50.890",
+    "timestamp_end": "00:04:40.890",
+    "paragraph_ids": [
+      "p17",
+      "p18"
+    ],
+    "moment_text": "But oftentimes, like you said, that statue of, you know, symbolizing all the things that women, all the roles and the hats that women have in their day to day, like actually my patient of mine that I talked about earlier, she had decided not to tell her children about her diagnosis. And I think that maybe this is something that a lot of women struggle with in terms of how to spread the news about their diagnosis or whether or not to do it. And, and what she said to me is I just didn't want them to see me differently. And she's like, I wanted to keep everything together for them, but even in our virtual call, I could see just how much that was taking out of her to wake up every day feeling miserable and trying to show up in her space, like as if nothing had happened and nothing was happening to her. And regardless. So there's that, that space of things. And then there's the flip side of the coin where you maybe actually tell your, your support group and then sort of feeling like always showing up in spaces where people feel bad for you and you don't. That can be really challenging and difficult emotionally as well, because you don't wanna be treated like damaged goods. You're still, you're still here, you're still, you know, uh, your worth and your value is, is still, if not more, um, more so.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "frustration",
+      "sadness"
+    ],
+    "agency_signals": [
+      "silence",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "stigma",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with barrier, agency, and emotional signals within a peer/community interaction context. It highlights the complex social-emotional burden of managing a diagnosis, whether through silence or facing pity.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Clinician_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:04:40.890",
+    "timestamp_end": "00:05:12.890",
+    "paragraph_ids": [
+      "p19"
+    ],
+    "moment_text": "It's so complex. And I know Jana like you as somebody that's lived through this, like there is not one emotion, there is not one thing. We just have to recognize that this is a very challenging, complex space. And if somebody comes into it with, with preexisting conditions, we need to honor that as clinicians and be aware of that and, and be there for our patients. And then if you're not to, to be open about what this could look like and what are the varying degrees of emotions that one might experience during this time, and that's okay. And it, there's no right or wrong way to feel either, right? So anyways, I, I know, uh, it, it, but it, it's one of the most challenging things I think about, about the reality of, of a diagnosis.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "validation",
+      "hope"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with agency and barrier signals. This moment is a direct call to action for clinicians to provide validation and honor the emotional complexity of a diagnosis, making it a strong candidate for a protective factor insight.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Clinician_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:05:18.890",
+    "timestamp_end": "00:06:24.890",
+    "paragraph_ids": [
+      "p21",
+      "p22",
+      "p23"
+    ],
+    "moment_text": "Hmm. Oh, wow. So, as a mom and as a, a woman that has struggled with my own health diagnoses unrelated to cancer, but different health di, I mean, the, the easiest parallel for me is just my, I had co two very complicated pregnancies that put me on bed rest. Um, and, uh, that I think that it's, it's the little things, right, that sometimes. Even though doctors and nurse practitioners and PAs are humans, you know, we're so busy in our day and we can tend to be so clinical about things that it's the little things, the impact of how important they are. Like, I'm so tired I can't get out of bed today to pick my kids up from school. Or my joints hurt so much that I can't go out in the driveway and play basketball with my son. Or, you know, we can even take it away from the context of motherhood. And I have so much brain fog that I can't show up in the boardroom and hold my meetings and form a clear train of thought to my colleagues. So now I might not be taken seriously by my coworkers and maybe I might not get promoted. Or those sorts of things. And I think that we can look at, oh, your bones might, you know, you might have a long-term bone, you know, bone loss, or you might have a heart attack, uh, higher chance of having a heart attack. But those things are so far down the line that yes, they're important, but oftentimes the here and now is so much more important that those are the things that are clinically challenging, um, to reconcile. And how do you reconcile that with the necessary treatments that do impair all of those areas? I don't know that we, we certainly don't have a good answer. This, this area of medicine is so new. Doesn't seem like it's new, but it is so new, the sheer percentage and number of young women facing this diagnosis.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Quality of Life",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "overwhelm",
+      "hopelessness"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "provider_dismissal",
+      "symptoms_normalized_without_context",
+      "training_gap",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong barrier and emotional signals in a healthcare provider context. It critiques the medical system's failure to recognize and address the immediate, daily quality-of-life impacts of treatment, which is a significant systemic pattern.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M016",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:10:00.000",
+    "timestamp_end": "0:11:11.000",
+    "paragraph_ids": [
+      "p31",
+      "p32",
+      "p33",
+      "p34"
+    ],
+    "moment_text": "You know, uh, such an interesting, uh, question and I think that something that I see in the survivorship community is women coming in with this. Fabricated hierarchy of importance in terms of their health. Often a lot of it placed on them from their oncology team because, and, and I get it, it's easy to wear blinders. Oncology is focused primarily on recurrence, risk of recurrence, right. Treatment, the here and now, the acute treatment and best chances of survival, best outcomes as they should. And I think a lot of women are ready to kind of get their battle es and get their armor on when they're faced with a diagnosis. So much, so many women are, and I'm of course generalizing, but we're ready to suit up and, and go right all hand, like we got this, um, you know, project minded. We can, we can take this on. But what happens oftentimes and, and where I oftentimes pick up the pieces is in that after. After quote unquote part where treatment is concluded, survivorship begins. And women come to me asking for solutions with this sort of, like I said, this preconceived fabricated hierarchy of what is the most important in terms of their health and sort of this risk of recurrence being the hallmark long-term health implications, and then these more seemingly frivolous quality of life markers.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Cancer Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "resignation"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it describes a systemic pattern where the healthcare system's focus on recurrence risk creates a hierarchy that de-prioritizes quality of life, which is a significant barrier signal.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M017",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:11:11.000",
+    "timestamp_end": "0:11:51.000",
+    "paragraph_ids": [
+      "p35",
+      "p36"
+    ],
+    "moment_text": "Right? And that's where, you know, finally we're starting to make headway on the vaginal estrogen conversation when it comes to genital urinary. Syndrome and, uh, vaginal dryness and impacts on sexual function and sexual health and, and ur urologic health and women are being offered more and more, it's not universal by any stretch, but vaginal estrogen because we have data showing that it doesn't impair risk of recurrence and it doesn't affect long-term survivorship. And for so long that conversation was, well just use lube. Just have a glass of wine, just, just deep breathe through it. Or like we said earlier, don't have sex. It's not that big of a deal. Or there's other ways to be intimate with your partner. Um. And that's why is that, why is it a pyramid instead of a, of a, of a spec, like of a, of a line, like a spectrum or a trajectory, right?",
+    "moment_type": "barrier_encounter",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Sexual Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "validation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "provider_dismissal",
+      "symptoms_normalized_without_context",
+      "lack_of_validation",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it provides a clear, explicit example of provider dismissal and the normalization of significant quality-of-life symptoms, which are strong barrier signals.",
+    "risk_flags": [
+      "sexual_health"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M018",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:11:51.000",
+    "timestamp_end": "0:13:30.000",
+    "paragraph_ids": [
+      "p37",
+      "p38",
+      "p39"
+    ],
+    "moment_text": "And so that's oftentimes what's very challenging to work through clinical options for how to manage menopause symptoms, perimenopause symptoms, postmenopausal, um, uh, health concerns like bones. And, and that because we have this sort of, this looming, um, fear of the risk of recurrence. And, and I'm not trying to be flippant and say that's not important because it's certainly important. Um. But I do think oftentimes, uh, survivors don't get an honest conversation with their clinicians about, okay, what is the therapy? Is it, am I going to entertain the idea of utilizing hormone therapy or non-hormonal therapy? But what if I do go that direction? And, and there are some guidance that British Medical Society has pretty decent guidance about shared decision making and risk stratification, um, less so in the American or the, um, menopause society here. And although they do have some language to speak to it, um, but what does that look like? And it, it has to be a very refined conversation. And a lot of times we don't have the spaces for that. And let me elaborate on that. Uh, a patient will come to me as a gyno, as the gynecology provider and the menopause expert and say, okay, I'm x, y, z amount of years outside of my diagnosis. I wanna use vaginal estrogen. I wanna use, um. I wanna use hormone therapy in, in whatever context that is. And I'm like, great, that's awesome. But we have multiple cooks in the kitchen here. We need to consult with your oncologist, because I don't wanna be perceived as somebody that's sort of doing something behind closed doors, but at the same time, they're, I important part of your care team. And then we'll say, okay, great. Well I have got a follow up with my oncologist in six weeks or whatever. I'm gonna go visit with them. Well, in all fairness, the oncologist is not expecting that conversation and that is not a comfortable conversation for the best oncologist, even on a good day. And I, I'm not trying to, I'm not placing blame, I'm not, you know, shifting anything. I'm just talking about the realities of what exists within our health system.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Cancer Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "system_navigation_difficulty",
+      "training_gap",
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it clearly describes multiple systemic barriers, including fragmented care between specialists and the difficulty patients face navigating the system to get holistic care.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M019",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:13:30.000",
+    "timestamp_end": "0:14:10.000",
+    "paragraph_ids": [
+      "p39",
+      "p40",
+      "p41"
+    ],
+    "moment_text": "Just like if you were a woman coming in for your annual wellness exam, right, for your pap smear. To your gynecologist, which studies have shown that the vast majority of gynecologists are uncomfortable talking about menopause. And you come in for your pap smear, your gynecologist has 30 patients in their day, and you're like, Hey, I wanna talk all about my menopause symptoms. Most of the time that is going to be met with not the answer and not the recommendations that you want. So I always am telling my patients, schedule a separate visit or let's, let's get you in virtually. So a lot of times I do this with my breast cancer patients, I will say, or survivors. I'll say, listen, I'm happy to treat you. I am happy to talk through all the options. Let's sit down and actually run through these risk calculators that look at what is your risk if we do this or if we don't do this. Or maybe it's something as simple as lowering the dose of your, of your, um, aromatase inhibitor or your. Um, Tamoxifen or whatever that is, maybe that will impact your quality of life, not even addressing hormones. And then let's schedule a separate visit with your oncologist just to talk about this.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Cancer Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "seeking_care",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "time_constraint",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it outlines a clear behavioral pattern of self-advocacy and provides a tangible strategy for overcoming systemic barriers like time constraints and training gaps.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M020",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:14:10.000",
+    "timestamp_end": "0:15:11.000",
+    "paragraph_ids": [
+      "p41",
+      "p42",
+      "p43",
+      "p44"
+    ],
+    "moment_text": "And then you go in and you lay it out. You don't hold back. You write everything down on a piece of paper or something. I, I don't know about you Tiana, but. I get really emotional when I get mad about something, and so I start crying and then I think people take me less seriously because I'm crying. Um, it's just like the injustice of being a woman, right? We get LA tagged as emotional and then I get really mad that I'm crying and then it gets worse. And so, um, I, yeah, I tell my patients, write every single thing down. Put a number next to it on a scale of one to 10 so people can see how bad it is and write how long it's been going on and bring it in. And that is what your conversation is about. Your conversation's not about your regular routine. Follow up on your cancer follow up journey. It is specifically about that, and that forces in a way, your oncologist to sit down and consider just that, and then we can start making a plan.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Self-Advocacy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anger",
+      "frustration",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "tracking_symptoms"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it details a powerful self-advocacy strategy (agency signals) and connects it to overcoming the emotional pattern and barrier of being dismissed for showing emotion.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M021",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "speaker_2",
+    "speaker_role": "patient",
+    "timestamp_start": "0:15:14.000",
+    "timestamp_end": "0:15:51.000",
+    "paragraph_ids": [
+      "p46"
+    ],
+    "moment_text": "I think being strategic and, you know, pragmatic about it is what makes a big difference. And, um, I don't know if I mentioned this the last time that we spoke, but being in that weird position of, um, being the go-between, um, for my, you know, great gynecologist, my great oncologist, but being the one who has to kind of foster that conversation, um, as a patient. Is awkward, you know, it, it has, it's, it's gotten a lot better. But like the first couple of times I had to do that, like I almost felt like I was telling on one versus the other. And you know, I mean, it, it takes being very strategic about, okay, here are the questions that I have. This is what, you know, one of my care team providers help me with. What do you think? Can you help me here? Can we meet in the middle? It's like, yeah, you definitely have to come in with a plan.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Cancer Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "frustration",
+      "confusion"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as a direct lived experience of a systemic barrier (fragmented care) and the agency required from the patient to overcome it, meeting the evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is the host, but in this moment she is sharing her personal patient experience, so her role is tagged as 'patient'."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M022",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:15:55.000",
+    "timestamp_end": "0:16:38.000",
+    "paragraph_ids": [
+      "p48",
+      "p49"
+    ],
+    "moment_text": "Totally. I mean, the essence of shared decision making is looking at the risks and the benefits and sitting down as a team with your healthcare professionals and deciding. What treatments make the most sense for you as a person that address your goals, your fears, and your goals personally, your goals medically, uh, short term and long term, and just trying to find a happy medium between the available options that are out there for you. When we look at it from a survivorship standpoint, that usually involves really sitting down and putting numbers on a piece of paper because the elephant in the room is typically the risk is for, in that survivorship, uh, timeline is this is the risk of recurrence. I mean, that's what all on, that's what keeps all oncologists up at night is the risk of recurrence and sometimes it can seem very frivolous to weigh the risk of recurrence against.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Medical Decision Making",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "clarity",
+      "fear"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it defines a key concept (shared decision making) which is a protective factor, and explicitly names the core tension (fear of recurrence) that acts as a systemic barrier to quality-of-life discussions.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M019",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Aviva",
+    "speaker_role": "clinician",
+    "timestamp_start": "0:00",
+    "timestamp_end": "1:18",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5"
+    ],
+    "moment_text": "These symptoms, right? Quality of life. Like it's, again, it's that fabricated hierarchy that I'm talking about. Um. I have found it very, and, and a shout out to my very good friend and colleague, Dr. Corin Men, 'cause she's the one who taught me about this. But she said, you know, we actually need to be sitting down and putting numbers on a piece of paper. We do this with women before Previver. We sit down, we give them their tire Qs act numbers. We let them know, this is your risk. You have a BRCA mutation. You don't have a BRCA mutation, you have dense breast tissue. You don't, here is your ri your lifetime risk of developing breast cancer. Do we wanna do supplemental screening? Do we wanna do risk reduction surgery? How do we wanna go about this? But we have real numbers that women can sink their teeth into to make informed choices. The same thing should be happening on the flip side of the coin. And it doesn't happen. I, I, I cannot attest that it is happening in my space. Maybe it's happening in other spaces that I am not. Involved in, but my patients that come in, in, are in, are survivorship, um, setting. Do not have quantifiable data to look at what is your risk of recurrence? What is your risk of recurrence? If you do nothing, what is your risk of recurrence? If you stay on tamoxifen, tamoxifen, this many milligrams for this many years, this many milligrams for this many years, what's your risk of recurrence? If we add hormones to that or we add, you know, they don't get that. And so they have no real data to actually make decisions from, they have fear, they have hypotheticals. That's not, that is not a way to make a medical decision about your life.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Oncology / Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "fear",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "training_gap",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate by identifying a clear barrier signal (lack_of_information). It highlights a systemic pattern where cancer survivors are not provided with quantifiable data to make informed decisions, a significant gap in care.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M020",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Aviva",
+    "speaker_role": "clinician",
+    "timestamp_start": "1:18",
+    "timestamp_end": "1:40",
+    "paragraph_ids": [
+      "p6"
+    ],
+    "moment_text": "I don't have the answer for, other than just trying to speak out in forums like this and let women know that risk calculators actually exist and, and, and sit down and talk through this with the people, the professionals, that it's their job to do this. Um, so that's how shared decision making starts happening is by giving, giving women actual data for which to make decisions from.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Oncology / Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with strong agency signals (self_advocacy, seeking_information). It proposes a clear protective factor and behavioral pattern for patients to overcome the information gap, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M021",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Aviva",
+    "speaker_role": "clinician",
+    "timestamp_start": "1:46",
+    "timestamp_end": "3:10",
+    "paragraph_ids": [
+      "p8",
+      "p9",
+      "p10",
+      "p11",
+      "p12",
+      "p13"
+    ],
+    "moment_text": "Yeah, so I think one of the biggest structural barriers is just medical literacy. I think that, you know, even on a good day for most non-oncology clinicians, the cancer world is literally a foreign language. Even if you went to med school but you didn't, you know, go to an oncology fellowship, it's a, it's a foreign language. And so then you take a lay person, the average, you know, average American, I think is the, somewhere around like an eighth grade reading level and try to translate complex medical diagnoses and treatment plans. Survivorship outcomes and is really, really challenging. And so that's a big structural barrier. And then of course you have, uh, the more physical ones like getting to your appointments, the time taking the time off of work, the time away from your family. Um, the working up, the mental strength that it takes to even, like you said, we, it was awkward for you navigating, you know, the, the dynamics between your gynecology clinician and your oncology team and what that looked like. And you know, we have very fragmented care, unfortunately in this country. Uh, and so those are often barriers 'cause I think that people don't recognize, or don't, maybe just inadvertently don't realize like how much emotional energy it takes to even have those conversations in the first place. Um. You know, it's, it's kind of like the old average of most women. It's like, fine, I'll just do it myself. You know, like I'll just, you know, it's like, it's just too much work to sit there and um, to work yourself up for that. So, yes, I mean, structural barriers, economic barriers, it's very economically taxing on people to go through a diagnosis like that. And then survivorship lost work, the medical bills, all the things. So there are so many barriers to name. I mean, we could literally have an entire hour long session on what health barriers are. Um, but I think that being very honest, uh, with yourself and with your c clinician about what your health barriers are, it can be very vulnerable to do that. But. We don't know what we don't know.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Oncology / Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "frustration",
+      "resignation"
+    ],
+    "agency_signals": [
+      "enduring",
+      "withdrawing"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "access_barrier",
+      "time_constraint",
+      "cost_constraint",
+      "fragmented_care",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with multiple, strong barrier signals. It details a web of intersecting systemic issues (literacy, cost, fragmented care), which constitutes a clear systemic pattern of barriers to care.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M022",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Aviva",
+    "speaker_role": "clinician",
+    "timestamp_start": "3:10",
+    "timestamp_end": "4:08",
+    "paragraph_ids": [
+      "p14",
+      "p15",
+      "p16",
+      "p17"
+    ],
+    "moment_text": "Um, I think telehealth has opened up a lot of doors for people, um, being able to take care, uh, or address certain things. And maybe there will come a day where a world in which we are able to combine, you know, appointments where, you know, how beautiful would it be to have a menopause specialist and an oncology specialist on a telehealth appointment? You know, on, I mean, I, listen, I was just talking the other day to somebody who, some woman who had her hysterectomy and her tummy tuck done on the same day. I am like, if that can happen, why can we not get a menopause specialist and a breast cancer, uh, oncologist together to talk through the options and weigh, this is not happening. At least not in my co my world, but it can't be that cosmic. So, anywho, yeah, no, it's, it, it seems like it, it should be achievable. It would be nice. I mean, I can't tell you how many times I've had a visit with a survivor and been like, gosh, I really just wish your oncologist was here to like, get through this in real time. Yeah. Um, and, and we just don't have the structural systems in place right now to navigate that, but I wish we could, and maybe some large institutions will adopt that model. If you're listening, um, you know, maybe some large institutions will adopt that model. Um, you know, even group visits could be very beneficial.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Oncology / Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "frustration"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fragmented_care",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate by identifying the barrier of fragmented_care. It proposes a concrete solution (integrated telehealth, group visits) to a systemic problem, making it a potential protective factor and eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M023",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Aviva",
+    "speaker_role": "clinician",
+    "timestamp_start": "4:08",
+    "timestamp_end": "5:02",
+    "paragraph_ids": [
+      "p18",
+      "p19",
+      "p20",
+      "p21"
+    ],
+    "moment_text": "I mean, like your, this platform under the sisterhood, it's women banning together to have shared, to share their experiences. Um, so. And sometimes, you know, even even with the very strategic and structured approach, there's still some questions that might not come to mind and like, I love that idea of a group type of vis in a safe, you know, setting. Obviously it's like, oh my goodness, I didn't even think to ask that question because it just seemed so outlandish for me. But thank God that she an or she asked or you know, I mean there, there are options. Some women don't even know what's normal or what's not normal or what they should be expecting or what they should. Even in the context of just general normal aging, let's just even take the concept of a cancer diagnosis and survivorship outside of this. A lot of women are like, I didn't even know my joint pain could be related to menopause. I just thought I was getting older. Well, yes, some of it is just getting older, but some of it's also linked to estrogen receptors on your ligaments and your joints and all the things, and it's like, whoa. So this is happening. Times 10 in the survivorship community, in the induced menopause community. Um, so yeah, sharing and, and sharing lived experience is so powerful.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Menopause / Survivorship",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection",
+      "recognition",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap",
+      "symptoms_normalized_without_context",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with both barrier and agency signals. It clearly identifies peer community and shared experience as a protective factor against knowledge gaps and isolation, which is a strong relational pattern.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker shifts between the clinician and host in this section, but the overall point is coherent. I've attributed it to the clinician who provides the main medical context."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M024",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Aviva",
+    "speaker_role": "clinician",
+    "timestamp_start": "5:02",
+    "timestamp_end": "6:22",
+    "paragraph_ids": [
+      "p22",
+      "p23",
+      "p24",
+      "p25",
+      "p26"
+    ],
+    "moment_text": "Okay. I love social media. Uh, and I don't want any of this to be taken outta context that there is a, a light side of social media and a very dark side of social media from, from multiple ends, um, of the spectrum. And there's some really amazing information. And that's why a lot of us in this, in the medical space are so encouraging of other clinicians to get out there and share. Um, and then there's a lot of misinformation out there, unfortunately, and it's just the, the reality and, um, but I, I do think overall it fills a lot of the gap that's left by the silence, whether that's just silence because I didn't even know to ask or I felt silenced. I felt like I was not taken seriously. It's filling a lot of those gaps. It's also connecting people and bringing together and closing the gaps on that, the things that we talked about a few minutes ago, the language validating concerns and building community. Uh, that is oftentimes not what individuals are getting within the exam room, and I think that it's our job as people within the medical system to rise to the occasion of what social media is doing to our medical landscape and recognize that our patients are coming in often, much more well-informed. For better or worse, sometimes they can be ill-informed, but sometimes, and in a lot of cases, they are very well-informed and normalizing. Them being informed. That's a big thing is like, sometimes people are very sheepish. They're like, oh, well I saw this on social media, and I'm like, oh my God, that's great. Tell me more about what you learned. Let's talk through that. Rather than, oh yeah, social media, you saw that. Like, that is not validating, that's not uplifting. Um, and it all goes back to really creating a partnership and, and meeting people where they're at. And if that's where they, uh, can consume and digest medical information, then let's rise to that occasion and meet them where they are.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "General Health",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "validation",
+      "empowerment",
+      "frustration",
+      "shame"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "lack_of_validation",
+      "provider_dismissal",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with multiple barrier and agency signals. It describes a key relational pattern between patients, media, and providers, and advocates for a behavioral change in clinicians, making it highly eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Jacqueline Pta",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:01.000",
+    "timestamp_end": "00:00:45.000",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3"
+    ],
+    "moment_text": "Um, so that's how I encounter it. I love social media. I think it's a great place, uh, to just break down barriers and stigma and just get, start talking about it doesn't always have to be perfect either. Um. You know what, what's the quote young? It's like, uh, don't let good enough be the death or perfection be the death of good enough. Right? And like, we just have to start talking about it. And social media has just been such an invaluable platform for the rise of things like this and, and other things. Yeah, yeah, absolutely. It, it, it can definitely be a source of good. And, um, you know, I, I think that, I know that I've benefited from it. Um, but I, I think to your point, like meeting people where they are and taking some of the shame away from, I heard this, is that okay? Or, you know, can we build on this? Or like, what, what am I thinking that's wrong, you know, in this space? Because I thought one thing, I heard something else. You know what's true.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Health Communication",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "shame",
+      "confusion",
+      "validation"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_information",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (stigma, shame_culture), agency signals (seeking_information), and emotional signals (shame, confusion) within a media system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The first two paragraphs are the guest, the third is the host agreeing and expanding. Tagged as clinician as they are the primary speaker."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Jacqueline Pta",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:00:55.000",
+    "timestamp_end": "00:01:45.000",
+    "paragraph_ids": [
+      "p6",
+      "p7",
+      "p8"
+    ],
+    "moment_text": "Yeah. Honestly, I think advocacy really just needs to push for broader, more inclusive care. What does survivorship really look like and what is really on the other side of, of survivorship? Um, and so this gets into, there's not one diagnosis, there's many diagnosis, there's not one treatment trajectory, short term and long term. What does that look like? And really trying to. Um, in a way, uh, individualize survivorship care, um, but also making sure that survivors have access to all of the necessary components of coordinated survivorship care. So mental health, sexual health, physical health, recurrence, risk mitigation, um, and breaking down some of those barriers and, and, and addressing those. So I think it's really just, I mean, we're just broadening our understanding, but then also at the same time, refining it and making sure that there are individualized pathways so that individuals can have more context in which they're navigating their survivorship journey. 'cause it's certainly not a catchall. And I think oftentimes it is ca it is treated as a catchall, which is very confusing.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Breast Cancer Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confusion"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fragmented_care",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (fragmented_care, system_navigation_difficulty) and an emotional signal (confusion) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Jacqueline Pta",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:01:52.000",
+    "timestamp_end": "00:02:50.000",
+    "paragraph_ids": [
+      "p10",
+      "p11",
+      "p12"
+    ],
+    "moment_text": "Honestly, I really just think it is elevating menopause and the sequelae of menopause to the level of recurrence risk. Because right now it is not taken as seriously the symptoms that, and it's, we're just starting the conversation, right? We're just starting it. Menopause wasn't even on the table for a woman of normal risk profile five, even five years ago. Right? And so then you take somebody that in the guidelines still says, you are not a good candidate for these therapies, these treatments, you can only have these treatments and when they don't work. Sorry, too bad. So sad or whatever. Or when, or the, the recommended say, well, when they don't work, then maybe we can consider this, but like, it's really gonna be really dangerous for you. And like, how is anybody gonna walk in? Nobody's gonna like step on a grenade on purpose, you know? So that we need to have more balance conversations. Again, this goes back to what I talked about of actually having numbers, actually having data and statistics of what that really looks like rather than, ooh, this is just scary and, and dangerous. And so I think that, you know, it looks like just stepping our game up and, and really giving women real things to sink their teeth into so that they can make informed decisions. You can't make an informed decision with incomplete information and so.",
+    "moment_type": "system_observation",
+    "life_stage": "menopause_transition",
+    "health_domain": "Menopause",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "frustration"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "symptoms_normalized_without_context",
+      "provider_dismissal",
+      "lack_of_information",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains multiple barrier signals (symptoms_normalized_without_context, lack_of_information) and agency signals (making_decisions).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Jacqueline Pta",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:02:50.000",
+    "timestamp_end": "00:03:28.000",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "Coordinating care, un fragmenting the system as best as we possibly can. I think the large centers are the most well equipped and well equipped to do this. They have the best funding, they have the, the most manpower to do this with. Um, and, and, and research efforts in order to create models of care that can be replicated in other settings. Um, and so, but again, a lot of this work is being done in quiet and in the dark, and that's not how we create change. We create change by being louder and being visible and stepping up to the plate and, and not putting all the responsibility on the survivors. But one part of that process is not being quiet and not being ashamed of how you're feeling and elevating your symptoms to the status of your symptoms and your quality of life to the status of your risk of recurrence so that everything can be taken. Seriously on a level playing field.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Healthcare Systems",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "shame",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "silence",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong agency signals (speaking_up, self_advocacy) and barrier signals (silence, shame_culture).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Jacqueline Pta",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:03:33.000",
+    "timestamp_end": "00:04:10.000",
+    "paragraph_ids": [
+      "p16",
+      "p17",
+      "p18"
+    ],
+    "moment_text": "I think one of the big things, and we can go back to social media, is going around social media right now is a lot of negativity. It started with a lot of negativity around birth control pills in the women's health space, and then it's gravitated into a lot of negativity around screening mammograms. And as somebody that's trained in traditional OB GYN settings for the last 20 years, you know, please do not delay your screening. Mammography is still the gold standard. It is the only way that we can detect these microcalcifications, which are how we find the vast majority of breast cancers. It is safe, it is effective, it is evidence-based and study. There are no treatments, no procedures that even hold a candle to the, uh. The effectiveness and the accuracy of a mammogram.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Breast Cancer Screening",
+    "system_interaction": "media",
+    "emotional_signals": [],
+    "agency_signals": [
+      "seeking_care",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains a barrier signal (lack_of_information) related to misinformation and an agency signal (seeking_care).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_019.docx",
+    "season": "1",
+    "source_file": "BH_019.docx",
+    "speaker_id": "Dr. Jacqueline Pta",
+    "speaker_role": "clinician",
+    "timestamp_start": "00:04:10.000",
+    "timestamp_end": "00:04:48.000",
+    "paragraph_ids": [
+      "p19"
+    ],
+    "moment_text": "And then know your breast density, your breast density influences your risk further. And it also influences whether or not you are a candidate for something that we call supplemental screening, whether that is either through breast ultrasound or m mri. And so knowing your breast density, looking on your mammogram report and seeing if it shows breast density, and knowing that you are entitled to supplemental screening and know how often you need to go get screening. So be your best advocate because things get lost in the system. And also misinformation praise on. On, on women specifically. And, uh, so that's, you know, de early detection is your best enemy against, you know, whether that is, um, risk screening with our genetic risk screening calculators and, and being caught before there's even a diagnosis put in place. And then if you are somebody that faces, uh, that really tough diagnosis, early intervention is, is the best of not delaying your care, um, because of misinformation.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Breast Cancer Screening",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [],
+    "agency_signals": [
+      "self_advocacy",
+      "seeking_information",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong agency signals (self_advocacy, seeking_information) and barrier signals (lack_of_information, system_navigation_difficulty).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

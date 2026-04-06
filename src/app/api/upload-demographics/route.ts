@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs/promises';
 import path from 'path';
-import { parseDemographicsCSVText, DemographicRow } from '@/lib/assets/loader';
+import { parseDemographicsCSVText, parseCSVLine, resolveColumnIndices, DemographicRow } from '@/lib/assets/loader';
 
 export async function POST(req: NextRequest) {
   try {
@@ -20,8 +20,18 @@ export async function POST(req: NextRequest) {
     const rows: DemographicRow[] = parseDemographicsCSVText(csvText);
 
     if (rows.length === 0) {
+      const lines = csvText.split('\n').filter(l => l.trim().length > 0);
+      const headerFields = lines.length > 0 ? parseCSVLine(lines[0]) : [];
+      const col = resolveColumnIndices(headerFields);
+      const missing = (['filename', 'age', 'location', 'ethnicity'] as const)
+        .filter(k => col[k] === -1);
+
+      const hint = missing.length > 0
+        ? ` Could not detect column(s): ${missing.join(', ')}. Ensure the header row contains recognisable column names (e.g. Filename, Age, Location, Ethnicity).`
+        : ' The header was recognised but no valid data rows were found.';
+
       return NextResponse.json(
-        { error: 'No valid demographic rows found in CSV. Check that the file has the expected column layout.' },
+        { error: `No valid demographic rows found in CSV.${hint}` },
         { status: 400 }
       );
     }

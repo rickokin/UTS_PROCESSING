@@ -190,18 +190,61 @@ export function parseCSVLine(line: string): string[] {
   return fields;
 }
 
+const COLUMN_ALIASES: Record<keyof DemographicRow, string[]> = {
+  filename: ['filename', 'file name', 'file', 'filenames', 'file_name', 'episode', 'episode id', 'episode_id', 'transcript'],
+  name:     ['name', 'participant', 'participant name', 'participant_name', 'interviewee', 'guest', 'speaker'],
+  age:      ['age', 'years old', 'participant age', 'participant_age'],
+  location: ['location', 'city', 'state', 'region', 'country', 'city/state', 'city state', 'geography', 'place', 'address'],
+  ethnicity:['ethnicity', 'ethnic', 'ethnic group', 'race', 'race/ethnicity', 'race ethnicity', 'background', 'ethnic background', 'cultural background'],
+};
+
+export function resolveColumnIndices(headerFields: string[]): Record<keyof DemographicRow, number> {
+  const normalized = headerFields.map(h => h.toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim());
+  const mapping: Record<string, number> = {} as any;
+
+  for (const [key, aliases] of Object.entries(COLUMN_ALIASES) as [keyof DemographicRow, string[]][]) {
+    let bestIdx = -1;
+    for (const alias of aliases) {
+      const idx = normalized.indexOf(alias);
+      if (idx !== -1) { bestIdx = idx; break; }
+    }
+    if (bestIdx === -1) {
+      for (const alias of aliases) {
+        const idx = normalized.findIndex(h => h.includes(alias) || alias.includes(h));
+        if (idx !== -1) { bestIdx = idx; break; }
+      }
+    }
+    mapping[key] = bestIdx;
+  }
+
+  return mapping as Record<keyof DemographicRow, number>;
+}
+
 export function parseDemographicsCSVText(csvText: string): DemographicRow[] {
   const lines = csvText.split('\n').filter(l => l.trim().length > 0);
   if (lines.length < 2) return [];
 
+  const headerFields = parseCSVLine(lines[0]);
+  const col = resolveColumnIndices(headerFields);
+
+  const hasHeaderMatch = col.filename !== -1 || col.age !== -1 || col.location !== -1 || col.ethnicity !== -1;
+
+  if (!hasHeaderMatch) {
+    col.filename  = 1;
+    col.name      = 2;
+    col.age       = 6;
+    col.location  = 7;
+    col.ethnicity = 8;
+  }
+
   return lines.slice(1).map(line => {
     const fields = parseCSVLine(line);
     return {
-      filename: fields[1] || '',
-      name: fields[2] || '',
-      age: parseInt(fields[6], 10) || 0,
-      location: fields[7] || '',
-      ethnicity: fields[8] || '',
+      filename:  col.filename  !== -1 ? (fields[col.filename]  || '') : '',
+      name:      col.name      !== -1 ? (fields[col.name]      || '') : '',
+      age:       col.age       !== -1 ? (parseInt(fields[col.age], 10) || 0) : 0,
+      location:  col.location  !== -1 ? (fields[col.location]  || '') : '',
+      ethnicity: col.ethnicity !== -1 ? (fields[col.ethnicity] || '') : '',
     };
   }).filter(r => r.filename.length > 0);
 }

@@ -1,0 +1,1874 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Jen Delve",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "Yes. Okay. Well, I honestly didn't realize anything was going on. I had just had my routine mammogram, and I do remember it was, it was right after COVID. And so I remember I kept seeing the number 11, 11. I was like, why do I keep seeing this number? Like, what does this mean? And I was like, wait, am I late or due for my mammogram? And I was just a couple weeks late. So I scheduled that mammogram, had the mammogram. No big deal. I'm not worried about it. I have nothing going on, no symptoms, no lumps, nothing. And all of a sudden I get a phone call. And this nurse said, Hey, we need to have you come back for extra imaging. We're seeing something.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "breast cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains emotional signals (anxiety) related to a healthcare provider interaction, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Jen Delve",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p8",
+      "p9"
+    ],
+    "moment_text": "And I was like, oh, okay. Still, I was thinking, there's no way I'm fine. There's no way that anything can be wrong with me. I was like, in that la la land. And um, but the interesting thing is she said to me, do you wanna know which breast? And I was like, sure. And in my head I was saying, she's gonna say your left. She's gonna say your left. It's your left breast. And she said, it's your left breast. And I got chills and I was like. Okay, but still thought nothing of it. I still thought there's no way.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "breast cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "fear"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains strong emotional signals (anxiety, fear) during a direct interaction with the healthcare system, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Jen Delve",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "And then, you know, you go in for this routine mammogram and the way it's set up at my hospital is you go in for this repeat mammogram and if they still see it, then you go into the ultrasound and then if they see something there, then they call you in for the doctor. So you to see the doctors, you never wanna get to that last place where they're like, I'm gonna bring in the doctor. So of course they saw it on the mammogram. They brought me back into the ultrasound room and I still wasn't scared until she remained on my left breast and under my arm for a very long time. And I thought something doesn't seem right. And then when she said, I'm going to go grab the doctor, I was like, oh, I'm in trouble.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "midlife",
+    "health_domain": "breast cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "fear"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains emotional signals (anxiety, fear) and identifies a barrier (system_navigation_difficulty) within a healthcare provider interaction, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Jen Delve",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "And then a few minutes later a doctor walked in with the sad face and he's like, you don't feel anything in that left breast? And I'm like, no. And he's like, well, we are suspecting this might be cancer. We're gonna have to do it for, you know, a biopsy. And I still thought, he was like, do you have any questions? And my mind just went blank. And I'm like, no, I'm good. I literally still thought there was no way. I drove home, I'm like, I just wanna get home. And I thought, there's no way husband and wife can both have cancer. How that, how is that possible? And when I got home, my phone rang and it was a nurse and she said, the doctor looked at your scan again and he is 98% sure that this is cancer. We need you back first thing in the morning. Then my world flipped upside down and I was a mess. Like I've never cried so hard in my life or been so scared.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "breast cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "overwhelm",
+      "sadness"
+    ],
+    "agency_signals": [
+      "silence",
+      "withdrawing"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible due to its intense emotional signals (fear, overwhelm, sadness) and agency signals (silence) triggered by a healthcare provider communication, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Jen Delve",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p10",
+      "p11"
+    ],
+    "moment_text": "I think when we hear cancer. Every single one of us assumes our life is over and we have weeks to live. I mean, right. Don't you feel like that's a commonality amongst women who, yeah. So it was rough.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "breast cancer",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "fear",
+      "hopelessness"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it identifies a barrier signal (stigma) related to a cancer diagnosis, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Jen Delve",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p14"
+    ],
+    "moment_text": "And then, and then I feel like the next like. Six months or three, three to six months, I was just living in this weird fog like this. It's, it's, it's really inexplainable unless you've been through it, but everything is just kind of in slow motion and you're just, you don't even, your world just flipped upside down. But, you know, I went in for that biopsy and of course, you know, a few days later I did get that breast cancer diagnosis, which I knew was coming at that point it was invasive sub ductal carcinoma, stage one, grade two.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "breast cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "confusion"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains emotional signals (overwhelm, confusion) and agency signals (enduring) while navigating the healthcare system, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Jen Delve",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p14"
+    ],
+    "moment_text": "I ended up doing a lumpectomy and we discovered she sent it off to do the Oncotype testing. And in that test we discovered it was, um, the Oncotype score was a 21, which is in that gray area. So there was about two weeks that chemo was on the table. It was still premenopausal. I think I was 47 at diagnosis and she said. After a couple weeks, 'cause there was one lymph node involvement and she said sometimes that could be considered no node involvement. So she re-categorized it as a no node. It still stayed at that Oncotype score of 21, but she felt comfortable with just shutting down my ovaries with Zoladex injections and putting me on an aromatase inhibitor. So. After, I think I did 19 rounds of radiation and then we started the home hormone blocking meds, which, whew, that's, that's a thing.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "breast cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "relief"
+    ],
+    "agency_signals": [
+      "enduring",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains emotional signals (anxiety, relief) and agency signals (making decisions) while navigating a complex treatment plan with a healthcare provider, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Jen Delve",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "I, you know, I was a health and fitness coach thinking I was healthy and fit. And when I look back at that girl, she was not, she was not, she was eating for the skinny jeans. I wasn't eating actual real food. I was type A personality, go, go, go. Never slowed down. I never took time to even meditate. I, I truly like, it's almost like. Everything was easy, but everything was, I wasn't really present in any moment. And it's like when you get that diagnosis, you truly realize like what matters. And I swear you look at the world so differently.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "mental_health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "clarity"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "This moment is not eligible because while it contains an emotional signal, the system interaction is 'none', failing the A2 evidence gate requirement for emotional signals to be paired with a system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Jen Delve",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "But you know, I was also caretaking to my hus, a caretaker to my husband, and I really never shoved or, or I never allowed those emotions to come up because, you know, he's had three brain surgeries, two rounds of chemo and radiation. He hasn't been able to work since 2011. So all of that pressure is on me. I'm also the mom. I take care of the family I provide and, and all of that stress was on me. And I never allowed myself to feel ever. I just had to be the strong one. I had to just keep going. So that was the world I was in, and I've learned a lot since then.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "caregiving",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "overwhelm",
+      "isolation"
+    ],
+    "agency_signals": [
+      "enduring",
+      "silence"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains clear agency signals (enduring, silence) and barrier signals (lack of support) within a family system interaction, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Jen Delve",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p20",
+      "p21"
+    ],
+    "moment_text": "But interestingly enough, when I got my diagnosis, I felt so vulnerable and I wasn't even me for a little bit. And I remember, you know, once you get that, the final diagnosis, they set you up with a team. And I just accepted what they were doing for me. And I just remember one day laying on the couch, just so sad. And I just felt like. The, the person I was before that was so strong that could figure out anything, just wasn't there. And then all of a sudden it clicked for me and I'm like, what am I doing? I was Darren's biggest advocate. How am I not advocating for myself right now?",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "patient advocacy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "sadness",
+      "self_doubt",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains strong emotional signals (sadness, empowerment) and a clear agency signal (self_advocacy) related to a healthcare provider interaction, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Jen Delve",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p21"
+    ],
+    "moment_text": "So I looked at the team of doctors that they gave me and I was like, I don't wanna go all the day to this massive appointment where you're meeting with the surgeon, the oncologist, the radiologist, the radiation oncologist. I don't wanna do that. That's too much. And I, so I was like, I am first looking for a surgeon. That's what needs to happen. First, I wanna just go talk to a surgeon. I'm gonna figure out who the best surgeon is. And I started doing my research. I started be connecting with women in this area who were, I knew that they knew people and I, I did my research and I literally found the best surgeon.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "patient advocacy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "making_decisions",
+      "seeking_information",
+      "seeking_support",
+      "changing_providers"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is highly eligible as it details strong agency signals (self_advocacy, making_decisions, seeking_information) in response to identified barriers (system_navigation_difficulty) within the healthcare system, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:0:0.0",
+    "timestamp_end": "0:0:24.2",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "And I went and met with her. And I remember meeting with her. I was like, I am with my right person. She's amazing. And then she helped me figure out the rest. But I think. All of a sudden just snapped out of it. And I realized I need to be an advocate for myself, even though I know my husband would have loved to. He's just, I don't have that, you know, I didn't have, he couldn't do what I did for him, he couldn't do for me because, you know, he can't help it 'cause of his brain cancer, you know, and some, he's got some short-term memory and some confusion. And so I had to have my sister go to a lot of appointments with me, but I had to advocate for myself.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "clarity",
+      "confidence",
+      "relief"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "seeking_care",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (self_advocacy) and barrier signals (lack_of_support) within a family system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:0:24.2",
+    "timestamp_end": "0:0:34.2",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "Yeah. Yeah. And that's, I mean, that can be a tough thing to do, um, especially when there are so many decisions that you have to make. And like you said, it's can be very easy to take all of the recommendations that are given to you and just check the box. And, and that's a fair approach, but. Having that realization can be a major shift.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Patient Experience",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional and agency signals related to a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:0:34.2",
+    "timestamp_end": "0:0:52.2",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "I think what felt the most overwhelming was when the decisions are in our hands. I feel like, you know, when you know you've got this certain diagnosis and chemo and radia, like this is all something you have to do. But when you have something in that gray area, or you're really deciding between mastectomy lumpectomy, like, and it's like on you. I feel like that's the hardest thing because we question ourselves like, did I do the right thing?",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "self_doubt",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional signals (overwhelm, self_doubt) and an agency signal related to a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:0:52.2",
+    "timestamp_end": "0:1:14.2",
+    "paragraph_ids": [
+      "p7",
+      "p8",
+      "p9"
+    ],
+    "moment_text": "I would say the easiest thing for me to manage and is I needed to take control to, I needed to be part of this. I believe in holistically healing ourselves. Meaning we take what the doctors say and recommend, and then we also see what we can do on our, our end. So for me, looking a me at my diet was the first thing I did. I, I, I, like, I knew like what we put on our, in our body and what we're consuming matters, and that gave me a sense of control. And like, I was taking ownership too. So, you know, I feel like we ha we lose control. We need to be also along right there with the doctor doing what we can on our end.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (making_decisions) and emotional signals (empowerment) within a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:1:14.2",
+    "timestamp_end": "0:1:38.2",
+    "paragraph_ids": [
+      "p10",
+      "p11"
+    ],
+    "moment_text": "So I think, I think the other thing that I learned real quickly was I had to incorporate things to call me. I remember. The thought of driving to those first initial appointments in, you know, we were in COVID times, and so Darren really couldn't go to those appointments with me. And I had, I, I downloaded an app on my phone and just started meditating for the first time. And it felt so incredibly good. Like, I finally felt like, oh, I can do this. And like those meditations came with me to all my appointments.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "calm",
+      "relief",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional, agency, and barrier signals related to a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:1:38.2",
+    "timestamp_end": "0:1:53.2",
+    "paragraph_ids": [
+      "p12",
+      "p13"
+    ],
+    "moment_text": "Yeah, no, um, it doesn't sound like controlling at all. It's, it's, it's, you know. Our, our bodies almost, well, at least I'll, I'll say this for me, I felt like my body had be betrayed me in a way, and I had no idea what was going on. But to your point, it's like, well, what things can I do for peace? Mm-hmm. Not just a mind, but just peace, holistically, um, to make this a little bit, you know, more manageable and makes a lot of sense.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Patient Experience",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": false,
+    "eligibility_rationale": "This moment is not eligible because while it has emotional signals, the system interaction is 'none' and it lacks barrier or agency signals, failing the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:1:53.2",
+    "timestamp_end": "0:2:46.2",
+    "paragraph_ids": [
+      "p14",
+      "p15",
+      "p16"
+    ],
+    "moment_text": "Yeah, definitely. So I reached a point on, you know, I think sometimes because I am a big researcher, like I want to know everything. I don't listen. I don't wanna know, like all the potential side effects. I don't. I don't, I don't look at that like when we have to go on a medication, like when we're doing radiation, when we're going on a medication, I don't, I don't need to know all the things because I do think that our minds are so powerful. But after two years on my hormone blocking med, and literally when I say this, I always wanna say, all of our bodies are unique. We are all individual. What happens to one may not happen to another. We all respond differently to these medications. But after two years on the hormone blocking med, well, at first I was on XMS stain and I really struggled on that one with bone and joint pain. So we switched to Letrozole and I actually handled Letrozole really well and I was super excited. So when we got to that two year DEXA scan, I was shocked because I also strength train, I eat well. Like I thought I was doing all the things right. I did have a rapid decline and was, I was in osteoporosis. Like they said, they had never seen such a rapid decline. They did some further testing and figured out that. It was in fact, due to the medication, it wasn't anything else going on. And they were, they, they, they, the things that the doctors said to me were very scary. And, and, and it was almost fear mongering of what I needed to do next. And I, I, I needed to take a pause because of what my was happening with my body. And they weren't very happy with that. So that was, I started bringing in like clinical, um, records that I would find from this oncology. It was an oncology form or whatever it was, and brought it into her. And she still wouldn't listen to me on some of the research that I had searched.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "frustration",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "seeking_information",
+      "speaking_up",
+      "tracking_symptoms"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it is a clear barrier encounter, containing strong barrier signals (provider_dismissal) and agency signals (self_advocacy) within a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:2:46.2",
+    "timestamp_end": "0:2:55.2",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "And so, yeah, there are things that you, sometimes you've gotta listen to your gut. You have to listen to what your body is telling you, and you have to stand strong for yourself for sure. And that's, and that's when you also maybe incorporate second and third opinions. So, yeah.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Patient Advocacy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "seeking_care",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (self_advocacy, seeking_care) related to a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:2:55.2",
+    "timestamp_end": "0:3:11.2",
+    "paragraph_ids": [
+      "p18"
+    ],
+    "moment_text": "I actually recommend that in the beginning. I mean, I had the best of the best surgeon, but I wanted to make sure that I was doing everything right. And when you have a second or third opinion, you either have all three thinking, okay, yes, this is the best route for you. Or two out of the three think it's the best route, and you feel secure with where you're going. And if the doctor was in your shoes, they would be doing the exact same thing.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Patient Advocacy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "clarity"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "seeking_care",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (self_advocacy) and addresses a barrier (fear_of_judgment) within a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier 'fear_of_judgment' is implied by the need to reassure listeners that it's okay to get another opinion and not feel guilty."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:3:11.2",
+    "timestamp_end": "0:3:32.2",
+    "paragraph_ids": [
+      "p19",
+      "p20"
+    ],
+    "moment_text": "Um, some I am, I'm so different. I am, like, I was, like I said, I was in kind of in the fitness and health world and I had a social media following. And actually there was, you know, this was five years ago now when I was diagnosed, but I did, I listened to a podcast and it was these two women, I don't even remember what the show is now, but one was a nurse and they were about my age and they had both gone through it. And I loved listening to them because they made light of everything. And I was like, oh, okay, this isn't, I, if they did this, I can do this too.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "connection",
+      "validation"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional, agency, and barrier signals related to a peer community interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:3:32.2",
+    "timestamp_end": "0:3:49.2",
+    "paragraph_ids": [
+      "p21",
+      "p22"
+    ],
+    "moment_text": "I shared everything. I shared everything. I'm an open book. I always have. I, you know, we started our podcast We, or like around Darren's second brain surgery, I think. So I'm already an open book, but I think I became even more so because I became more vulnerable. Because when you're hit with a diagnosis, it's different. And yeah, I shared it all. I shared it all. Very vulnerable in the beginning.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Patient Advocacy",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains a strong agency signal (sharing_story) within a peer community interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M012",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "0:3:49.2",
+    "timestamp_end": "0:4:19.2",
+    "paragraph_ids": [
+      "p23",
+      "p24"
+    ],
+    "moment_text": "Oh my gosh. That was the other thing I immediately, it was like, who went through breast cancer? I want you in this group. Like, let's connect. So I created this group and then I ended up creating a community where, you know, we have weekly phone calls. I, it, it's been everything. When you can talk to somebody else, you don't feel alone anymore. You feel heard. You feel seen. We're like, oh my gosh. We get each other, we laugh, we cry, we talk about the crazy things that happen and the crazy things that people say and you just feel normal after these conversations. And I didn't wanna be in, you know, because when, when Darin was diagnosed, I was in a lot of groups for him and I had to opt out 'cause they were really scary and depressing. And I'm like, I don't want that. I wanna create a space or be part of a space that is uplifting and has tools and resources to live the best life after a diagnosis.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "Peer Support",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "belonging",
+      "validation"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional, agency, and barrier signals related to a peer community interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_023.docx",
+    "season": "BH_S_Unknown",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "Um, definitely not, not what I expected it to be at all. It changed drastically. In fact, I, I, I remember, and I feel like this is, I feel like all women go through this after diagnosis, when everything's done, you ring that bell, everybody's like, congratulations, you're done. You did it. Let's celebrate. And you're like. What just happened? How do I go forward? Who am I now? And I think we fight this new girl, this new personality. 'cause we wanna go back to that old version, that carefree never diagnosed person. And you just don't, I mean, I tried, I really did try and I couldn't get back to her and I, I needed to figure out this new person that I was becoming.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer Survivorship",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "confusion",
+      "self_doubt",
+      "isolation"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains multiple barrier and emotional signals describing a common experience within a peer community context after cancer treatment.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_023.docx",
+    "season": "BH_S_Unknown",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "And I kind of put myself in this cancer bubble where I was, I was dove into nutrition, I dove into environmental toxins, I dove into stress, I, all of it. But what I realized, and actually a girlfriend, a really good girlfriend pointed out to me like, 'cause I, all of a sudden I started going down this parasite rabbit hole and she's like, Jen, are you really gonna do this? And I'm like. You're right. Like, what am I doing? What am I doing? Like I need to have fun in my life. And I realized there has to be a balance. So I finally, after, and this took a couple years, I'm not joking, but after the couple years I finally got outta that cancer bubble. And I still do the best that I can possibly do, but I also enjoy my life and let myself live.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "anxiety",
+      "overwhelm",
+      "relief",
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "seeking_support",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional, agency, and barrier signals related to a pivotal interaction with a peer, leading to a realization.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_023.docx",
+    "season": "BH_S_Unknown",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "I let myself do the fun things that we need to do. I mean, none of us know what's gonna happen, right? We don't know what's happening. Like, but the one thing we do know is we have to enjoy our lives while we're here. We can't focus on the what ifs and like, oh my gosh, what if I do? You can't focus on that.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "anxiety",
+      "calm",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains both agency and emotional signals reflecting a significant mindset shift.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_023.docx",
+    "season": "BH_S_Unknown",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p9",
+      "p10"
+    ],
+    "moment_text": "it's crippling. It's, um, and, and like you said earlier, our minds are so powerful that if, if that's what we're constantly thinking, that's what will ultimately come through. So yeah, there's this book, um. Gosh, I can't think of the name right now, but she is talking the, it's talking about the, our minds and how powerful they are is that she'll have women come to her that are doing all the Pilates, all the yoga, drinking all the green juice, but they're so stressed about staying healthy and whatever else. They are the ones that get sick with disease. It is the people that are eating all the foods. They don't even think twice about it, but they are having so much joy, so much love, so much happiness, no stress. They're overweight, but they're living to a hundred because they're happy and they've got community and they don't have stress. So I really think that stress is the most important thing, like enjoying your life and creating happiness is the most important thing.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "anxiety",
+      "hope"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional signals related to a system interaction (media via a book) and presents a counter-intuitive insight about health.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker attributes the start of this thought to the host ('like you said earlier') but then develops it with an anecdote from a book."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_023.docx",
+    "season": "BH_S_Unknown",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "I think there has to be joy. There has to be ha and, and, and I, and when I say this, gosh, you have to create it. Like, sometimes it's not as easy as we think, but sometimes it is so simple. I was talking with a woman in my community who she was struggling and it was like one thing after another and I said, do you ever put music on. She's like, no. Even though I love it, I said, put music on. It can be little simple acts like that, where within your day everything's not gonna be perfect. It might not go smoothly, but we, when we can have little pockets throughout our day where maybe we're listening to some music, maybe we're getting outside and getting some fresh air. Maybe you're playing with your dog or your kids or whatever that is, but you are creating more joy and happiness. I feel like that is truly thriving.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "empowerment",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it contains strong emotional and agency signals within a peer community context, offering a tangible pathway to well-being.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_023.docx",
+    "season": "BH_S_Unknown",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p15"
+    ],
+    "moment_text": "False evidence appearing real. That's what fear is. And just because we think it doesn't make it real and our, our thoughts are powerful. So when somebody is struggling and their minds are playing tricks on them, I'm like, change what you're doing. Get outside. Go cook something. Listen to music, talk to your girlfriend. Something to stop our, the voice in our head. Because otherwise, you know, I think so many times we're like, oh my gosh, what if you, you, I remember being in this place too, like, trust me, I was there. I'm like, am I gonna waste my life every day worried about what might happen? And then I get to, I'm, I'm 80 and it that, what if never happened? But every single day I worried. Like, that's not, that's not a good life. So you just have to kind of like, release it as much as you can know that it's still gonna show up, acknowledge it, but then do something else.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "fear",
+      "anxiety",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional and agency signals, offering advice for a peer community on managing fear.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_023.docx",
+    "season": "BH_S_Unknown",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "And, and, and myself too. Like I, I am saying like, this is something I have to work at every day. I am that type A personality where I wanna go, go, go. I have to force myself into meditation to stop working, to get outside, to go do, you know, a walk or work. Like I, I work at this stuff every single day to journal, to like, listen to something. Like I, I work at it every single day, but I don't go a day without that. Like, I don't go a day without having something in my day that brings me joy.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains clear agency signals about the discipline required for self-care.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "BH_023.docx",
+    "season": "BH_S_Unknown",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p18",
+      "p19"
+    ],
+    "moment_text": "that is, that is self-care, like in, in the highest form. And I, um, and this is just my, my commentary and Vanessa will edit this part out, but I mean, I, it has taken me longer than I like to admit to get to that point. Yeah. But now that I am making the effort to, to meditate and to, I, I, I'm in the middle of, um, reading, breaking the Habit of Being Yourself, um, oh, by Joe Dispensa, and I love him. I, I, I was not aware of him at all. A friend recommended him and I'm like, oh my gosh. I mean, I've, I've done meditations and, and whatnot, but like, just building and building and, and really carving out the, the intentional time has made such a difference. And it's, it's really only been about a year where I've really prioritized Yeah. Meditation and like, like really claiming the time for myself and, and it's made a big difference, but it's taken, isn't it crazy. So long",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Wellness",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it serves as a powerful validation, containing emotional, agency, and barrier signals within a peer interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker mentions a specific book and author, Joe Dispenza."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "BH_023.docx",
+    "season": "BH_S_Unknown",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p22"
+    ],
+    "moment_text": "Oh my God, yes. Yes. Big time. Especially for those of us that are on hormone blocking meds, it's kind of unreal. How much it impacts us mentally, physically, emotionally, all the things. I remember when I started the hormone blocking med and, and you know, me talking about mindset. I took that pill and instead of looking at that pill like the, the, the negative aspects out of it, I was like, this is my miracle pill. This is gonna keep the cancer away. It's all gonna be amazing. So like, I tried, I tried really hard to have that mindset in the beginning. Um, and the first few weeks it did affect me emotionally. I will tell you that did subside, like the mental piece of it did get better for me. And I know for some it doesn't.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "hope"
+    ],
+    "agency_signals": [
+      "enduring",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it describes a barrier (lack of information about side effects) and agency signals within a healthcare provider context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "Again, each of us respond to this differently. It's kind of wild. And then. The, the joint, the joint pain was kind of crazy. I remember, you know, this, what I felt like was like an 80 year olds, you know, the thought of just even when I would wake up in the middle of the night to go to the bathroom and to try to like open up my hand to like turn the doorknob. I was like, what is happening to me? And the night sweats and the hot flashes that come on really quickly, although those did subside, I will tell you those did get better. And I do think that diet really does play a huge role in the hot flashes. For some, I mean, I know soy products, they do help immensely, you know, non uh, or organic non GMO soy, they can be really beneficial.",
+    "moment_type": "lived_experience",
+    "life_stage": "menopause_transition",
+    "health_domain": "Breast Cancer Survivorship",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "confusion",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to presence of agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is describing symptoms of medically-induced menopause as a result of breast cancer treatment."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p3",
+      "p4"
+    ],
+    "moment_text": "In fact, in Asia, uh, menopause was unheard of. Until, until the Western diet was introduced. Of course. So, and that's because they consume so much soy. Um, so yeah, those are definitely things. I think the physical piece of it, mentally, what you've been through the PTSD, you know, all of these things we have to work through. And I think the other thing is like, we think we're stuck with this. I mean, we could even go into what it does, you know, in your marriage. Can we talk about anything here? Oh yeah. Anything. Okay. Um, sexually, you know, you lose your desire when you have no hormones. You have no desire. And you just had, you just had surgery and your breast just tried to kill you, and the last thing you wanna do is have sex.",
+    "moment_type": "reflection",
+    "life_stage": "menopause_transition",
+    "health_domain": "Sexual Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "hopelessness",
+      "resignation"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to presence of emotional signals and a non-none system interaction.",
+    "risk_flags": [
+      "sexual_health",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p5",
+      "p6"
+    ],
+    "moment_text": "Yeah. And I, I feel like my, my husband, we are very lucky that we have very open communication. And so I could tell him exactly what I was feeling and I would say to him, is not you, it is me. And then you have to work with a gynecologist. That you trust that you really like. So if you're not happy with the one you have right now, get another one. Because there are things that we can do. You know, talk to your doctor. Vaginal, estrogen. Is safe, but talk to your doctor. This is never medical advice. Um, but there are other things you can do too. There are other things and your gynecologist will help you through that, but that's a big one. So definitely the, the, the sexual issues that come along with it and the lack of desire.",
+    "moment_type": "advocacy",
+    "life_stage": "menopause_transition",
+    "health_domain": "Sexual Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "trust",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "seeking_care",
+      "changing_providers",
+      "self_advocacy"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to presence of agency signals.",
+    "risk_flags": [
+      "sexual_health"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p7",
+      "p8"
+    ],
+    "moment_text": "But there are things you can do. The joint and bone pain, there are things you can do, some supplements you can talk to your doctor about, maybe switching, especially if you're an aromatase inhibitor. There's two others that you can try. Like had I not had that, had my DEXA scan not showed osteoporosis, like that rapid decline, I would still be on it because I wasn't having any problems on letrozole whatsoever. Um, but just to make sure you are talking to your doctor exactly how you're feeling because there are things that you can do. You're not to meant to live in this really uncomfortable world. You know, I think just keeping busy, exercising, looking at your nutrition a little bit. Mindset piece of it, creating some fun.",
+    "moment_type": "advocacy",
+    "life_stage": "menopause_transition",
+    "health_domain": "Breast Cancer Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "asking_questions",
+      "self_advocacy",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to presence of agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p9",
+      "p10",
+      "p11"
+    ],
+    "moment_text": "Enjoy. Yeah. Yeah. Yeah, there's, there's so much, and I think, I think the sexual side effects are really hard. So hard, hard. And it, it can come with shame. And I, I think for me, you know, where I struggled, especially early on, is like. You know, on the days when I would actually be in the mood, but then we would, you know, we would be intimate. But then like the numbness from my surgery, you know, would pop up and that switches everything mentally. So it's this mind body connection that's constantly, it can constantly be at war. Yeah. You know, if, if you are not talking to someone, understanding, you know, ways to, to kind of work through it. And I think that that's really taxing. Yeah. Um, when dealing with the PTSD and, and new relationship dynamic, so Yeah. Totally. And then even the pain aspect, I forgot about that. The pain, the vaginal dryness, the vaginal atrophy, like all of those things happen and those are real, real, real things. But again, there are things you could do. I have.",
+    "moment_type": "lived_experience",
+    "life_stage": "menopause_transition",
+    "health_domain": "Sexual Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "shame",
+      "frustration",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to presence of emotional signals and a non-none system interaction.",
+    "risk_flags": [
+      "sexual_health",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment captures a dialogue between the host and guest, validating the difficulty of sexual side effects."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p12",
+      "p13"
+    ],
+    "moment_text": "The best gynecologist. She was like, sh showing me things. I was like, okay, all right. I didn't know this existed. But there are things you can do. You just have to have an open conversation. And, and the other thing is, we're so lucky with social media today. You can search it, you can go to ai. They can even give you a list of things that can really help with that, depending on what you're dealing with. Like if you don't feel comfortable going to your gynecologist or if you don't have one that like has information for you, but there is hope for you with all of that. So. You're not, you're not stuck with how you feel right now. It does get better. It just takes work and it takes learning and trying different things.",
+    "moment_type": "advocacy",
+    "life_stage": "menopause_transition",
+    "health_domain": "Sexual Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "empowerment",
+      "relief"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "speaking_up",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to presence of barrier and agency signals.",
+    "risk_flags": [
+      "sexual_health"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p14",
+      "p15",
+      "p16"
+    ],
+    "moment_text": "Yeah. Yeah. Absolutely. And kind of along those lines, I mean, do you feel, you said you have a great gynecologist and it, it is a little bit of, you know, navigation, but do you feel that younger people navigating breast cancer, um, or even high risk breast health, receive enough support in rebuilding or reshaping their lives after diagnosis? No. That's where this, this, this disconnect is we. I mean, I know that there are some places that are getting better. Like I've talked with so many women, but I'm talking like a handful out of the thousands of women that I talk to, only a handful is like, well my, I have this and this. I'm like, you do. No, we, there's a disconnect for sure. You are all of a sudden, like, you rang that bell. Congratulations. You're all good. We'll see you in six months or a year. And there's no like, Hey, you might feel really sad. This might be PTSD. I recommend getting some therapy involved. Like that's, that was never told to me. I was not prepared with how I felt. And I feel like we feel so alone. No, this is the biggest disconnect out there. There should be something immediately set up for women after a diagnosis and showing them what could potentially happen and here's what you do about it. 'cause there's nothing, nothing was said to me.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Breast Cancer Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "isolation",
+      "frustration",
+      "sadness"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fragmented_care",
+      "lack_of_support",
+      "lack_of_information",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to presence of barrier signals.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This is a strong moment identifying a systemic gap in post-treatment care for cancer survivors."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p17"
+    ],
+    "moment_text": "No. There's so much support during, of course, those nurses are amazing, but it's the support afterwards, and that's why I created what I created. That's why I created this, you know, the inner circle for women. Like, so we wouldn't feel alone, so we could talk through things, so we could get advice because you, it's not out there for most women.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Breast Cancer Survivorship",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to presence of barrier and agency signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p18"
+    ],
+    "moment_text": "I mean, I, I recommend a lot of people, like what we just went through was PTSD and you've gotta work through it. I know a person who she was didn't wanna show anybody that she was scared. In fact, I was just talking about this on a recent episode that I did, is everybody will say, you're so strong. And we're like, Ugh, we didn't choose this. We don't wanna be strong. And then when you're not strong, you feel like you're betraying somebody and you should be strong and you're not allowed to break down. And so like, even that word like you're so strong, can be really difficult for people to manage.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "frustration",
+      "isolation",
+      "sadness"
+    ],
+    "agency_signals": [
+      "silence",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to presence of barrier, agency, and emotional signals with a non-none system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p20",
+      "p21",
+      "p22"
+    ],
+    "moment_text": "And then what has been the most overwhelming for the, for the aftermath? For after? Yeah. Mm-hmm. Yeah. I think, um, the aftermath, the, the, the most difficult is who you are and navigating friendships and this new world you're in. 'cause you're really, you know, you might have all the support and love, but you don't really feel heard 'cause nobody truly gets it. They try to. So I think, I think that's the hardest part, that disconnect with the people in your life. And then I think the most manageable thing is, is doing things that we have control because it really has given me peace. I can honestly say I haven't dealt, of course in the beginning, but I really haven't dealt with that much fear because I have done a lot of work on myself. And that took me taking, you know, ownership of what I was happening. I became more spiritual. I had a better understanding. I worked on my mindset, I worked on my nutrition. I tried to clean up my environment as much as I could. And by doing those things and, and not everything overnight, listen, it's little things. You know, I started with the meditation piece and the nutrition piece and then I, then I started becoming a little bit more spiritual. 'cause I wanted to have an understanding because I didn't wanna have that fear, you know? Or the fear is, the ultimate fear is like, oh my God, we're gonna die. Unfortunately none of us are getting outta here alive. That's the one guarantee in life, right? So I think when you do become more spiritual it and you don't have such fear around it, it it does that does make it easier. So that was hugely powerful for me with the fear aspect. So it's just doing those little things, baby steps that can just give you that sense of control and peace.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "isolation",
+      "fear",
+      "calm"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to presence of barrier and agency signals.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment contrasts the most difficult aspect of survivorship (social isolation) with the most manageable (taking control of one's own actions)."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p23"
+    ],
+    "moment_text": "Yeah. And, and recognizing that there's a timing for what you need. So completely, like you said, it's not like everything all at once. It's like, what do you need right now? What, what's the most important, most important first was meditation, eating, clean. You know, it's being patient with ourselves for sure.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "recognition"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate due to presence of emotional signals and a non-none system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4"
+    ],
+    "moment_text": "I mean, yeah. I think there needs to be. Again, I think it's going back to that disconnect of like what treatment does to us mentally. I think it's the mental aspect. I feel like that's what's missing. I mean, you know, the understanding of that, that connection, that community, that support, um, it's missing. And I feel like that could help so many women get through it. And honestly, I think in the, the world we live in today, it is easier. Like we have to do it ourselves, but it's easier to find that community because of social media and all the groups. I mean, I can't imagine somebody going through this 10 or 20 years ago where I, I mean, I can't even imagine. So we are lucky that we can usually search a, a place to support us, but there's still a disconnect with that. That should be part of treatment. Yeah, that should be next steps. That should be okay. Like you finished the treatment and now you're going into this next treatment, which is on mental health and how you navigate these next steps in life.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "isolation",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "lack_of_support",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains multiple barrier signals (fragmented_care, lack_of_support) and an agency signal (seeking_support) within a healthcare provider context, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p5"
+    ],
+    "moment_text": "Yeah, so I became an integrative health practitioner. I got that certification because I wanted to have an understanding. I, I didn't wanna practice. This isn't like, I don't take on clients, but I wanted to ha be knowledgeable so I knew what I was doing and I could holistically heal. I really believe in holistically healing and what that, you know, like I said earlier, that's, that's working with your doctors, that's doing the treatment that's recommended, and then also taking part in learning about nutrition diet. Nutrition, uh, fitness, all the things. All the things, your environment. And I feel like, like I said before, it just gives you a sense of control and peace and releases and minimize some of that fear that you have when you're taking part in it. And not only that, but not only is it gonna help you, but helps your family, you have a better understanding.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "holistic_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "calm",
+      "fear"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains agency signals (seeking_information), emotional signals (confidence, calm), and a barrier signal (lack_of_information) within a healthcare context, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p6"
+    ],
+    "moment_text": "I think knowledge is power. When you know more, you can, you know, do better. It's just you have such a better understanding of it, it makes sense. And again, there has to be balance to that because the most important thing is joy and happiness and living your life. So even though we read all these scary things about our environment, we don't have control over everything. We don't. I mean, we just don't. So you have to just do your best and then release the rest and go do things that bring you joy.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "calm",
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains agency signals (setting_boundaries) and emotional signals (calm, hope), meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "Oh, a hundred percent. I think the world's totally changing in a good way. Like we are, you have to advocate for yourself. I feel like it used to be we, the doctors and listen, doctors are amazing and they're save our lives and they're knowledgeable and they're incredible and all the work that, like there's nothing against doctors, but they don't know you to the core. And when your bells and intuition and it's going off and something doesn't feel right, you need to question that question the doctor. They're not gonna listen to you. Then you get another doctor. You're in the driver's seat. You need to advocate for, advocate for yourself.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "patient_advocacy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "asking_questions",
+      "changing_providers"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains strong agency signals (self_advocacy, speaking_up, changing_providers) within a healthcare provider context, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "caregiver",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p8"
+    ],
+    "moment_text": "I will remember, I'm gonna share this story. This was Darren. Like I told you, I was his biggest advocate. I could have performed brain surgery back then. He, um, this was after his second brain surgery. He had some complications afterwards and had a stroke and we ended up flying home and that's when he had a lot of issues. We had his surgeries at a different hospital that we traveled to when we came home. Uh, that's when all the complications happened in the, the hospital here. It wasn't the right place and they were wanting to perform surgery and I knew it wasn't the right thing to do because he was in such a vulnerable state. And I literally stopped a surgery from happening and the doctor yelled at us and basically fired us. And I'm like, that's okay. We're gonna do this on our own terms. And he actually went home on, on antibiotics and was fine. He never needed that brain surgery. And they were about to open up his brain, uh, five days after having massive brain surgery. And I can honestly say he wouldn't have survived that. And he knows that too.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "patient_advocacy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "anger",
+      "relief"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "making_decisions",
+      "changing_providers"
+    ],
+    "barrier_signals": [
+      "provider_dismissal"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment is a clear barrier encounter (provider_dismissal) with strong agency signals (self_advocacy, making_decisions) in a critical healthcare interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": "Speaker role is caregiver in this specific moment as she is recounting advocating for her husband."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "So you have to advocate for yourself. If your intuition is going off and something doesn't feel right, you need to pay attention to that and you need to question it. And I, but I really do think it is getting better. I think women are understanding that they need to advocate for themselves, whatever that is. So that is exciting because I feel like for so many years we were just like, the doctors are right. You gotta listen to the doctors. Doctors know all, and that's not the truth. They're, they're not God. Right. You are the one that's in control of your life, and if something doesn't feel right, you address it.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "patient_advocacy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "hope"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains strong agency signals (self_advocacy, speaking_up) and emotional signals (empowerment, confidence) related to healthcare provider interactions, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p10"
+    ],
+    "moment_text": "Yeah. And again, it's, it's removing the fear, you know, behind it. Mm-hmm. Like there's, there's no fear in, in speaking up for yourself because we have to live with ourselves and the decisions afterwards. So, yeah.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "patient_advocacy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains agency signals (speaking_up), emotional signals (fear, empowerment), and a barrier signal (fear_of_judgment) within a healthcare context, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "Yeah. I think the biggest thing is to slow down. Take a deep breath. Nine times outta 10, we are not in a rush. This is when we can get the second and third opinions and really do a little research on our team. You know, I feel like we're, and I get it. I was there. You just want the cancer out. You're like, quick, quick, quick. Let's do this. Take a deep breath. That way, when you are making a decision, it's an informed decision. It's not a reactive decision. You can feel confident with your decision.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "calm",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "making_decisions",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains agency signals (seeking_information, making_decisions), emotional signals (anxiety, confidence), and a barrier signal (time_constraint) related to healthcare interactions, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "BH_023.docx",
+    "season": "1",
+    "source_file": "BH_023.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:00.000",
+    "paragraph_ids": [
+      "p12",
+      "p13"
+    ],
+    "moment_text": "I think it is important to create joy. Get outside, take deep breaths. Incorporate something that brings in something calm. Know that your life is not over. It's gonna change. There's gonna be some bad days, there's gonna be some amazing days, and every day. If you just find a little bit of joy in each day, a little bit of gratitude, a tiny little thing. It's gonna, it's gonna help you, um, you know, get through it. And then lastly, I would say, I really do feel like when you are learning more about it and you're incorporating, you know, whether it be just adding in more fruits and vegetables wherever you feel like, like if you look back, and this is never to blame or shame or say you caused this, but when it really helped me so much to look back and say, okay, what was I doing five years before my diagnosis? Five or 10 years? What, what could I change there? How can I make that different? Because I do believe if you don't make some sort of change, I, I don't know. I, I, I think about like, you know, when there's mold in a basement, they come in and they, they mitigate it, they get rid of that molds. But if you don't change that environment, the terrain that that mold grew in. It's most likely gonna come back. And I feel like when we make those changes, you know, and that's that, I'm not saying it's gonna come back if you don't, but I'm just saying it, it is something that I think you really need to take care of. I know that for me, prior to my diagnosis, I was stressed. I was drinking too much. Not that I had a problem, but I definitely enjoyed a glass of wine or two, uh, almost every night. That has definitely minimized. Um, I've changed a lot and I feel like that has helped immensely. So just looking back, never to blame or shame or saying it's your fault, but what changes can you make going forward to change that environment within your body? And maybe that is just simply bringing in more peace and joy. It could be as simple as that. If you're living in a stressed world, you're holding into anger or resentment, like, that's not good for us. And maybe it's just releasing that.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "holistic_health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "hope",
+      "calm",
+      "shame"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains agency signals (making_decisions, self_blame), emotional signals (hope, shame), and a barrier signal (shame_culture), meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This moment combines the speaker's final pieces of advice into one coherent thought, covering creating joy, reflecting on one's internal environment without blame, and her personal example of making changes."
+  }
+]

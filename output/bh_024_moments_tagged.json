@@ -1,0 +1,1290 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Michelle Hop Good",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:01",
+    "timestamp_end": "00:03:00",
+    "paragraph_ids": [
+      "p_8",
+      "p_9",
+      "p_10"
+    ],
+    "moment_text": "Well, I'm actually one of those people that didn't feel anything. I felt absolutely nothing. I have dense breasts and I. Went in for my normal, I scheduled my mammogram, um, and I always do a mammogram and an ultrasound. And the only thing that was different is that I normally do it every year in January. I go to all my doctor's appointments in, you know, January, get everything checked out. And that particular year was in 2024. I had a lot of busy things going on, so I rescheduled it for February. And, you know, just like, okay, time to go get my, you know, my, my ultrasound and mammogram. I had done a biopsy before, but it was clear. There's nothing that I was concerned about. So went in and got my mammogram and ultrasound, and I noticed that the technician in the ultrasound kept kind of going over one spot, and in my mind I was just like, oh, that's just the bi, that's the previous biopsy spot. Everything's fine. Um, I get a message the following day that I need to come back in, um, and do another mammogram and ultrasound, and that's when I got a little bit nervous and I was just like, Hmm, okay.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with an agency signal (seeking_care) and an emotional signal (anxiety) within a healthcare_provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Michelle Hop Good",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:00",
+    "timestamp_end": "00:04:30",
+    "paragraph_ids": [
+      "p_10",
+      "p_11",
+      "p_12",
+      "p_13",
+      "p_14",
+      "p_15",
+      "p_16",
+      "p_17",
+      "p_18"
+    ],
+    "moment_text": "So I went in and I did the ultrasound again, and the doctor at the time said, you have, we, we wanna do another biopsy. And I just, I just started to get nervous, you know, didn't think anything of it, but I was, I was a little nervous and I just thought to myself, oh, you know, it's gonna be fine. But it wasn't fine. It wasn't fine. I went and did the biopsy and actually the biopsy was a little bit traumatic for me because in the um, I'm just gonna pause for a little bit 'cause my son's home health aid is coming in. Sorry. I know it's a lot of noise in the background. The door's opening. Oh no, not at all. You're good. Okay. So, uh, the bi the biopsy, um, was a little traumatic for me because the first place I'd ever had the biopsy done, the clicking sound, the doctor that was doing the biopsy was not, she did not have good bedside manner, uh, for that particular situation. Um, and kind of dismissed my feelings of discomfort. Um, so. In the second biopsy, I was really, um, triggered by the sounds. And this time around I let them know like, Hey, I had a biopsy done before and it was really a horrible experience. So this time they were a lot more attentive to my needs. This was a different facility that I was going to. Um, they held my hand, they were very caring through the whole thing, um, and got the biopsy done and that was it.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "fear",
+      "validation"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "changing_providers"
+    ],
+    "barrier_signals": [
+      "provider_dismissal"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong agency signals (speaking_up, changing_providers) and a barrier signal (provider_dismissal), illustrating a clear contrast in care experiences.",
+    "risk_flags": [
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Michelle Hop Good",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:30",
+    "timestamp_end": "00:05:26",
+    "paragraph_ids": [
+      "p_19",
+      "p_20"
+    ],
+    "moment_text": "But the following day, um, here comes the portal, the results are in. And I will never forget, my husband was away on a trip and I have a son who is, uh, intellectually disabled and autistic, and he's 31, and my husband and I are full-time caretaker. So I was sitting actually right here at my. Dining table and I was giving my son his breakfast and I saw the message came in in the portal, so I just pulled out my phone and went to read it and it said invasive ductal carcinoma in the portal. And me being someone who, I have a master's degree in exercise science, health promotion. I've worked with clients, I've had cancer before. I saw carcinoma and it was just like. That's cancer. Wait, wait. And I just started rereading it and rereading it and I'm like, is this, is this real?",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "isolation",
+      "confusion",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong emotional signals (isolation, confusion) and a barrier signal (lack_of_support) related to receiving a diagnosis via a patient portal.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The moment highlights the impersonal and potentially traumatic nature of receiving life-altering news through a digital portal, especially while alone and in a caregiving role."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Michelle Hop Good",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:26",
+    "timestamp_end": "00:06:12",
+    "paragraph_ids": [
+      "p_21",
+      "p_22"
+    ],
+    "moment_text": "Because I am 48 years old, I spent 20 years working in health and fitness. I was a personal trainer group, exercise instructor, wellness manager. Um, there's no history of cancer in my family at all. I don't drink, I don't eat, I don't drink alcohol. I don't smoke. I exercise, I eat well. I'm not gonna say I, I ate perfectly because I, we all like french fries and burgers and all this, that other stuff. Um, but I was just in utter shock, like, how do you, what does this mean? I have cancer. No. So to answer your question, there, there was nothing. There was, there was nothing that prepared me for that.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "confusion",
+      "self_doubt"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with a barrier signal (education_gap) and emotional signals (confusion, self_doubt), highlighting the shock when a healthy identity is confronted with a serious diagnosis.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Michelle Hop Good",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:12",
+    "timestamp_end": "00:07:20",
+    "paragraph_ids": [
+      "p_23",
+      "p_24"
+    ],
+    "moment_text": "I didn't, I didn't feel anything, and I'm actually gonna be 100% straight about this, and it's nothing that I'm ashamed of. I was not that person that would check my breast every, every month. I had learned how to do breast checks, but I could never figure it out because my breasts were dense and I had small breasts. And when I had my son, he was born prematurely. All those years ago, I had, um, a breast engorgement. So my breast sw, they sw, they were swollen, and then because he couldn't take the milk and he was in an incubator. So my breasts shrunk down at the end. So that's what really kind of stretched out and damaged. And so I wasn't spending a lot of time with my breasts every month. I wasn't like, you know, checking because even when I was checking, I could never figure out is this a lump? Is this dense? Is this, what is this? So I waited until every year when I went to my my mammogram appointment to get that information now.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confusion",
+      "resignation"
+    ],
+    "agency_signals": [
+      "avoidance",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with clear barrier signals (lack_of_information, education_gap) and agency signals (avoidance), detailing a common challenge with breast self-exams for women with dense breasts.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Michelle Hop Good",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:20",
+    "timestamp_end": "00:08:06",
+    "paragraph_ids": [
+      "p_25",
+      "p_26"
+    ],
+    "moment_text": "Prior to having to do the mammogram and ultrasound when I was in my mid thirties and I went to the gynecologist, they would do like my, this is when you had, you did your pap smear like every six months or something like that. And then she would, they would check my breasts and there was one or two times where they're like, oh, your breasts feel a little dense. And they did send me to a breast specialist. So I was seeing a breast specialist in my mid thirties, and because I had these dense breasts, they sent me for a mammogram in like my mid thirties, they would always come back clear. There's nothing wrong. Oh, okay, let's do an ultrasound. Okay. There's nothing wrong. So never at any point was there ever anything wrong. It was always just like you have to express and that's it. Right? So I was basically blindsided to put it like that.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "resignation"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "symptoms_normalized_without_context",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with a clear barrier signal (symptoms_normalized_without_context) and agency signal (seeking_care), describing a long-term pattern of normalization that created a false sense of security.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Michelle Hop Good",
+    "speaker_role": "patient",
+    "timestamp_start": "00:08:20",
+    "timestamp_end": "00:09:40",
+    "paragraph_ids": [
+      "p_29",
+      "p_30"
+    ],
+    "moment_text": "Okay, so prior to diagnosis in 2024, that was a really actually a stressful year for me because I. In late 2023 going into 2024, which is when I got my diagnosis, I was like really going through the throes of perimenopause. I was having like. Panic attacks over like random things. Um, I was tired. I wasn't getting enough sleep. I was under a lot of stress. I gained a lot of weight. I had, um, my home organizing business. I had to, I had planned to take a little bit of a mini break that January into March to, um, just kind of. Regroup and, and focus more on my wellness because running a, a business, which I had just started, it was taking off much faster than I anticipated. I was doing pretty well with the business. Um, I had been hired to do like a TV show, like it was, it was, everything was going well with my business. But on my personal side, I didn't know what was wrong with me.",
+    "moment_type": "lived_experience",
+    "life_stage": "menopause_transition",
+    "health_domain": "Perimenopause",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "anxiety",
+      "overwhelm",
+      "confusion"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong emotional signals (anxiety, overwhelm, confusion) describing the lived experience of perimenopause symptoms.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Michelle Hop Good",
+    "speaker_role": "patient",
+    "timestamp_start": "00:09:40",
+    "timestamp_end": "00:10:28",
+    "paragraph_ids": [
+      "p_31",
+      "p_32"
+    ],
+    "moment_text": "I, I knew that I was going through perimenopause, but I didn't correlate the mental things that I was experiencing with perimenopause. I just thought like, oh, you know, I just have anxiety. Oh, this is, this is wrong. That's wrong, because all I knew about. Perimenopause was that, or menopause is that you get hot flashes. Um, so I started researching a little bit more and realized like that's, that's what, that's what was wrong with me. Spoke to my gynecologist, but they didn't, they gave me the normal spiel of, your labs are normal, um, your hormone levels are normal. Um, and it just didn't fly with me. So I went to a menopause specialist who then looked at my labs and said, no, you are, you're in perimenopause.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "menopause_transition",
+    "health_domain": "Perimenopause",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "self_doubt",
+      "frustration",
+      "validation"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "speaking_up",
+      "changing_providers"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "provider_dismissal"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong barrier signals (provider_dismissal) and agency signals (seeking_information, changing_providers), representing a classic pattern of dismissal and the need for self-advocacy.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Michelle Hop Good",
+    "speaker_role": "patient",
+    "timestamp_start": "00:10:40",
+    "timestamp_end": "00:11:30",
+    "paragraph_ids": [
+      "p_34"
+    ],
+    "moment_text": "I also realized that looking back, like in my maybe mid forties, 'cause I was 48 at the time in that year prior to, that's when I had reached my peak where I was just like, I can't, um, that's when I had also gotten diagnosed with A DHD 'cause I was seeing a therapist and I was telling her that. Hey, I'm super organized. I'm like a type A personality. Things are taking me like much longer to do. Making decisions is taking me much longer. Getting dressed has taken me longer. Um, my home is pretty organized, but doing daily tasks. That's taking a lot longer. Getting dressed to leave the house's taken me like an hour and a half where it used to take 30 minutes.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "ADHD",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "confusion"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "delayed_diagnosis"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with agency signals (seeking_support) and a barrier signal (delayed_diagnosis) in a healthcare interaction, highlighting the experience of late ADHD diagnosis in women.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.213",
+    "timestamp_end": "0:01:01.933",
+    "paragraph_ids": [
+      "p_25",
+      "p_26",
+      "p_27",
+      "p_28"
+    ],
+    "moment_text": "Um, and I brought it up like, do I have a DH adhd? Because I didn't think that I did because in my mind someone with A DHD is someone that's disorganized, you know, there. But she explained to me that that's not necessarily the case. So I had also gotten diagnosed with it. Then at the time. So there was a lot going on in that first year I was in that year prior. I was realizing what was going on and I was trying to navigate my way through it and find help for what was happening and also realizing that between 45, 46, 47 when I started to have like the heavy periods and you know, the rage and like all of this stuff that I was actually starting to go through it. But I didn't have anyone to talk to about it because my mom had had a hysterectomy, so she didn't necessarily go through that. And also being, um, so a child of Caribbean parents, like my, my family's from Trinidad, they don't necessarily talk about things like that. You know, they don't address things like that. It's just like, suck it up and, you know, that's just life and, you know, that's basically it. So. Yeah, there was, there was a lot, there was a lot going on. But those things specifically, yeah.",
+    "moment_type": "lived_experience",
+    "life_stage": "menopause_transition",
+    "health_domain": "mental_health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "overwhelm",
+      "isolation"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "silence",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains barrier signals (lack_of_support, silence) within a specific system interaction (family), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:07.113",
+    "timestamp_end": "0:03:02.993",
+    "paragraph_ids": [
+      "p_30",
+      "p_31",
+      "p_32",
+      "p_33",
+      "p_34",
+      "p_35"
+    ],
+    "moment_text": "Um, I, I don't think so. Um, no. I mean, I just, whatever was going on, I just tried to, you know, figure it out. Um, I will say that. As far as support, you know, it was a little, there was some nuance there with finding support for my personal experience as a black woman who was basically like a Gen Xer, uh, when it came to finding support through like my hospital, because that was the first, your first line of here's who you talk to. Um, they had support groups and, you know, the support groups were filled with basically like older white women, um, women that were maybe in their sixties, seventies, or, you know, but no one that I personally could relate to, even though I was 48 at the time. I know I don't look 48. I, I know that I look. I've always looked younger than my age. So when I even say I'm 48, and this is not like, say anything, but this is what people have told me. So it's just like, and then my, my, my personality is very like young and like bubbly and like, you know, vibrant. So when I, when when I would tell people that I was 48, they would just be like. She looked so young, you know, you look younger than that. Or they would just view me as somebody that was maybe like late thirties, 40, you know, not necessarily almost 50 years old. And right now, even today, I'm 50. And when I tell people that I had cancer, they're just like, wow, you look, you look so young. You know what I mean? So. That's as far as it went with, as far as how I would navigate it for support. Now, when I, whatever it was that I needed to be done, my age had nothing to do with it because I've always been someone who speaks up for themselves and I've always had to advocate for my son. I had my son when I was 20 years old, freshman year in college. Very, which is considered very young. So I've been a parent for 31 years and advocating for that much time. So I am not someone who's ever been afraid to speak up for myself. And even if people would view me as as too young and they would dismiss me. Honey, you, I'm gonna get my answer. I'm going to get what I want and I'm going to get what I need. And if you can't give it to me baby, get somebody else that will, or I'll find someone else that will. So my age really didn't have anything to do with as far as advocating. I did have more experience and I in, in advocating for someone else, but I was not gonna not advocate for myself. But as far as my age went, it was more about finding other people that looked like me that got what I was going through. That was in my age group. So to speak.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "menopause_transition",
+    "health_domain": "breast_cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "confidence"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains barrier signals (lack_of_support, social_isolation) and agency signals (self_advocacy) within a specific system interaction (peer_community), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:03:11.183",
+    "timestamp_end": "0:04:40.183",
+    "paragraph_ids": [
+      "p_37",
+      "p_38",
+      "p_39",
+      "p_40"
+    ],
+    "moment_text": "So I actually had to basically give, like, to basically share my cancer diagnosis on online, on Instagram. What I initially, I initially would. Come on my page and just remind people to get their yearly mammograms. I'm going to get my mammogram and I would videotape me going to get my mammograms and say, Hey guys, make sure you're getting yours if you're over 40. And I recorded it. And then I recorded being told that I needed a biopsy. And then when I found out what happened. I did not record it. I, I literally shut down and disappeared off of social media and I basically left my community hanging because I was in shock. I was traumatized and people were DMing me asking how I was doing, did I get my results? How am I doing? So then I had to basically make a video saying that I had cancer because I, it wasn't right for me to. Not come back and say what happened? Because again, I told you before in my mind, I'm gonna be fine, but I wasn't fine. So I had to come back on and say that I had cancer. Um, but there was a rainbow from that. There was a, a, a, you know, something good came from that because when I came back on and said I had cancer, so many people that were in my community replied and said, me too. Or I went through this, people that I knew personally, like a friend from high school was just like, yes, me too. I had it. But they, those people did not choose to share their diagnosis online. They chose to kept it private. And I'm not gonna lie to you some days, baby, I agree with the privacy. Because unfortunately, the moment that I did share that I had cancer with my community, while other people reached out to me and said, I too, me too. And I did find my small community within that. I also had people telling me my mama died from cancer. She died and my cousin died and my auntie died and you know, literally DMing me and saying that, but you're gonna pull through and thinking that they're supporting me somehow. And it was many dms like that to the point where I had to make a post saying.",
+    "moment_type": "lived_experience",
+    "life_stage": "menopause_transition",
+    "health_domain": "breast_cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "overwhelm",
+      "isolation",
+      "connection"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "seeking_support",
+      "withdrawing"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional signals (overwhelm, isolation) and agency signals (sharing_story) within a specific system interaction (peer_community), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "speaker_01",
+    "speaker_role": "patient",
+    "timestamp_start": "0:04:40.183",
+    "timestamp_end": "0:06:14.183",
+    "paragraph_ids": [
+      "p_41",
+      "p_42",
+      "p_43",
+      "p_44",
+      "p_45",
+      "p_46"
+    ],
+    "moment_text": "Please stop sending me these videos of drinking smoothies to cure cancer, unfounded things, and telling me that your family member died. You know? And some people didn't even like that they got upset. Well, you never know who's gonna be able to help you. And actually someone really close to me said that to me, and that kind of. But that's for another day. Um, that really hurt me because it was just kind of like I'm speaking up for myself. Just because I'm sharing my diagnosis online doesn't mean that I want, I'm gonna be the punching bag for your negativity or your past, your trauma, your experience with cancer. Because I don't know how you don't understand that messaging someone and telling them that someone else, you know, died. They died. While I'm going through this, it's gonna make me feel like, but I'm gonna live. This is great. Right. So within that, I did, I found my community, I found a few women who also said they were going through it. I started talking to them. Um, other women started reaching out to me from a couple of organizations who were, who knew about, um, being advocates and connected me with other women. And it, it really did help me. It helped me. I also had a friend who was ironically in my professional organizing business circle. The prior year I had gone to a um, retreat. I'm in a group called Black Girls Who organizes, and we had our retreat and the owner, or the president or the founder of the, um, organization, she had breast cancer, and she was about maybe 10 years older than me. So during that retreat, the year prior, we had a workshop where a nurse practitioner came in and showed us how to check our breasts because the, because the retreat was in October and we spoke about breast cancer and dense breasts. And I was sitting in that workshop and I had said, oh yeah, I have dense breasts. And, you know, and I had had a biopsy, never thinking that a year later I would also get cancer. So she was one of the first people that I personally reached out to after I got my diagnosis and said like, Hey, I got, you know, it's happened to me. What should I do? Could you help me? I would call her late at night crying and she would support me. And, you know, that's, that's where it started. You know, so I don't know if I answered your question, but I I think you did.",
+    "moment_type": "advocacy",
+    "life_stage": "menopause_transition",
+    "health_domain": "breast_cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "frustration",
+      "sadness",
+      "connection"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "speaking_up",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains multiple agency signals (setting_boundaries, speaking_up, seeking_support), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "So I've started looking into oncologists and different breast surgeons and started making my way through. Different hospital networks. And, um, I scheduled one first appointment at a hospital and went by myself. And I'll just never forget, I was on the train just completely distraught, crying, saying to myself, I can't believe I have cancer. My husband couldn't go with me at the time, and I went to the appointment and the doctor was just like, I don't wanna say she was cold, but she just was just like, why are you here by yourself? And just kind of like answering the questions, but just not. Not very friendly, so that that didn't work.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "sadness",
+      "isolation",
+      "frustration"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "lack_of_validation",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it describes a significant barrier encounter with a healthcare provider, including provider dismissal and strong emotional signals of overwhelm and isolation.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p3"
+    ],
+    "moment_text": "And I kept searching, kept searching and found a breast surgeon who was pretty good. She explained everything to me really well during the consultation. This time my husband came with me. By that point, I had learned that I needed to have some money with me. Um, I recorded the, the, the, um, appointment. Listened to everything that she said, he came with me so that he could also gain knowledge about what was going to happen. And she definitely explained. It by then, you know, I, I decided to go with a lumpectomy instead of a um, a mastectomy, and she said that I would have to go through radiation. But then she also explained based on my Oncotype score, and like she really took the time to explain everything, and that's what made me choose her, because I had had other doctors that just were kind of like, you know, they were telling me, but it wasn't collaborative. Whereas with this breast surgeon, she was giving me options. You could do this or you can do this, but here's my thoughts on this. Um, you can do this, you can do this, but it doesn't necessarily change your recurrence or like, she was definitely very clear about that.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "clarity",
+      "trust",
+      "validation",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "changing_providers",
+      "seeking_information",
+      "making_decisions",
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it highlights strong agency signals, such as changing providers and seeking information, and demonstrates the positive impact of a collaborative healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p4"
+    ],
+    "moment_text": "Now, when it came to my treatment, once I got my Oncotype, that particular oncologist that was connected to my breast surgeon's group, she um, basically was just like, yeah, I recommend chemo and. Based on the Oncotype score, doing chemo was only gonna help me like two or 3%. And I just was like, wait, why am I gonna do that? So in order for me to stay within that hospital network, I would've only had her as my option. So I decided to go someplace else. A friend of mine who was, well actually not even a friend, someone that I saw on social media who also worked in health, the health fitness field. She had shared her diagnostics, diagnostics story. Another black woman, and I just reached out to her on social media. I just dmd her and she responded right away. Then she was like, here's my phone number. We were started texting. I reached out to her because she was going. She had gone through the same thing and I asked her for her oncologist, she referred me to that person. I went to them and I had a one-to-one sit down. She explained to me, you don't actually need, um, chemo. And ironically, this particular oncologist was the professor of the oncologist that I had gone to previously.",
+    "moment_type": "advocacy",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "self_doubt",
+      "confidence",
+      "connection",
+      "clarity"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "seeking_support",
+      "seeking_information",
+      "changing_providers",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible due to its clear demonstration of self-advocacy and seeking support from a peer community, which are strong agency signals, in response to a healthcare system barrier.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The system interaction also includes 'peer_community' because of the social media connection that led to the new doctor."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p5"
+    ],
+    "moment_text": "Basically I ended up having a new oncologist that had way more experience that didn't feel that I needed to do chemo, and by then everything was just, you know, it was crystal clear. So I stayed with the old hospital to do my radiation. I had a radiation oncologist and then my oncologist at another hospital who, so I had two different types, but I felt that by then it took, it was a little bit maze of confusion and navigating it. It was not easy. But I'm very happy that I didn't just take the first person's results. Um, and just definitely got other, other, um, other opinions, which I think is extremely important. 'cause there's no one way it's best to always just get your, get your options if your insurance allow you to do that.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "clarity",
+      "confusion",
+      "relief",
+      "confidence"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "making_decisions",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it explicitly describes systemic barriers like fragmented care and system navigation difficulty, coupled with agency signals of self-advocacy and reflection on the importance of second opinions.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p7",
+      "p8"
+    ],
+    "moment_text": "That the, the healing for that was a lot worse than I thought it was going to be, than what I was explained, because it was just like, okay, we're gonna remove the lump and you know you're gonna be good in six weeks and then we'll get started with radiation. And I ended up having two seromas. Um, in the incision area that had to be drained, I ended up dealing with auxiliary web cording, which is this tight cording that comes up underneath the armpit. Uh, and that was from them doing, I'm checking the lymph nodes, so I didn't have any lymph node involvement, so that, that was actually really good. Um, but the healing for the lumpectomy was way more than I expected. Um, coming home from the hospital. I definitely had to do my research on lumpectomy healing within chat groups and Facebook groups on like, what to buy, like the pads to buy for your breasts to come home in the car. Unfortunately, the doctor's office didn't really give that much support in like the real nitty gritty healing part. They, they kind of, I feel like they purposely keep it very vague because everybody heals differently. I was definitely a little bit annoyed with my surgeon 'cause I'm like, why don't you tell me I could get a C aroma end up in the ER twice, you know? Why don't you tell me that I would have auxiliary web cording? And they were just basically like, well, you know, that doesn't normally happen. Like this is blank. Oh, it's very rare. It's very rare. I'm like, okay, great.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "provider_dismissal",
+      "symptoms_normalized_without_context",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it details a significant barrier encounter, including provider dismissal and a lack of information, which prompted the speaker to seek support and information from a peer community.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The system interaction also includes 'peer_community' because the speaker had to turn to Facebook groups for information her doctor did not provide."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p10",
+      "p11"
+    ],
+    "moment_text": "The only thing that was very stressful was the actual experience going there every day and seeing other people getting treatment, seeing. Older people. Again, nobody else there was my age. I was still the youngest person in the room. Older people coming over to me and saying, baby, what you doing here? You look so young. You, so young you, you too young to have cancer. And I'm like, I know. Go figure. So navigating that was very stressful to the point where I stopped waiting in the waiting room. And I would just go, there was a private room we could go in and I would just go in there and sit. Um, the first day of getting there and laying in the machine and looking up and having this thing going over, you crying. I was just crying through the whole thing, just like, I can't believe this is happening to me. Why me? Why? You know, like I did everything right. And here I am going through this. And that was basically the first week, the first five to seven sessions. I was just crying through the whole thing.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "isolation",
+      "sadness",
+      "grief",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "enduring",
+      "setting_boundaries",
+      "withdrawing"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible due to the strong emotional signals of isolation and grief within a healthcare provider interaction, highlighting a barrier of social isolation.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p12"
+    ],
+    "moment_text": "Um, but by the second week, I. Pulled it together. I had, I knew the room was cold, so I had like sleeves for my arms, and I had a playlist by then. Um, I started changing my mindset around what was happening to me. Um, I started affirmations like, I'm healed by the blood of Jesus. I am healthy, I am strong. I will get through this. Um, I am cancer free, like saying these things in my mind. And that started to make the experience a lot better. Was it still stressful? Yes. Um, but as far as my treatment goes, that basically was how I navigated it. I was just waiting to get to the other side, waiting to ring the bell. Um, and, and when I did, I definitely, I think everybody in that building heard that bell.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment",
+      "hope",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it demonstrates strong agency signals, such as making decisions to change one's mindset, and powerful emotional signals of empowerment and hope.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "While this takes place during treatment (a healthcare interaction), the core of the moment is an internal shift in mindset, making 'none' the most appropriate system interaction."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_024_M021",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Bianca",
+    "speaker_role": "patient",
+    "timestamp_start": "00:20:05",
+    "timestamp_end": "00:21:20",
+    "paragraph_ids": [
+      "p40",
+      "p41",
+      "p42",
+      "p43",
+      "p44",
+      "p45"
+    ],
+    "moment_text": "Since ringing the bell, there's been lots of ups and downs because of the treatment. So I had to go on five years of, of hormone blockers. Uh, I'm on anastrozole. Um, because of my age. It was like a, a Lupron injection every three months to shut down my ovaries and an aromatase inhibitor anastrozole. Um, and. That first couple of, of, uh, months I was okay. You know, but once the, the, I think once the side effects of the drugs started kicking in, that's when things started to go a little downhill. I had lost about 20 pounds from my diagnosis. To like, up until that time, 'cause I had completely overhauled my diet and working out and really taking better care of myself. So I had naturally lost a lot of weight and the weight started to creep back up again. Once I got on the medication, um, I was dealing with joint pain. I had a hip impingement even though I had gone and done like a b uh, bone density just 'cause a baseline. I, I, I knew to do one of those. Um. I was dealing with the auxiliary web cording stuff still under my armpit. Uh, I was dealing with emotional distress. I was dealing with people just believing like, oh, you, you, you beat cancer. You're fine now. Um, I was dealing with working so very hard to lose the weight and then gaining it all back, and I was basically doing the same thing. Going to the doctor and my doctor telling me you are pre-diabetic, you have high blood pressure. Oh, your A1C is high. And I'm like, ma'am, I'm literally doing the same exact thing I did before and then finding out that it didn't matter because the drugs was doing this to me on purpose. Like it's like, no, that's a side effect of this drug. So you're telling me that. I'm eating right, exercising multiple times, um, and doing all of these things, but none of it matters because the drug is making me be pre-diabetic and having all of these symptoms.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "overwhelm",
+      "hopelessness"
+    ],
+    "agency_signals": [
+      "enduring",
+      "tracking_symptoms"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "lack_of_validation",
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong barrier signals (lack of information about drug side effects) and emotional signals (frustration, hopelessness) within a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_024_M022",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Bianca",
+    "speaker_role": "patient",
+    "timestamp_start": "00:21:21",
+    "timestamp_end": "00:22:30",
+    "paragraph_ids": [
+      "p46",
+      "p47",
+      "p48"
+    ],
+    "moment_text": "So that really put me in a downward spiral, um, because my clothes weren't fitting. So I switched to another medication, um, which was. Stein, I could never pronounce it correctly, but I went on another AI because I was speaking to my oncologist about what was happening, and she's like, okay, we'll just switch you on something else. And once she put me on that, honey, that made it even worse. I gained even more weight. And then that made me super depressed and it, it was just a really, really dark place. And, um. I really have been trying to navigate through it. Up until the beginning of this year, I was just super depressed from the medication and I was just kind of like, okay, I beat cancer, but now after this can't be my life, it also made me not want to exercise and that, you know, I'm not gonna just blame it on that completely, but I have a sad, so when it's, when it's, um, winter and it's cold outside. My effective disorder doesn't even make me wanna leave the house. So adding the medication along with that, it just put me in a downward spiral.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "sadness",
+      "hopelessness",
+      "isolation"
+    ],
+    "agency_signals": [
+      "withdrawing",
+      "enduring",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong emotional signals (depressed, dark place, downward spiral) related to a healthcare provider interaction and the side effects of treatment.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_024_M023",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Bianca",
+    "speaker_role": "patient",
+    "timestamp_start": "00:22:31",
+    "timestamp_end": "00:23:45",
+    "paragraph_ids": [
+      "p49",
+      "p50",
+      "p51"
+    ],
+    "moment_text": "Now, my primary care doctor who was at my cancer center, she had mentioned, okay, I can put you on Metformin for your, um, pre-diabetes and it could help with regulating your blood sugar. But I just cut it. I was like, no, no more drugs. No. I was just like, no. And she's like, I'm telling you, like, okay, but if it wasn't for my community of breast cancer friends and telling them what was going on, or like asking around what was going on and speaking to other women at other events that were breast cancer, where they were talking about their weight gain and they were talking about GLP ones and metformin, I would not have known. I would not have been open to, you know. Doing that. So after speaking to a couple of people on their experiences, they basically said like, oh yeah, like with the Metformin, I was on extended release. It did help me regulate my appetite, it helped me, um, with my blood sugar. I lost a couple of pounds, which I wasn't really concerned about that, but I was more open to it. And if I had not had that community, I would've still just been like. Spiraling. So I reached out to my primary care doctor again and got on the Metformin, and it really did end up helping me.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Peer Support",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "relief",
+      "hope"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_information",
+      "asking_questions",
+      "making_decisions",
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong agency signals (seeking support, seeking information) and emotional signals (validation, relief) related to a peer community interaction that led to a positive health outcome.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_024_M024",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Bianca",
+    "speaker_role": "patient",
+    "timestamp_start": "00:23:46",
+    "timestamp_end": "00:24:55",
+    "paragraph_ids": [
+      "p52"
+    ],
+    "moment_text": "Um, it, it got rid of my bloating. Um, I wouldn't have this food coma after I would eat. Um, it helped me also to be more motivated to, in order to help it work, I wanted to get my blood sugar stable. So I was more motivated to go to the gym and I resumed my five month break from the gym. Started working out again, started feeling better, and now I feel like I'm finally on the other side of it, um, with being open to taking another medication that could help with the side effect. Um, also being open to speaking to my gynecologist about. You know, my Gs um, you know, like vaginal dryness. I'm not even gonna, you know, we're speaking about this. This is very important. So I was having vaginal dryness and I spoke to my gynecologist and my oncologist and being, they put me on vaginal estrogen, which, which was very helpful. And yet another medication that I was like, Nope, estrogen. 'cause my cancer was estrogen dominant. But I had to say like, basically my quality of life after cancer. Is important. I can't just be on this five-year path of medication and be so terrified not to get other things to help the symptoms that I just, I just shrivel up and just turn into this person that I don't even know who, who, who the hell she is. So though that's how I've navigated the survivorship, where I'm now more open to getting little things that can help me down there and in, you know, and. Just with my, my, my health and my wellness and, and just everything I'm, I'm, I'm a lot more open to it, but it wasn't, it wasn't easy. It was definitely a, a roller coaster.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer Survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "fear"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "making_decisions",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong agency signals (self-advocacy, speaking up) and emotional signals (empowerment) related to a healthcare provider interaction about quality of life post-cancer.",
+    "risk_flags": [
+      "sexual_health"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_024_M025",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Bianca",
+    "speaker_role": "patient",
+    "timestamp_start": "00:25:20",
+    "timestamp_end": "00:26:40",
+    "paragraph_ids": [
+      "p58",
+      "p59",
+      "p60",
+      "p61"
+    ],
+    "moment_text": "I don't think so. I, I feel like you, you as the person you have to fight for it. You are lumped in with everybody else. The these doctors are seeing hundreds of patients at one time, and I'll put it like this perfect example. My oncologist, they give you a sheet. It's a green sheet with resources. There's one acupuncturist. The acupuncturist charges $200 a session. Baby, I cannot afford that. Acupuncture, you need at least eight to 10 sessions in a row, and then you need it once a month on top of all of these, you know, complimentary alternative medicines that you wanna try or, you know, techniques you wanna try, that's also cost effective. Um, so when you are younger, you may not necessarily have the funds to pay for all these things out of pocket. And sometimes doctors don't understand that. They just feel like, well, I'm giving you this information, do what you will with it. So unless you are personally seeking out this information, it's very, I believe it was hard to find, and this is for someone like me who, yes, I can train myself. I have an extra, a master's in exercise science and health promotion. You know, like I worked in health and fitness and wellness. I understand the human body anatomy, all of that. But even for somebody like me, I, it was, I was, it was no, I was in no, no shape for cancer. All of the information was very overwhelming. Very overwhelming. So when you're younger, you're not thinking about all of that. You're thinking about just kind of getting through it. So as far as the support goes, when you're older, you may have had more financial means to, to be able to take care of, to have these things. And if you don't, it can really put a dent on your pockets. It can really do that. So if you want the support, you yourself have to be willing to have the time and energy to seek them out. And sometimes that's not easy. It's not. It's not.",
+    "moment_type": "system_observation",
+    "life_stage": "reproductive_years",
+    "health_domain": "Healthcare Access",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "cost_constraint",
+      "access_barrier",
+      "lack_of_support",
+      "system_navigation_difficulty",
+      "provider_dismissal"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains multiple strong barrier signals (cost constraint, access barrier, lack of support) within a healthcare provider interaction, making it a clear system observation.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_024_M026",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Bianca",
+    "speaker_role": "patient",
+    "timestamp_start": "00:26:50",
+    "timestamp_end": "00:27:45",
+    "paragraph_ids": [
+      "p63",
+      "p64",
+      "p65",
+      "p66"
+    ],
+    "moment_text": "Okay, so the first is, it is not your fault. It is not your fault. Nothing. Nothing caused your cancer. There's nothing that you did that gave you cancer. If you have people in your life that are asking you those kind of questions, cut them out. Cut out the people that make you feel bad about your situation. Cut those people out. So that's, that's the first thing. Woo. I didn't, I didn't mean to be crying up in here today. Okay. I didn't mean to be crying, but I feel like that's it. You, there's so much blame. There's so much blame. What did I do? What did I drink? Was it the microwave? Uh, you know, you, you ju there's so much blame. So there's nothing that you did. It is not your fault.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness",
+      "shame",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_blame",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "shame_culture",
+      "stigma",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong emotional signals (shame, sadness) and agency signals (self-blame, setting boundaries) related to a family/peer interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_024_M027",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Bianca",
+    "speaker_role": "patient",
+    "timestamp_start": "00:27:46",
+    "timestamp_end": "00:28:20",
+    "paragraph_ids": [
+      "p67",
+      "p68"
+    ],
+    "moment_text": "The second thing, surround yourself with supportive people that can be there for you and understand. But also, if you don't have those people and you are surrounded by people that don't understand, make sure that you are explaining to them what you need. Because you can't expect people to know what you want if you don't tell them. You can't put people in a situation where they're supposed to know what you need and then you get upset with them because they didn't give it to you. You have to communicate and if you are the kind of person that's not comfortable speaking up for yourself.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Peer Support",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "clarity"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "seeking_support",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong agency signals (speaking up, seeking support) related to a peer community/family interaction, providing actionable advice.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M020",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:27",
+    "paragraph_ids": [
+      "p43",
+      "p44"
+    ],
+    "moment_text": "You are going to get eaten alive in this cancer universe, honey, you're gonna get eaten alive. You're not gonna come out well because you're gonna end up angry at everybody because no one's supporting you. And then people aren't gonna support you because they're trying to just do all the generic things to support you. And because you don't know how to say, that's not what I need. They, they're, everybody's lost. Everybody's lost. So. Number two, you gotta put your big girl person panties on and say, and speak up for what you want. Speak up for yourself. Speak up for what you need. Okay?",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Oncology / Cancer Care",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "frustration",
+      "isolation",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "self_advocacy",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "social_isolation",
+      "lack_of_language"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (speaking_up, self_advocacy) and barrier signals (lack_of_support) related to navigating a peer community support system during a health crisis.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M021",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:27",
+    "timestamp_end": "00:00:54",
+    "paragraph_ids": [
+      "p44",
+      "p45"
+    ],
+    "moment_text": "And then now the last one is, do the best you can to take care of yourself and be honest with yourself when things aren't right. Don't put so much pressure on yourself to be this perfect cancer patient, because I saw a statistic the other day that said that maybe only 5%. Don't quote me on this, but it's around there. Five to seven or five to 10% of cancer survivors patients follow the protocol of what it means to be a healthy cancer patient, which means exercising, eating right fruits and vegetables, like all of the, the list of things, only 10%, five to 10% of the population is doing that.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Oncology / Cancer Care",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "self_doubt",
+      "validation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it identifies a systemic barrier (stigma of being an imperfect patient) and provides validation, which are strong emotional and barrier signals within a healthcare context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M022",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:55",
+    "timestamp_end": "00:01:21",
+    "paragraph_ids": [
+      "p46",
+      "p47"
+    ],
+    "moment_text": "And I understand. I understand that that's why it, it is hard. When I went back to work, I was lucky enough to take off months to deal with cancer. I did not work, but when I went back to my business and was a survivor, my life was in shambles. I can't cook breakfast, dinner, like make all these healthy meals, go to the gym, work, take care of my son, be a wife, like. My, my head was exploding and I was not doing well at all because I was still have checking off this list of perfect perfection, things that I needed to do, and I had to, I had to sadly realize I can't do that.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Oncology / Cancer Care",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "overwhelm",
+      "sadness",
+      "resignation"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "time_constraint",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it is a powerful lived experience detailing strong emotional signals (overwhelm, sadness) and barriers (time_constraint) related to family and workplace systems post-treatment.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M023",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:21",
+    "timestamp_end": "00:01:44",
+    "paragraph_ids": [
+      "p48"
+    ],
+    "moment_text": "So what can I do? And this is what I'm telling to you out there. I'm giving you this advice from a personal trainer. If you can exercise. Go for a walk. If you can't go to the gym, buy a pair of 10 or 15 pound dumbbells. Do some strength training in your house. Make, make little, make little, um, I don't know what the word is, but give yourself little things that you can commit to that's manageable. Don't say, I'm gonna go to the gym seven days a week. When you know that you're not gonna do that, right?",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Wellness / Self-Care",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (making_decisions, setting_boundaries) that offer a clear, actionable pathway for listeners.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M024",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Michelle",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:44",
+    "timestamp_end": "00:02:13",
+    "paragraph_ids": [
+      "p49",
+      "p50"
+    ],
+    "moment_text": "What can you do to take care of yourself and stick to whatever that is? And then if you can't hit all of the milestones and the goals, give yourself grace. But on the flip side, baby, you know when you slacking, you know when you are. You know when it's just like, damn, I haven't worked out in four months. I should probably go for a walk. I should probably do something. So yes, the medication's doing these things to us. It's making us feel shitty. Excuse me. It's making us feel really bad. It's making us, it's doing things to our body, but we also have to push back and say, these are the things that I need to do to, to be healthy. This is going to help me in the long run, and I have to hold myself accountable to do some of it. It doesn't have to be all or nothing.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Oncology / Cancer Care",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible due to its strong agency signals (self_advocacy, making_decisions) and emotional signals (frustration, empowerment) in the context of managing treatment side effects from a healthcare provider.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M025",
+    "episode_id": "BH_024.docx",
+    "season": "1",
+    "source_file": "BH_024.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:02:13",
+    "timestamp_end": "00:02:29",
+    "paragraph_ids": [
+      "p51",
+      "p52",
+      "p53",
+      "p54"
+    ],
+    "moment_text": "Hopefully that's the three things. That is, and that was perfect. And I am so grateful for you. I wanna say so much. I, I need to let you go, but thank you. Thank you. Thank you, Michelle. You're welcome. That meant a lot. It meant a lot. You, you got me, you got yourself. I'm sorry, I didn't mean to make you cry. No, it's, it's, it's wonderful. It's wonderful. I so appreciate you and your time, but, um, when I'm gonna.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection",
+      "relief"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it demonstrates a powerful moment of validation and connection within a peer community, which are strong emotional signals.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

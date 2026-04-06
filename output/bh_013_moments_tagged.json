@@ -1,0 +1,1796 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Senya Cisneros",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:38",
+    "timestamp_end": "00:02:31",
+    "paragraph_ids": [
+      "p5"
+    ],
+    "moment_text": "I, I knew something was off in the beginning of the year because of the way I was spiraling mentally. And the way I noticed I was coping and using things in a negative way to cope with things like using alcohol to numb more of the pain, um, more of my depression, more of my angst, like my mother had already at that point in time, she was finishing up her second, uh, fight and treatment through cancer and. It was right before my birthday. I was just in the shower doing a little bit of a self exam when I found it. And right away when I, when I felt it, it was like that instant gut wrenching like pain that you feel like my stomach just dropped and I knew it. I was literally was like, God, I know this is, this is probably cancer. There's, there's no way. It's not just because of, of how big it felt and just the way it felt and the way I could kind of move it. I just knew that it was gonna end up being cancer. And I know I probably shouldn't have had that mindset, but I, I was right from the moment that I felt it to the moment that I got diagnosed, it probably took honestly a little too long. It was probably a little bit over two months. Like two and a half months for me to actually get seen, get the, the path done or the biopsy done, and receive the path results.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "anxiety",
+      "sadness"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "delayed_diagnosis"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with a clear barrier signal (delayed_diagnosis) and emotional signals (fear, anxiety) related to a healthcare provider interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Senya Cisneros",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:10",
+    "timestamp_end": "00:05:06",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "It was very, very, very, very scary. I, uh, was, like I said, I was abusing alcohol at the time. I was in a toxic relationship and prior, I had already set up and met with a. Breast surgeon, whenever I had received my BRCA one, my, uh, myriad gene test results, he had me meet with a breast surgeon. And when I met her, she was, she was young, she gave me a hug because her mom also was diagnosed with fallopian tube cancer. And they said at that time it was pretty rare to catch it that early. So, um, fast forward to now I'm in this. S this two period. The reason it was so long is I'm, I'm calling our office, I'm calling our off office. No answer, no answer. I'm leaving voicemails, I'm leaving. I'm saying this is urgent. Like, I got to the point where I had, I think I, I still have my previous gynecologist phone number, and I, I called him and I left him a voicemail and I literally sent him the voicemail, like, can you please give me a call back? I just wanna know what the hell is in my tit. Like, I literally said it like that. He immediately called me and he was like, why, what's going on? I'm like, I'm not getting an answer from her office. I even showed up in person and, um, the receptionist was so rude, I didn't get an answer or anything from the receptionist.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "frustration",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "speaking_up",
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "access_barrier",
+      "system_navigation_difficulty",
+      "provider_dismissal"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong barrier signals (access_barrier, provider_dismissal) and agency signals (seeking_care, self_advocacy) during a healthcare provider interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Senya Cisneros",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:12",
+    "timestamp_end": "00:06:18",
+    "paragraph_ids": [
+      "p7"
+    ],
+    "moment_text": "But those two and a half months, I kept it a secret from my family. I didn't tell anybody. I relied very heavily on my partner at the time, and he was emotionally unavailable. I was, like I said, dosing myself with alcohol every single day. I was drinking. And then look at, look at the studies now, like alcohol, like number one, carcinogenic. Like I feel like I was just feeding the tumor even more with not just the substances that I was, I was abusing. I was also. Um, doing drugs a little bit in that time as well. And then apart from that, the stress, because I was already, I've already lived with stress and depression, losing my grandmother when I was only four to ovarian cancer. My mom was like 27 at the time. And so living through that, living through my grandfather passing, and now my mom's second cancer diagnosis, I just feel like no one, no one can handle that much stress without professional help. And I wasn't seeking professional help. I was self, self diagnosing myself, self dosing myself, and I was doing it with the wrong substances.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "isolation",
+      "overwhelm",
+      "sadness"
+    ],
+    "agency_signals": [
+      "withdrawing",
+      "enduring",
+      "silence"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with barrier signals (social_isolation, lack_of_support) and emotional signals (isolation, overwhelm) related to family and peer interactions.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Senya Cisneros",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:30",
+    "timestamp_end": "00:07:10",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "And then the other part that adds to that uncertainty, and this is just what it feels like to live today in the United States of America, is I get a phone call. I haven't even gone to the biopsy, and I get a phone call from the cancer center, from the billing department letting me know that the biopsy is gonna cost me over six grand. And she literally said on the phone, I know honey, I know I, I do this all the time. Everyone has the same response as you. Everyone's as shocked as you. And I'm like, are you, who has money for, like, who has, I don't, like, I don't have $6,000. And she's like, well, this is why I'm calling you to let you know this is what they're gonna expect from you at the time of your appointment when you show up to your appointment. If not, you have to give something, some type of like minimum payment.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Healthcare Access",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "anxiety",
+      "frustration"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "cost_constraint",
+      "access_barrier",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with a clear barrier signal (cost_constraint) encountered during a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Senya Cisneros",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:10",
+    "timestamp_end": "00:08:04",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "So then I'm like, okay, I gotta tell my mom, because I had to tell my mom that I have, that I gotta get this biopsy. 'cause now I need her help because she's the one that would always help me with my health insurance. And I'm like, now I gotta call her guy. I gotta ask her for the number and I have to get her, get her involved. So, um, eventually, yeah, I had, I, I had to Dr. I drove two hours back to my hometown and, and told her. Face-to-face because I had to make all these decisions and like, uh, who are you gonna run to when you don't have money? Your parents, like if you, if you still have your parents, like, like whoever you're, you look up to, you're gonna run to them for help. And it, it was bizarre. It is bizarre. I don't know how people with that don't have insurance, do it. I understand why people choose to die. And that, and, and realizing all of that in that moment was also bizarre. So it is like, who we're not equipped or built, or nobody gets us ready for all of this stress, all of this cortisol from like, so many different aspects of life. So it, it was definitely a very, uh, taxing time. To say the least.",
+    "moment_type": "system_observation",
+    "life_stage": "reproductive_years",
+    "health_domain": "Healthcare Access",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "hopelessness",
+      "overwhelm",
+      "sadness"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "cost_constraint",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong barrier signals (cost_constraint), agency signals (seeking_support), and emotional signals (hopelessness) related to family and healthcare system interactions.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M009",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Yesenia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:30.550",
+    "paragraph_ids": [
+      "p17",
+      "p18",
+      "p19"
+    ],
+    "moment_text": "I will tell you not well as a, a person who struggles with an addictive, and I'm saying it this myself, me, my therapist, not necessarily, but I, I, I think I have an addictive personality and. For someone that's like that and to go through this, like, I like pulled out like my notebook. I started taking notes and everything, and like I kept blowing up my ex-boyfriend and I kept asking my ex-boyfriend to at least just sit in the bed with me. That's it. Like I, I didn't need, I just needed someone to be present with me. I live by myself, like after kicking 'em out, like I live by myself with my, um, four pets. Uh, and at the time it was just two pets. Um, I, I literally, like, I just, I ended up hurting myself more than helping myself. But what I, what I did need is I did need support and I didn't know where to go for it.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "isolation",
+      "loneliness",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with clear barrier signals (lack_of_support, social_isolation) and agency signals (seeking_support) in a healthcare context.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker self-identifies with an 'addictive personality' which is a key part of her coping narrative here."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M010",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Yesenia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:32.550",
+    "timestamp_end": "0:01:10.550",
+    "paragraph_ids": [
+      "p20",
+      "p21",
+      "p22"
+    ],
+    "moment_text": "And I am a Mexican American. I'm a daughter of an immigrant. My, my parents never have, never been emotionally available or were never able to openly talk about our feelings. So. For someone like that and then to like be holding all of this. It was really, I ended up hurting myself more than anything. 'cause I, like I said, I kept calling my ex and begging him like I'm talking triple, quadruple. I texted him in embarrassing amount of times until he came out of pity and out of pity he would sit there. But why would I call him? Because I was already comfortable with him. Like, who else am I gonna unleash this? Like, Hey, I have cancer and like now I gotta like figure out how I'm gonna like call this insurance guy and see if he can change my insurance so that my out-of-pocket max is a little bit lower.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "isolation",
+      "shame",
+      "embarrassment",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "enduring",
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "silence",
+      "shame_culture",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate by detailing significant barriers (cultural silence, lack of support) and agency signals (seeking support) within a family system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker explicitly links her cultural background and family dynamics to her feelings of isolation and her coping mechanisms."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M011",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Yesenia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:12.550",
+    "timestamp_end": "0:01:49.550",
+    "paragraph_ids": [
+      "p23",
+      "p24"
+    ],
+    "moment_text": "And the whole time I'm doing all these things, I'm in my bed with my notebook and I'm like, my phone's on speaker. I'm like, and my ex-boyfriend's like sitting there like out of pity, just like there present. And I really wish that I. Would've sought out actual professional help. And I, I think it, it also just goes with the way I was raised and, and, you know, the bias and, oh, I, everything is fine. You don't need anything. Stop crying. You know, that whole, um, that's kind of the, the way I was raised, like, oh, we don't talk about Bruno type stuff too. So, uh, it was, it was, uh, not a healthy time for me because I, I sought out people who I shouldn't have. I, I should have sought out professional help, and I, I should have just broken down and told my mom exactly how I felt instead of trying to protect her feelings.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "mental_health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness",
+      "grief",
+      "loneliness"
+    ],
+    "agency_signals": [
+      "self_blame",
+      "silence"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture",
+      "silence",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate by identifying clear cultural and familial barriers (stigma, silence) that prevented the speaker from seeking appropriate care.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The reference to 'we don't talk about Bruno' is a powerful cultural shorthand for the theme of family silence."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M012",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Yesenia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:51.550",
+    "timestamp_end": "0:02:40.550",
+    "paragraph_ids": [
+      "p25",
+      "p26"
+    ],
+    "moment_text": "Because, and I think that that would've made a difference, um, made a huge difference on also the decisions that I, I would've made. I wouldn't, I wouldn't have called my ex, you know what I mean? I wouldn't have made, wouldn't have made those toxic decisions. I would've probably made. More intentional decisions, like actually gone out and done something active or told my mom, Hey, you know what, I, I need you here instead of telling her to go back home. Because I knew it was hard for her to see me down. But at the end of the day, like now, I know that like a lot of, I'm like throwing a lot of things out there. But like at the end of the day, like today, uh, Yesenia today is like, I should have just bawled and sobbed and told my mom everything because now she's not here. You know what I mean? So I should have just opened up to her and not given a crap how uncomfortable she felt. 'cause that's the, the issue in our, in our culture, it's, it's the uncomfortableness that, that we're, we're not okay with sitting in uncomfortable situations and uncomfortable conversations. But unfortunately, the only way that you get through this, the only way you navigate through a diagnosis is with support, with communication.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "grief",
+      "sadness",
+      "frustration"
+    ],
+    "agency_signals": [
+      "self_blame",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "silence",
+      "shame_culture",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate by identifying a significant cultural barrier (discomfort with uncomfortable conversations) and its impact on seeking support within the family system.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": "The speaker's reflection is heightened by the grief of her mother no longer being alive, making the missed opportunity for connection more poignant."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M013",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Yesenia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:02:42.550",
+    "timestamp_end": "0:03:33.550",
+    "paragraph_ids": [
+      "p27",
+      "p28",
+      "p29"
+    ],
+    "moment_text": "And you literally have no option but to go through it. And that's why I get, so, like, I get a little upset when people, um, like I'm okay if someone tells me, you're so strong one time, but if you continue to say it, I'm gonna tell you to stop. Because yes, it's nice to hear that I'm strong because hell yeah, you do have to be strong to get through this. But we have no other choice but to be strong. We have no other choice. So it like. I, if I could go back, I would've been more open and more verbal with exactly how I was feeling. I wouldn't have suppressed my feelings. I, I, I would've reached out more instead of recluse because I, I do think it would've had a better outcome in all the decisions I ended up making in the long run. Like post the, post, the, uh, the chemo. 'cause, you know, you have no choice but post the chemo and like, then the surgeries, I think that my mind would've been in a different, you know, different place. And I probably would've made decisions that would've lessened the amount of surgeries. I, I, I went through, like, I probably would've chosen to go flat a lot sooner, but I don't, I didn't, I didn't have that support.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "resignation",
+      "sadness"
+    ],
+    "agency_signals": [
+      "enduring",
+      "speaking_up",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "symptoms_normalized_without_context",
+      "lack_of_support",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate by connecting a barrier (lack of support/validation) to a direct impact on medical decision-making and agency.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The critique of the 'you're so strong' narrative is a key point, reframing it as a form of dismissal or lack of true validation."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M014",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Yesenia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:03:33.550",
+    "timestamp_end": "0:04:40.550",
+    "paragraph_ids": [
+      "p30",
+      "p31",
+      "p32",
+      "p33",
+      "p34",
+      "p35",
+      "p36",
+      "p37",
+      "p38",
+      "p39",
+      "p40",
+      "p41",
+      "p42",
+      "p43",
+      "p44",
+      "p45",
+      "p46"
+    ],
+    "moment_text": "Like I didn't even have. Someone like, you know, woo. Just say, yeah, you got this. Like, screw all this and screw those people. Like, no, I ended up, it, it was rough. Like I ended up losing all my friends, all of my friends just dropped off the face of earth. Um, friends, uh, dropped me because of my alcohol use and, and, and it, uh, it was bizarre. It was just so bizarre. So, yeah, just, I don't know if that answers It does, um, in so many ways. I, I have so many questions. Um, I, um, just to step back, I mean, I, oh, you, oh, am I frozen? Are we frozen? No, no, no. It's just my, okay. There we go. Okay. Yeah, I mean. Your, your retrospective, you know, perspective is, it's spot on. Like there are different decisions that you would make, but do you feel as though you were even given the information that you needed to make decisions around your treatment or treatment, your surgical options? Absolutely not. And that is something that to give you, to give you a, like reference because you went, did we meet at Camp Rusty? We did. Okay. I camp Rusty, I loved because of all the, the women that I met, I had multiple panic attacks and made myself physically sick the first night. Why? Because I was so physically enraged at all the information that's out there that I did not have access to.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "anger",
+      "grief",
+      "overwhelm",
+      "isolation"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "social_isolation",
+      "lack_of_support",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with a powerful articulation of a key barrier (lack_of_information) and the intense emotional fallout (anger, panic attacks) upon its discovery.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The moment contains a strong emotional reaction (panic attacks, physical sickness) to the realization of the information gap she experienced."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M015",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Yesenia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:04:40.550",
+    "timestamp_end": "0:05:12.550",
+    "paragraph_ids": [
+      "p47",
+      "p48"
+    ],
+    "moment_text": "And it was a, a feeling of duality that I couldn't, like, I didn't know what to do with it because I, it was like, oh my gosh, I'm so happy for all of these women that are in here. And I'm so happy for the women that stood up and shared their story of, um, of IVF and like sharing their story of, of being able to freeze their eggs through Chick mission and, you know, all of this stuff that I never heard about. Like if I tell you my. My story when I went to go see the, the fertility doctor and he, he literally asked me if I had $20,000 in the bank and I said no. And he asked me if I was in a stable relationship at the time. I was like 26 years old or 2025. And I was like, no. And he's like, then I don't know what you're doing sitting here because you can't afford this.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "fertility",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anger",
+      "frustration",
+      "sadness",
+      "shame"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "cost_constraint",
+      "lack_of_information",
+      "access_barrier"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with a clear, explicit example of a barrier encounter (provider_dismissal, cost_constraint) within the healthcare system.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a very direct and powerful example of a provider dismissing a patient based on financial and relationship status."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M016",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Yesenia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:05:12.550",
+    "timestamp_end": "0:06:24.550",
+    "paragraph_ids": [
+      "p49",
+      "p50",
+      "p51",
+      "p52"
+    ],
+    "moment_text": "Yes. And I mean, and then so like those things happened to me right back in the day. So then I go to camp resting and I am sitting, and I literally had to walk out of panels because I was just so overwhelmed with the amount of information I did not have access to one, two, my surgeon, oh, my surgeon. He is a little bit of a pretentious person and. He never once offered flat closure. The word aesthetic, flat closure, never came out of his mouth, ever. He wanted to continue salvaging breasts, salvaging breasts, salvaging breasts, salvaging breasts, and it would piss me off because every single time that I'm sitting there before getting like rolled back to the or, and you know, the anes, the anesthesiologist comes, the, the nurse comes or whatever, and then the doctor comes right before he is gonna wheel you back there. And he's, you know, reading off your chart. And he is like, okay, breast reconstructive, po debridement, possible lat fla. Possible, possible, possible. Like, it's like a possible this possible that possible. Like they cover their co, cover their asses, and I'm like, okay, it literally got to surgery number. The mastectomy. A week later, he put the implants in. He had to do a debridement uh, surgery and put in new implants. Then radiation happened. My incisions opened again. He did another debridement surgery and close them back up. And he told me to go live my life. I tried to work, my incisions opened back up. I ended up in the hospital with cellulitis. He then did a lap flap, so then he put the lap forward and he was like, oh, you'll just be, you know, smaller breasted, lap flap fails.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "anger",
+      "overwhelm",
+      "hopelessness"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "lack_of_information",
+      "fragmented_care",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate by providing a detailed account of a significant barrier encounter, including provider dismissal of options and fragmented care, leading to medical trauma.",
+    "risk_flags": [
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": "The repetition of 'salvaging breasts' and 'possible' highlights the provider's fixed perspective and the patient's lack of agency in the process."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M017",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Yesenia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:06:24.550",
+    "timestamp_end": "0:07:10.550",
+    "paragraph_ids": [
+      "p53",
+      "p54",
+      "p55",
+      "p56",
+      "p57"
+    ],
+    "moment_text": "And I had the medicine ball stuck to me for like a whole month. I had like a nurse coming here every week and then. Finally again, it opened up again and he wanted me to go uni. He wanted me to take this one out, keep the right one, wait for this infection to completely clear, completely treat it, and wait a couple months down the line. Then try for the mentor implant again and again. I'll just be a little bit smaller breasted I, the night before I, 'cause I literally had 24 hours, like he, I went in and he was like, tomorrow morning you're going in for surgery. And I blew up everyone that I knew on Instagram that was connected to a Flatty. I was like, oh my God, could you please tell me like why you chose to, why you chose to go flat, how you feel as a flatty, blah, blah, blah, blah. I literally was asking the nurses the morning of, I was asking the people in the waiting room. I was asking everybody. And then finally doctor comes up and I'm like. Doc, I, if you want me to live, if you want me to live, you just have to take 'em off. I want flat. I wanna be flat. And then I literally told him, I'm like, I think you're mad at me. I was bawling. I'm like, I think you're mad at me. And he was like, what?",
+    "moment_type": "advocacy",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "anxiety",
+      "empowerment",
+      "frustration"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "seeking_support",
+      "self_advocacy",
+      "speaking_up",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "time_constraint",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with a powerful combination of barrier signals (time_constraint, lack_of_information) and a cascade of agency signals (seeking_information, self_advocacy, making_decisions).",
+    "risk_flags": [
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": "This is a climactic moment of self-advocacy, where the patient turns to her peer community for information the system failed to provide and uses it to direct her own care."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "He's like, if you think I'm mad at you, then I'm not your your doctor. I'm like, excuse me. And he's like, he's like, I can only go based off of my 11 years of experience and what I, I know I can do, and this is what I'm presenting to you is something that I know that I can do. And I was like, well, why don't you ever, why didn't you ever offer aesthetic flat closure? He legit said, because he's an aesthetic surgeon and women usually choose breasts because that's aesthetically pleasing to women, is having these breast implants. So never, never through. You know, from the beginning, that was like February, 2023. My last surgery was in 2024, February. Did he ever offer flat?",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "asking_questions",
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains clear barrier signals (provider_dismissal, lack_of_information) and agency signals (speaking_up, asking_questions) related to a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p4",
+      "p5"
+    ],
+    "moment_text": "She was like, I, I was always very honest with all of my physicians and I would tell them that I had my medical marijuana card and I would go get my cannabis because I learned very quickly that they don't give a brown a brown girl the meds that she needs. They, they gave me two Ativan for 16 radiation sessions. How the hell, the math doesn't even make sense. Come on. So I, I learned very quickly that I had to find and figure shit out myself. And I have met through a girl from my hometown. She had met Yata from Lioness Retreat. And that is how I, how. I started to like, get into the community and she started connecting me with people.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "anger"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it details a barrier (perceived racial bias in medication dispensing) that prompted an agency signal (seeking alternative support), which is a key pattern.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker perceives racial bias in her pain/anxiety management, stating 'they don't give a brown a brown girl the meds that she needs.' This could be tagged as a form of provider dismissal or lack of validation."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "Like she connected me with a, with a couple flats, and that's who I was like blowing up. And they're amazing. They actually answered my dms like voice notes telling me all. And, and honestly, I'll tell you right now, like I think that I was just seeking all of, I, I was just seeking some validation. I just, I couldn't make this decision on my own. 'cause I've never, now that I've gone through so much therapy, I, the way I was raised, I wasn't raised to be a confident person and, and to make confident decisions. So I just needed at least a couple people to like be on my side to feel, you know, like I was making the right decision.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "self_doubt",
+      "validation",
+      "relief"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it highlights the emotional need for validation and the agency of seeking peer support when feeling isolated and lacking confidence, which is a significant relational pattern.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p8",
+      "p9",
+      "p10"
+    ],
+    "moment_text": "And when I woke up from that flat closure, I did not, and I don't know about you, but I say funny things whenever I wake up with, from anesthesia. The first couple times I was like cursing out my ex 'cause of all, everything was fresh and the la the last surgery for my flat closure, I literally said those implants were Satan himself. Because I felt so different when I woke up from that surgery. And like, I, like I told my, my physician, I'm like, I will literally like morbid. I was like, I'll literally kill myself if I continue to do your route. If I continue to do surgery and another surgery and another surgery that adds to my recovery, uh, adds to like me getting back to my, to any type of life, right?",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "relief",
+      "hopelessness",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible due to the strong agency signals (self_advocacy, speaking_up) and emotional signals (hopelessness, relief) in a healthcare interaction, highlighting a critical turning point for the patient.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": "The speaker mentions suicidal ideation ('I'll literally kill myself if I continue to do your route') as a way to express her desperation to her physician. This warrants the mental_health_sensitivity flag."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p11",
+      "p12"
+    ],
+    "moment_text": "Same thing with my oncologist. He gaslit the shit out of me a few times. He compared my joint pain to his, um, sprained ankle from, from spraining it in a marathon like it was. Yeah. He, and yeah, so I fired him. And then I have another oncologist and I just missed her appointment, but she kind of gaslit me too. She made me feel a little silly for, for being concerned about a couple things in my body. And she was like, oh, um, I don't see a concern, but if it makes you feel better, I'll go ahead and order these m like the MRI. I was like, and I don't know how you feel about that, but like that little, if it makes you feel better for some reason, sounds a little condescending to me. So I was gonna just see her this time, see what she said about my blood work, and then shop again for another oncologist, which is like, you have to unfortunately, which feels crazy to have to keep on finding someone who listens to you.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "anger",
+      "self_doubt"
+    ],
+    "agency_signals": [
+      "changing_providers",
+      "self_advocacy",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "symptoms_normalized_without_context",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is highly eligible as it explicitly details multiple instances of a significant barrier (provider_dismissal) and the resulting agency (changing_providers), demonstrating a clear systemic pattern.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker uses the term 'gaslit' multiple times to describe her interactions with two different oncologists."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p14",
+      "p15"
+    ],
+    "moment_text": "So as a clinician, when you treat patients, you wanna know everything. 'cause how are you supposed to know what you're doing is, is, is working. So I share everything despite if I get some like eye rolls or some people like the pa from the surgeon, she had a really, really hard time with. Like seeing my little, my Benjamin, my little like vape cartridge, which isn't nicotine, it's THC, sometimes C, B, D and THC, which I have a functional doctor. He has ms, he does cannabis himself. He has me on a, on a prescription like. This is all like, it's controlled. And she would literally tell me every time I'd have a follow up with her, I don't know how, why God would do this to me, but my like pen would like somehow show and whatever, and my, it would fall outta my pocket or it would be like poking outta my purse and she'd be like, Hey, hey. Just, just, just so that you remember that slows down healing. Okay. Just, just, just so you re remember that, that slows down healing. I was like mm-hmm. Like, you are more concerned about my cannabis intake than what the hell like you guys are doing here.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "stigma",
+      "fear_of_judgment"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it describes a clear barrier (stigma, provider judgment) related to cannabis use in a medical setting, despite it being a prescribed part of the patient's care.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p16",
+      "p17"
+    ],
+    "moment_text": "'cause it's just, yeah, it's just like a lot of like redundant, you have to say a lot of redundant shit like. No, I'm not too young. Yes, yes, I have. Yes, me, yes, yes. I have no breast. Like, why do I have to repeat myself? Why? Like, come on. So it, yeah, it's nuts. It's, it's beyond. It's, it's beyond. And it's like having to relive the trauma. Every single appointment with every nurse that comes in, every new doctor, all of those things. And it's like that, that takes a toll just mentally.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "frustration"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it explicitly describes the emotional toll (overwhelm, frustration) of a systemic barrier (fragmented_care) that forces patients to relive trauma, which constitutes a significant emotional and systemic pattern.",
+    "risk_flags": [
+      "medical_trauma",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker explicitly mentions 'relive the trauma' and the mental toll of navigating the healthcare system."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p19",
+      "p20"
+    ],
+    "moment_text": "Yes. I think that any healthcare system who does not have a very, very well employed support staff in what they call it, integrative medicine, holistic medicine, uh, psychology, psych, if they, if these healthcare systems continue to diagnose and diagnose and diagnose and treat, but they do not treat our mental health. We're never gonna get anywhere like that. It is bizarre to me that a healthcare system, as huge as my cancer center does not have a psychiatrist that they refer out to. I had to find my own psychiatrist, which now I'm like having to question because she just added another medication and I'm already taking like five psych meds, like psychotropic. Like I said, I should not be taking more meds at this point. I should be taking less. So if our healthcare systems would just take us seriously when we say we don't feel good. Menopause sucks. The mood swings suck, like all of this sucks, and it sucks to not have support and have to actively seek out support when you're not feeling good yourself",
+    "moment_type": "advocacy",
+    "life_stage": "reproductive_years",
+    "health_domain": "Mental Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "overwhelm",
+      "hopelessness"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "fragmented_care",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it's a strong piece of system observation and advocacy, identifying a critical barrier (lack of integrated mental health support) and its emotional impact on patients.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Patient",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "p21",
+      "p22"
+    ],
+    "moment_text": "My, the therapist that I was seeing through the cancer center, she left and now I don't even know if they employed someone right now. So like that was like a huge thing and it was a huge thing for me that I even wanted to go to corporate and to like offer and be like, okay, you guys, let me show you the studies. Like you guys need someone like me, someone who has lived in experience to be a patient advocate and you should tag a person like me to every new patient and every new patient should have this lovely little. Fairy godmother on their side that they can call and be like, on MyChart, like you can send a message on MyChart, Hey, I'm freaking out, blah, blah. And then I can send you to whatever you need to do. If it's a doctor question or if it's a, if it's simple as like try some breathing exercises. You know what I mean? Like just you need to attach. Yes, nurse navigators are great, but these nurse navigators are a little overworked",
+    "moment_type": "advocacy",
+    "life_stage": "reproductive_years",
+    "health_domain": "Patient Advocacy",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "hope"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it moves from identifying a barrier (lack of consistent therapy) to proposing a concrete, lived-experience-driven solution (patient advocates), which is a strong example of advocacy.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M022",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Justisa",
+    "speaker_role": "patient",
+    "timestamp_start": "0:23:51.000",
+    "timestamp_end": "0:25:10.000",
+    "paragraph_ids": [
+      "p_69",
+      "p_70",
+      "p_71",
+      "p_72"
+    ],
+    "moment_text": "Absolutely not. This is, this is a no man's land. Like literally the blind leading the blind. You have to hold your own hand to like get to the beginning of the healing from all of this. Like, like I said, I, through grow therapy, uh, dot com is where I found my psychiatrist and she did the gene site test and then she realized all the meds that the doctors from the cancer center put me on, like. Zoloft and Lexapro and all of those were terrible for my, my genetic makeup. So I'm like, why is, why aren't we sending this test to be done instead of just throwing these like meds that are popular on the market at us? When they made me worse, like they made me, like I mentioned, I, I, I struggled with alcohol. I didn't drink during my chemo, but my friends weren't really like there as much as I thought they were gonna be. So I struggled a lot and I was taking all this medication that was. Not good for my DNA. So what was happening, my suicidal ideation was who up the freaking wall? And I was like, what's wrong with me? Like, why do I feel like this when cancer's already trying to kill me? Like why am I trying to kill me too? Like, like my thoughts were who really dark during the time of active treatment from September to January. And as soon as I could, I drank in the, in the in between. So like that, right? Like if that doesn't tell you right there, like horrible, I, I was in a horrible place.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "hopelessness",
+      "isolation",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "changing_providers"
+    ],
+    "barrier_signals": [
+      "misdiagnosis",
+      "fragmented_care",
+      "lack_of_support",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with clear barrier signals (misdiagnosis, fragmented care) and agency signals (seeking care). It details a significant system failure where incorrect medication was prescribed, leading to severe mental health consequences, making it highly eligible for insight promotion.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker explicitly mentions 'suicidal ideation'."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M023",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Justisa",
+    "speaker_role": "patient",
+    "timestamp_start": "0:25:10.000",
+    "timestamp_end": "0:26:1.000",
+    "paragraph_ids": [
+      "p_73",
+      "p_74",
+      "p_75"
+    ],
+    "moment_text": "I, I just literally was laid out on that couch. I did not move. I did the bare minimum. Bare minimum. And that's not me. Like, that's not who I am as a person. So it is definitely, yeah. The healthcare system unfortunately is missing, missing the mind part of it. It's just, I don't even know how to improve that. Like, we are kind of missing psychiatrists, good psychiatrists, good therapists. Like how do, I don't know, I don't even know. That's a huge cancer center. How can they not find a psych? How can they not find a couple therapists? That's bizarre to me. And I don't know if your, if your hospital like, has someone that they refer to or not, but like, I literally in, in office have asked my oncologist, I have asked my radiation on, uh, oncologist and they all have. No answer. My radiation oncologist cool as hell and he told me to, um, look into boot, uh, uh, being Buddhist. Buddhist and like, he is so sweet. He was like, look into these things that'll help you. Yeah, but what, like, we need more than that.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "hopelessness",
+      "resignation"
+    ],
+    "agency_signals": [
+      "asking_questions",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "fragmented_care",
+      "system_navigation_difficulty",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with clear barrier signals (lack of support, fragmented care) and agency signals (asking questions). The direct account of asking multiple oncologists for mental health referrals and receiving none is a strong example of a systemic failure.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M024",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Justisa",
+    "speaker_role": "patient",
+    "timestamp_start": "0:26:1.000",
+    "timestamp_end": "0:26:40.000",
+    "paragraph_ids": [
+      "p_76",
+      "p_77",
+      "p_78"
+    ],
+    "moment_text": "We need, we need, like, we need apart the, the support group. I don't even think it's happening anymore. And now there's like all these rules for the support group. 'cause now they're adding ages, right? So like, so a YA is from what? Um, I think it's 18 to, um, 35 maybe 39. 39. 39, okay. Yes. But some people changed it to 35 and they changed it to 35. And one of the main girls is like 36. And so like I sent them an email and I was like, Hey. I'm that girl. I'm, I'm, I'm ridiculous. I like sent them an email and I attached like three or four different PDFs from like these different, um, like John Hopkins Medicine, whatever, and like, this is what a YA ages did I get a response?",
+    "moment_type": "advocacy",
+    "life_stage": "reproductive_years",
+    "health_domain": "mental_health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "system_navigation_difficulty",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with strong agency signals (self_advocacy, speaking_up) and barrier signals (lack_of_support). It demonstrates a patient actively trying to correct a systemic issue within a support structure, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M025",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Britt",
+    "speaker_role": "host",
+    "timestamp_start": "0:26:40.000",
+    "timestamp_end": "0:27:20.000",
+    "paragraph_ids": [
+      "p_79",
+      "p_80"
+    ],
+    "moment_text": "I mean, I, I think that that's, you keep on hitting on so many things like this goes on for a long time, and the time that you're diagnosed just it has a ripple effect on the rest of your life. And then the other piece is like you mentioned, you know, does my healthcare center have a psychiatrist? Yeah, they do. But the problem is it's not consistent across the board and everyone. Kind of figuring out what they have to do along the way is what makes this process so much harder. Because it's like, wait, are you struggling? Like I am? No. Okay, well maybe it's just me. And that just contributes to a spiral.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "validation",
+      "recognition"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "fragmented_care",
+      "system_navigation_difficulty",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate as it has barrier signals and emotional signals within a healthcare system interaction. As a host validating a patient's experience of fragmented care, it can serve as a corroborating moment for a systemic pattern insight.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a host moment validating the guest's experience of inconsistent care."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M026",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Justisa",
+    "speaker_role": "patient",
+    "timestamp_start": "0:27:35.000",
+    "timestamp_end": "0:29:1.000",
+    "paragraph_ids": [
+      "p_83",
+      "p_84",
+      "p_85"
+    ],
+    "moment_text": "cancer wise, I struggle with neuropathy, with tingling, numbness. These, like, I call them zingers. Like they, they're like little zings and they're like, go away. And, and I get it, you know, all on my left side that's affected my radiation oncologist told me. That's kind of, those are kind of side effects that I'm just gonna deal with for the rest of my life. And I can manage, which is where I have a palliative doctor, and paint me manage management and we. Manage my pain and I take literally 600 milligrams of gabapentin in the morning and with a Xanax and a straterra for a DHD. Like what? And then at at night, I take another 600 Gabapentin. If I don't take those 600 milligrams, I will start to feel like wherever that radiation nuked my body. That's where I feel that those weird sensations, I struggle with my feet. My feet hurt a lot. Um, so I, I, I do a lot of, um, I sit on my couch and put my feet up the wall or I do it on my bed. Uh, I do that a lot. And as a therapist, that's something that I suggest, uh, to a lot of my patients who struggle with neuropathy because of just the way that the, our anatomy is like you, if you don't put your legs up the wall, you're, that's not gonna return back to your lymphatic system or. What's left of our lymphatic system",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "chronic_condition_management",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "resignation"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with agency signals (seeking_care) and a clear system interaction. It provides a detailed account of the long-term physical sequelae of cancer treatment and the complex self-management required, making it eligible for insights about survivorship.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M027",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Justisa",
+    "speaker_role": "patient",
+    "timestamp_start": "0:29:1.000",
+    "timestamp_end": "0:30:30.000",
+    "paragraph_ids": [
+      "p_86",
+      "p_87",
+      "p_88"
+    ],
+    "moment_text": "apart from those things, like I get a little, I, I get, I struggle with the, with the, with the communication. When I tell someone that I'm menopausal, the reason I say I'm menopausal, because I don't wanna say I'm in menopause. 'cause I've been in menopause right for a while and I feel like I'm gonna be in menopause for the rest of my life. And then my psych yesterday was like, no, you know, that comes and goes. And I'm like, no, my hot flashes are always my mood swings. The irritability, that's always like, I am highly medicated for these things. Like, those are, those are things that I struggle with that I've had to, like, for instance, with my father, I've had to tell him like, listen, when you see me start to go off the wall like that, just let me let it out. Let me slam the door, whatever. Because literally a second later I'm gonna be remorseful and feel bad about it. Like just, I just need to get that shit out. Like I've had to, had, I've had to explain to him. 'cause he's literally asked me a couple times, like, SIA, like, why do you get like that? And I'm like, how much time you got dad? You really wanna know why I get like that? Holy shit. So like, I've had to explain to him and, and that is a lot. And like, transitioning to this new job. Like, I, I just straight up told him, I'm like, I'm a cancer driver. I'm a fat about, they're like, wow, you're really open. I'm like, I feel like I have to be, because then everything else will make sense.",
+    "moment_type": "lived_experience",
+    "life_stage": "menopause_transition",
+    "health_domain": "hormonal_health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "frustration",
+      "anger"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with strong agency signals (setting boundaries, speaking up) and barrier signals (lack of validation). It details the relational and social impact of medically-induced menopause, making it eligible for insights into life after treatment.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker is in her 30s but experiencing medically induced menopause, so menopause_transition is the most accurate life stage for this specific experience."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M028",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Justisa",
+    "speaker_role": "patient",
+    "timestamp_start": "0:30:30.000",
+    "timestamp_end": "0:31:35.000",
+    "paragraph_ids": [
+      "p_89",
+      "p_90",
+      "p_91"
+    ],
+    "moment_text": "If you hear me saying I'm hot or if, you know, if you see me with my fan, you'll know why. Like, like I just don't wanna be like explaining myself to people. Um, because I, I do struggle with different things. I sleep early, like I. Honestly, my life is very, uh, reclusive apart from like the things that, like I'm going to YSC. So apart from things like that, like, and making plans, like, and that's why I like making plans like that. So I have something to look forward to. Lately I've just been like, you know what, like life is really slapping me in the face back to back and showing me that, you know, you're, you are your biggest cheerleader. You are your biggest advocate. You are you. Unfortunately, oh my gosh, what, what was I telling my depressed breasty? I was like, listen, uh, as a human are best and worst trait is our selfishness. Like it really is. And right now I'm being selfish with my space because I feel like I've been too open to people and. They have not shown me, you know, like they haven't respected me in, in the way that you would respect someone who, who is, who's a close friend.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "mental_health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "sadness",
+      "empowerment",
+      "isolation"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "setting_boundaries",
+      "withdrawing"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with strong agency signals (self_advocacy, setting_boundaries) and barrier signals (lack_of_support). The realization about needing to be one's own advocate after a lack of peer support is a significant emotional turning point, making it eligible for insight promotion.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_013_M029",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Justisa",
+    "speaker_role": "patient",
+    "timestamp_start": "0:31:35.000",
+    "timestamp_end": "0:32:48.000",
+    "paragraph_ids": [
+      "p_92",
+      "p_93",
+      "p_94"
+    ],
+    "moment_text": "Like, ugh. There's, there's just so many things that are, are different and that I still deal with. And like, I wear lymphedema sleep, so I get a lot of questions on like, what's that? And then I have like, cool ones, right? So then people are like, oh my God, you got a tattoo? And I'm like, no, it's not a tattoo, it's a lymphedema sleep. What's that for? And then, you know, you have to explain. So I could go on and on. Um, but like, major, major, major would be like the, all the grieving, all the grieving from the old me, the amputation of my chest and like. You know, high school me would be mortified. High school, high, high school and middle school. Justia was crying in the shower, rubbing her chest, praying to God that I would grow a chest. And now I don't have any, and I don't even, I'm fine, I feel fine. I feel like my clothes looks better on me, but it definitely is a lot. It's, it's a lot to continue to carry. And I, I see my therapist weekly and I'm very, very grateful for her because she like breaks things. She uses chat GET too, as like, she breaks down exercises for me. So like, she helps me kind of break down, um, some of my like, bigger feelings that I don't know how to process because, you know, immediately my menopausal ass wants to be like, I'm ready to fight.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "grief",
+      "sadness",
+      "calm"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate with strong emotional signals (grief) and agency signals (seeking_support) within a healthcare interaction. The articulation of grief for a former self and body, combined with the protective factor of therapy, makes it highly eligible for insight promotion.",
+    "risk_flags": [
+      "grief_loss",
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": "The speaker discusses the 'amputation of my chest' which could be considered medical trauma, and explicitly names 'grieving from the old me'."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:14.000",
+    "paragraph_ids": [
+      "p1"
+    ],
+    "moment_text": "You know, like I am like what you say about me. So there's just so many things that have, are left over from cancer that, that nobody told me about. Yeah. It's like surprise. I mean, surprise, surprise. It's like, but this isn't a good one. This is not what we, this isn't what we bargain for. Or, you know, um, thought that the day-to-day would look like.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "breast cancer survivorship",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "sadness",
+      "resignation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains barrier signals (lack_of_information, education_gap) related to a system interaction (healthcare_provider), indicating a gap in patient education about the long-term effects of cancer treatment.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:18.000",
+    "timestamp_end": "00:00:51.000",
+    "paragraph_ids": [
+      "p3",
+      "p4",
+      "p5"
+    ],
+    "moment_text": "My quality of life. I am working on it still currently. Um, for me it's. Being able to move my body intentionally. Um, right now there's like a, a weird, like, a, a weird dis, what is it? What is that one word? Dissonance like where like, I know I should be moving my body, but I just can't, so right now I'm having like a little bit of a yoga block where like, I, I don't, I don't think I've practiced yoga all year yet, and we're in March and that's not me. So maybe I've practiced once or twice. And, um, so lately quality life has just been more me time and not feeling, not trying to hang out with anybody, just taking care of myself. And if that means laying on the couch and listening to a book for four hours. Then that's what I'm gonna do.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "frustration",
+      "resignation",
+      "self_doubt"
+    ],
+    "agency_signals": [
+      "withdrawing",
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains agency signals (withdrawing, setting_boundaries) that describe a behavioral pattern in response to post-cancer challenges.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:51.000",
+    "timestamp_end": "00:01:28.000",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "Um, I recently went to Mexico in December and my family in Mexico, they like very much so live off the land and they live in El Rancho and they, they live in between two big mother M mountains in Mexico and jco and, you know, they don't let anything go to waste. And you know, they got chickens and they have, I don't even know, like a hundred cows and they milk the cows and they make cheese from the, from the milk. And, and I, like, I came back from Mexico a little bit different. Like I, I, this, this year, like I go almost every year, but this year I was just like, I need to be more appreciative and more grateful of what I got, you know? And, and I, so I've been like really taking care of my backyard and my garden like, um. Like I said, I live, um, I live by myself and I like love plants, so I like have plants everywhere and, and my, my quality of life is getting better.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "hope",
+      "calm",
+      "clarity"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional and agency signals within a system interaction (family), highlighting a turning point or realization that could be a protective factor.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:28.000",
+    "timestamp_end": "00:02:10.000",
+    "paragraph_ids": [
+      "p8",
+      "p9"
+    ],
+    "moment_text": "Um, I think now that I'm like focusing more on myself, um, and like I said, that are my best and worst traits, like being selfish, but sometimes, at least for me and my experience, and even in my experience of, of watching my mother actively die and like the people that were there and not, not there, I just feel like the more you accept that your quality of life is, is governed by you. Like you inside here, nobody else. No nada. Like it's a little bit of a. Easier. Um, it's easier to grasp. It's an easier idea to grasp that, like, oh shit, yeah, I am only gonna get through this by myself, so might as well do the, the things that are gonna make me feel better, you know? 'cause as soon as I start feeling, as soon as I start moving, what happens? I endorphins start coming out. I start oxytocin. All the dopamine, serotonin, all of that starts. So I have been like, even though I don't feel like it, I've forced myself. I walk my dogs and then I'll take myself out on a walk. So I'm slowly getting back to where I wanna be. But yeah, I'm still slowly, it's like a work in progress day to day.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental wellness",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "empowerment",
+      "clarity",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "self_advocacy"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (making_decisions, self_advocacy) and emotional signals (empowerment) linked to a system interaction (family), representing a significant realization about personal agency.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:15.000",
+    "timestamp_end": "00:03:20.000",
+    "paragraph_ids": [
+      "p12",
+      "p13",
+      "p14"
+    ],
+    "moment_text": "Yes. So advocacy is so important. I was raised by a woman who wanted to keep her cancer to herself, and so she did. Second time she got cancer, she wanted to keep it against herself and like, you know, people would try to come and see her and like knock on the door and she wouldn't answer. And, and, you know, that's her truth. That's, that's, you know, whatever she wanted to do. And this third cancer, I believe she knew. And I, I believe she didn't wanna tell anybody and just, she also didn't wanna deal with it. And that like, I love you mom, but that just, I feel like does such a disservice not only to her, but to the entire family because. A diagnosis as, as much as people don't wanna accept this, it doesn't just affect the person, it affects the whole effing family. And the way things should be is your family should modify and change and flow with the way you know that they have to, to make you comfortable. And that kind of goes with the quality of life, right? Like to help the quality of life be as good as it could be. And I believe my mom's dying process probably would've been a little bit better, and I wouldn't have had to make all, I made all the decisions and still making some of the decisions and. And that just goes back to what us not wanting to talk about death, like none of us are getting outta here alive, none of us. And talking about it doesn't mean that we're gonna be killed off tomorrow. So like, it just means that you're taking control of your life. You're like literally making your own exit out of this life. Like you're making the, you are making, you're setting the rules. Like why, why not one, two, like just also the way my mom raised me, like.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "family dynamics",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "frustration",
+      "sadness",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "silence",
+      "speaking_up",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "silence",
+      "stigma",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains a rich mix of barrier signals (silence, stigma) and agency signals (speaking_up) within a family system interaction, highlighting a pattern of intergenerational differences in coping with illness.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": "The speaker contrasts her mother's agency signal of 'silence' with her own of 'speaking_up'."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:20.000",
+    "timestamp_end": "00:04:00.000",
+    "paragraph_ids": [
+      "p15",
+      "p16",
+      "p17"
+    ],
+    "moment_text": "Everything. I feel like I've been keeping things a secret all my life. All my life. And I know I shared with you recently, like what this altercation I had with my brother and him spilling the, the tea on me. And I openly shared about this on social media and I openly told people who asked me, and my father wanted me to keep it a secret. And that goes back to this like, no, like women, us women, we have been treated like crap for centuries now. Like we keep being silenced. Why, why are we being silenced? Because you don't like how high pitched my voice gets and because you don't like to hear all of the pain and un uncomfortable crap we have to deal with while we're, while these women are expected to raise children and be house makers and, and be breadwinners like. No. I feel like if, if we all used our voices to share our stories and to like not gate keep to share all the resources, that, that's another one. I can't stand gatekeepers. Like share, share everything that you have because you just don't know like who it could help.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "women's health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "anger",
+      "frustration",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "silence",
+      "shame_culture",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it explicitly identifies a systemic pattern (silencing of women) and links it to barrier signals (silence, shame_culture) and agency signals (sharing_story, speaking_up) within a family context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:00.000",
+    "timestamp_end": "00:05:00.000",
+    "paragraph_ids": [
+      "p18",
+      "p19"
+    ],
+    "moment_text": "And women now and girls I and the like younger influencers that I see like on Instagram, I'm just like, yes, yes, yes, yes. Post those videos, like post your feel it on the first, like sometimes I. It gets so overwhelmed and I don't, you know, create the things that I wanna create, create the content I wanna create. But I love that there are more younger women sharing, and they're also talking about, which, that's one thing that I wanna talk about more too, is like sex and intimacy. Like, I, like that's something huge that I, that I feel like cancer took from me. And I don't know when the hell I'm gonna get it back. So I would've loved to talk to, you know, people who are also in the same predicament. Like, so I, advocacy, advocacy is so huge. Not, not just as a woman, but as a woman of color and as a woman who comes from the Catholic raising that I had. Like, it just, we need to use our voice. We don't need to be silenced. We don't have to sit there with a smile on our face and being polite. We need to be honest and we need to be transparent. That's, that's all we need to be honest and transparent. And if we're not, we're not gonna get any better. We're just gonna like, we're just gonna stay stagnant and it's gonna continue to be taboo and people are gonna continue to de diminish our feelings and degrade us, and condescend us, and gaslight us. And that's just not no.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "sexual health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "hope",
+      "frustration"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "silence",
+      "stigma",
+      "lack_of_support",
+      "provider_dismissal"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it identifies multiple barrier signals (silence, stigma, provider_dismissal) and corresponding agency signals (sharing_story, speaking_up) within the context of peer community and media, highlighting a systemic pattern of dismissal and a pathway to combat it.",
+    "risk_flags": [
+      "sexual_health",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": "The mention of 'gaslight us' is interpreted as a form of provider dismissal in this context."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:07.000",
+    "timestamp_end": "00:05:31.000",
+    "paragraph_ids": [
+      "p23",
+      "p24"
+    ],
+    "moment_text": "Okay. First, number one. First off, it is all of ours, first time on this earth. So we are all learning. And if you grasp that, it's very humbling. 'cause if not, you'll start to build a shit ton of guilt and shame around yourself. 'cause I did it, I did it for like a year until I got a therapist. So remember that, like, remember that we are all out here doing this for the first time. We're allowed to mess up. You're allowed to not know about things. I'm allowed to not know about these resources and you know, like it's not okay. But it is, it, it is just, it's like the humbling thing to always think of.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental wellness",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "shame",
+      "relief",
+      "calm"
+    ],
+    "agency_signals": [
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it identifies emotional signals (shame) and barrier signals (stigma, shame_culture) and offers a coping mechanism, which represents a potential protective factor or behavioral pattern.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "speaker_1",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:31.000",
+    "timestamp_end": "00:06:08.000",
+    "paragraph_ids": [
+      "p25",
+      "p26"
+    ],
+    "moment_text": "Um, number two, get a therapist. I should, maybe that should be number one, but get a therapist. And if you don't like the therapist, get fire them and get another one. And if you wanna use growth therapy.com, I swear they should sponsor me. But like, it, it was just so easy because it's like Tinder, but for like, for mental health therapy or for, I found an EMDR, um, therapist on there and saw her for a little bit until that got a little bit too much. Um, my therapist now that I have is I found through girl therapy. 'cause I, you can go on there and you can choose somebody that looks like you. Like I chose someone who was Hispanic. Like, how am I gonna speak to a Caucasian woman about my Catholic culture And the way I was raised, like, it made a huge difference in, in the, in the therapy and in the, like I said, she used the word improving. So just get a therapist like you do yourself the favor and get a therapist.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "validation"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "changing_providers",
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (seeking_care, changing_providers) in response to a barrier (lack_of culturally competent support) within a healthcare provider interaction, representing a clear solution pathway.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier 'lack_of_support' here refers specifically to the lack of culturally competent care, which the speaker identifies as a key barrier she overcame."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M021",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Jia Cisneros",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:31",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "Hang up your freaking ego. And your pride and get the damn therapist. Do yourself and your family a favor and get a therapist because it's, it's, yes. I popped off on every single doctor. Like literally I, it, it literally, I, my gynecologist oncologist who did my total hysterectomy, he was the one that was like, what, what's going on? Like, what, what question do you need answered? And I'm like, am I fucking crazy? And he's like, no. He's like, you just don't have estrogen. And I was like, oh, you know, get a freaking therapist.",
+    "moment_type": "advocacy",
+    "life_stage": "menopause_transition",
+    "health_domain": "Mental Health & Hormonal Health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "confusion",
+      "relief",
+      "clarity"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment links a barrier (lack_of_information about hormonal impact) and emotional signals (confusion, frustration) to a clear agency signal (seeking_care) within a healthcare_provider interaction, making it eligible.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker is recounting a past experience and giving advice based on it."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M022",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Jia Cisneros",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:31",
+    "timestamp_end": "00:01:06",
+    "paragraph_ids": [
+      "p2",
+      "p3"
+    ],
+    "moment_text": "And then number three, uh, look for community. Don't, do not re do not recluse. Don't do it. Just don't. You're gonna want to, but don't find community. And if you don't like one community, look in. There's, there's something out there for everyone. I started an account with my depressed breastfeeding called depressed breastfeeding. And, and we haven't been so active because we've been a little sad, but, uh, we created that space just because we both felt like there wasn't a space that we could totally like, relate to with the way our personalities are and how we use cannabis and to treat a lot of our symptoms and side effects.",
+    "moment_type": "advocacy",
+    "life_stage": "postpartum",
+    "health_domain": "Mental Health & Postpartum",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "sadness",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment clearly outlines a barrier (social_isolation, lack_of_support) and the corresponding agency signal (seeking_support by creating a new community), providing a strong example of lived experience within the peer_community system.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The mention of cannabis use is part of the speaker's lived experience in creating a relatable community."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M023",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Jia Cisneros",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:06",
+    "timestamp_end": "00:01:55",
+    "paragraph_ids": [
+      "p4",
+      "p5",
+      "p6"
+    ],
+    "moment_text": "And, and so we created that space and yes, like I go off on there and I, I share a lot of the raw stuff. So like, finding community and just finding people who get what you're going through is gonna make a huge difference in your. Outcome long run. And then like, just to add a little bit more, I'm over here with blabbing. Um, I was recently reading, uh, a book on mindfulness and one of the studies that they spoke about in the book that like really I feel like goes with this, like three things that you wanna tell somebody. It goes with this, the, what was the last thing that I just said? Um, support. So it goes with the, the support system. Um, one thing that they tested on animals that they couldn't, that animals don't have, that humans have is our belief system and our faith. And. I wasn't a huge believer in myself. And after reading that, I, I realized yes, like even just, you don't even have to say it out loud, but if you in your head are thinking these negative thoughts, then you're gonna get a negative outcome in some way, shape, or form, like your belief really does.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health & Cancer Survivorship",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "self_doubt",
+      "clarity",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment connects an emotional signal (self_doubt) to an agency signal (seeking_support) and a realization about the power of mindset, making it eligible for insight into protective factors.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The barrier of 'lack_of_support' here is internal, stemming from self-doubt, which the speaker identifies as a key challenge."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M024",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Jia Cisneros",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:55",
+    "timestamp_end": "00:02:28",
+    "paragraph_ids": [
+      "p7",
+      "p8"
+    ],
+    "moment_text": "Studies showed that like 30 to 40% of people who were like given the placebo pill got better just because they were told they had got the placebo pill and they were told that they were improving. And that is just bizarre. Like you did that, you didn't even need anything. You didn't need a chemical, you need a substance, you didn't need not nothing. So that is something I think that goes with the support, like finding your support people, finding your community, and really believing in yourself because that may, that makes a difference. I, I'm slowly. My survivorship is slowly improving because I'm starting to believe in myself where I haven't believed, believed in myself. This whole time I've been thinking, I've been like messing up and not doing things right and not doing enough. But that is huge.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health & Cancer Survivorship",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "self_doubt",
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment details a significant emotional shift from self_doubt to empowerment and hope, identifying an internal barrier (self-doubt) and a path to overcoming it, making it highly eligible for insight.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This moment captures a turning point in the speaker's mindset regarding her survivorship journey."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M025",
+    "episode_id": "BH_013.docx",
+    "season": "1",
+    "source_file": "BH_013.docx",
+    "speaker_id": "Jia Cisneros",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:28",
+    "timestamp_end": "00:03:02",
+    "paragraph_ids": [
+      "p8",
+      "p9"
+    ],
+    "moment_text": "So that just mindset is of believing in yourself and then finding the people that do also, because that, that has made, I'm, I'm helping a lot with Lioness Retreat Ya, Haida, um, Torre, founder of of Lions. I've been assisting them and whenever she asked me to be her assistant, I was like, you see me? Oh my God. You know what I mean? Like, it just, it's, it's an amazing feeling to be seen. By your peers. Like even you ask, like you and I doing this, like, I'm like, oh my God, she wants to like, hear from me. Like, like that is, that is just huge. Like, like you have to find those people that, that do see you and, and are going to hear you. So yeah, that would be my, that would be my, my three things. I think that was more like 10, but those are so good.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health & Cancer Survivorship",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "recognition",
+      "connection",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment provides a powerful emotional account of validation and recognition within a peer_community, directly linking these feelings to the agency signal of seeking_support. This makes it highly eligible for insight.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barriers of lack_of_validation and social_isolation are implied by the profound impact of finally being seen and heard by peers."
+  }
+]

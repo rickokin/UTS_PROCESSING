@@ -1,0 +1,1229 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M001",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia Garcia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:13",
+    "timestamp_end": "0:02:01",
+    "paragraph_ids": [
+      "p4",
+      "p5",
+      "p6"
+    ],
+    "moment_text": "Yes, it was March of 2020, and if you remember what was happening in March of 2020, uh, the United States was shutting down because of COVID. So I remember Friday the 13th, um, the night before I found a lump in my left breast. When I was removing my bra, my fingers brushed up against the side of my breast and I felt a lump and my heart sank. My mom is a survivor. She was diagnosed at 47 years old. So. I already just, I just knew, I knew this wasn't my normal. Um, the next day we go into the office and they say, everyone's going home for the next two weeks. We're not sure what's going on, um, with COVI, but you know, for precautions we're gonna send everybody home. And that was a blessing in disguise because that meant the next two weeks, which were filled with doctor's appointments. I was able to keep that to myself without. My entire office knowing. Um, and sure enough, uh, two weeks later I was diagnosed with stage two B triple negative breast cancer.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast cancer",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "fear",
+      "anxiety",
+      "relief"
+    ],
+    "agency_signals": [
+      "seeking_care"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional signals (fear, anxiety) and agency signals (seeking care) related to a healthcare experience.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M002",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia Garcia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:02:03",
+    "timestamp_end": "0:02:46",
+    "paragraph_ids": [
+      "p8",
+      "p9"
+    ],
+    "moment_text": "Yes, so shortly after my diagnosis, and because, because I was so young and because of my mom's history, they did test me, um, and it came back positive for the BRCA one mutation. They were very thorough in sitting down with me and explaining everything. I didn't retain any of that information. Um, I don't even remember what they said to me. You know, I went back and looked at the email, looked at the packet they gave me, and we had a in-person meeting. I was allowed to ask as many questions as I had, but I was. Just worried about the breast cancer diagnosis. I wasn't worried about everything else. I was at a high risk for, um, so I didn't really educate myself on what being a BRCA one carrier meant until I think after I was in remission. So probably about a year later was when I really concentrated on that.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "avoidance"
+    ],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (lack of information due to cognitive overload) and emotional signals (overwhelm) within a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The 'lack_of_information' barrier is from the patient's perspective of being unable to retain it, not from the provider failing to provide it."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M003",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia Garcia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:02:53",
+    "timestamp_end": "0:04:11",
+    "paragraph_ids": [
+      "p11",
+      "p12",
+      "p13"
+    ],
+    "moment_text": "So after my diagnosis, I went to social media and I looked for other women who were in similar situations because I wanted to connect with people who were my age, people who looked like me. And that's when I truly started understanding what the BRCA one mutation was and what it really meant. Uh, and there were so many people sharing this. Stories and talking about elevated risk for this and that, and that's where I really started paying attention. Um, and then once I was done with treatment, had my mastectomy and was officially in remission, uh, my doctor and I had the discussion of a hysterectomy. You know, do we wanna do that now? Do we wanna wait? And just knowing my risk. How young I was, I chose to have a full hysterectomy, um, completely lower that risk. My husband and I never wanted to have children, so that wasn't something that we really, that was too much of a hard decision for us. You know, a lot of individuals have to worry about preserving their eggs or, um, things like that. So I, I did feel very blessed in the fact that. My husband and I never wanted kids. So that aspect wasn't too difficult for us. It was more of, okay, well having a full hysterectomy, what side effects does that come with? Right. Um, but I just felt that because I was at such a high risk of developing ovarian cancer, I was willing to take the risk of going through a full hysterectomy and, um, four years later, and I still feel it was the right decision for me.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "clarity",
+      "connection",
+      "confidence"
+    ],
+    "agency_signals": [
+      "seeking_information",
+      "seeking_support",
+      "making_decisions",
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong agency signals (seeking information, making decisions) and emotional signals (clarity, connection) within a peer community interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M004",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia Garcia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:04:17",
+    "timestamp_end": "0:05:38",
+    "paragraph_ids": [
+      "p15",
+      "p16",
+      "p17"
+    ],
+    "moment_text": "Yeah, I was actually in the best shape of my life, um, because my mom was a survivor, I knew I was at a high risk. So I took my health very seriously. I followed a plant-based lifestyle. I did CrossFit five days a week. I ran half marathons. Two months before my diagnosis, I actually attempted to run a full marathon. Um, I failed. I only made it to my old 22. I pulled myself from the race. Yeah. Um, it was devastating, but. When I got diagnosed, one of the things that really got me through treatment was knowing that I had to get back out there and I had to finish that marathon. So that was always in my mind. That was one of the reasons why I kept going. I said, no, I, I haven't finished my marathon. I had to get back to it. Um, and a lot of people might think, well, you were healthy, plant-based, um, healthy weight. Why were you diagnosed? It, it, I don't, there's nothing that we can do to 100% prevent cancer, right? We can lower our risk and. I obviously had genetics against me, but because I was so healthy, I was able to handle the treatment fairly well. Um, I underwent 16 rounds of treat of chemo. I did ac um, Taxol and uh, carbo, uh, which were very difficult, but I was able to handle them and I was able to continue exercising during treatment. In, in a world where I felt like I couldn't control a lot, movement was something that I could still control, and being able to move my body, lifting weights actually helped with a lot of the side effects from treatment. Um, so no, my healthy lifestyle did not prevent the cancer, but it allowed me to hand the treatment pretty well.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast cancer",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains agency signals (enduring) and emotional signals (empowerment, hope) related to a health experience.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M005",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia Garcia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:05:41",
+    "timestamp_end": "0:06:49",
+    "paragraph_ids": [
+      "p19",
+      "p20",
+      "p21"
+    ],
+    "moment_text": "To be honest, I, it, it's all a blur. Um. And I don't think I was really given too many options. Um, my doctor, which is amazing. What it was very clear about the fact that you're young. This is a very aggressive cancer. You're healthy. This is my, this is what we're going to do. And I had full trust in her and I said, okay, let's do it. You know, you know best. Let's do what we need to do to, um, get be done with this. So I just followed her suggestions, uh, and then. You know, whenever the, before they administer the treatment, they always go over the side effects. This might cause this or that. I am the type of person who had to zone out. I didn't want to know, I didn't wanna know what it was going to cause because in my heart I felt if they're going to tell me it's going to cause this, I'm already feeling those side effects. So I didn't want to know. I just, I think I, I just went into. This mode where I had to protect myself. So I put myself in a little bubble, um, because it wasn't just cancer, it was everything going on in the world. And not being able to see family, friends, being immunocompromised, um, having to go to chemo by myself, you know, it, it was a different world. It was different world. So I just put myself in this bubble where I would only allow myself to take in the things that I knew I could handle. Everything else, I just did what I was told, and that was it.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "trust",
+      "isolation"
+    ],
+    "agency_signals": [
+      "avoidance",
+      "enduring",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (social isolation), agency signals (avoidance, setting boundaries), and emotional signals (overwhelm) within a healthcare provider interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M006",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia Garcia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:06:50",
+    "timestamp_end": "0:07:24",
+    "paragraph_ids": [
+      "p22",
+      "p23"
+    ],
+    "moment_text": "Moving my body. It felt like it, you. I felt my body getting weaker and I got more tired, but I could still control movement, I could still control exercise, I modified everything. Um, but just having that little bit of power knowing that yes, the chemo is doing this to my body, the cancer is doing this to my body. But I can still move my body. That has not been taken away from me. So, um, my husband turned our garage into a gym. We had all the weights. Um, I would walk up and down my driveway whenever I was really fatigued, but I just never stopped moving. And to me that was a sense of power.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast cancer",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains agency signals (enduring) and emotional signals (empowerment) within a family system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M007",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia Garcia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:07:27",
+    "timestamp_end": "0:08:30",
+    "paragraph_ids": [
+      "p25",
+      "p26"
+    ],
+    "moment_text": "I think people's expectations. Uh, you know, people mean well, they love us, and I was a caregiver for my mom. So, look, I, I have both aspects of it. And looking back at when my mom was going through treatment, I'm sure I was very annoying. But you, you love that person and you want to help them, but there's nothing, right? You feel like it's out of your control. There's nothing you can do to help. So you just ask a million questions. You ask them a million times, how are you doing? How are you feeling? So every morning I, I'm blessed to have people that love me and care. Phone would be blowing up with text messages. How is treatment? How are you doing? How are you feeling? What do you need? And I didn't feel that I could be honest because I didn't feel that they could handle how I was really feeling because I was looking in the mirror. I didn't recognize myself. Um, the hot flashes were insane. Being on steroids for so long, just make you angry and hungry, but you can't taste the food, so you can't really eat.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast cancer",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "overwhelm",
+      "isolation",
+      "anger"
+    ],
+    "agency_signals": [
+      "silence",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (lack of support), agency signals (silence), and emotional signals (overwhelm) within a family system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The 'lack of support' here is an emotional support gap, where the type of support offered (constant questions) did not match the support needed (space, understanding)."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.899",
+    "timestamp_end": "0:00:39.919",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "Um. And it's a lot, right? You're, you're sad, you're scared of dying. There's so many things, but how do you put that into words? And how would somebody take that if you said that out loud? So instead, I just kind of suppressed that and I said, oh, you know, today's a little rough, but I'm okay. Thank you for checking in. So I think just people's expectations, handling their feelings, their emotions. Um, for me that was the hardest part, just. Seeing people looking at me with their sad eyes being scared and me feeling that I had to reassure them that I'm going to be okay while I didn't really know if I was going to be okay.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness",
+      "fear",
+      "overwhelm",
+      "isolation"
+    ],
+    "agency_signals": [
+      "silence",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "fear_of_judgment",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional signals (sadness, fear), agency signals (silence), and barrier signals (fear of judgment) related to a system interaction (family/community), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker describes the emotional burden of managing others' feelings while dealing with her own fear and uncertainty, a common experience for patients."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:45.019",
+    "timestamp_end": "0:01:02.199",
+    "paragraph_ids": [
+      "p4"
+    ],
+    "moment_text": "All the healthcare professionals, I'm sure they meant well, but they all said, you know what, you're too young. It's probably nothing. You're too young. It's probably nothing. That's what I kept hearing and that actually made me mad because I saw my mom be diagnosed at 47. I knew that nobody is too young. So while they meant well, I didn't receive it.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anger",
+      "frustration"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "symptoms_normalized_without_context"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it clearly describes a barrier encounter (provider dismissal) with a healthcare provider, which includes emotional signals (anger) and meets the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "This is a classic example of age-based dismissal in a healthcare setting, even with a clear family history risk factor."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:08.019",
+    "timestamp_end": "0:02:05.199",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "Being triple negative, I hadn't hit my five-year mark. I know the statistics. I know my risk of a recurrence, so I call my oncologist. I couldn't get ahold of her. The PA on staff told me, you know, even if it is cancer, you wouldn't start treatment today, so you can wait. It made me mad and not mad for myself because I knew I was gonna find a way to be seen that wasn't, that wasn't a question right, but mad because if you said this to me, how many other individuals are you saying this to? And how many other individuals don't know that they have the right to advocate for themselves, to find a new doctor to find? Somebody who will see them earlier. It made me so mad and sure enough I was able to be seen, um, at an earlier date. Thank goodness it was nothing. They did do a biopsy the same day though, so, you know, they partially made me feel like I was crazy. But then I went back to, no, this is my knowledge. I know my statistics, I know my risk. I'm not being crazy. I can't, I might not have three weeks. I need to be seen immediately.",
+    "moment_type": "advocacy",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anger",
+      "frustration",
+      "confidence"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "seeking_care",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "access_barrier",
+      "time_constraint",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is highly eligible as it provides a strong, detailed example of self-advocacy (agency signals) in direct response to multiple provider-related barriers, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker's anger is directed not just at her own situation but at the systemic implications for other patients who might not be able to advocate for themselves as effectively."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:02:21.899",
+    "timestamp_end": "0:02:45.019",
+    "paragraph_ids": [
+      "p10"
+    ],
+    "moment_text": "No, and that's why I went to social media, um, to find other people because one, it's already co it's COVID, right? So there were no support groups. Um, there was nothing. My o my hospital had no services at all. Um, so I was on my own. So that's when I went to social media and started connecting with other individuals, made some friends, and that's where the great conversation started having. Started happening. Um, but yeah, if it wasn't for social media, I would've been on my own,",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "loneliness",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it details a significant barrier (lack of support services) and the agency taken to overcome it, involving a system interaction with a peer community and healthcare provider (by its absence), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "Highlights a critical gap in care, especially during the COVID-19 pandemic, and the role of social media in creating alternative support networks."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:02:52.019",
+    "timestamp_end": "0:03:30.119",
+    "paragraph_ids": [
+      "p12",
+      "p13"
+    ],
+    "moment_text": "Yeah, I've been in remission for a little over five years and I feel like just in those five years I've gone through so many stages. Um, right now I'm at a very good stage, um, but it's taken me a long time to get here. It's. Taken, setting some very hard boundaries, losing friends, people that I love. But I've learned that some people I, I have to love from afar, I've learned I have to put myself first. Um, and this is not where I imagined I would be. I was working in corporate America at the time of my diagnosis, and I wanted to climb that corporate ladder. I wanted to be a manager. I, that was my goal in life. Um, and now working for a nonprofit, being a patient navigator is, is completely different. Not where I imagined that would be, but it, it's for us.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "calm",
+      "confidence"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it describes significant agency (setting boundaries, making decisions) and a barrier (lack of support from friends) within the context of family and workplace systems, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker reflects on the profound identity and priority shift that occurred post-diagnosis, moving from a corporate to a non-profit, patient-facing career."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:03:30.119",
+    "timestamp_end": "0:04:18.119",
+    "paragraph_ids": [
+      "p14",
+      "p15"
+    ],
+    "moment_text": "It's crazy how things work out. Right. Before my diagnosis, I was, um, getting a little burnt out in corporate. Looking back, I think there were signs, um, that something was wrong, but I was so stressed that I just thought it was stress. Um, I, I would get a pain in my left breast, which is where the cancer was, and I, I just ignored it because I was so stressed. Um, but I remember talking to God and just saying, I need to find a new job. I don't know what, all I know is I want freedom, right? I, I don't wanna be stuck in an office. I don't wanna be this stressed. I want freedom. I want to go work out at 10:00 AM in the morning if I wanna go work out at 10:00 AM in the morning. Um, and I can do that now, right? So I, I, I create my own schedule now. Um, but never did I think that God would give me what I was asking for, but first I'd had to endure this tragedy. But this tragedy taught me so much about myself. I, I feel like I'm a completely new person. My priorities are different. My outlook on life is different. Um, and I lost a lot of myself, but I've gained so much and I feel like God gave me so much more than what I lost.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "overwhelm",
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "avoidance",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional and agency signals within a system interaction (workplace), describing a realization about life priorities that meets the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker connects her pre-diagnosis burnout and desire for change with the eventual outcome of her cancer journey, framing the tragedy as a catalyst for profound positive transformation."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:04:26.119",
+    "timestamp_end": "0:05:02.119",
+    "paragraph_ids": [
+      "p18",
+      "p19"
+    ],
+    "moment_text": "Uh, there were a lot of complications with my reconstruction and, and I have a lot of scar tissue in my breast as well as my core. Um. But my re, my revision was so traumatic that I just, I haven't worked up the one, I haven't found the right surgeon, but also I haven't worked up the courage to go through that again. That I think that was the darkest point in my entire journey, recovering from my deep, um, I, yeah, I hit rock bottom during that. Um, and it took a lot of therapy, a lot of healing to move past that. And I'm finally in a space where I feel good.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "hopelessness",
+      "sadness"
+    ],
+    "agency_signals": [
+      "avoidance",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible due to its description of medical trauma, emotional signals (fear, hopelessness), and a clear barrier (fragmented care) within the healthcare system, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "medical_trauma",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The speaker identifies the reconstruction revision as more traumatic than the cancer diagnosis itself, highlighting the significant psychological impact of surgical complications and recovery."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:05:13.119",
+    "timestamp_end": "0:06:20.119",
+    "paragraph_ids": [
+      "p22",
+      "p23",
+      "p24"
+    ],
+    "moment_text": "Yes. Uh, chemo brain or brain fog as people try, you know, whatever, whichever term you prefer. Um, and I think that's one of the hardest part about survivorship, because on the outside we look normal, right? Our hair has grown back. Our eyelashes, um, you know, we have healthy color in our face. Um, ho you know, we've, we've lost some of that chemo weight. But there'll be days where, especially if I'm doing a presentation, I'm in the middle of a sentence and I just, I completely forget the point I was trying to make. Um, and so I typically do start my, my presentation, introducing myself, a, giving a little bit of my backstory and letting people know that I, I do still have chemo brain in apologizing. Um, but. It's hard. I think it's easy for us to give other people grace, but it's hard for us to give ourselves grace. I feel like I've made so much progress, but then sometimes it'll be a whole day where I just can't even put a sentence together and I get so frustrated with myself because. You, I know what I'm trying to say. I, I, I hear it in my brain, but my, my mouth just doesn't respond. So that can be extremely difficult to explain to people who have never experienced cancer or a loved one has never experienced cancer, because you look fine on the outside, so why can't you put a sentence together?",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "frustration",
+      "embarrassment",
+      "isolation"
+    ],
+    "agency_signals": [
+      "enduring",
+      "self_blame",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "stigma",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it details the significant emotional impact and social barriers associated with a long-term side effect of treatment ('chemo brain'), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This is a powerful description of an 'invisible illness' aspect of cancer survivorship, where the external appearance of health masks ongoing internal struggles, leading to a lack of understanding from others."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M018",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:21:11.080",
+    "timestamp_end": "0:21:42.010",
+    "paragraph_ids": [
+      "p38",
+      "p39"
+    ],
+    "moment_text": "So, um, I did go visit a plastic surgeon and, um. I, I, I just, you know, I, I wasn't sure right? I, I thought I wanted d but I wasn't sure. So I decided, let me go visit both. When I showed up to the Plastic Surgeon's office, they had no record of my appointment, which was crazy because I had the confirmation on my end. There was no record of it. Um, it was just a horrible experience. So I just walked outta there and then I went to see the deep specialist. Um, and I just, I felt like it was the right choice for me.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confusion",
+      "frustration",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_care",
+      "changing_providers"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it details a barrier encounter (system_navigation_difficulty) and agency signals (making_decisions, changing_providers) within a healthcare provider interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M019",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:21:42.010",
+    "timestamp_end": "0:22:30.080",
+    "paragraph_ids": [
+      "p39",
+      "p40",
+      "p41"
+    ],
+    "moment_text": "Um. And even now, even with all the complications, I don't regret it, but it is a hard surgery and I think people talk about the physical right and it is physically, it is so hard. My surgery was eight hours. Um, I chose to have the double mastectomy and the deep all at the same time, which made it longer and a lot harder. Um. Physically, I went from being really strong even during chemo, right? I did 50 burpees the night before my surgery because in my mind I was like, I never know when I'll be able to do burpees again. Um, so I did 50 burpees the night before. When I woke up for my surgery, I, I couldn't even sit up. Um, and for me, like losing control of my mobility, right? The one thing that like throughout this entire journey just got me through everything that was so devastating, and I think that's why the surgery was so hard for me because I had to rely on others for everything.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "sadness",
+      "hopelessness",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "enduring",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional signals (sadness, hopelessness) related to a significant medical event within a healthcare provider interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M020",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:22:31.830",
+    "timestamp_end": "0:23:13.820",
+    "paragraph_ids": [
+      "p42",
+      "p43"
+    ],
+    "moment_text": "I mean, being in the hospital and asking somebody to help you use the bathroom. Uh, right. We don't talk about these things. So yes, physically it was so difficult, but emotionally that took a toll on me. I remember my mom moved in with my husband and I, she was taking care of me. She would dress me, she would bathe me, and I just broke down crying in the shower one day. And I thought to myself, if this is what it takes to have breast, I don't even know if I want them. Who says we need breasts? Right. Um. I was very depressed, but I almost felt guilty. I felt guilty for feeling that way because I'm in remission. I'm alive. I have breaths. So why am I so sad?",
+    "moment_type": "lived_experience",
+    "life_stage": "postpartum",
+    "health_domain": "mental_health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "sadness",
+      "shame",
+      "grief",
+      "hopelessness"
+    ],
+    "agency_signals": [
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional signals (shame, sadness, grief) and a barrier signal (stigma) related to the survivorship experience, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M021",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:23:13.820",
+    "timestamp_end": "0:23:25.100",
+    "paragraph_ids": [
+      "p43"
+    ],
+    "moment_text": "Um, and it's taken me time and therapy to understand that two emotions can coexist. We can be grateful to be here, but. It's okay to want more. It's okay to be sad because this isn't what you wanted or where you wanted to be.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "clarity",
+      "validation",
+      "calm"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it describes a key realization stemming from an agency signal (seeking_support for therapy) within a healthcare context, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M022",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:23:25.100",
+    "timestamp_end": "0:23:53.180",
+    "paragraph_ids": [
+      "p43",
+      "p44"
+    ],
+    "moment_text": "Um, and I think we should always want more. I think we deserve more. So it took me a lot of therapy, um, to get to a better space and, um. Uh, even though I couldn't exercise, I would walk around the house. I was bent over. I couldn't stand up straight, but I was just like power walking around the house. Like, because that was the one thing that I could do, that I could still kind of control. So for a long time, that was my exercise. Walking around the house, walking up and down to the driveway, through the driveway to the mailbox. Um, I just, I had to move that I had to.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "physical_recovery",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it demonstrates a clear agency signal (making_decisions) as a coping mechanism, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M023",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "0:23:56.839",
+    "timestamp_end": "0:24:03.379",
+    "paragraph_ids": [
+      "p45"
+    ],
+    "moment_text": "Thank you for sharing that. That's, um, that's a beautiful realization, you know, that comes like two things can be true at the same time, um, and making the most of it. So I, I really appreciate you sharing that.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "mental_health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "connection"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it provides explicit validation, an emotional signal, within a peer community interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M024",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:24:13.839",
+    "timestamp_end": "0:24:20.829",
+    "paragraph_ids": [
+      "p47"
+    ],
+    "moment_text": "I, I think the ability to move exercise, I just, I think it, it didn't matter where I was, what I was physically capable of doing or not doing, I, I found a way to still move my body.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "survivorship",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains a clear agency signal (making_decisions) about a core coping strategy, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M025",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:24:24.899",
+    "timestamp_end": "0:24:52.019",
+    "paragraph_ids": [
+      "p48",
+      "p49"
+    ],
+    "moment_text": "There are two people who truly stand out. When I came out of my deep flap, the night nurse was amazing. Um. The fact that it was the middle of chemo, nobody could stay with me. People were allowed to come visit me for an hour or two, but that was it. Um, you know, my mom couldn't stay with me. My husband couldn't stay with me, so I felt so alone and I would, you know, when my mom would come in, I would smile and, you know, I'm fine, I'm fine. But as soon as she left, I would just break down crying and it was so hard. Um. And that nurse was just so kind. She was so caring. She would just do so many little extra things to make me feel comfortable that to this day I still think about her.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "post-operative_recovery",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "isolation",
+      "loneliness",
+      "sadness",
+      "relief",
+      "trust"
+    ],
+    "agency_signals": [
+      "silence",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it details a barrier encounter (social_isolation) and strong emotional signals (isolation, loneliness) within a healthcare provider interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M026",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:24:52.019",
+    "timestamp_end": "0:25:38.019",
+    "paragraph_ids": [
+      "p49"
+    ],
+    "moment_text": "Um, and the other is. This physical therapist, um, I met, I found her on social media. Her name is Helen. Um, and she talked a lot, a survivor as well. She talked a lot about movement and when I first started working out, post my deep flap, when I finally got cleared to work out, I was so frustrated and I just, I kept comparing myself to who I was before cancer. The things I could do before cancer, the amount of weight I could lift, I couldn't even run. I couldn't squat, I couldn't do anything. I thought I couldn't do anything. Right. And I was so frustrated, and I was talking to her one day and she said, Sylvia, you have to stop comparing yourself to who you were before cancer because that person is not here anymore. Right? You need to start comparing yourself to. Your starting point. When was your first workout post steep flap, right? That is your new starting point. Start comparing yourself to that. And that completely shifted my mindset. It shifted my outlook, my attitude change. That was the best advice anyone has ever given me.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "mental_health",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "self_doubt",
+      "clarity",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it describes a pivotal realization prompted by an agency signal (seeking_support) and addresses a barrier (lack_of_information on mindset), meeting the evidence gate requirements.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M027",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:25:44.819",
+    "timestamp_end": "0:26:06.019",
+    "paragraph_ids": [
+      "p51"
+    ],
+    "moment_text": "Yes. Yes. So much. I mean, we don't have enough time to sit here and discuss. Yes. I, I don't think there's enough support, especially at each. Um, hospital center, wherever it is, you're receiving treatments. I don't think they're, some have support, some don't. The ones that do have support, I, I think we need more. Um, but I, I think there's so much work that needs to be done because I think the professionals need to be educated. I think that's where we need to start, and I don't think that's been done.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "healthcare_system",
+    "system_interaction": "medical_training",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "training_gap",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it identifies multiple systemic barriers (lack_of_support, training_gap) and includes an agency signal (speaking_up), meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M028",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:26:07.839",
+    "timestamp_end": "0:26:44.019",
+    "paragraph_ids": [
+      "p52"
+    ],
+    "moment_text": "Biggest thing for me is exercise and mental health. Um, I, I think we don't talk about exercise enough. I'm the one who had to ask my oncologist, can I exercise? It wasn't presented to me. And you know, I understand their, their, their goal is to get you through treatment and keep you alive. But then somebody needs to step in and we need to discuss quality of care. Um. Exercise is just so important. So important. It can help lower our risk of a recurrence. It helps with our mental health, um, with our wellbeing, overall nutrition. So exercise and, um. Mental health. I, I don't think we talk about mental health enough, especially when we're looking at other cultures or other ethnicities. Right. Um, cancer in itself might be a taboo, cancer might not be something that we discuss, so we're definitely not gonna talk about mental health. Um, so the patient and themselves might feel uncomfortable asking for that, and I think it's something we need to speak about.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "health_equity",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap",
+      "stigma",
+      "silence"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains multiple agency signals (self_advocacy, asking_questions) and barrier signals (lack_of_information, stigma) within a healthcare provider interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M029",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:26:50.839",
+    "timestamp_end": "0:27:53.019",
+    "paragraph_ids": [
+      "p54",
+      "p55"
+    ],
+    "moment_text": "I think advocacy is important because. Several reasons. I, I mean, all these things we talked about changing, right? Who's gonna change them? I think it's up to us. I, I think we are the young ones who were diagnosed at a young age. I think there's a lot of things that are missing. So it falls on us to do what we can to change it, to make those, um, resources available, that education there so that the younger generation hopefully can benefit from that. Um. For me, advocacy is so important because when I looked to connect with other women, I found a lot of women, but I didn't find a lot of women who looked like me. I didn't see a lot of Latinas educating and sharing their story. And I think that kind of ties in with the whole cancerous, taboo thing. Right. Um, they might not feel comfortable and that's okay. Right. I don't think it's for everyone. I think some people, you know, they go through it and they move on and that's fine. But for me, okay, I don't see it. So I'm gonna become that. I'm going to share my story. I'm going to talk about the things that, you know, we don't talk about, um, whether it's because. Of our family traditions or beliefs. Right. But it needs to be talked about. We can't just, uh, keep tiptoeing around the subject, uh, because that's why we don't know our family history of cancer because oh, he just had a stomach ache. I don't know. Something happened to his stomach and he died. Oh, well was it stomach cancer? Right? Like, we need to talk about these things and so we need to be the change that we want to see.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "health_equity",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "stigma",
+      "silence",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it is a strong call to action with clear agency signals (speaking_up, sharing_story) aimed at overcoming systemic barriers (stigma, silence), meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_015_M030",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "0:27:53.019",
+    "timestamp_end": "0:28:20.019",
+    "paragraph_ids": [
+      "p55"
+    ],
+    "moment_text": "And I feel so blessed because when I was diagnosed. Very supportive spouse health insurance. I was able to work. That is not the case. Uh, you go into these communities and there are so many barriers to get access to healthcare. Um, transportation, language barriers. I mean, I speak English and Spanish fluently. And I struggle to understand what these healthcare professionals are telling me. So what about somebody who does not speak eng English fluently? What about somebody who doesn't have insurance? How are we gonna give them a mammogram?",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "health_equity",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "access_barrier",
+      "cost_constraint",
+      "lack_of_language",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it explicitly identifies multiple systemic barriers to care (access_barrier, cost_constraint, lack_of_language) within the healthcare system, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M011",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "advocate",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "para_0"
+    ],
+    "moment_text": "So this is why I love my job so much because these are the barriers that we are working on reducing, and it, I have a passion. That could have been me, right? I could have been uninsured, I could have not had a supportive spouse. I mean, that could have been me. Um, my mom was uninsured when she was diagnosed, and I, we paid thousands. We had to pay thousands out of pocket before she would even get treated. So I'veseen both. Aspects of it and things have to change. And I have the experience, I have the personal experience to where I feel that I can share my story in hopes of encouraging others to get with, get on board with this advocacy and let's make the changes we need to make",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Healthcare Access",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "cost_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains a clear barrier signal (cost_constraint) and agency signals (sharing_story, speaking_up) related to a healthcare system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M012",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "para_2",
+      "para_3"
+    ],
+    "moment_text": "Yeah, we are, I, I think a lot of us are just me specifically. Um, I like to be in control. Right. Who doesn't wanna like to be in control when it comes to cancer? Whether it's a diagnosis, you're a survivor, um, thriver, right? Whatever you are. Yeah, there are so many things we cannot control when it comes to cancer. Um, but I think it's important to find the little things that are within your control, um, movements, right? I, I speak a lot about movement, but moving our bodies, your joy, cancer cannot. Steal your joy. And that doesn't mean you have to, uh, be fake happy or put on right this facade. There are days when you're going to be sad. There are days where you're gonna lay on the couch and cry all day, and that's okay, that's needed, but that, that can't be every day, right? You hold the power, you control your emotions. Um. So find the things, find the things that you can control and concentrate on those, that's your power.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "overwhelm",
+      "sadness",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (making_decisions) and emotional signals (overwhelm, empowerment) that describe a coping strategy for dealing with a health crisis.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M013",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "para_4"
+    ],
+    "moment_text": "Um, two, I think it's important to set boundaries. Um, I was a yes person before cancer. I said yes to everything and everyone, people knew that they could count on me for everything because I would always say yes, but I learned that by saying yes to everyone else. I was saying no to myself and. After cancer, I set some very, very hard boundaries, and as I stated before, that meant losing, losing some friends, but by putting myself first, I'm, I'm at peace. And that's what matters. Whether you're a provider or in the midst of your journey or post, you have to put yourself first, your physical and emotional wellbeing, because stress is horrible. We know what stress can do to our bodies. Um, so set your boundaries, that's very important. And the pe your people will respect your boundaries and they will be there. And the people who. Take offense, those might have not been your people.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "calm"
+    ],
+    "agency_signals": [
+      "setting_boundaries",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it describes a barrier (social_isolation) and a corresponding agency signal (setting_boundaries) within a peer community interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M014",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "para_7"
+    ],
+    "moment_text": "Okay. Um. A cancer diagnosis or just, um, being a previver, right? Knowing you carry a genetic predisposition to cancer is a life altering, life altering. Um, and I think a lot of times it could seem. Like, our life is ending. Like our life, a life will never be the same. But that's not the case. Your life has changed. Yes. And it's more difficult. Yes. There's scary. It's scary. Yes. But that doesn't mean that you can't have a beautiful life. We can't allow cancer to steal everything from us. Um, so find a way to make your life beautiful because tragedy is, it's a part of life. It's something that we can't, we can't prevent it. Um, it's here. So let's make the mo let's make the most of it.",
+    "moment_type": "education",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "hopelessness",
+      "fear",
+      "hope"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional signals (hopelessness, fear, hope) and an agency signal (enduring) that describe a significant perspective shift after a diagnosis.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M015",
+    "episode_id": "BH_015.docx",
+    "season": "1",
+    "source_file": "BH_015.docx",
+    "speaker_id": "Sylvia",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00",
+    "timestamp_end": "00:00:00",
+    "paragraph_ids": [
+      "para_9"
+    ],
+    "moment_text": "You're welcome. Thank you so much. I'm really. Very grateful to be a part of this. And I always say that I never wanna forget what I went through because I think sometimes we get so caught up with our new life and sometimes our first world problems, right? That we forget how we felt in that instance. And that's something I never wanna forget because when you're told you have a genetic predisposition or a cancer diagnosis, your outlook on life is different because. You know, you're facing your own mortality, and I never wanna forget that feeling.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "fear",
+      "clarity"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional signals (fear, clarity) and an agency signal (sharing_story) reflecting on the long-term psychological impact of a diagnosis.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

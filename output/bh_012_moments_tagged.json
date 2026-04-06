@@ -1,0 +1,790 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_012.docx",
+    "season": "",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Kristen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:47.139",
+    "timestamp_end": "0:01:18.159",
+    "paragraph_ids": [
+      "p_0006",
+      "p_0007"
+    ],
+    "moment_text": "Yeah. Um, back in about 2015, um, it actually started with my mom. My mom's doctor was getting, having her to be pushed because she was like the perfect candidate. Um, my grandmother survived breast cancer and my grandmother's sister is a breast cancer and two time ovarian cancer survivor. So we are pretty heavy in the genetic cancer on our side. Um. So that led, my mom came back with a pos positive carrier diagnosis as well. So that led me to get tested. Um, at that point I was, I had just gotten engaged, so we were kind of planning our wedding and I kind of just threw it on the back burner.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Genetic Risk",
+    "system_interaction": "family",
+    "emotional_signals": [],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains an agency signal (seeking_information) and a system interaction (family), meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_012.docx",
+    "season": "",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Kristen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:19.159",
+    "timestamp_end": "0:02:01.099",
+    "paragraph_ids": [
+      "p_0008",
+      "p_0009"
+    ],
+    "moment_text": "Um, and then did surveillance. So it was scans every six months and blood work and just physical exams, um, as often as we recommend, you know, feel it on the first, um. And then what led to my actual diagnosis, um, was I felt a lump and we attempted to get an MRI and biopsy, um, but they didn't get the area that was of suspicion. And then I found out I was pregnant that. Two days later. So, um, we kind of just held off on everything and we had another ultrasound and kept monitoring it. Um, so I think deep down I knew that I had it when I found out I was pregnant. Um, but I went through with the pregnancy and I did six months of nursing before I was like, okay, it's time to get back onto my screening regimen. And that first MRI, they're like, we see something that we need to take care of. It looks pretty suspicious.",
+    "moment_type": "lived_experience",
+    "life_stage": "pregnancy",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "resignation"
+    ],
+    "agency_signals": [
+      "tracking_symptoms",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "delayed_diagnosis"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains barrier, agency, and emotional signals in the context of a healthcare provider interaction, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The delayed diagnosis was a result of pregnancy, not provider error, but it is still a delay in the diagnostic journey."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_012.docx",
+    "season": "",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Kristen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:02:04.519",
+    "timestamp_end": "0:02:23.019",
+    "paragraph_ids": [
+      "p_0011"
+    ],
+    "moment_text": "Um, well, let me just back up for just a second. During the screening portion for the genetics, um, I felt super on top of my plan of care because I was getting monitored every six months. The idea of having breast cancer was not real. It just felt like a thing that could potentially happen. Even though with the BRCA one, my risk was 87%. I just. It felt unreal, so I didn't take it as seriously as I probably would have with the hindsight that I have now.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Genetic Risk",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "resignation"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional signals and a system interaction (healthcare_provider), meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_012.docx",
+    "season": "",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Kristen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:03:18.199",
+    "timestamp_end": "0:04:00.199",
+    "paragraph_ids": [
+      "p_0022",
+      "p_0023",
+      "p_0024"
+    ],
+    "moment_text": "Yeah. Um, when I was diagnosed after my son was, it was actually the day that he turned six months. I was doing his photo shoot of his six month, half birthday. Um, and my doctor called me back with the news that I was diagnosed, um, and the most. Crushing part of that moment at the time was I was nursing and breastfeeding was such an important and like vital part of my motherhood 'cause I got to experience it for close to three and a half years with my older daughter. And I was planning on doing that as long as I could with my son. Um, it was a really hard transition to go through. Um, but also then the reality of oh, I have to be here to be able to fight this so I can actually watch them grow up. Um. That was a, a reality check all as well.",
+    "moment_type": "lived_experience",
+    "life_stage": "postpartum",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "grief",
+      "sadness",
+      "fear"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional signals (grief, fear) and a system interaction (family), meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_012.docx",
+    "season": "",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Kristen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:04:41.199",
+    "timestamp_end": "0:05:12.199",
+    "paragraph_ids": [
+      "p_0032"
+    ],
+    "moment_text": "I think while I was going through treatment, just I had chosen to take the a gap year when I had my son to take a year off work and just kind of regroup and then life threw the, threw me this curve ball. But at the same time it was nice because I felt like I could still manage. Being at home, going through the routine, trying to keep things stable for my, both my kids. Um, but also I had great family support. My parents drove down from South Carolina every other week to watch the kids so I could go to treatment, um, because my husband still had to work because the medical bills keep rolling in.",
+    "moment_type": "lived_experience",
+    "life_stage": "postpartum",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "calm"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "cost_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains a barrier signal (cost_constraint) and a system interaction (family), meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_012.docx",
+    "season": "",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Kristen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:05:15.199",
+    "timestamp_end": "0:05:29.199",
+    "paragraph_ids": [
+      "p_0034"
+    ],
+    "moment_text": "The most overwhelming, I think just the reality of, I don't know where this is gonna end up. Um, 'cause you don't, you don't know. You just do. You pretty much are in survival mode. You're living day to day. You're just trying to make it through to the next milestone. Um, and I think that was the biggest part, is just the unknown and not being in control of the outcome.",
+    "moment_type": "reflection",
+    "life_stage": "postpartum",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "overwhelm",
+      "fear",
+      "hopelessness"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains both emotional and agency signals, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_012.docx",
+    "season": "",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Kristen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:04:19.199",
+    "timestamp_end": "0:04:39.199",
+    "paragraph_ids": [
+      "p_0029",
+      "p_0030"
+    ],
+    "moment_text": "Uh, yeah. When we were discussing surgical options, the. Ultimate, um, decision was more based around, we knew that we were gonna do a double mastectomy because I needed the risk reduction because of the BRCA on my right side. My cancer was on my left. And then it was kind of up to me on how I wanted to do the reconstruction. I felt at the time, because I was losing my hair, I was losing my sense of identity, I was losing everything through, through cancer. I decided to go with implants 'cause I didn't wanna lose. The complete body image of what I felt I looked like with breasts. Uh, so I was able to do a direct to implant reconstruction, um, because I didn't wanna go any bigger. I didn't want a more invent or intensive surgery either.",
+    "moment_type": "lived_experience",
+    "life_stage": "postpartum",
+    "health_domain": "Body Image",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "grief",
+      "fear"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains both emotional and agency signals in the context of a healthcare provider interaction, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "BH_012.docx",
+    "season": "",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Kristen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:05:38.199",
+    "timestamp_end": "0:06:10.199",
+    "paragraph_ids": [
+      "p_0037",
+      "p_0038"
+    ],
+    "moment_text": "Um, I think now, especially that my hair is more grown out and I don't feel like I look sick. Um, it's almost like I'm walking through the world with a disguise on because I am. Still the same person, but also nobody can tell that I had breast cancer. So it's kind of like a, a secret that you like end up keeping inside. Um, and you don't really notice until you see yourself, you know, without clothes on or in the shower, you know, just in your own home in those situations. But also living in Florida, um, just finding new beach wear or different things that like still can suit. I am now in this body.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "Body Image",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "isolation"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional, agency, and barrier signals, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "BH_012.docx",
+    "season": "",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Kristen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:06:13.199",
+    "timestamp_end": "0:07:08.199",
+    "paragraph_ids": [
+      "p_0040",
+      "p_0041"
+    ],
+    "moment_text": "I think for my advocacy, because of my team being well aware of my genetic component, I haven't had to really push to get extra scans or things covered. Even now in my survivorship, I have a little bit of weird pain and my doctor's very quick to order labs and scans just to like double check everything. Um, however, I have had to push. More for the, um, ovarian aspect of the, the genetic component of brca, uh, because I am so young and the, the risk is not until 40 is the, the recommendation that they like per um, for the preventative surgeries and. Because I went through breast cancer and I'm in this weird perimenopause slash menopause situation, it's been difficult to navigate that. Um, and they don't wanna do anything like, there's no real hard research on hormone control and replacement or different options or be even trying birth control again, just, um. Because of the genetic risk of the breast cancer coming back, but also the ovarian cancer risk. So I feel like I've had to do a little bit more pushing and seeking other opinions outside of my regular team.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Ovarian Cancer Risk",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "seeking_information",
+      "changing_providers"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong and multiple agency and barrier signals within a healthcare provider interaction, meeting the A2 evidence gate criteria.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier here is not outright dismissal, but a systemic gap in research and guidelines for her specific situation (young, BRCA+, post-cancer, in chemical menopause), forcing her to advocate and seek care outside her primary team."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_012.docx",
+    "season": "1",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:30.000",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "I think that I've created like a great online network of peers. Um. But in person it's near impossible. 'cause usually when you go to a cancer center, it tends to be older crowds. Um, and there's not the numbers it like locally that there are online. Um, so yeah, you, you, you form your far away network. So has social media helped create your community? Yeah. One of the first things that I did after I got my BRCA diagnosis was go to Instagram and search up BRCA one and see what the tags were showing. Um, just to find any sort of sense of community or other information that may not have been presented to me through my doctor's offices.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains barrier signals (social_isolation, lack_of_support) and agency signals (seeking_support, seeking_information) within a peer_community system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_012.docx",
+    "season": "1",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:50.000",
+    "timestamp_end": "00:01:15.000",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "Um, I still have to get up, I have to go to work, I gotta feed the kids breakfast. Um, but it's always back in the back of your mind that there's like a shadow that I didn't have before that kind of follows me around through every situation is there for the big moments, the sad moments, the happy moments, um, and just knowing that it happened once so it could happen again. Um, but then also trying to balance out the, you can't live in fear of that because fear only holds you back.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "anxiety",
+      "fear"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong emotional signals (anxiety, fear) even though the system interaction is 'none'.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_012.docx",
+    "season": "1",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:20.000",
+    "timestamp_end": "00:01:50.000",
+    "paragraph_ids": [
+      "p9",
+      "p10",
+      "p11"
+    ],
+    "moment_text": "I. I'm not really sure what I pictured survivorship to be. Um, I guess I kind of hoped that I would get to the end and like wanna cheer for joy and I see everybody get so excited about like, ringing the bell. Um, but honestly it just felt like something I just had to do and I did it. And you just move along, um, onto the next whatever life is gonna throw at you. Um, but I also know that I need to stop and pause and be like, you beat cancer. Like that's a big thing to celebrate and you're in this survivorship. Um, and I feel like it's just like a mess of constant highs and lows and mixes of happy and sad and not really knowing what emotion is, where it should be.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confusion",
+      "resignation",
+      "sadness"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional signals (confusion), a barrier signal (lack_of_validation), and a healthcare_provider system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The 'ringing the bell' ritual is a key part of the healthcare system interaction that is creating the emotional dissonance."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_012.docx",
+    "season": "1",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:20.000",
+    "timestamp_end": "00:03:00.000",
+    "paragraph_ids": [
+      "p16",
+      "p17",
+      "p18"
+    ],
+    "moment_text": "Um, physically I don't have the stamina that I used to. Um, as I've mentioned, I spend a lot of time in a hula hoop and it's a great cardio workout. Um, but I'm very winded very quickly. Um, and it's not enough to like hinder my activity severely. It's just something that I personally notice and I'm like, oh, gotta not let anybody see how much I'm struggling right now, even though. It's just part of life after. Um, and of course there's some like physical sensations that happen after a mastectomy. And with implants, like I get, um, electric zaps still every once in a while and there's random cramps and muscle spasms, um, that definitely have lessened up being three years out from surgery, but also happen for no reason, um, that I can determine. Um, and emotionally, I, I feel like I'm a mess most of the time, but not in like a sad way. Um, I just feel like I'm constantly aware that I had cancer and that a lot of emotions come with it, and that death could be around the corner, but also I could have another 60 years ahead of me. Um, and it's just a constant bouncing back, back and forth.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "anxiety",
+      "overwhelm",
+      "embarrassment"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains strong emotional signals (anxiety, overwhelm) describing the unseen effects of survivorship.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_012.docx",
+    "season": "1",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:25.000",
+    "timestamp_end": "00:04:05.000",
+    "paragraph_ids": [
+      "p22",
+      "p23",
+      "p24"
+    ],
+    "moment_text": "Um, so yeah, after treatment, like I, I would be afraid to look at myself or look at my body or touch my body, and my doctors kind of are just looking at me medically, um, and don't have that like, emotional understanding of where I'm coming from, where they're like, just, you know, massage your scars and get to know your new body. But if I try and physically. Touch them or feel them. Sometimes I, I get an extreme anxiety and like, it just an uncomfortable like, uh, trauma response. Um, and I feel like initially I wish there was more focus and awareness or just conversation about how different things will feel and like maybe work with somebody to like help you through the physical changes and just like getting used to. Your new self, your new normal, um, 'cause you don't really get that unless you seek it out. Like it's not in included in your treatment plan. Um, unless you prioritize it, it usually doesn't happen or you get like the extra care.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "avoidance",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "training_gap",
+      "fragmented_care",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains multiple strong barrier signals (lack_of_support, training_gap, fragmented_care) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "medical_trauma",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "This is a very strong moment detailing the disconnect between medical advice and the patient's emotional/trauma response."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_012.docx",
+    "season": "1",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:10.000",
+    "timestamp_end": "00:04:45.000",
+    "paragraph_ids": [
+      "p26",
+      "p27",
+      "p28"
+    ],
+    "moment_text": "Um, I don't at all. Um, I know that there's support groups, um, but sometimes it, it. Feels out of place. Um, because like I said, a lot of times they're older people. Um, and then even sometimes those that are closer in your same age are not always at the same life point. And it's, um, there's not a lot of good resources to turn to unless you're, like I said, seeking, actively seeking them out. They don't just. Like, come from your cancer center or fall into your lap, like you have to search for it. Um, so it'd be great if there was more of like a welcome to cancer book that you would get that could include all of these resources for people that really are more into your situation that you don't have to actually go and really, really search for.",
+    "moment_type": "system_observation",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "isolation",
+      "frustration"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "social_isolation",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains multiple barrier signals (lack_of_support, social_isolation) and describes a systemic failure within the healthcare_provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_012.docx",
+    "season": "1",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:50.000",
+    "timestamp_end": "00:05:10.000",
+    "paragraph_ids": [
+      "p30",
+      "p31"
+    ],
+    "moment_text": "Um, I think that it has gotten a lot better because I'm three years out now and I've moved to six months, so my. Or my visits are only every six months. So it's more like I get, you get a little bit of a break. Um, so I think the further out that you get, um, the quality of life improves, um, as long as you're kind of supporting yourself and putting in the work. So make it happen.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "relief",
+      "hope"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional signals (relief, hope) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "BH_012.docx",
+    "season": "1",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:40.000",
+    "timestamp_end": "00:06:05.000",
+    "paragraph_ids": [
+      "p36",
+      "p37"
+    ],
+    "moment_text": "Um, I think with managing my ongoing care, it's just knowing where to turn to when I need support. Um, I know that I can always log into my chart if it's like a super hyper specific question to myself, but even then I'm gonna do some peer review online and search out the communities in that way. Um. If I don't always agree with what my doctor says, I have just like searched just other opinions and just to reach out. Um, and just know that like you can always advocate and push for yourself and do a Google search if something doesn't feel right.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "seeking_information",
+      "seeking_support",
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains multiple strong agency signals (self_advocacy, seeking_information) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "BH_012.docx",
+    "season": "1",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:08.000",
+    "timestamp_end": "00:06:22.000",
+    "paragraph_ids": [
+      "p39",
+      "p40"
+    ],
+    "moment_text": "Um. Just knowing that you have to keep making the appointments, that even though they're getting further and further apart, they're never really gonna end. Um, especially with my triple negative and my BRCA carrier. I'm going to be monitored for the rest of my life even after I don't have any parks left. Um.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm",
+      "resignation"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains emotional signals (overwhelm, resignation) related to a healthcare_provider system interaction.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "BH_012.docx",
+    "season": "1",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:28.000",
+    "timestamp_end": "00:06:42.000",
+    "paragraph_ids": [
+      "p42",
+      "p43"
+    ],
+    "moment_text": "Um, I think helping just specifically parents, um. Women that have children, it's a whole different ball game because you're not only managing your health and going through that, um, but then still trying to have kids on top of it. Um, I think,",
+    "moment_type": "advocacy",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes A2 evidence gate: The moment contains a barrier signal (lack_of_support) and agency signal (speaking_up) within a healthcare_provider system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker identifies a specific sub-group (parents) that needs more targeted support."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_012.docx",
+    "season": "1",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:02.890",
+    "timestamp_end": "00:00:18.050",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "I definitely do. I feel like especially with, especially with the internet and social media, it's kind of given people a chance to speak their story, and especially younger people we're kind of used to being on camera. We've grown up with technology. It's become familiar to us, so taking advantage of that, I think has made advocacy in some ways a lot easier. Um, even though it might feel like it gets a little saturated. Sometimes.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "advocacy",
+    "system_interaction": "media",
+    "emotional_signals": [
+      "confidence"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with agency signals (sharing_story, speaking_up) and a system interaction (media).",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_012.docx",
+    "season": "1",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Guest",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:22.890",
+    "timestamp_end": "00:01:18.050",
+    "paragraph_ids": [
+      "p4",
+      "p5",
+      "p7"
+    ],
+    "moment_text": "Um, I think the number one thing to remember is their story is not your story. Um, that is my mantra. I feel like that's the number one thing that I tell everybody because your journey, your outcome, your, everything that you go through is gonna be different, even if it's the exact same diagnosis to somebody else. Um, and the second thing is that you. You will feel good again, you'll feel normal. That joy will return, you'll find a sense of happiness. Maybe not in every single old way that you used to, um, but it, it will come back there again. And the third, I think the third thing is just to remember that you have a voice in your, in your plan of care. Um, if something doesn't sit right with you, you can say no. Or if you really want something to happen, you can really push for it and find a doctor who will listen to you and help you in a way that works for you, not just with the textbooks and the statistics day.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "breast cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "hope",
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "setting_boundaries",
+      "making_decisions",
+      "changing_providers"
+    ],
+    "barrier_signals": [
+      "provider_dismissal"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with strong agency signals (self_advocacy, speaking_up) and barrier signals (provider_dismissal) within a healthcare_provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier signal 'provider_dismissal' is implied by the advice to 'find a doctor who will listen to you', suggesting the speaker has encountered or anticipates others will encounter doctors who do not listen."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_012.docx",
+    "season": "1",
+    "source_file": "BH_012.docx",
+    "speaker_id": "Host",
+    "speaker_role": "host",
+    "timestamp_start": "00:01:29.890",
+    "timestamp_end": "00:01:39.050",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "Yeah, yeah. No, I, I think you did great. And I mean, you, you finished by saying that everyone has a voice and, um. And, and then even what you said around social media, feeling saturated, like yes, but everyone's perspective is unique and, and that's exactly what came through.",
+    "moment_type": "validation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "advocacy",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "validation",
+      "recognition",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "speaking_up"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2 with emotional signals (validation, empowerment) and agency signals (sharing_story) within a peer_community interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  }
+]
