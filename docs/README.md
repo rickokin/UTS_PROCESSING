@@ -9,6 +9,7 @@
 | [API Reference](./api-reference.md) | Every `/api/*` endpoint — request/response formats, streaming protocols |
 | [Data Formats](./data-formats.md) | JSON artifact schemas, file naming conventions, vocabulary enums |
 | [Locks Pack](./locks-pack.md) | How schemas, vocab, rules, and prompts constrain LLM output |
+| [Rules & Prompts](./rules-and-prompts.md) | How rule files and prompt cards are composed per phase of the Insights Report process |
 | [Development](./development.md) | Local setup, project structure, coding conventions, offline validation |
 | [Deployment](./deployment.md) | Environment requirements, hosting constraints, production checklist |
 
