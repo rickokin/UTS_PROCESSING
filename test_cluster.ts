@@ -1,4 +1,4 @@
-import { loadPrompts, loadSchemas, loadAllVocabText, loadAllRulesText } from './src/lib/assets/loader';
+import { loadPrompts, loadSchemas, loadAllVocabText, loadAllRulesText } from './src/lib/pipelines/insights/loader';
 import { callGeminiWithRetry, cleanGeminiSchema } from './src/lib/gemini';
 import fs from 'fs/promises';
 

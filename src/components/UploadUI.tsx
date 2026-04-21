@@ -18,10 +18,12 @@ export default function UploadUI({
   onFilesProcessed,
   outputDir,
   uploadDir,
+  pipelineId,
 }: {
   onFilesProcessed: (files: FileState[]) => void;
   outputDir: string;
   uploadDir: string;
+  pipelineId: string;
 }) {
   const [files, setFiles] = useState<FileState[]>([]);
   const [selectedFiles, setSelectedFiles] = useState<Set<string>>(new Set());
@@ -118,7 +120,7 @@ export default function UploadUI({
 
         // 2. Extract & Tag
         setFiles((prev) => prev.map((f) => (f.id === fileState.id ? { ...f, status: "segmenting", progress: 0, extractedText: text } : f)));
-        const segmentRes = await fetch("/api/phase1/segment", {
+        const segmentRes = await fetch(`/api/pipelines/${pipelineId}/phase1/segment`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ text, episodeId: fileState.filename }),
@@ -186,7 +188,8 @@ export default function UploadUI({
             filename: fileState.filename,
             stage: "moments_tagged",
             data: moments,
-            outputDir
+            outputDir,
+            pipelineId,
           }),
           signal: abortControllerRef.current?.signal
         });

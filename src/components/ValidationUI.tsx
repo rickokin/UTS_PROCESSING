@@ -39,7 +39,7 @@ interface ValidationData {
   validation_notes: string;
 }
 
-export default function ValidationUI({ validation }: { validation: ValidationData }) {
+export default function ValidationUI({ validation, pipelineId }: { validation: ValidationData; pipelineId: string }) {
   const [downloadingPdf, setDownloadingPdf] = useState(false);
 
   const statusCounts = validation.insight_validations.reduce(
@@ -53,7 +53,7 @@ export default function ValidationUI({ validation }: { validation: ValidationDat
   const downloadPdf = async () => {
     setDownloadingPdf(true);
     try {
-      const res = await fetch("/api/phase2/download-validation", {
+      const res = await fetch(`/api/pipelines/${pipelineId}/phase2/download-validation`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ validation }),

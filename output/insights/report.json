@@ -1,0 +1,225 @@
+{
+  "locks_version": "v1.0",
+  "report_id": "R-20240521-BC-SURVIVORSHIP",
+  "report_title": "Beyond Survival: Lived Experiences in Breast Cancer Survivorship",
+  "insight_ids_included": [
+    "I-C001-20240521",
+    "I-C002-20240521",
+    "I-C003-20240521",
+    "I-C004-20240521",
+    "I-C005-20240521",
+    "I-C006-20240521",
+    "I-C007-20240521",
+    "I-C008-20240521"
+  ],
+  "excluded_insights": [],
+  "life_stage_coverage": [
+    "midlife",
+    "reproductive_years",
+    "cross_life_stage"
+  ],
+  "confidence_distribution": {
+    "high": 7,
+    "medium": 1,
+    "emerging": 0
+  },
+  "assembly_notes": "This report synthesizes eight high-to-medium confidence insights from conversations with five participants who have experienced breast cancer. The narrative arc moves from identifying systemic and relational barriers within healthcare (provider dismissal, knowledge gaps, rushed decisions) to the profound personal and communal consequences (the 'survivorship cliff'). It then highlights a key protective factor—the irreplaceable role of peer community—and concludes with insights on intergenerational communication and the tension between survival and quality of life. The findings are well-supported by external research, particularly concerning the survivorship cliff and financial toxicity, strengthening the validity of these patient-voiced patterns.",
+  "title": "Beyond Survival",
+  "subtitle": "Lived Experiences in Breast Cancer Survivorship",
+  "executive_summary": [
+    "Across five participants with diverse backgrounds, a clear and consistent narrative emerges about the challenges of navigating breast cancer, revealing critical gaps in the healthcare system that extend far beyond medical treatment.",
+    "Patients frequently encounter provider dismissal, forcing them to become fierce self-advocates to ensure their life-threatening symptoms are taken seriously.",
+    "Once active treatment concludes, individuals face a 'survivorship cliff'—an abrupt withdrawal of support that leaves them feeling isolated while navigating the complex aftermath of cancer.",
+    "In the face of this isolation, peer communities of fellow survivors offer an irreplaceable form of validation, practical guidance, and hope that is essential for healing.",
+    "The journey is further complicated by compounding financial and logistical barriers that force patients to make impossible choices between necessary care and their family's immediate stability.",
+    "These lived experiences, many of which are strongly corroborated by external research, underscore the urgent need for a more holistic, equitable, and patient-centered approach to cancer care and survivorship."
+  ],
+  "key_insights": [
+    {
+      "insight_statement": "Patients diagnosed with cancer frequently encounter provider dismissal or the normalization of their symptoms, which forces them to develop strong self-advocacy skills. This often includes questioning medical advice, seeking second opinions, or changing providers entirely to ensure their concerns are heard and they receive life-saving care.",
+      "quotes": [
+        {
+          "quote": "you have to listen to your patients, not just what they're trying to say, but what they're feeling. Because if something's off, something's off. And it may not be wrong, but don't brush them off. I could have been a stat, it would've been metastasized if I listened to them, if I let it go and say, oh, it doesn't matter, and I would've died.",
+          "speaker_role": "patient",
+          "episode_id": "BH_004.docx"
+        },
+        {
+          "quote": "I was to the T until I realized you're going to kill me if I don't speak up.",
+          "speaker_role": "patient",
+          "episode_id": "BH_002.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "Patients, particularly younger women with breast cancer, are often not provided with crucial information about their diagnosis (e.g., breast density), treatment side effects (e.g., radiation burns on diverse skin tones), or long-term implications (e.g., fertility). This systemic education gap forces them to navigate complex medical decisions while feeling overwhelmed and under-informed, placing the burden of research on the patient at their most vulnerable.",
+      "quotes": [
+        {
+          "quote": "when I Googled radiated skin. Radiated brown skin, radiated black skin. Do not show me anything but radiated black skin. It was still all white women with red. Skin and I could not find anything with my skin with a radiation burn.",
+          "speaker_role": "patient",
+          "episode_id": "BH_002.docx"
+        },
+        {
+          "quote": "there's an education gap. ... And I think having to do our own legwork, um, is empowering, but it's so frustrating because learning more after the fact, it's like, gosh, I, I can give recommendations on what questions to ask, but. I still don't know all of the questions to ask",
+          "speaker_role": "patient",
+          "episode_id": "BH_001.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "Patients experience a sharp drop-off in medical and social support immediately following the completion of active cancer treatment, a phenomenon described as the \"survivorship cliff.\" The structured schedule of appointments and community check-ins ends, leaving them to navigate the complex physical and emotional aftermath—including PTSD, identity shifts, and long-term side effects—in a state of profound isolation and uncertainty.",
+      "quotes": [
+        {
+          "quote": "suddenly you're just like dropped into this, like off a cliff, into this floating ocean of survivorship that's just vast and endless. There's no one else there. And you don't know where you're going or who you are or how you even got there.",
+          "speaker_role": "patient",
+          "episode_id": "BH_005.docx"
+        },
+        {
+          "quote": "That is the time when we need the most support. Because now we don't have the structure of that act, active treatment. We don't have the structure of people helping on a daily basis, people checking in. It's a lonely time.",
+          "speaker_role": "patient",
+          "episode_id": "BH_002.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "For individuals navigating a cancer diagnosis and survivorship, peer communities of others with lived experience provide an essential and irreplaceable form of support. This connection offers a unique sense of validation, practical guidance, and hope that is often missing from formal healthcare interactions, combating the profound social isolation that accompanies the journey.",
+      "quotes": [
+        {
+          "quote": "nothing against the doctors or the nurses or the protocols, but the real human experience when you hear it from another woman. Is not irre, it's irreplaceable.",
+          "speaker_role": "patient",
+          "episode_id": "BH_004.docx"
+        },
+        {
+          "quote": "I'm so glad by that point I had found different communities of cancer friends to support me because I truly believe that once you sort of fall off the survivorship cliff into this land of survivorship, this floating ocean of survivorship, that's exactly when you really need. Other survivors around you?",
+          "speaker_role": "patient",
+          "episode_id": "BH_005.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "Patients diagnosed with cancer are frequently pressured to make urgent, life-altering decisions about treatments, surgeries, and fertility with insufficient information and inadequate time for consideration. This rushed process, driven by systemic time constraints and a lack of patient-centered communication, can lead to choices that patients later regret and feel were unduly influenced by their care team.",
+      "quotes": [
+        {
+          "quote": "The decisions that you feel like you need to make, they make you feel like you need to make them. Right now, I had about 24 hours to 48 hours to make the decision if I wanna have kids again, that that's a timeframe I was given. That's not fair, and it was actually unnecessary.",
+          "speaker_role": "patient",
+          "episode_id": "BH_002.docx"
+        },
+        {
+          "quote": "I think, I think rushing women to make decisions, especially young women regarding their fertility that are gonna affect their marriages, that are gonna affect their bodies. I think that is one thing that I feel like we can handle with a little bit more care.",
+          "speaker_role": "patient",
+          "episode_id": "BH_003.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "A pattern of generational silence often conceals critical family health histories, particularly regarding cancer. A diagnosis in a younger family member frequently acts as the catalyst that uncovers this previously unspoken history. For this new generation, speaking up and sharing their story becomes a vital act of survival and a preventative tool to protect their own children and relatives from the dangers of unknown genetic risks.",
+      "quotes": [
+        {
+          "quote": "I think the new generation, we're realizing that our, um, our need to break the silence is actually our survival. Like no longer being silent is helping more of us survive.",
+          "speaker_role": "patient",
+          "episode_id": "BH_002.docx"
+        },
+        {
+          "quote": "a lot of us, especially within the black community, we don't know our history because no one talks about it.",
+          "speaker_role": "patient",
+          "episode_id": "BH_002.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "Patients face a cascade of interlocking barriers to accessing necessary care, particularly follow-up screenings. Cost constraints, lack of insurance coverage, and logistical hurdles like needing to take time off work or find childcare, create a situation where patients must make impossible choices between their health and their family's immediate financial stability.",
+      "quotes": [
+        {
+          "quote": "I was a single mom at the time. I was working... I just thought. Well, okay, if you're telling me this is normal, then I am not gonna spend the money because I don't have it. First of all, there's, I just don't have it. Um, it's that, or, you know, paying for my daughter's, you know, school or soccer or food or what have you. It was a literal choice I had to make.",
+          "speaker_role": "patient",
+          "episode_id": "BH_001.docx"
+        },
+        {
+          "quote": "all of these things are compounded by socioeconomic factors. If you can even take another day off work. Put gas in your car, get another daycare center or a babysitter, another copay, and then paying for, for the extra screening",
+          "speaker_role": "patient",
+          "episode_id": "BH_001.docx"
+        }
+      ]
+    },
+    {
+      "insight_statement": "For younger cancer survivors, the healthcare system's primary focus on acute treatment and survival often comes at the expense of their long-term quality of life. Critical concerns regarding body image, sexual health, fertility, and the ability to live a full life post-cancer are frequently dismissed or unaddressed during the treatment planning phase, leaving patients to advocate for a holistic vision of their future.",
+      "quotes": [
+        {
+          "quote": "it wasn't only about saving my life. Thank you so much that it's about that, and thank you for saving my life, but it's also about the life I have after this. And that's something I really believe that matters so much to younger breast cancer survivors, and maybe sometimes our healthcare people are not in that frame of mind.",
+          "speaker_role": "patient",
+          "episode_id": "BH_005.docx"
+        },
+        {
+          "quote": "That's the basic goal. I know it's a hard goal and a big goal and a struggle goal. I get it. But that's our low baseline of the goal. I want anyone who's working with young people with cancer to realize the real goal is our full lives.",
+          "speaker_role": "patient",
+          "episode_id": "BH_005.docx"
+        }
+      ]
+    }
+  ],
+  "methodology": {
+    "episodes_analyzed": 5,
+    "moments_segmented": 31,
+    "confidence_threshold": "Medium or High"
+  },
+  "external_validation_summary": {
+    "overview": "The overall alignment between the promoted insights and the external research is strong, with the majority of insights being either fully or partially supported. The strongest corroborations exist for systemic issues like the 'survivorship cliff,' critical information gaps, the burden of financial toxicity, and the protective role of peer communities. Notable gaps in alignment include two insights—rushed medical decisions and the tension between survival and quality of life—which were not addressed in the external review. Furthermore, the external document highlights the theme of 'breaking generational silences' as lacking strong corroboration in authoritative literature, and it elevates the 'fear of recurrence' to a level of prominence not fully captured by a single promoted insight.",
+    "supported_count": 4,
+    "partially_supported_count": 2,
+    "not_supported_count": 0,
+    "not_addressed_count": 2,
+    "novel_external_findings_count": 2
+  },
+  "participant_demographics": {
+    "total_participants": 5,
+    "age": {
+      "min": 35,
+      "max": 54,
+      "mean": 46.4,
+      "median": 49
+    },
+    "age_brackets": [
+      {
+        "bracket": "35-44",
+        "count": 2
+      },
+      {
+        "bracket": "45-54",
+        "count": 3
+      }
+    ],
+    "ethnicity_breakdown": [
+      {
+        "group": "WOC",
+        "count": 4,
+        "pct": 80
+      },
+      {
+        "group": "Caucasian",
+        "count": 1,
+        "pct": 20
+      }
+    ],
+    "geographic_scope": {
+      "domestic_count": 5,
+      "international_count": 0,
+      "regions": [
+        {
+          "region": "CA",
+          "count": 2
+        },
+        {
+          "region": "WA",
+          "count": 1
+        },
+        {
+          "region": "OHIO",
+          "count": 1
+        },
+        {
+          "region": "FL",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

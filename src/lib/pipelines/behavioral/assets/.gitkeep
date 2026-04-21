@@ -1,0 +1,3 @@
+# Placeholder for the behavioral pipeline's Locks Pack (schemas, vocab, rules, prompts).
+# When the behavioral pipeline is implemented, create schemas/, vocab/, rules/, prompts/
+# subdirectories here mirroring the insights pipeline.

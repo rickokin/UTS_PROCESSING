@@ -1,0 +1,874 @@
+[
+  {
+    "locks_version": "v1.0",
+    "insight_id": "I-C001-20240521",
+    "insight_title": "Patient Self-Advocacy as a Necessary Countermeasure to Provider Dismissal",
+    "insight_statement": "Patients diagnosed with cancer frequently encounter provider dismissal or the normalization of their symptoms, which forces them to develop strong self-advocacy skills. This often includes questioning medical advice, seeking second opinions, or changing providers entirely to ensure their concerns are heard and they receive life-saving care.",
+    "insight_type": "relational_pattern",
+    "derived_from_episodes": [
+      "BH_001.docx",
+      "BH_002.docx",
+      "BH_003.docx",
+      "BH_004.docx",
+      "BH_005.docx"
+    ],
+    "supporting_moments": [
+      {
+        "moment_id": "BH_004/M006",
+        "episode_id": "BH_004.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "self_advocacy",
+        "moment_summary": "A patient emphasizes that providers must listen to what patients are feeling, not just saying, because her self-advocacy in the face of dismissal prevented a metastasis that could have been fatal."
+      },
+      {
+        "moment_id": "BH_002/M002",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "life_stage": "reproductive_years",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "self_advocacy",
+        "moment_summary": "A patient describes shedding her 'good black patient' persona of people-pleasing when she realized that not speaking up about a severe treatment reaction could be fatal."
+      },
+      {
+        "moment_id": "BH_001/M011",
+        "episode_id": "BH_001.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "changing_providers",
+        "moment_summary": "Despite her care team being highly recommended, a patient knew in her gut their proposed treatment path was wrong for her and undertook the process of finding a new team she could trust."
+      },
+      {
+        "moment_id": "BH_004/M005",
+        "episode_id": "BH_004.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "provider_dismissal",
+        "moment_summary": "A two-time cancer survivor recounts how her concerns about a nodule were dismissed as 'fatty tissue' by an understaffed hospital, requiring her to advocate for herself to get a proper diagnosis for the recurrence."
+      },
+      {
+        "moment_id": "BH_003/M003",
+        "episode_id": "BH_003.docx",
+        "speaker_role": "patient",
+        "life_stage": "reproductive_years",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "self_advocacy",
+        "moment_summary": "A patient realized she didn't have to settle for the bare minimum in care, leading her to maintain two oncologists at different institutions to build an intentional and effective care team."
+      }
+    ],
+    "life_stages_covered": [
+      "midlife",
+      "reproductive_years"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "anger",
+      "empowerment"
+    ],
+    "barrier_types": [
+      "provider_dismissal",
+      "lack_of_validation",
+      "symptoms_normalized_without_context"
+    ],
+    "why_it_matters": {
+      "system_level": "This pattern reveals a critical gap in medical training regarding patient-centered communication and taking patient intuition seriously, which can lead to delayed diagnoses and medical errors.",
+      "human_level": "It places an extraordinary burden on patients to fight for their own care while already managing the immense physical and emotional stress of a cancer diagnosis.",
+      "equity_or_preventive_level": "Patients who lack the resources, confidence, or cultural capital to advocate for themselves are at a significantly higher risk of poor outcomes, creating a major equity gap in care."
+    },
+    "impact_vectors": [
+      "increased_self_advocacy",
+      "care_seeking",
+      "health_literacy"
+    ],
+    "representative_quotes": [
+      {
+        "quote_type": "primary",
+        "episode_id": "BH_004.docx",
+        "speaker_role": "patient",
+        "quote_usage": "you have to listen to your patients, not just what they're trying to say, but what they're feeling. Because if something's off, something's off. And it may not be wrong, but don't brush them off. I could have been a stat, it would've been metastasized if I listened to them, if I let it go and say, oh, it doesn't matter, and I would've died.",
+        "selection_rationale": "This quote powerfully articulates the life-or-death stakes of provider dismissal and the critical importance of listening to a patient's intuition."
+      },
+      {
+        "quote_type": "secondary",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "quote_usage": "I was to the T until I realized you're going to kill me if I don't speak up.",
+        "selection_rationale": "This quote captures the stark moment of realization that passivity is dangerous and self-advocacy is a necessary survival skill in the healthcare system."
+      }
+    ],
+    "report_section_alignment": [
+      "Key Insights",
+      "Relational Patterns"
+    ],
+    "suggested_calls_to_action": [
+      "Integrate patient advocacy training into medical school curricula and continuing education for clinicians.",
+      "Develop hospital protocols that require a formal review or second opinion when a patient persistently reports a concern that is being dismissed.",
+      "Create patient-facing resources that teach effective self-advocacy strategies and communication techniques for clinical appointments."
+    ],
+    "confidence_level": "high",
+    "notes_for_editor": "This is a very strong, high-coherence cluster with evidence across all five episodes. The tension between provider dismissal and patient agency is the core narrative."
+  },
+  {
+    "locks_version": "v1.0",
+    "insight_id": "I-C002-20240521",
+    "insight_title": "Critical Knowledge Gaps in Cancer Care Impede Informed Decision-Making",
+    "insight_statement": "Patients, particularly younger women with breast cancer, are often not provided with crucial information about their diagnosis (e.g., breast density), treatment side effects (e.g., radiation burns on diverse skin tones), or long-term implications (e.g., fertility). This systemic education gap forces them to navigate complex medical decisions while feeling overwhelmed and under-informed, placing the burden of research on the patient at their most vulnerable.",
+    "insight_type": "knowledge_gap_pattern",
+    "derived_from_episodes": [
+      "BH_001.docx",
+      "BH_002.docx",
+      "BH_003.docx",
+      "BH_004.docx",
+      "BH_005.docx"
+    ],
+    "supporting_moments": [
+      {
+        "moment_id": "BH_002/BH_002_M012",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "life_stage": "reproductive_years",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "lack_of_information",
+        "moment_summary": "A Black patient describes her terror before radiation because she could find no images of radiation burns on skin like hers, only on white skin, highlighting a major gap in representative patient education materials."
+      },
+      {
+        "moment_id": "BH_001/M002",
+        "episode_id": "BH_001.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "lack_of_information",
+        "moment_summary": "A patient was told she had dense breasts but was given just enough information to cause worry but not enough to understand the importance of follow-up screening, especially given the out-of-pocket cost."
+      },
+      {
+        "moment_id": "BH_005/M005",
+        "episode_id": "BH_005.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "education_gap",
+        "moment_summary": "A patient explains that young survivors often lack general health knowledge and are too overwhelmed by their diagnosis to know how to advocate for their future quality of life, which their doctors are not focused on."
+      },
+      {
+        "moment_id": "BH_001/M032",
+        "episode_id": "BH_001.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "education_gap",
+        "moment_summary": "A patient, nearly 10 years post-diagnosis, notes the exhausting and frustrating burden of having to do her own research to understand her condition, a process made harder by the trauma of the diagnosis itself."
+      },
+      {
+        "moment_id": "BH_005/BH_005_M036",
+        "episode_id": "BH_005.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "lack_of_information",
+        "moment_summary": "A patient points out that young survivors undergoing urgent treatment are often not even told about fertility preservation options or the long-term effects of treatment on their sexual health."
+      }
+    ],
+    "life_stages_covered": [
+      "midlife",
+      "reproductive_years",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "confusion",
+      "overwhelm"
+    ],
+    "barrier_types": [
+      "lack_of_information",
+      "education_gap",
+      "training_gap"
+    ],
+    "why_it_matters": {
+      "system_level": "This pattern indicates a failure in standardized patient education protocols, where information is either incomplete, not culturally representative, or delivered without context, undermining informed consent.",
+      "human_level": "It creates immense anxiety and frustration, forcing patients to become medical researchers at a time when they are least equipped to do so, potentially leading to suboptimal decisions.",
+      "equity_or_preventive_level": "This gap disproportionately harms patients with lower health literacy, fewer personal resources, or from marginalized communities who may not have access to representative information."
+    },
+    "impact_vectors": [
+      "health_literacy",
+      "increased_self_advocacy",
+      "preventive_action"
+    ],
+    "representative_quotes": [
+      {
+        "quote_type": "primary",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "quote_usage": "when I Googled radiated skin. Radiated brown skin, radiated black skin. Do not show me anything but radiated black skin. It was still all white women with red. Skin and I could not find anything with my skin with a radiation burn.",
+        "selection_rationale": "This quote provides a stark, specific, and powerful example of an equity-related knowledge gap in patient-facing materials that has significant emotional consequences."
+      },
+      {
+        "quote_type": "secondary",
+        "episode_id": "BH_001/M032",
+        "speaker_role": "patient",
+        "quote_usage": "there's an education gap. ... And I think having to do our own legwork, um, is empowering, but it's so frustrating because learning more after the fact, it's like, gosh, I, I can give recommendations on what questions to ask, but. I still don't know all of the questions to ask",
+        "selection_rationale": "This quote perfectly summarizes the frustrating emotional state of being burdened with self-education while feeling ill-equipped and overwhelmed."
+      }
+    ],
+    "report_section_alignment": [
+      "Key Insights",
+      "Knowledge Gaps"
+    ],
+    "suggested_calls_to_action": [
+      "Develop and mandate the use of standardized, accessible, and culturally representative educational materials for common diagnoses and treatments.",
+      "Invest in creating visual aids (photos, videos) that depict medical conditions and treatment side effects across a diverse range of skin tones and body types.",
+      "Implement a 'teach-back' method in clinical settings to ensure patients have understood the critical information needed for decision-making."
+    ],
+    "confidence_level": "high",
+    "notes_for_editor": "This is another strong insight with broad evidence. The theme of patients being forced to educate themselves is a recurring and powerful one."
+  },
+  {
+    "locks_version": "v1.0",
+    "insight_id": "I-C003-20240521",
+    "insight_title": "The \"Survivorship Cliff\": Abrupt Cessation of Support After Cancer Treatment Creates Isolation",
+    "insight_statement": "Patients experience a sharp drop-off in medical and social support immediately following the completion of active cancer treatment, a phenomenon described as the \"survivorship cliff.\" The structured schedule of appointments and community check-ins ends, leaving them to navigate the complex physical and emotional aftermath—including PTSD, identity shifts, and long-term side effects—in a state of profound isolation and uncertainty.",
+    "insight_type": "systemic_pattern",
+    "derived_from_episodes": [
+      "BH_002.docx",
+      "BH_003.docx",
+      "BH_005.docx"
+    ],
+    "supporting_moments": [
+      {
+        "moment_id": "BH_005/M001",
+        "episode_id": "BH_005.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "lack_of_support",
+        "moment_summary": "A patient vividly describes the feeling of falling off a 'survivorship cliff' after treatment ends, where the structure and support disappear, leaving one floating in a vast, lonely ocean of survivorship."
+      },
+      {
+        "moment_id": "BH_002/BH_002_M025",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "life_stage": "reproductive_years",
+        "health_domain": "breast_cancer",
+        "system_interaction": "community_observation",
+        "signal_type": "social_isolation",
+        "moment_summary": "A patient asserts that the post-treatment period is when support is needed most, as the structure is gone, and it's a lonely time where it's okay to fall apart and need more mental health support."
+      },
+      {
+        "moment_id": "BH_002/BH_002_M026",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "clinician",
+        "life_stage": "cross_life_stage",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "fragmented_care",
+        "moment_summary": "A host observes that while the medical system provides nurse navigators during active treatment, that support vanishes afterward, leaving patients to navigate the overwhelming next phase on their own."
+      },
+      {
+        "moment_id": "BH_002/M006",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "life_stage": "reproductive_years",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "lack_of_support",
+        "moment_summary": "A patient rejects the term 'survivor,' feeling instead like a 'veteran' who is put on a shelf after treatment, with support withdrawn until a potential recurrence, which was actually the hardest and loneliest time."
+      }
+    ],
+    "life_stages_covered": [
+      "midlife",
+      "reproductive_years",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "isolation",
+      "loneliness",
+      "overwhelm",
+      "frustration"
+    ],
+    "barrier_types": [
+      "lack_of_support",
+      "social_isolation",
+      "fragmented_care"
+    ],
+    "why_it_matters": {
+      "system_level": "This reveals a critical gap in the continuum of care, which is heavily focused on acute treatment while neglecting the long-term psychosocial and physical recovery essential for true healing.",
+      "human_level": "It creates a period of intense emotional distress, loneliness, and identity crisis at a time when patients are expected by society to be 'cured' and celebrating.",
+      "equity_or_preventive_level": "This gap disproportionately harms individuals without robust personal support networks, potentially leading to unmanaged mental health conditions like PTSD and a failure to thrive post-treatment."
+    },
+    "impact_vectors": [
+      "peer_support",
+      "community_building",
+      "care_seeking"
+    ],
+    "representative_quotes": [
+      {
+        "quote_type": "primary",
+        "episode_id": "BH_005.docx",
+        "speaker_role": "patient",
+        "quote_usage": "suddenly you're just like dropped into this, like off a cliff, into this floating ocean of survivorship that's just vast and endless. There's no one else there. And you don't know where you're going or who you are or how you even got there.",
+        "selection_rationale": "This quote perfectly encapsulates the insight, providing the powerful 'survivorship cliff' metaphor and vividly describing the feelings of disorientation and isolation."
+      },
+      {
+        "quote_type": "secondary",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "quote_usage": "That is the time when we need the most support. Because now we don't have the structure of that act, active treatment. We don't have the structure of people helping on a daily basis, people checking in. It's a lonely time.",
+        "selection_rationale": "This quote clearly and directly states the core problem: support is withdrawn at the precise moment it is needed most, leading to loneliness."
+      }
+    ],
+    "report_section_alignment": [
+      "Key Insights",
+      "Systemic Patterns"
+    ],
+    "suggested_calls_to_action": [
+      "Design and fund 'survivorship care plans' that include scheduled mental health check-ins and resource navigation for at least one year post-treatment.",
+      "Establish formal partnerships between cancer centers and peer support organizations to create a warm handoff for patients finishing active treatment.",
+      "Educate families and the broader community about the challenges of the post-treatment phase to foster more informed and sustained support."
+    ],
+    "confidence_level": "high",
+    "notes_for_editor": "The 'survivorship cliff' is a powerful, patient-coined term that resonates strongly across these moments. The evidence is coherent and emotionally impactful."
+  },
+  {
+    "locks_version": "v1.0",
+    "insight_id": "I-C004-20240521",
+    "insight_title": "Peer Community as an Irreplaceable Pillar of Cancer Survivorship",
+    "insight_statement": "For individuals navigating a cancer diagnosis and survivorship, peer communities of others with lived experience provide an essential and irreplaceable form of support. This connection offers a unique sense of validation, practical guidance, and hope that is often missing from formal healthcare interactions, combating the profound social isolation that accompanies the journey.",
+    "insight_type": "protective_factor",
+    "derived_from_episodes": [
+      "BH_002.docx",
+      "BH_003.docx",
+      "BH_004.docx",
+      "BH_005.docx"
+    ],
+    "supporting_moments": [
+      {
+        "moment_id": "BH_004/M003",
+        "episode_id": "BH_004.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "peer_community",
+        "signal_type": "seeking_support",
+        "moment_summary": "A patient states that hearing the real human experience from another woman who has been through cancer is 'irreplaceable,' valued more than the guidance from doctors or nurses."
+      },
+      {
+        "moment_id": "BH_005/M002",
+        "episode_id": "BH_005.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "peer_community",
+        "signal_type": "seeking_support",
+        "moment_summary": "A patient emphasizes that after falling off the 'survivorship cliff,' the support of other survivors is exactly what is needed—both those currently in it and those who are years out and can offer perspective and hope."
+      },
+      {
+        "moment_id": "BH_004/M004",
+        "episode_id": "BH_004.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "peer_community",
+        "signal_type": "community_building",
+        "moment_summary": "A patient describes her 'tribe' as the most important part of her healing journey, a community that provides practical support like cooking and babysitting for those without resources."
+      },
+      {
+        "moment_id": "BH_002/BH_002_M032",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "clinician",
+        "life_stage": "cross_life_stage",
+        "health_domain": "breast_cancer",
+        "system_interaction": "peer_community",
+        "signal_type": "validation",
+        "moment_summary": "A host reflects that she didn't realize the level of healing she was missing until she got involved in the survivor community, calling it a 'sacred and special' type of healing."
+      }
+    ],
+    "life_stages_covered": [
+      "midlife",
+      "reproductive_years"
+    ],
+    "dominant_emotions": [
+      "connection",
+      "validation",
+      "relief",
+      "hope"
+    ],
+    "barrier_types": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "why_it_matters": {
+      "system_level": "This highlights a powerful, patient-driven solution to the gaps in formal psychosocial care. Integrating peer support into the standard of care is a high-impact, low-cost opportunity.",
+      "human_level": "Peer connection provides a profound sense of belonging and being understood that combats the deep loneliness of a cancer diagnosis, fostering hope and resilience.",
+      "equity_or_preventive_level": "These communities can act as a vital safety net, providing practical and emotional resources for patients who may lack strong family support or face systemic barriers in the healthcare system."
+    },
+    "impact_vectors": [
+      "peer_support",
+      "community_building",
+      "increased_self_advocacy",
+      "health_literacy"
+    ],
+    "representative_quotes": [
+      {
+        "quote_type": "primary",
+        "episode_id": "BH_004.docx",
+        "speaker_role": "patient",
+        "quote_usage": "nothing against the doctors or the nurses or the protocols, but the real human experience when you hear it from another woman. Is not irre, it's irreplaceable.",
+        "selection_rationale": "This quote directly and unequivocally states the core insight: the value of lived experience from a peer is unique and cannot be substituted by clinical care."
+      },
+      {
+        "quote_type": "secondary",
+        "episode_id": "BH_005.docx",
+        "speaker_role": "patient",
+        "quote_usage": "I'm so glad by that point I had found different communities of cancer friends to support me because I truly believe that once you sort of fall off the survivorship cliff into this land of survivorship, this floating ocean of survivorship, that's exactly when you really need. Other survivors around you?",
+        "selection_rationale": "This quote explicitly links the need for peer community as the direct solution to the problem of the 'survivorship cliff,' highlighting its critical timing and importance."
+      }
+    ],
+    "report_section_alignment": [
+      "Key Insights",
+      "Protective Factors"
+    ],
+    "suggested_calls_to_action": [
+      "Hospitals and cancer centers should formally integrate peer support programs into their services, offering connections at the time of diagnosis.",
+      "Create a 'peer navigator' role to help newly diagnosed patients connect with appropriate support communities and resources.",
+      "Provide funding and resources to patient-led community organizations that are providing this essential service."
+    ],
+    "confidence_level": "high",
+    "notes_for_editor": "This is a very strong protective factor insight with perfect coherence. The word 'irreplaceable' is key and appears directly in the data."
+  },
+  {
+    "locks_version": "v1.0",
+    "insight_id": "I-C005-20240521",
+    "insight_title": "High-Stakes Medical Decisions are Rushed, Lacking Adequate Time and Information",
+    "insight_statement": "Patients diagnosed with cancer are frequently pressured to make urgent, life-altering decisions about treatments, surgeries, and fertility with insufficient information and inadequate time for consideration. This rushed process, driven by systemic time constraints and a lack of patient-centered communication, can lead to choices that patients later regret and feel were unduly influenced by their care team.",
+    "insight_type": "systemic_pattern",
+    "derived_from_episodes": [
+      "BH_001.docx",
+      "BH_002.docx",
+      "BH_003.docx",
+      "BH_004.docx",
+      "BH_005.docx"
+    ],
+    "supporting_moments": [
+      {
+        "moment_id": "BH_003/M004",
+        "episode_id": "BH_003.docx",
+        "speaker_role": "patient",
+        "life_stage": "reproductive_years",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "time_constraint",
+        "moment_summary": "A patient feels the healthcare system rushes young women into making life-altering decisions about fertility and surgery, wishing she had been given information rather than being skewed toward a doctor's preference."
+      },
+      {
+        "moment_id": "BH_002/BH_002_M028",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "life_stage": "reproductive_years",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "time_constraint",
+        "moment_summary": "A patient recalls being given only 24-48 hours to decide about her future fertility, a timeframe she now recognizes was unfair and unnecessary, emphasizing the need to question imposed urgency."
+      },
+      {
+        "moment_id": "BH_005/M005",
+        "episode_id": "BH_005.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "lack_of_information",
+        "moment_summary": "A patient notes that young people are too overwhelmed with a cancer diagnosis to even know what to ask or advocate for regarding their future, a future their doctors are not focused on."
+      },
+      {
+        "moment_id": "BH_001/M002",
+        "episode_id": "BH_001.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "making_decisions",
+        "moment_summary": "A single mother had to make a literal choice between paying for a recommended but uncovered ultrasound or paying for her daughter's school and food, based on incomplete information from her doctor."
+      }
+    ],
+    "life_stages_covered": [
+      "reproductive_years",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "overwhelm",
+      "anxiety"
+    ],
+    "barrier_types": [
+      "time_constraint",
+      "lack_of_information",
+      "provider_dismissal"
+    ],
+    "why_it_matters": {
+      "system_level": "This pattern highlights a fundamental conflict between clinical urgency and the ethical principles of informed consent and shared decision-making, suggesting protocols need to build in more time for patient deliberation.",
+      "human_level": "It adds immense psychological distress to an already traumatic experience and can lead to long-term regret and emotional suffering over irreversible medical choices made under duress.",
+      "equity_or_preventive_level": "Patients with less social power, confidence, or health literacy are more susceptible to being rushed and unduly influenced, leading to inequitable care and outcomes."
+    },
+    "impact_vectors": [
+      "increased_self_advocacy",
+      "health_literacy",
+      "policy_awareness"
+    ],
+    "representative_quotes": [
+      {
+        "quote_type": "primary",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "quote_usage": "The decisions that you feel like you need to make, they make you feel like you need to make them. Right now, I had about 24 hours to 48 hours to make the decision if I wanna have kids again, that that's a timeframe I was given. That's not fair, and it was actually unnecessary.",
+        "selection_rationale": "This quote provides a concrete and powerful example of the extreme and unnecessary time pressure placed on patients for a monumental life decision, perfectly illustrating the insight."
+      },
+      {
+        "quote_type": "secondary",
+        "episode_id": "BH_003.docx",
+        "speaker_role": "patient",
+        "quote_usage": "I think, I think rushing women to make decisions, especially young women regarding their fertility that are gonna affect their marriages, that are gonna affect their bodies. I think that is one thing that I feel like we can handle with a little bit more care.",
+        "selection_rationale": "This quote broadens the specific example to a general pattern, explicitly naming the act of 'rushing women' and calling for a more careful, patient-centered approach."
+      }
+    ],
+    "report_section_alignment": [
+      "Key Insights",
+      "Systemic Patterns"
+    ],
+    "suggested_calls_to_action": [
+      "Implement a mandatory 'decision hold' period for non-emergent, life-altering surgeries or treatments to allow patients time for reflection and second opinions.",
+      "Develop patient decision aids that clearly lay out the risks, benefits, and alternatives for major treatment paths, including the option of 'watchful waiting' where appropriate.",
+      "Train clinicians in shared decision-making techniques that prioritize understanding a patient's values and life goals before recommending a course of action."
+    ],
+    "confidence_level": "high",
+    "notes_for_editor": "The evidence for this insight is strong and spans all five episodes. The theme of being rushed is a significant source of patient frustration and potential trauma."
+  },
+  {
+    "locks_version": "v1.0",
+    "insight_id": "I-C006-20240521",
+    "insight_title": "Breaking Generational Silence Around Family Health History is a Survival Imperative",
+    "insight_statement": "A pattern of generational silence often conceals critical family health histories, particularly regarding cancer. A diagnosis in a younger family member frequently acts as the catalyst that uncovers this previously unspoken history. For this new generation, speaking up and sharing their story becomes a vital act of survival and a preventative tool to protect their own children and relatives from the dangers of unknown genetic risks.",
+    "insight_type": "relational_pattern",
+    "derived_from_episodes": [
+      "BH_001.docx",
+      "BH_002.docx",
+      "BH_004.docx"
+    ],
+    "supporting_moments": [
+      {
+        "moment_id": "BH_002/BH_002_M021",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "life_stage": "reproductive_years",
+        "health_domain": "breast_cancer",
+        "system_interaction": "family",
+        "signal_type": "silence",
+        "moment_summary": "A patient notes that within the Black community, family health history is often unknown because it isn't discussed, a fact she realized when her own mother was diagnosed after her."
+      },
+      {
+        "moment_id": "BH_002/BH_002_M022",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "life_stage": "reproductive_years",
+        "health_domain": "breast_cancer",
+        "system_interaction": "family",
+        "signal_type": "lack_of_information",
+        "moment_summary": "After her mother's diagnosis, a patient was shocked to learn of other relatives who had died of cancer, questioning why no one had shared this critical information sooner."
+      },
+      {
+        "moment_id": "BH_002/BH_002_M023",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "life_stage": "reproductive_years",
+        "health_domain": "breast_cancer",
+        "system_interaction": "family",
+        "signal_type": "speaking_up",
+        "moment_summary": "A patient realizes that for the new generation, breaking the silence around family health history is a form of survival, as it helps more people survive."
+      },
+      {
+        "moment_id": "BH_002/M001",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "life_stage": "reproductive_years",
+        "health_domain": "breast_cancer",
+        "system_interaction": "family",
+        "signal_type": "sharing_story",
+        "moment_summary": "A patient is motivated by her children—her 'why'—to advocate for herself and share her story, viewing them as her living legacy and the reason to be intentional about her health."
+      }
+    ],
+    "life_stages_covered": [
+      "reproductive_years",
+      "cross_life_stage",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "empowerment",
+      "hope",
+      "confusion"
+    ],
+    "barrier_types": [
+      "silence",
+      "lack_of_information"
+    ],
+    "why_it_matters": {
+      "system_level": "This highlights the critical role of public health initiatives in promoting conversations about family medical history, which is a key tool for risk assessment and early detection.",
+      "human_level": "The silence can have life-threatening consequences, leaving individuals unaware of their genetic predispositions. Breaking that silence is an act of love and protection for future generations.",
+      "equity_or_preventive_level": "It acknowledges that some communities have valid cultural or trauma-related reasons for this silence. Outreach must be culturally competent and sensitive to address these underlying factors."
+    },
+    "impact_vectors": [
+      "preventive_action",
+      "health_literacy",
+      "community_building",
+      "increased_self_advocacy"
+    ],
+    "representative_quotes": [
+      {
+        "quote_type": "primary",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "quote_usage": "I think the new generation, we're realizing that our, um, our need to break the silence is actually our survival. Like no longer being silent is helping more of us survive.",
+        "selection_rationale": "This quote perfectly captures the insight's core message: the shift from silence to speaking up is reframed as a necessary strategy for survival and community health."
+      },
+      {
+        "quote_type": "secondary",
+        "episode_id": "BH_002.docx",
+        "speaker_role": "patient",
+        "quote_usage": "a lot of us, especially within the black community, we don't know our history because no one talks about it.",
+        "selection_rationale": "This quote grounds the insight in a specific community context, clearly stating the problem of silence and lack of shared family health history."
+      }
+    ],
+    "report_section_alignment": [
+      "Key Insights",
+      "Relational Patterns",
+      "Life-Stage Patterns"
+    ],
+    "suggested_calls_to_action": [
+      "Launch public health campaigns that provide tools and conversation starters for discussing health history within families.",
+      "Train primary care providers to ask about and document family health history in a more structured and culturally sensitive way.",
+      "Partner with community leaders and organizations to host workshops on the importance of knowing one's family health history for preventive care."
+    ],
+    "confidence_level": "high",
+    "notes_for_editor": "This is a powerful relational insight. The contrast between past silence and present advocacy as a survival tool is a compelling narrative."
+  },
+  {
+    "locks_version": "v1.0",
+    "insight_id": "I-C007-20240521",
+    "insight_title": "Compounding Barriers of Cost and Logistics Force Impossible Healthcare Choices",
+    "insight_statement": "Patients face a cascade of interlocking barriers to accessing necessary care, particularly follow-up screenings. Cost constraints, lack of insurance coverage, and logistical hurdles like needing to take time off work or find childcare, create a situation where patients must make impossible choices between their health and their family's immediate financial stability.",
+    "insight_type": "systemic_pattern",
+    "derived_from_episodes": [
+      "BH_001.docx",
+      "BH_005.docx"
+    ],
+    "supporting_moments": [
+      {
+        "moment_id": "BH_001/M002",
+        "episode_id": "BH_001.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "cost_constraint",
+        "moment_summary": "A single mother describes having to make a 'literal choice' between paying $300 for a recommended ultrasound or paying for her daughter's school and food, ultimately forgoing the scan."
+      },
+      {
+        "moment_id": "BH_001/M024",
+        "episode_id": "BH_001.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "access_barrier",
+        "moment_summary": "A patient lists the compounding socioeconomic factors that create barriers to care: taking a day off work, gas money, childcare, co-pays, and the cost of the screening itself."
+      },
+      {
+        "moment_id": "BH_001/M003",
+        "episode_id": "BH_001.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "making_decisions",
+        "moment_summary": "A patient reflects that women today are still making terrible choices between getting a follow-up scan and putting food on the table."
+      },
+      {
+        "moment_id": "BH_001/M012",
+        "episode_id": "BH_001.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "access_barrier",
+        "moment_summary": "A patient acknowledges that not everyone has the time or resources to do the extensive legwork required to fire their care team and find a new one that listens."
+      }
+    ],
+    "life_stages_covered": [
+      "midlife",
+      "reproductive_years",
+      "cross_life_stage"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "overwhelm"
+    ],
+    "barrier_types": [
+      "cost_constraint",
+      "access_barrier",
+      "time_constraint"
+    ],
+    "why_it_matters": {
+      "system_level": "This demonstrates how a healthcare system that ignores socioeconomic realities creates profound inequities. The design of insurance coverage and clinical access fails to account for the lived experiences of many patients.",
+      "human_level": "It forces individuals, often women and caregivers, into high-stress, lose-lose trade-offs with potentially fatal consequences, where caring for their family today means risking their own life tomorrow.",
+      "equity_or_preventive_level": "These barriers are not distributed equally; they disproportionately prevent low-income individuals, single parents, and hourly workers from receiving timely, preventive care, directly fueling health disparities."
+    },
+    "impact_vectors": [
+      "policy_awareness",
+      "care_seeking"
+    ],
+    "representative_quotes": [
+      {
+        "quote_type": "primary",
+        "episode_id": "BH_001.docx",
+        "speaker_role": "patient",
+        "quote_usage": "I was a single mom at the time. I was working... I just thought. Well, okay, if you're telling me this is normal, then I am not gonna spend the money because I don't have it. First of all, there's, I just don't have it. Um, it's that, or, you know, paying for my daughter's, you know, school or soccer or food or what have you. It was a literal choice I had to make.",
+        "selection_rationale": "This quote is a powerful, first-person account of the impossible choice patients face. It clearly and emotionally lays out the direct conflict between healthcare costs and basic family needs."
+      },
+      {
+        "quote_type": "secondary",
+        "episode_id": "BH_001.docx",
+        "speaker_role": "patient",
+        "quote_usage": "all of these things are compounded by socioeconomic factors. If you can even take another day off work. Put gas in your car, get another daycare center or a babysitter, another copay, and then paying for, for the extra screening",
+        "selection_rationale": "This quote effectively lists the multiple, compounding logistical and financial barriers beyond just the cost of the procedure itself, illustrating the full scope of the problem."
+      }
+    ],
+    "report_section_alignment": [
+      "Key Insights",
+      "Systemic Patterns",
+      "Access & Equity"
+    ],
+    "suggested_calls_to_action": [
+      "Advocate for policy changes that mandate insurance coverage for all medically necessary diagnostic and supplemental screenings without cost-sharing.",
+      "Establish patient assistance funds at hospitals to cover associated costs of care, such as transportation, childcare, and lost wages.",
+      "Offer extended clinic hours (evenings, weekends) to increase access for patients who cannot take time off from hourly-wage jobs."
+    ],
+    "confidence_level": "medium",
+    "notes_for_editor": "The evidence for this insight is very strong and specific, but it only comes from two episodes. While the coherence is high (0.8), the limited episode spread warrants a 'Medium' confidence level per promotion rules."
+  },
+  {
+    "locks_version": "v1.0",
+    "insight_id": "I-C008-20240521",
+    "insight_title": "Healthcare Focus on Survival Overlooks Younger Patients' Quality of Life Post-Treatment",
+    "insight_statement": "For younger cancer survivors, the healthcare system's primary focus on acute treatment and survival often comes at the expense of their long-term quality of life. Critical concerns regarding body image, sexual health, fertility, and the ability to live a full life post-cancer are frequently dismissed or unaddressed during the treatment planning phase, leaving patients to advocate for a holistic vision of their future.",
+    "insight_type": "systemic_pattern",
+    "derived_from_episodes": [
+      "BH_003.docx",
+      "BH_004.docx",
+      "BH_005.docx"
+    ],
+    "supporting_moments": [
+      {
+        "moment_id": "BH_005/M007",
+        "episode_id": "BH_005.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "provider_dismissal",
+        "moment_summary": "A patient expresses gratitude for having her life saved, but emphasizes that the life she has *after* cancer also matters, a perspective she feels her healthcare providers do not share."
+      },
+      {
+        "moment_id": "BH_005/M006",
+        "episode_id": "BH_005.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "self_advocacy",
+        "moment_summary": "A patient argues that saving a life is the 'low baseline goal' and that the 'real goal' for young people with cancer should be their full lives, which requires considering more than just survival."
+      },
+      {
+        "moment_id": "BH_005/BH_005_M043",
+        "episode_id": "BH_005.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "speaking_up",
+        "moment_summary": "A patient pleads for providers to see her as a whole person and consider her whole life, not just the cancer or the immediate treatment period, because she expects to survive."
+      },
+      {
+        "moment_id": "BH_005/BH_005_M038",
+        "episode_id": "BH_005.docx",
+        "speaker_role": "patient",
+        "life_stage": "midlife",
+        "health_domain": "breast_cancer",
+        "system_interaction": "healthcare_provider",
+        "signal_type": "training_gap",
+        "moment_summary": "A patient lists topics that need to be discussed with young survivors—sports, intimacy, sexual enjoyment, menopause—to honor their physical capacity and whole selves."
+      }
+    ],
+    "life_stages_covered": [
+      "reproductive_years",
+      "midlife"
+    ],
+    "dominant_emotions": [
+      "frustration",
+      "empowerment"
+    ],
+    "barrier_types": [
+      "fragmented_care",
+      "training_gap",
+      "provider_dismissal"
+    ],
+    "why_it_matters": {
+      "system_level": "This reveals a significant training and systems-design gap in providing holistic, age-appropriate care that looks beyond disease eradication to the patient's entire life trajectory.",
+      "human_level": "It invalidates the legitimate and critical concerns of younger patients, making them feel unseen and forcing them to fight for a future that the medical team may not be considering.",
+      "equity_or_preventive_level": "This failure to address long-term quality of life can lead to significant, unmanaged morbidity in survivorship, including chronic pain, sexual dysfunction, and mental health issues, disproportionately affecting a younger demographic."
+    },
+    "impact_vectors": [
+      "increased_self_advocacy",
+      "health_literacy",
+      "care_seeking"
+    ],
+    "representative_quotes": [
+      {
+        "quote_type": "primary",
+        "episode_id": "BH_005.docx",
+        "speaker_role": "patient",
+        "quote_usage": "it wasn't only about saving my life. Thank you so much that it's about that, and thank you for saving my life, but it's also about the life I have after this. And that's something I really believe that matters so much to younger breast cancer survivors, and maybe sometimes our healthcare people are not in that frame of mind.",
+        "selection_rationale": "This quote perfectly balances gratitude for life-saving care with a firm assertion that quality of life afterward is equally important, capturing the core tension of the insight."
+      },
+      {
+        "quote_type": "secondary",
+        "episode_id": "BH_005.docx",
+        "speaker_role": "patient",
+        "quote_usage": "That's the basic goal. I know it's a hard goal and a big goal and a struggle goal. I get it. But that's our low baseline of the goal. I want anyone who's working with young people with cancer to realize the real goal is our full lives.",
+        "selection_rationale": "This quote powerfully reframes the objective of cancer care, elevating it from mere survival to the restoration of a 'full life,' which is a crucial perspective shift for providers."
+      }
+    ],
+    "report_section_alignment": [
+      "Key Insights",
+      "Systemic Patterns",
+      "Life-Stage Patterns"
+    ],
+    "suggested_calls_to_action": [
+      "Incorporate quality of life and long-term side effect modules into standard medical training for oncology professionals.",
+      "Develop and integrate a 'Quality of Life' checklist into treatment planning discussions for all AYA (Adolescent and Young Adult) cancer patients.",
+      "Create dedicated survivorship clinics that specialize in managing the long-term effects of cancer treatment, including sexual health, fertility, and mental health."
+    ],
+    "confidence_level": "high",
+    "notes_for_editor": "This is a very clear and coherent insight focused on the specific needs of younger survivors. The distinction between 'saving a life' and 'preserving a life' is the central theme."
+  }
+]

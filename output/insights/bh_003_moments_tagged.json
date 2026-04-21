@@ -1,0 +1,779 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_003.docx",
+    "season": "1",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Jasmine Dion",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:18",
+    "timestamp_end": "00:03:21",
+    "paragraph_ids": [
+      "p6",
+      "p7"
+    ],
+    "moment_text": "I think some of the first initial symptoms was a heaviness in my left breast. I had triple Ds at the time, and sometimes I'd take my bra off and I would notice there would be like stains inside the bra. And because I was top heavy, I figured that maybe my bra was catch. Catching food. But I also noticed over time that again, like it's heavy, it's painful, and I remember standing in the mirror one day and I had a rib tank top on, and so the lines were horizontal, and I noticed that it wasn't just heavy and painful, it was actually swollen. It was noticeably larger than the right breast. Luckily I had done a breast cancer event. I used to work at a homeless shelter, and one of my colleagues was very adamant. She wanted me to come and to see the breast cancer event. And it was at that event, literally a few months before this started that I learned how to do a self-breast exam. And so. I'm standing in the mirror, I take my shirt off and I just start doing my best rendition of a self exam. And as I was doing the exam discharge expelled from the nipple. And that was my, like, after a few weeks of, or maybe even a couple of months of like, this is painful. Um, it was the discharge that made me like, red alert. I think we have a problem here.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast cancer",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "anxiety",
+      "confusion"
+    ],
+    "agency_signals": [
+      "tracking_symptoms",
+      "seeking_information"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate because it contains agency signals (tracking symptoms, seeking information) as the speaker describes her process of self-discovery.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_003.docx",
+    "season": "1",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Jasmine Dion",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:25",
+    "timestamp_end": "00:04:31",
+    "paragraph_ids": [
+      "p9"
+    ],
+    "moment_text": "So initially I went to the hospital because there was a history of breast cancer in my family. And so I called my mom and I was like, Hey, I really think we might have a concern here. The hospital said they never felt a lump and my breast wasn't red. They won't do the screening. And so I went to my primary care physician. My primary care physician gave me a mammogram and I passed the mammogram, right? Or I cleared it. They didn't see anything. Um, and she said Maybe it's a breast infection now for me. I felt like that didn't make sense because generally infections have other signs and symptoms like there's heat or you don't feel well, and I didn't have any of that and so I didn't take the antibiotics. But over the months, I think six, seven months, um, the discharge continued to get worse. I continued to the exam, I continued to be in pain, and the discharge began to become more bloody. And so I had an OB GYN appointment and we were asked to talk about, I wasn't married at this time. We were talking about family planning. And before I left, I said, I think something's wrong with this boob. And the difference is that this doctor said, if you think something is wrong, then something is wrong by now. We're about, again, six, seven months down the line. But she sent me to a specialist. We do more screenings, um, we do a different type of mammogram, and eventually we get to a breast MRI and almost the whole breast lit up at this time. So it was about seven or eight months between me initially going to the doctor and then me getting an accurate diagnosis.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "validation"
+    ],
+    "agency_signals": [
+      "seeking_care",
+      "speaking_up",
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "misdiagnosis",
+      "delayed_diagnosis",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate as it contains multiple strong barrier signals (provider dismissal, misdiagnosis, delayed diagnosis) and agency signals (seeking care, speaking up) within a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_003.docx",
+    "season": "1",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Jasmine Dion",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:35",
+    "timestamp_end": "00:05:20",
+    "paragraph_ids": [
+      "p11"
+    ],
+    "moment_text": "Um, I think it was part Charlie Brown where I, in my mind, I can see the doctor writing, trying to draw pictures. This is what we think, like the middle, apparently, like breast surgeons don't generally make those kind of. Diagnoses, right? They generally would cap happen in a different department. Um, and so she. I was like, I don't really know. We're gonna do this the best we can. She's shocked too. Um, but when she left, I just remember crying out that I told her something was wrong, referring to the doctor that I initially told and feeling so let down that I came to someone and I said, I think I need help. Something's not right in my body. And you kept dismissing that. I felt so incredibly let down and. Also just thank it, thankful that I didn't let it sit any longer because I honestly don't know that I'd still be here had I not, or had I just believed the initial misdiagnosis and just accept it.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anger",
+      "frustration",
+      "sadness",
+      "relief"
+    ],
+    "agency_signals": [
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "provider_dismissal"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate because it contains strong emotional signals (anger, frustration) and a barrier signal (provider dismissal) directly related to a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker's reference to 'Charlie Brown' is a strong signal for overwhelm and confusion, but since it's not in the vocabulary, I've tagged the more explicit emotions."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_003.docx",
+    "season": "1",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Jasmine Dion",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:24",
+    "timestamp_end": "00:05:55",
+    "paragraph_ids": [
+      "p13"
+    ],
+    "moment_text": "I think one of the most challenging parts of that diagnosis is I, at that time had only been married for about two years and, and that appointment with that ob, GYN is when we were talking about family planning. And so it felt like such this really weird timing of feeling like. You're getting ready to go into the next season of your life and all of a sudden, like that whole next season is gone. Like it's out the window. You now have this really big thing to deal with and it's going to take up a chunk. And so I think that was the the biggest thing that was happening at that time.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast cancer",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "grief",
+      "sadness",
+      "overwhelm"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate because it contains strong emotional signals (grief, sadness) related to a system interaction (family planning).",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_003.docx",
+    "season": "1",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Jasmine Dion",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:55",
+    "timestamp_end": "00:06:41",
+    "paragraph_ids": [
+      "p14"
+    ],
+    "moment_text": "The other thing is that when I went for that initial. Mammogram. I was on the verge of accepting another job and I was waiting for the results from that mammogram. And because they said that I didn't have cancer, I accepted the job. And so I get to this new job and it gets really sheltered really quickly. And about six to seven months into that, I'm out because I'm accurately diagnosed. And now the insurance companies are like, did, did you know you had cancer? It was such a mess. You know you had cancer before you got here. And that added another layer of stress. But I will say that. Even though in the moment it felt like things were falling apart, God was so good because I could not have gone through this at that other company. I needed to be where I was. I need to be with those coworkers. I need to be surrounded with that support. And I'm so thankful that things in the moment it did not feel good, but I'm, they actually played out very well.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast cancer",
+    "system_interaction": "workplace",
+    "emotional_signals": [
+      "anxiety",
+      "overwhelm",
+      "relief"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "cost_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate because it contains emotional signals (anxiety, overwhelm) and a barrier signal (cost_constraint via insurance) related to a workplace system interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier signal 'cost_constraint' is inferred from the mention of insurance company issues, which is a common proxy for financial stress in these narratives."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_003.docx",
+    "season": "1",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Jasmine Dion",
+    "speaker_role": "patient",
+    "timestamp_start": "00:06:48",
+    "timestamp_end": "00:07:42",
+    "paragraph_ids": [
+      "p16"
+    ],
+    "moment_text": "I think it was challenging to make those decisions because I didn't have anyone. Outside the doctor to help guide me. But I think after being misdiagnosed, I then developed a little bit of, um, distrust, I think, if I'm honest. And so I got to a place where I really wanted you to give me the information and then allow me to say what I think is the best thing for me. Instead of just telling me what you think I should do and tell me how you think I should. And that, I mean it, the misdiagnosis, what really kind of woke me up to I can't be passive. I have to ask questions. I need to understand, and if I have a doctor, and I did have doctors that were not willing to explain things to me that were kind of rude when I said like, why do I have to do this? Or why not this? I would have to switch up my team to get people who are willing to explain things to me because I felt like I needed to understand. I felt like I could no longer allow my life, just be in somebody else's hands. And though I don't think it was done maliciously, I was aware that it could happen. And so it did kind of wake that up in me. And so, yeah, I, I definitely think it was, it was challenging 'cause I didn't know who to turn to except for myself.",
+    "moment_type": "realization",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "empowerment",
+      "isolation"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "asking_questions",
+      "making_decisions",
+      "changing_providers",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "lack_of_support",
+      "provider_dismissal"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate as it contains exceptionally strong and numerous agency signals (self_advocacy, asking_questions, changing_providers) and barrier signals (lack_of_information) within a healthcare provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_003.docx",
+    "season": "1",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Jasmine Dion",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:46",
+    "timestamp_end": "00:08:36",
+    "paragraph_ids": [
+      "p18"
+    ],
+    "moment_text": "I don't think I had community probably for that first year, if I'm honest. I think I blogged a lot. I just felt like there had to be somebody else out there that was young and looking for somebody else to talk to. Surely I couldn't be the only one. Um, I researched a lot. Finding community was such a godsend for me, though, when I first discovered Young Survival Coalition, that was the first place where I felt other young women, and it's in the hot tub tub when we're talking about how's this change your sex life and how should you expect changes in your body? But it was very lonely and it's very isolating trying to navigate those things. I always tell people, especially when you become an advocate and you have access to more information. It is challenging because what we do is we make the best decision we can make with the information that we have, but information is coming out so quickly.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "loneliness",
+      "relief",
+      "connection"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment passes the evidence gate because it contains strong barrier signals (social isolation), agency signals (seeking support), and emotional signals (loneliness, relief) related to a peer community interaction.",
+    "risk_flags": [
+      "sexual_health"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_003.docx",
+    "season": "",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Vanessa",
+    "speaker_role": "patient",
+    "timestamp_start": "0:38",
+    "timestamp_end": "1:25",
+    "paragraph_ids": [
+      "p2",
+      "p3"
+    ],
+    "moment_text": "I do feel like I had to advocate for myself more intensely, and, and it wasn't just my age. It was that it was the life that I wanted. I wanted to not be treated like a diagnosis. I needed you to consider that I'm 26 and I may wanna have kids, and I'm, I'm still young, and like there were so many other factors and. It was sometimes challenging to find doctors, and I remember a comment very specifically, we're talking about going on hormone therapy, and my concern was. What if I don't come out of medical menopause? And the doctor said, worry about cancer now. And kids later. And that was my last appointment with her because I don't have that luxury.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "fear",
+      "confidence"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "making_decisions",
+      "changing_providers"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong barrier signals (provider_dismissal) and agency signals (self_advocacy, changing_providers) within a healthcare provider interaction, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_003.docx",
+    "season": "",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Vanessa",
+    "speaker_role": "patient",
+    "timestamp_start": "1:40",
+    "timestamp_end": "3:12",
+    "paragraph_ids": [
+      "p8",
+      "p9",
+      "p10"
+    ],
+    "moment_text": "Survivorship looked nothing like I expected it to look, and I can take myself back to my last day of radiation where. I had brought, I brought in donuts. I had the, the greatest team. I brought in donuts for everyone. Um, but I remember laying on that table for the last time and after treatment, I was just burst into tears. I didn't realize, I felt like I had been holding my breath for months. I didn't even know it. Um, and. It was such an interesting experience because when you're in active treatment, it gives everyone something to rally around and I tell people it's like kicking it old school, like a VHS tape. When I went into treatment, everyone put their life on pause to help me get through that. But when active treatment ended and it didn't, there didn't seem to be this, this active or this high level of activity happening around me. Everyone pressed play, but I didn't have a luxury of picking up where I left off. I was completely different. Like I, my perspective on life was completely different. My body was completely different, didn't have any idea like, what am I supposed to do with this? And so. I think over the years as well, what you need changes the further you get out from your diagnosis. And I struggled with that. I struggled with, I don't wanna go to the support groups anymore. Like it's not helping me the way that I thought, or I don't wanna lead them anymore or. Feeling guilty about like, maybe I don't wanna engage in the same way. And so over the years, I have noticed that it just changes as life changes as you change. And it does require a sense of grace and sometimes different level of understanding for yourself in every season.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "isolation",
+      "overwhelm",
+      "confusion",
+      "sadness",
+      "shame"
+    ],
+    "agency_signals": [
+      "withdrawing"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "social_isolation",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional and barrier signals (social_isolation, lack_of_support) related to a peer community interaction, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_003.docx",
+    "season": "",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Vanessa",
+    "speaker_role": "patient",
+    "timestamp_start": "3:18",
+    "timestamp_end": "4:42",
+    "paragraph_ids": [
+      "p12",
+      "p13",
+      "p14"
+    ],
+    "moment_text": "I am. And I think some days it is. I don't wanna get emotional some days. It is incredibly frustrating. Um. Because I don't live a life in fear, but there is always an awareness. And so you'll be like, this is something that happened to me almost 10 years ago. Uh, you know, I think when I got to the five year mark and we stopped the, we stopped, we shut down some of the appointments. I'm like, normal, right? Nor not normal, like it's not there. And when I'm still having to deal with issues from the surgery, like I'm. Confident. I've been navigating symptoms from breast implant illness for years, and, um, when I, my cycle finally starts back and I didn't get the same body before. I'm dealing with PMDD now. I didn't have PMDD before, so there were all these things that were unexpected and there was no roadmap on how I'm supposed to ease back into this. Like I had, I heard conversations from women talking about. You know, being able to have kids after, um, after their cycles came back and was like, it must have been a smooth transition. I was like, a year or so, like, like I have never heard anyone talking about the process of the on-ramp sometimes of the hormones coming back or, um, the hormones coming back again, the, by just being different, I think. Recognizing that there are just some limitations I can, I'm as strong as I can be. Like that is my goal, to be as healthy, strong as I can be, but to still have to go in for appointments when I feel restriction around my radiated side. It's so frustrating. It's so frustrating because it just reminds you that this really horrible thing happened. You still deal with it, um, no matter how many years you get out.",
+    "moment_type": "lived_experience",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "sadness",
+      "resignation"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "education_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional signals (frustration) and barrier signals (lack_of_information, education_gap) within a healthcare system interaction, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_003.docx",
+    "season": "",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Vanessa",
+    "speaker_role": "patient",
+    "timestamp_start": "4:42",
+    "timestamp_end": "4:58",
+    "paragraph_ids": [
+      "p16",
+      "p17"
+    ],
+    "moment_text": "Yeah, and I think that was it. I think I had this false sense of a finish line, but there isn't. And I think there's, again, there's a grace that you get to keep walking the race, but you live without awareness. Um, and it is, again, this, in proximity to community, I think matters as well. Because when you remain in the community, then you're also in proximity with a lot of people that are still having recurrences and still talking about treatment, all those things. And even that can be a lot to deal with, um, as you get further and further out from treatment. So, yeah.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "resignation",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional and barrier signals related to a peer community interaction, describing the ongoing challenges of survivorship and meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_003.docx",
+    "season": "",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Vanessa",
+    "speaker_role": "patient",
+    "timestamp_start": "5:04",
+    "timestamp_end": "6:05",
+    "paragraph_ids": [
+      "p19",
+      "p20"
+    ],
+    "moment_text": "I don't think so. I think, and I, but I will say, I think over the last few years I've seen other nonprofits that I feel like they're trying to do a little bit more work in that space. But generally speaking, I feel like a lot of people leave us to our own devices. And I think one of the things I struggle with as I started to kind of grow and change, be like, I don't know that I still wanna talk about this all the time. Like I, I'm, I'm starting to realize it's something that happened to me. It's not who I am. And not seeing any of those conversations and feeling again, guilty because I'm like, is something wrong with me or am I a bad person? Because I'm starting to feel like maybe I wanna do something else in my life. So it's, it's very interesting. Um, the conver the comparison, I think in the conversation space and when it feels safe to pivot, when it doesn't, what conversation do you feel like people will be open to? Because I think if more of us, the truth is that I was having a lot of. Offline backstage conversation with other women who are struggling, who wanted to pivot, who want to have things with their life, but they didn't wanna have those conversations publicly either. And so I think having that honesty and transparency about what it really looks like for some of us, maybe it's not the main thing. Maybe some people will always want to run the races and. Wave the flags, but there is a subset of women that do get to a place where maybe they want to shift a little bit. And I don't think that conversation has had enough.",
+    "moment_type": "system_observation",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "shame",
+      "isolation",
+      "self_doubt"
+    ],
+    "agency_signals": [
+      "silence"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "stigma",
+      "silence",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong barrier signals (lack_of_support, stigma, silence) and emotional signals (shame, isolation) within a peer community context, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_003.docx",
+    "season": "",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Vanessa",
+    "speaker_role": "patient",
+    "timestamp_start": "6:16",
+    "timestamp_end": "6:48",
+    "paragraph_ids": [
+      "p23",
+      "p24"
+    ],
+    "moment_text": "Hmm, the most manageable aspect of survivorship. Honestly, I think over time probably the relationships with my doctors has been the most manageable because I did learn to speak up for myself and I've also learned to speak up for other people. Um, and I've also realized I don't have to accept just anything. And that honestly has helped me in so many areas outside of cancer, just that relationship, being willing to say that I like this, or I don't like this, or I want this for myself, or I don't want this for myself. Um, I, yeah, I think that's probably been the most manageable.",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (self_advocacy, speaking_up) within a healthcare provider interaction, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_003.docx",
+    "season": "",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Vanessa",
+    "speaker_role": "patient",
+    "timestamp_start": "6:53",
+    "timestamp_end": "7:23",
+    "paragraph_ids": [
+      "p26"
+    ],
+    "moment_text": "Mental health. I think mental health is probably the most challenging thing. I think mental health in terms of identity and diagnosis, because I think for years, my whole life wrapped around. This thing that happened to me and my relationships are rooted in it. My time is rooted in it. My money is rooted, like everything is around this one thing. And it took a lot and it was a painful unraveling for me to be like, there is more to me than this. Who am I if I'm not talking about cancer all the time?",
+    "moment_type": "reflection",
+    "life_stage": "cross_life_stage",
+    "health_domain": "Mental Health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "overwhelm",
+      "grief",
+      "confusion",
+      "sadness"
+    ],
+    "agency_signals": [],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong emotional signals (overwhelm, grief) and a barrier signal (lack_of_support) related to the mental health challenges of survivorship, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_003.docx",
+    "season": "1",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Jasmine",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:00.000",
+    "timestamp_end": "00:00:30.000",
+    "paragraph_ids": [
+      "p1",
+      "p2"
+    ],
+    "moment_text": "The grief aspect of it. I didn't really understand that grief. Was not unique to death until I navigated cancer and my neighbor was pregnant when I thought I was going to be, and now I'm angry and I'm feeling all these emotions that I'm feeling guilty about when the truth is I'm grieving the expectations of the life that I had, the relationships that I had, that my marriage was not necessarily on solid ground when this happened, but cancer and that whole, navigating that with that person definitely didn't help. Definitely put the pressure that like crumbled it. Right? And even the friendships, people that disappeared 'cause they don't know how to deal with someone like it. It really, it really does require a lot of resiliency to go through the darkness and not become darkness.",
+    "moment_type": "lived_experience",
+    "life_stage": "reproductive_years",
+    "health_domain": "breast_cancer",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "grief",
+      "anger",
+      "sadness",
+      "isolation"
+    ],
+    "agency_signals": [
+      "sharing_story",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "social_isolation",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains emotional signals (grief, anger) and barrier signals (social isolation) related to a system interaction (family, peer community), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "grief_loss",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_003.docx",
+    "season": "1",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Jasmine",
+    "speaker_role": "patient",
+    "timestamp_start": "00:00:30.000",
+    "timestamp_end": "00:01:15.000",
+    "paragraph_ids": [
+      "p5",
+      "p6",
+      "p7",
+      "p8"
+    ],
+    "moment_text": "To me, I feel like in the same way that healing looks different for everyone and hope looks different for everyone, I feel like my quality of life is based on me being able to be the best that I can be to live life to the fullest, to the extent that I can. I think there are things that I notice that my body is restricted. Like I'm not doing pushups. I love being able to do pushups. I'm not doing it right. But is there a level of health that I can achieve without doing that? Then yes, let's do that. The financial ruins, I think cancer can be, can I still save? Can I still do the, like, bought a home? Like there are still things that I can achieve. So for me, it really is about not trying to compare to like I thought I was going to have, which I think can be really hard. So many things. So many things. So like they. Like jingle blocks just kind fail in that season. It's so hard to kind of compare to life that you thought you would have, but I just trust that God is going to give me the best, the best. And I think the thing is that different doesn't mean diminished. So the best that he can give me with everything that he's given.",
+    "moment_type": "reflection",
+    "life_stage": "reproductive_years",
+    "health_domain": "survivorship",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "hope",
+      "calm",
+      "confidence"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "cost_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains barrier signals (cost_constraint) and agency signals (making_decisions), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_003.docx",
+    "season": "1",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Jasmine",
+    "speaker_role": "patient",
+    "timestamp_start": "00:01:15.000",
+    "timestamp_end": "00:02:30.000",
+    "paragraph_ids": [
+      "p10",
+      "p11",
+      "p12",
+      "p13"
+    ],
+    "moment_text": "One of the things I, I just realized I didn't have to settle for less. Like I think sometimes we might be trained to accept the bare minimum. We accept the doctor that's been giving us, we say like, we only have one oncologist. When I realized I need to make some treatment decisions and I think it, again, it was an advantage. It is such a. It is such an advantage to be an advocate, to be in spaces where conversations are being had to commune with researchers and to understand what's happening. Because when I learn something new, I can go back to the doctor and say, I think we need to switch it up. And then I have two, I had for a while, I maintained two oncologists at different places because they were good at different things. Um, and so I think for me it was just being, um, very intentional about the team that I put together. A therapist I had from the very beginning, not part of my cancer team. I kind of wish they were because cancer is a trauma. I definitely suffered from PTSD from at least a couple of years afterwards. I was hospitalized so much. Um, I had a big fear when I got sick of being hospitalized like it, but my therapist wasn't built for that. Right. So I think that trauma informed therapy is very important. And I think around that same time, finding young women was my first. Um, big win and then building community for women of color was in the next big win.",
+    "moment_type": "advocacy",
+    "life_stage": "reproductive_years",
+    "health_domain": "care_navigation",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "empowerment",
+      "confidence",
+      "fear"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "seeking_information",
+      "making_decisions",
+      "changing_providers",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "fragmented_care",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (self_advocacy, changing_providers) and barrier signals (fragmented_care) within a healthcare provider interaction, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_003.docx",
+    "season": "1",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Jasmine",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:30.000",
+    "timestamp_end": "00:03:30.000",
+    "paragraph_ids": [
+      "p16",
+      "p17",
+      "p18"
+    ],
+    "moment_text": "For sure. I think, I think the pace, right? I think, I think rushing women to make decisions, especially young women regarding their fertility that are gonna affect their marriages, that are gonna affect their bodies. I think that is one thing that I feel like we can handle with a little bit more care. So I, I was, um, uh, influenced to do a surgery by a doctor. I was emotionally attached to the doctor and she heavily influenced me to do a surgery that I had not to live with for the rest of my life. And now I don't really have any other options because, because of the rock that we went. Right. And I wish, like, man, maybe if you could've just gave me, given me the information. Instead of trying to skew me towards your way, that would've been better for me. The same thing with freezing embryos. I should have, when I was navigating that process and I didn't feel like my ex-husband, my now ex-husband, didn't feel like he was very supportive, um, or showed it for me in the way that I hoped freezing eggs would've been the better route. The doctors were saying, well, for embryos they're gonna thaw better. And so then I felt the pressure, well, let me do it this way. I'm divorced now and now I have embryos. So I think just giving us, um, a little bit more space and more information and treating us more as partners is, is very helpful. It would be very helpful, I think.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "reproductive_years",
+    "health_domain": "fertility",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "sadness",
+      "resignation"
+    ],
+    "agency_signals": [
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "lack_of_information",
+      "time_constraint",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as a clear barrier encounter with a healthcare provider, containing multiple barrier signals (provider_dismissal, lack_of_information) and emotional signals, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "medical_trauma",
+      "sexual_health"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_003.docx",
+    "season": "1",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Jasmine",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:30.000",
+    "timestamp_end": "00:04:30.000",
+    "paragraph_ids": [
+      "p20",
+      "p21"
+    ],
+    "moment_text": "I think the young women are absolutely changing what advocacy looks like because we have ushering in conversations that maybe older women wanted to have, maybe didn't feel safe to have. Um, the conversations about our bodies, the conversations about sexual health, the conversations about mental health, the conversations about community and relationships, it's a completely different. Era of life than someone that's maybe 55 or 65. And so for young women that are brave enough to raise their voices and to give a face to something that people don't want to look at because people don't understand it and because it's scary, I think. I think it's just the reality of it. Nobody likes the idea. Of young oftentimes, or sometimes healthy people. I think that is a misconception too. If you're getting cancer when you're young, people look at you and they go, what did you do? Someone asked my mama, what did she do? And I was like, I did nothing. I was just living life. Right. Um, and advocacy so important because it's going to, it will it, we may not always see it. It will make the pathway easier for someone behind us. It will spark something that will spark something even if we never see it. Um, and so I think that's the key is that we don't let that thing happen in vain. We don't let it happen in vain that we do something with it.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "advocacy",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "silence",
+      "shame_culture"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (speaking_up) and barrier signals (stigma) within a peer community context, meeting the A2 evidence gate.",
+    "risk_flags": [
+      "sexual_health",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_003.docx",
+    "season": "1",
+    "source_file": "BH_003.docx",
+    "speaker_id": "Jasmine",
+    "speaker_role": "patient",
+    "timestamp_start": "00:04:30.000",
+    "timestamp_end": "00:05:30.000",
+    "paragraph_ids": [
+      "p23",
+      "p24"
+    ],
+    "moment_text": "I think, again, I will say that different is not diminished. I think sometimes we can hold on so tightly to things that we just can't, we can't get them back. And at some point we have to be willing to look at what we have and say, Lord, I'm gonna give you this and I'm gonna ask you. Beauty for ashes. Right? Um, we can, I think we can hold ourselves. We can hold ourselves in grief, we can keep reliving the pain. I think for myself, as I started to get out and I realized that maybe I didn't wanna keep talking about cancer all the time, that was a, a big shift for me. Um, but I realized that I was holding myself in a painful place. Um, so different doesn't mean diminished, um, that you can honor your grief. That it looks different, and I tell people that all the time. What hurts You doesn't have to hurt somebody else to be valid, hurt. You can honor whatever your feelings are and let that be enough, and that you don't have to settle. You don't settle for inconclusive. You don't settle for bare minimum. You don't settle from almost, you do what you do until it makes sense for you.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "survivorship",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "validation",
+      "confidence"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains strong agency signals (self_advocacy, setting_boundaries) and emotional signals within a system interaction (peer_community), meeting the A2 evidence gate.",
+    "risk_flags": [
+      "grief_loss",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  }
+]

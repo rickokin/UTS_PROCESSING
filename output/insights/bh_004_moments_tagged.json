@@ -1,0 +1,1019 @@
+[
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shereen",
+    "speaker_role": "patient",
+    "timestamp_start": "00:02:20.000",
+    "timestamp_end": "00:03:11.000",
+    "paragraph_ids": [
+      "p_0009",
+      "p_0010",
+      "p_0011",
+      "p_0012"
+    ],
+    "moment_text": "Yes. Um, I was 45 years old and I was actually on a girls trip in Miami, and I just knew something was off. Um, I think as women, our intuitions are so strong and I've always been someone very connected and I just kept feeling that hormonally or phy something is not right. Um, when I got back, um, one night I was just getting these weird zaps through my breast, especially on the left side. And, um, I've always had dense breast tissues. I did all my. Um, uh, uh, tests and everything on time and every time I got my mammogram results, it would say dense tissue. Um, unable to read. And I would be telling my doctors, well, well, wouldn't you wanna further look at these? And they said, oh no. You are too young. Don't worry about it. Um, and ultrasound was not something that they just offered me, so I didn't really advocate for that.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "frustration"
+    ],
+    "agency_signals": [
+      "asking_questions",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "symptoms_normalized_without_context",
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it contains a clear barrier signal (provider dismissal) where a patient's concerns about dense breast tissue were dismissed due to her age, which is a recurring pattern.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shereen",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:11.000",
+    "timestamp_end": "00:03:50.000",
+    "paragraph_ids": [
+      "p_0013",
+      "p_0014"
+    ],
+    "moment_text": "Um, I wish I did. Um, so that time I felt a really hard nodule where I set some things off. I really want this checked. So I was due for a mammogram and I asked UCSF that if I can have it be a diagnostic mammogram. I actually asked myself, uh, having friends who were breast cancer survivors and also being in healthcare. I really. Honestly advocated for myself. They said, no, you have an appointment for just regular. I said, I'm not leaving the hospital. So, um, I really sat there for four hours till they agreed to turn my regular mammogram into a diagnostic mammogram.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "seeking_care",
+      "making_decisions"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty",
+      "access_barrier"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible as it demonstrates a strong agency signal (self_advocacy) in response to a system barrier (access_barrier), a pattern that highlights patient resilience and system friction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shereen",
+    "speaker_role": "patient",
+    "timestamp_start": "00:03:55.000",
+    "timestamp_end": "00:05:05.000",
+    "paragraph_ids": [
+      "p_0016",
+      "p_0017",
+      "p_0018"
+    ],
+    "moment_text": "So, um, so that day I ended up at the hospital for hours. Um, because that's what happened was when they did the mammogram, they. I just knew the looks on the nurses' faces as, as, as, as someone who's been through it, I'm sure you, you can remember is, um, I just knew something's off. And that day they said we need to do a biopsy. So that was a Thursday. On a Friday they brought me back in and they did a diagnostic, um, ultrasound with biopsy. And they said, you need to just wait till you're here. It's the worst feeling is that waiting period that feels like thousands of years and I just had to pull it together at that moment. My, I have two children. One was my son was in, um. Seventh grade and my daughter was in fourth grade, so they were little and I didn't want, my worry was on them, so I kept it together. Didn't say anything to anyone. I came home, I told my husband and, and we just waited for a few days. Meanwhile, I was lucky that a friend of mine. Knew the oncologist at UCSF directly introduced me to him and I was lucky that he took over my case and it actually kind of speeded up the process. But I think if I didn't have that connection, I probably would've had waited longer. So that following Monday afternoon, I got that call, the call that no one wants to hear. Um, please pull over if you are in your car, which I was. And when he said we found something, and this is, um, DCIS, I had no idea what DCIS meant. I was not educated on that and I just started crying 'cause I just thought of DCIS means cancer.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "fear",
+      "anxiety",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "enduring",
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "system_navigation_difficulty",
+      "lack_of_information",
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it highlights the emotional toll (anxiety, fear) of the diagnostic process and a systemic barrier (system_navigation_difficulty), where personal connections were needed to expedite care.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shereen",
+    "speaker_role": "patient",
+    "timestamp_start": "00:05:12.000",
+    "timestamp_end": "00:06:30.000",
+    "paragraph_ids": [
+      "p_0021",
+      "p_0022",
+      "p_0023",
+      "p_0024",
+      "p_0025"
+    ],
+    "moment_text": "Yeah. Just to give uh, you a little bit about me and my background. Um, I've always lived a healthy lifestyle. I. Um, you know, was a physical therapist. I, um, did yoga. I worked out, I, um, always in nature. Hi paddleboard. We come from athletic family. My whole family, my kids are swimmers, my husband. So, and also my background. I am, I'm Persian. I was raised in a Persian household where um, food was not just. To eat. It was a way of, uh, connection and lifestyle and, um, healing. So I, you know, my mom didn't even know when we moved here as immigrants, like, where's a frozen aisle? So just, just to give you a background, I was raised with always eating fresh food and made by love and, um, gatherings. Um, eat, love and pray and dance was our part of our just lifestyle. Um, and so when you hear someone who lived a healthy lifestyle and, and not in the re I didn't have, we didn't have breast cancer genetics in our family. Um. And the only thing I was diagnosed with was host having my daughter. I had autoimmune disorder called Hashimoto's, which affects your thyroid, which is very common with women, and it was under control supposedly. So I don't know if there's a correlation with that. They're still doing studies, but you know, according to my oncologist. It isn't, but again, there's still not enough studies on women and women's health, and we're finally having that breakthrough. So that's where I was with my life.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confusion"
+    ],
+    "agency_signals": [
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it highlights a systemic barrier (education_gap) regarding the lack of research on women's health and comorbidities, which creates uncertainty for patients.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker points to a systemic issue in medical research, which is a valuable observation."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shereen",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:05.000",
+    "timestamp_end": "00:07:50.000",
+    "paragraph_ids": [
+      "p_0029",
+      "p_0030"
+    ],
+    "moment_text": "Meanwhile, I was supposed to go on a Trek mission with my son to Senegal three weeks after I was, and I, my whole mind was I need to go on this mission. My son and I have worked so hard. It's his first service mission I need to go. So really, the, the, my mind was more on him than myself, which as, as mothers, and this was a life lesson. And I want every woman to know that we don't need to learn the hard way that self care and self. Love and self-worth is not selfish, and I truly learned that the hard way 'cause I've always prioritized as someone, as a physical therapist, wife, mother, friend. Everybody else's need before mine. So I think as cancer, that was a messenger to me, uh, which I, at that moment, didn't see it as a messenger. I saw it as a curse. Why me? Why did it happen to me? I really, afterwards and through the healing process, understood that it happened for me.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Mental Health",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "clarity",
+      "self_doubt",
+      "shame"
+    ],
+    "agency_signals": [
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it describes a powerful realization about self-worth and the tendency for women, especially mothers, to deprioritize their own health, which is a significant behavioral and emotional pattern.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": "The barrier 'lack_of_support' is self-imposed here, stemming from a cultural/familial pattern of prioritizing others. This is a key insight."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shereen",
+    "speaker_role": "patient",
+    "timestamp_start": "00:07:55.000",
+    "timestamp_end": "00:08:38.000",
+    "paragraph_ids": [
+      "p_0031",
+      "p_0032"
+    ],
+    "moment_text": "So the team decided that four days after I come back from Senegal, I will get the treatment they wanted to have me either have. A lumpectomy, my options was either a lumpectomy or a unilateral mastectomy, and I didn't want that. I did my research and talked to so many of my friends who had recurrent um, breast cancer. Especially in, in the non-involved breast, few years later. So my doctors were like, well, that's 11. You are comparing. I said, well, I would like to just not risk it. I'm young, I have two children, and it's not just for me. I wanna have double mastectomy. Is that an option They said at UCSF. We cannot promote, um, taking out a healthy breast or a body part, but that if that, that is your request, we can honor that, but that's not something we're gonna just offer. So I went ahead and I pushed for a bilateral mastectomy, and I got the bilateral mastectomy four days after I came back from Senegal.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "seeking_information",
+      "making_decisions",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "system_navigation_difficulty"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "This moment is eligible because it showcases a strong agency signal (self_advocacy) where the patient had to push for a treatment option that was not proactively offered, highlighting a pattern of patient-led decision-making against institutional protocol.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M001",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shireen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:16.000",
+    "paragraph_ids": [
+      "p_0"
+    ],
+    "moment_text": "And at that moment, when I sat in those women's circle, in this tiny, tiny village with no access, no water, no nothing, and these incredible, strong, beautiful woman who had each other, and I realized community matters. Um, resource matters. And our own advocacy matters. So those were three things when I was there that I brought back with me.",
+    "moment_type": "realization",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "community",
+    "emotional_signals": [
+      "connection",
+      "clarity",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Contains agency signals and a system interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M002",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shireen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:18.000",
+    "timestamp_end": "0:00:51.000",
+    "paragraph_ids": [
+      "p_1",
+      "p_2"
+    ],
+    "moment_text": "Those, the voices of those women, my own tribe, that, and the night before, I had a whole ritual. I thank my breasts. I said, thank you for serving me for 45 years, breastfeeding my children. And, um, you know, it's a loss. It's a grief. You, you, you, you, you're. They're taking those feminine, it's your, it's not that it defines your femininity, but it is part of your femininity. So that was very, very hard. I cried, I took pictures on my breasts and I, I had to have this ceremony in my head welcoming the new breast. May it be the implants, but saying that I am going to welcome these foreign objects into my body so the rest of my body can accept them and we become whole.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "grief",
+      "sadness",
+      "calm"
+    ],
+    "agency_signals": [
+      "enduring",
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Contains strong emotional and agency signals, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "grief_loss",
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M003",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shireen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:03.000",
+    "timestamp_end": "0:01:33.000",
+    "paragraph_ids": [
+      "p_4",
+      "p_5"
+    ],
+    "moment_text": "That was the first actually thing I did. Um, one of my close friends introduced me to one of her friends who had gone through a similar experience, and that's what happens. We all decided in our community to call ourselves BC Angels. Um, nobody wants to be part of that club. Um, but it is a beautiful club. It is a tight, uh. Community where we pay it forward. So, um, my friend Heather, um, she was, she became my, my breast cancer angel. She took me under her wing and she walked me through her experience. And to be honest, nothing against the doctors or the nurses or the protocols, but the real human experience when you hear it from another woman. Is not irre, it's irreplaceable.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "belonging",
+      "validation",
+      "trust"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "seeking_information"
+    ],
+    "barrier_signals": [
+      "lack_of_information",
+      "social_isolation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Contains strong signals for agency, emotion, and barriers within a peer community interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M004",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shireen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:33.000",
+    "timestamp_end": "0:02:20.000",
+    "paragraph_ids": [
+      "p_6"
+    ],
+    "moment_text": "Um, so that having a tight community. Of women who've been through it and also understanding that some women might not have that. And afterwards, even till now, people tap into me, Hey Shireen, can you help with my friend who's going through it? And right away we take them under that we might not be know these women. We might not feel. Them that they're our friends. But hey, can we help you with cooking? There are women that are single moms. They don't have the resources, they don't have the means to take time off for work for so long. Can we cook for you? Can we find babysitters? So this, I think that it's so important, um, even the team, the hospital team to also say, Hey, they are people that you can rely on. Maybe provide these women with women who are connected to the hospital say they don't feel alone. Yeah. So that was very important for me to have that. It was actually the most important. My tribe was everything. There's no way I could have, I mean, yes, my mindset, my own attitude is everything. But the healing journey big part was not only my family support, but my tribe.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "connection",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_support",
+      "social_isolation",
+      "cost_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Contains strong barrier and agency signals, including a call for systemic change in healthcare provider interactions.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M005",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shireen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:02:36.000",
+    "timestamp_end": "0:03:11.000",
+    "paragraph_ids": [
+      "p_9",
+      "p_10"
+    ],
+    "moment_text": "No. So I'm at two time, uh, survivor. So the first time they said, okay, you are done, you know, for your age we do no treatments. So no, uh. Prescription drugs and no radiation, which I truly believe they need to work on that protocol because when they return, which I advocated for myself, so my focus on the second time was a lot more than it was the first time. Second time was 2022, and it was in the middle of the Omicron pandemic. UCSF was understaffed. Nobody was paying attention to people who like me, who were like, oh, you're done. And I'm like, wait, but there's a nodule here. But they're like, oh, it's a fatty tissue necrotic. Don't worry about it. Um, it's probably the fat we took from your stomach the first time and now it's like leftover.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "symptoms_normalized_without_context",
+      "delayed_diagnosis"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Classic barrier encounter with strong signals for provider dismissal and self-advocacy.",
+    "risk_flags": [
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M006",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shireen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:03:12.000",
+    "timestamp_end": "0:03:41.000",
+    "paragraph_ids": [
+      "p_11"
+    ],
+    "moment_text": "But again, there it goes. My intuition, there it goes. My own advocacy. And that's something that I feel like, I'm not trying to pick on the healthcare professionals, but I think it's a growth mindset, and I think we all as human, human beings or growing and learning and these moments, like right now, the interviews matter because my oncologist instead of. Saying, and I, I love him, don't get me wrong, and he is incredible human being, but need to understand, you have to listen to your patients, not just what they're trying to say, but what they're feeling. Because if something's off, something's off. And it may not be wrong, but don't brush them off. I could have been a stat, it would've been metastasized if I listened to them, if I let it go and say, oh, it doesn't matter, and I would've died.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "fear",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "training_gap"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Contains strong agency and barrier signals related to a healthcare provider interaction, highlighting a systemic issue.",
+    "risk_flags": [
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M007",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shireen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:03:42.000",
+    "timestamp_end": "0:04:16.000",
+    "paragraph_ids": [
+      "p_12"
+    ],
+    "moment_text": "So I think the treatment plan. Even for someone like me who was bilateral mastectomy under age 50, didn't have the history. Yes. Um, there has to be something they go by at that point. Zero whatever percentage, but I'm still human, right? So my oncologist, um, radiation oncologist the second time around said if I had radiation the first time, it wouldn't have come back because it would've zapped those microscopic cancer cells. Oh. So I don't know what to say about that, but I'm just putting it out there. What, what can we do? As, as a community, as healthcare professionals, as um, us, like me and you who are advocates and the voice for other women. So this doesn't happen to another woman. Can we change the protocols? Is there room to change the protocols?",
+    "moment_type": "system_observation",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "confusion",
+      "hopelessness"
+    ],
+    "agency_signals": [
+      "asking_questions",
+      "speaking_up"
+    ],
+    "barrier_signals": [
+      "training_gap",
+      "fragmented_care"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Directly questions medical protocols and identifies a training gap, making it a strong system observation.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M008",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shireen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:04:20.000",
+    "timestamp_end": "0:05:05.000",
+    "paragraph_ids": [
+      "p_14",
+      "p_15"
+    ],
+    "moment_text": "Yes. Your, your, your healthy health history, all of that. All of that. Especially second time around. I had to constantly, and the person who actually pushed for it after me nagging and nagging for almost five months. Five months, okay. And this tiny little little dot size of a lentil by then was the size of a bean. And my not only intuition, my own, um. You know, as an educated healthcare professional, and also someone who just knows that if it's necrotic, it's dead. It should not be growing. And for someone who, what if this was a woman who didn't speak the lang? I'm just saying, I'm just making this up, but is not as educated or maybe doesn't just trust the system, trust the healthcare professionals. They would've gone under the radar, right? So I told my dermatology oncologist who was treating me for my keloids, that I had these thick keloids that was just ongoing, and it wasn't cosmetic. It was just because it would hurt when I exercised. Okay.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "anxiety"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "speaking_up",
+      "enduring"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "delayed_diagnosis",
+      "time_constraint"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Details a prolonged barrier encounter involving provider dismissal and delayed diagnosis, with strong self-advocacy signals.",
+    "risk_flags": [
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M009",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shireen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:05:05.000",
+    "timestamp_end": "0:05:28.000",
+    "paragraph_ids": [
+      "p_16"
+    ],
+    "moment_text": "And I, she said, do you want me to send you to biopsy or a nurse to check this out? I said, yes. Finally, after five months, so when I finally got to see this nurse, she was incredible, and she said, Hmm, let's do a fine needle biopsy. I said. Do it. So again, after hours of sitting there because there was no not enough help, then I go upstairs and sit for another two hours because they need an assistant. Not enough help. Again, remember this was in the middle of pandemic. Understaffed and here's in their mind, oh my God, a paranoid patient, we don't have time for you. We have priority patients.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "frustration",
+      "anxiety",
+      "relief"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "enduring",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "access_barrier",
+      "time_constraint",
+      "provider_dismissal",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Describes multiple systemic barriers (access, time) and the emotional impact of being dismissed as paranoid, meeting evidence gate requirements.",
+    "risk_flags": [
+      "medical_trauma"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "M010",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shireen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:05:28.000",
+    "timestamp_end": "0:06:16.000",
+    "paragraph_ids": [
+      "p_17",
+      "p_18"
+    ],
+    "moment_text": "So again, I had to wait again. I had to advocate and again, they saw something and. Again, I had to wait a week to hear the results, and when I heard the results, I was angry. I was so angry. Second time around, I had already made peace. First time I was already on my healing journey. Now I was angry about was the margins not cleared? Why? Why was this happening? Why did I have to advocate so much for so long? And why was no one listening to me to begin with. So I screamed at the first person, that poor person who had to gimme the results and then, then I felt bad. Then I cried. Then I said, I'm so sorry. This is not about you. And to bear this news. And now I to tell my husband and my children again, my family, my friends, and I had to wait a whole night because I didn't wanna ruin my husband's night again. Again, not about me. This was about my family again and keep it together. And I asked my husband, is there a time we can talk without the kids? On a Saturday. 'cause I heard on a Friday, it's right before holidays. This is December nine now, 2022. And I was like, oh my God. I mean 2021. And I was mortified the way I had to share this and the look on my husband, is she gonna die?",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "Breast Cancer",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "anger",
+      "frustration",
+      "grief",
+      "sadness",
+      "fear"
+    ],
+    "agency_signals": [
+      "enduring",
+      "setting_boundaries",
+      "self_blame"
+    ],
+    "barrier_signals": [
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Contains very strong emotional signals related to interactions with both the healthcare system and family.",
+    "risk_flags": [
+      "mental_health_sensitivity",
+      "grief_loss"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_004_M013",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "UCS",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:00.000",
+    "timestamp_end": "0:00:23.880",
+    "paragraph_ids": [
+      "p28",
+      "p29"
+    ],
+    "moment_text": "UCS. Imagine UCSF. You're the first case. Um, one was saying remove like graft and remove the entire chest wall. I was like, excuse me, I am 48 years old. Mama's not in her seventies. Um, yes, my chest matters. Um, where are you gonna get that skin from? My booty? I mean, like, what, what, what, what? So the fact that I had to sit. In the middle of bunch of physicians. One is the plastic surgeon going, well, we can do this. The oncologist is going take it all off her. Do you want, and looking at my face going, do you want to live? Now I'm like, you can't put that on me. Say, do you want to live? Yes, I wanna live, but quality of life matters and not just exist.",
+    "moment_type": "barrier_encounter",
+    "life_stage": "midlife",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anger",
+      "frustration",
+      "fear"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "self_advocacy"
+    ],
+    "barrier_signals": [
+      "provider_dismissal",
+      "lack_of_validation"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains clear barrier signals (provider_dismissal) and agency signals (speaking_up) within a healthcare_provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_004_M014",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "UCS",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00:42.120",
+    "timestamp_end": "0:01:21.830",
+    "paragraph_ids": [
+      "p32",
+      "p33",
+      "p34"
+    ],
+    "moment_text": "Um, anyways, so yes, I, I, I had to really advocate for myself about the treatment. Um, so the, the whole chest wall turned into a three by five. So you went from here to here to, let's take this part off. Um, let's scoop. Um, you know, the, and clear the margins and take out, which was sitting like a claw on top of my pec muscle, so they had to remove some of my pec muscle. How's that gonna affect me physically? Right. I'm left-handed. So how, how am I gonna reach up if a piece of my, now it's shortened, so I'm now here versus here, right? So all of that matters. And, and then radiation Tamoxifen. How long are we doing that now moving forward? This was, um, four years ago. Today, like we can say four years ago now. And they still don't know where to go with me from here now.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "anxiety",
+      "frustration"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "making_decisions",
+      "asking_questions"
+    ],
+    "barrier_signals": [
+      "lack_of_information"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains strong agency signals (self_advocacy, making_decisions) and a barrier signal (lack_of_information) related to a healthcare_provider interaction.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_004_M015",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "UCS",
+    "speaker_role": "patient",
+    "timestamp_start": "0:01:33.100",
+    "timestamp_end": "0:02:22.190",
+    "paragraph_ids": [
+      "p36",
+      "p37",
+      "p38"
+    ],
+    "moment_text": "I want everyone to remember that. At the end of the day, it's your own attitude towards life and it's your mindset. For me, I had to shift my mindset. Multiple times it's not okay. This, and then we move forward. It's a growth process. Every day I wake up, it's a gift, right? You put you, you, you put your feet down. You have this moment of gratitude. I have a routine that I created for myself that I put my feet down. I literally look at my toes and say Thank you. I. For this day, that is a gift that I can move through the day. However, the universe is gonna give me this day. I'm going to do my best to be the best version of me if I run into challenges. Those were life lessons given to me that day, so I want. To pause that, that mo a moment of pause matters that it's not anyone's fault. That by blaming people, doctor, loved ones, support everybody is in this lifetime, on this journey of growth. That your life, how what you decide for it is your choice. It's my choice. It's what I decide to do for myself. It's nobody else's responsibility but me. And that happiness is that you create happiness for me, that I have created. Is that to create a peaceful mind. When I have a peaceful heart, I have a peaceful mind that I, that I, um. This, this clarity that I move through life with clarity, right.",
+    "moment_type": "reflection",
+    "life_stage": "midlife",
+    "health_domain": "mental_health",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "calm",
+      "clarity",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains a clear agency signal (making_decisions) regarding personal mindset and choice.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The speaker mentions gratitude, which is not in the vocabulary. I've used 'hope' and 'calm' as the closest proxies for the overall sentiment."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_004_M016",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "UCS",
+    "speaker_role": "patient",
+    "timestamp_start": "0:02:27.800",
+    "timestamp_end": "0:03:10.100",
+    "paragraph_ids": [
+      "p41",
+      "p42",
+      "p43"
+    ],
+    "moment_text": "Yes. Every single day you wake up. Um, it's not just the scores, it's the, the, the physical scars. Yes. I am reminded every day with my physical scars. You know, I have, um. I am not able to do. Pushups properly because my implants are under my pets, for example. I'm just throwing that out. There was, now I'm like, oh, what if I put it over my pegs? Um, should I take 'em out now and redo? I mean, there are thought, these thoughts, of course, we're human goes through your head every single day. Um, you're reminded. Um, but then I also shift again. Okay. You're here. Um, yes, there are limitations physically, there are moments. Emotionally, it's exhausting. There are moments that crosses your mind. I don't get a third chance. Um, there are moments that my body says, okay, you're exhausted. That's okay. It's okay. It's okay to feel that. Um, but yes, I am reminded on a daily basis. I don't think there's a day that goes by that I wake up or I go to bed, that my mind is quiet and I'm reminded of it. But does that define me? Does does my breast cancer journey defines me Absolutely not as I been part of my journey of growth. A hundred percent.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "breast_cancer",
+    "system_interaction": "none",
+    "emotional_signals": [
+      "anxiety",
+      "sadness",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "enduring"
+    ],
+    "barrier_signals": [],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains a clear agency signal (enduring) and emotional signals (anxiety, overwhelm) describing the ongoing impact of survivorship.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_004_M017",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "UCS",
+    "speaker_role": "patient",
+    "timestamp_start": "0:03:18.180",
+    "timestamp_end": "0:04:16.190",
+    "paragraph_ids": [
+      "p45",
+      "p46",
+      "p47"
+    ],
+    "moment_text": "Um, I think it's still work in progress. Um, exactly what we're doing today. Um, I think that, um, many women that face more aggressive form, um, I. You know, it can impact their families, it can impact their careers, it can impact their emotional wellbeing, um, differently than older women because older women, I mean, just to give you an example, when I was going through my journey the first time, eight months later, my father passed away January, 2020. Just to put it in perspective. So I was dealing with healing and then grief, and six months after my dad passed away, which now we're in the pandemic June, 2020, my mom was diagnosed with breast cancer at 73. So I had to go down to Southern California and help my mom relive the entire thing that I had just dealt with. Less than a year before. So watching my 73-year-old mom and understanding that at 73 the treatment, the decisions are way different than someone who's 45 and has a whole life ahead of her. And I'm talking about my own mother. I'm not saying she doesn't deserve it, but the treatment plans are different because a younger woman, um, the advocacy that we need to do it, it as, as all of us that we have to think about with women under 50, is that it really helps raise awareness about these, the specific issues, um, that promotes early detection.",
+    "moment_type": "system_observation",
+    "life_stage": "midlife",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "grief",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "seeking_support"
+    ],
+    "barrier_signals": [
+      "education_gap",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains barrier signals (education_gap, lack_of_support) and emotional signals (grief) within a healthcare_provider and family context.",
+    "risk_flags": [
+      "grief_loss"
+    ],
+    "notes_for_reviewer": "The speaker contrasts her experience as a younger patient with her mother's as an older patient, highlighting a systemic gap in how care and decisions are approached for different age groups."
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_004_M018",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "UCS",
+    "speaker_role": "patient",
+    "timestamp_start": "0:04:16.190",
+    "timestamp_end": "0:04:44.180",
+    "paragraph_ids": [
+      "p47",
+      "p48"
+    ],
+    "moment_text": "Right and pushes for research that that's needed, right? Focuses on these younger patient that than older patients who will be, like my mom said, I don't want double mastectomy. I'll just do unilateral. By the time me comes back, girl, I'm dead. I mean, bless her, and she's like, I'll deal with it. Then I don't want to go through aggressive treatment. So. For us, it also, um, have to think about that it creates a supportive community where women can, um, share experiences for the younger women. Um. They can have access to resources and they can feel empowered, um, to make informed decisions about their families, right? And about their health. When we provide these resources, right, and, um, people like me and you when we're speaking out, um, it can break those stigmas, right? And influence the healthcare policies, um, inspire others to prioritize, prioritize their own health, and seek those ma um, seek care in a timely matter.",
+    "moment_type": "advocacy",
+    "life_stage": "midlife",
+    "health_domain": "breast_cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "empowerment",
+      "hope"
+    ],
+    "agency_signals": [
+      "speaking_up",
+      "sharing_story",
+      "seeking_care"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "Passes evidence gate A2: The moment contains clear agency signals (speaking_up, sharing_story) and barrier signals (stigma) within a peer_community and healthcare context.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_004_M013",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shereen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:00",
+    "timestamp_end": "0:42",
+    "paragraph_ids": [
+      "p13",
+      "p14",
+      "p15"
+    ],
+    "moment_text": "Most manageable was to be honest with you. I, I think. Its managed part was my own mindset, my own, um, uh, the, the way I, my outlook on life. The, I've always been a positive soul. That's just my nature. I love life so much that for me, just. Uh, the, the sense of like, no way I'm going to be slapped down by cancer like this is, I survived war growing up in Iran. I survived. Um, just coming here as an immigrant, I am not gonna let cancer beat me. There's no way. So my mindset, I wasn't worried about me. The most challenging part was. My family, um, that, that I, I didn't have a control over my, how do, I don't, I didn't know how, um. Yes, there's help. Oh, you see a therapist. But I was constantly worried about, are my kids going to see my scars? Are I gonna be traumatized? How? What is what? It's okay if I have a day of breakdown. It makes it real. I'm on the floor crying. I want them to know that yes, this is, this is part of healing, but mommy will be okay. The fact that I had to, on a daily basis give this affirmation that Mommy's going to live and mommy's going to not only just live, she's going to be, um, okay and be the mommy that you guys need and want.",
+    "moment_type": "lived_experience",
+    "life_stage": "midlife",
+    "health_domain": "breast_cancer",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "confidence",
+      "anxiety",
+      "overwhelm"
+    ],
+    "agency_signals": [
+      "enduring",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains strong emotional signals (anxiety, confidence) and agency signals (enduring) within a family system interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_004_M014",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shereen",
+    "speaker_role": "patient",
+    "timestamp_start": "0:43",
+    "timestamp_end": "1:58",
+    "paragraph_ids": [
+      "p16",
+      "p17",
+      "p18",
+      "p19"
+    ],
+    "moment_text": "So the hardest part for me was managing my family's need. And, and their, their mental health was the most important for me, and it was the hardest. Um. You know, my daughter dealt with anxiety. I mean, think of a, a, a a a 9-year-old and then pandemic, where now the world is coming to now my mom's gonna die. Now my, the world's, world's gonna come to an end. Oh, but you guys, and now social media. So it's this, this, this thing that I had to dealt with that, oh my goodness, my, my daughter, is she going to be okay? How am I going to deal with her while I'm dealing with my own healing journey? Yeah. Yeah. And, and then striking that balance between self care and, you know, healing yourself and, and also being as women, we have as women, as a woman, we, we are nurturers, we are, we are healers, we are. We wear so many different hats that it can be overwhelming, and when now you strike with something that is life-threatening, you have to prioritize yourself first, but you've never done that up to then. And so. What I had to learn, and I really emphasize that again, I said that at the beginning of our interview, was we have to wear that oxygen mask on first so we can be the giver and spread our love light to others. And it is not selfish because to learn to love yourself, you're also leading by example. That when you love and you care for yourself, it, it will heal you physically and mentally and emotionally. So it was very, very hard for me to learn that, and I'm still learning to receive, especially as someone who is a giver, especially as someone who was and is in the world of service. You know, I've always been a caretaker therapist. And then, um, you know, in a nonprofit world and now leading a woman's platform and on my focus, and again, my whole, I am dedicating my life to service. So I have to learn to take care of myself so I can serve others. Right? So that was the biggest lesson.",
+    "moment_type": "realization",
+    "life_stage": "cross_life_stage",
+    "health_domain": "breast_cancer",
+    "system_interaction": "family",
+    "emotional_signals": [
+      "overwhelm",
+      "anxiety",
+      "hope"
+    ],
+    "agency_signals": [
+      "making_decisions",
+      "seeking_support",
+      "setting_boundaries"
+    ],
+    "barrier_signals": [
+      "stigma",
+      "lack_of_support"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains clear agency signals (making decisions) and barrier signals (stigma around self-care), meeting the evidence gate requirements for promotion.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_004_M015",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shereen",
+    "speaker_role": "patient",
+    "timestamp_start": "2:09",
+    "timestamp_end": "3:34",
+    "paragraph_ids": [
+      "p22",
+      "p23",
+      "p24",
+      "p25",
+      "p26"
+    ],
+    "moment_text": "Yes. I want every woman to know this is, this is something that I had to think about that first healing is a journey, not a nation, and. Number two would be that your identity and dreams still matter. And three, that prioritize your health and your self-care. And I can expand on every three of them. Um, but those three are the most important. Um, you know, healing is a journey. Life after treatment. Um. Involves physical, emotional, mental healing. That takes time. Um, it takes time. It's, I'm still healing after all these years, right? Um, it's, it's normal to experience, you know, range of feelings from relief to grief. Um, to hope, to anxiety, to uncertainty. It's, it's part of, again, growth and life is a refinement process. And that we have to, to give ourselves grace, um, and seek support. Seek support, it's okay to receive. You don't have to be doing this alone. Um. And you don't have to think that, oh, I have to go back to normal. What's normal? There is no such a thing as normal. There is no such a thing as normal. If you, I tell my kids this every day. Drop the word normal. There is no normal. You be you. You be the best version of you and you're becoming you. You are this, this, this physical being is just a vessel and this, this, this life given to you. Your soul is, is you are, you are reaching that, right? I, I'm not a religious person, but I truly believe in this, this process that, that, that faith and hope gives us purpose. You gotta have faith, you gotta have hope. You can't give up. Yeah. And, um, breast cancer may, that changed my life absolutely. But it doesn't define me. Um, my goals and passions, if anything, I'm stronger from it. Um, and that, that relationship is important. And many women find new strain. Such as you, right? Look where you are. Look what you've got. And purpose after treatment, right? I mean, look at us. We are illuminators, right? We are light carriers, we're healers. We're stronger from it. And I want women to know when they're in it, they might not see the light, but they're, they're going towards it and they're on the path. And people like me and you. Illuminate that path for them.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "breast_cancer",
+    "system_interaction": "peer_community",
+    "emotional_signals": [
+      "hope",
+      "grief",
+      "anxiety",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "seeking_support",
+      "sharing_story"
+    ],
+    "barrier_signals": [
+      "lack_of_validation",
+      "stigma"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains clear barrier signals (lack of validation) and agency signals (seeking support) within a peer community context, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "mental_health_sensitivity"
+    ],
+    "notes_for_reviewer": ""
+  },
+  {
+    "locks_version": "v1.0",
+    "moment_id": "BH_004_M016",
+    "episode_id": "BH_004.docx",
+    "season": "1",
+    "source_file": "BH_004.docx",
+    "speaker_id": "Shereen",
+    "speaker_role": "patient",
+    "timestamp_start": "3:35",
+    "timestamp_end": "4:40",
+    "paragraph_ids": [
+      "p27",
+      "p28"
+    ],
+    "moment_text": "So, um, to honor both your experience and your future. Right. And the third one that prioritized your health and self, self care was so important. And I said that many times that survivorship means ongoing attention, um, to your physical, spiritual. Emotional needs on a daily basis. I pay attention. I'm not paranoid. I am aware. I am not paranoid. I'm gonna say that 1500 times. I am aware. I know my body better than anyone else, so you know your body better than anyone else. Everybody should know that. Don't doubt yourself and that, um, those regular checkups matter. Don't, don't forget healthy lifestyle choices. I'm on a gluten-free diet. I don't drink alcohol. Maybe occasionally a little spicy margarita to celebrate, but alcohol is poison and I know that sugar. So your healthy choices. Do I want certain one of these things? No. Do I wanna be on all these supplements? Not really. But I make these choices because I want to live not just for myself, but for my loved ones. I owe it to them. And. Lastly, don't hesitate to advocate for yourself with your healthcare team, with your community, um, to maintain that balance, um, and resilience. Right? And life. I don't say live a balanced life, it's harmony. There are times that. Something's up and down, but creating that peaceful heart that creates harmony in your life, right? And these, these truths can, um, um, empower young survivors to navigate life beyond cancer with confidence and with hope.",
+    "moment_type": "advocacy",
+    "life_stage": "cross_life_stage",
+    "health_domain": "breast_cancer",
+    "system_interaction": "healthcare_provider",
+    "emotional_signals": [
+      "confidence",
+      "hope",
+      "empowerment"
+    ],
+    "agency_signals": [
+      "self_advocacy",
+      "making_decisions",
+      "seeking_information",
+      "tracking_symptoms"
+    ],
+    "barrier_signals": [
+      "provider_dismissal"
+    ],
+    "insight_eligible": true,
+    "eligibility_rationale": "The moment contains very strong agency signals (self_advocacy, making decisions) and a barrier signal (provider_dismissal) related to a healthcare provider interaction, meeting the evidence gate requirements.",
+    "risk_flags": [
+      "none"
+    ],
+    "notes_for_reviewer": "The barrier signal 'provider_dismissal' is inferred from the strong emphasis on 'Don't doubt yourself' and 'advocate for yourself with your healthcare team'."
+  }
+]

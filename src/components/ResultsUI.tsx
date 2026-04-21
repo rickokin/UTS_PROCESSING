@@ -5,7 +5,7 @@ import { useState } from "react";
 
 const BRAND_PINK = "#E91E8C";
 
-export default function ResultsUI({ report }: { report: any }) {
+export default function ResultsUI({ report, pipelineId }: { report: any; pipelineId: string }) {
   const [downloading, setDownloading] = useState(false);
 
   const downloadJson = () => {
@@ -23,7 +23,7 @@ export default function ResultsUI({ report }: { report: any }) {
   const downloadPdf = async () => {
     setDownloading(true);
     try {
-      const res = await fetch("/api/phase2/download-report", {
+      const res = await fetch(`/api/pipelines/${pipelineId}/phase2/download-report`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ report }),

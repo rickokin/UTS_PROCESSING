@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs/promises';
 import path from 'path';
-import { parseDemographicsCSVText, parseCSVLine, resolveColumnIndices, DemographicRow } from '@/lib/assets/loader';
+import { parseDemographicsCSVText, parseCSVLine, resolveColumnIndices, DemographicRow } from '@/lib/shared/loader';
 
 export async function POST(req: NextRequest) {
   try {
